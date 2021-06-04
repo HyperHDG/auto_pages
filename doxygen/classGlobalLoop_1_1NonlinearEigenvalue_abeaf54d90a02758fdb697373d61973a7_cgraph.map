@@ -1,0 +1,4 @@
+<map id="GlobalLoop::NonlinearEigenvalue::make_initial" name="GlobalLoop::NonlinearEigenvalue::make_initial">
+<area shape="rect" id="node1" title="Create initial starting value for Newton&#39;s methods." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="292,13,411,39"/>
+</map>

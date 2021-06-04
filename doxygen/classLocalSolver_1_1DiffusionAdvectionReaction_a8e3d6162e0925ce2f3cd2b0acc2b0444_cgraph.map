@@ -1,0 +1,10 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::errors" name="LocalSolver::DiffusionAdvectionReaction::errors">
+<area shape="rect" id="node1" title="Calculate squared local contribution of L2 error." alt="" coords="5,98,233,139"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aea491711380b2e5e5102d34e2c41c7a4" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="281,31,513,73"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#ab4b334a46d7a5e75ea8493867207c451" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="283,130,511,171"/>
+<area shape="rect" id="node3" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="633,5,760,32"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a981dc27f1034d4ad7543e86ebb7d07be" title="Assemble local matrix for the local solver." alt="" coords="583,57,811,98"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aa497509c4a1ca33cdc6a25cd84ecaa72" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="583,123,811,179"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#af45559dce2247103e6a6407fcfcc4fd2" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="561,203,832,245"/>
+<area shape="rect" id="node8" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="597,269,796,310"/>
+</map>

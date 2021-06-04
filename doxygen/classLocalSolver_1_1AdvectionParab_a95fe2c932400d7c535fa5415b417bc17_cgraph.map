@@ -1,0 +1,9 @@
+<map id="LocalSolver::AdvectionParab::set_data" name="LocalSolver::AdvectionParab::set_data">
+<area shape="rect" id="node1" title="Set data into data container to be used for next time step." alt="" coords="5,75,212,116"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="303,53,424,79"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1AdvectionParab.html#a70ba4e5a4acbcc657dae12a1922aa42a" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="260,104,467,145"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1AdvectionParab.html#a4d0092474514fcdc3ba449f6bf50a7be" title="Assemble local matrix for the local solver." alt="" coords="527,5,734,47"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1AdvectionParab.html#af7536c73c7fc2fc2f90597de19fae065" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="515,71,747,112"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1AdvectionParab.html#a1d44a4a0a7f89275ebccc5e21de58e32" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="523,136,738,177"/>
+<area shape="rect" id="node7" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="531,201,730,243"/>
+</map>

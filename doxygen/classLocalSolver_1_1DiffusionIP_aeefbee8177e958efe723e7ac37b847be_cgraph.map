@@ -1,0 +1,11 @@
+<map id="LocalSolver::DiffusionIP::errors" name="LocalSolver::DiffusionIP::errors">
+<area shape="rect" id="node1" title="Calculate squared local contribution of L2 error." alt="" coords="5,57,180,98"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="255,5,376,32"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionIP.html#a27f97febacb519a9bbded043b760ff5d" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="228,57,403,98"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionIP.html#a82b86d93a1694e2eda2a9a1d33bf15ff" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="228,151,403,193"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="503,35,630,61"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionIP.html#acb14bd23189fb2fc4d66b0965c3780f1" title="Assemble local matrix for the local solver." alt="" coords="479,86,654,127"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1DiffusionIP.html#ac80fd020d51a33e746193d0febdeb84b" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="451,151,683,193"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionIP.html#ae51fc576196fc4ad4585a04c8d0aa09a" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="459,217,674,258"/>
+<area shape="rect" id="node9" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="467,282,666,323"/>
+</map>

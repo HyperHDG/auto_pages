@@ -1,0 +1,4 @@
+<map id="Mapping::Linear::matrix_column" name="Mapping::Linear::matrix_column">
+<area shape="rect" id="node1" title="Return vector representing matrix column of specified index." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#a976d7528e18fb75a3acb0e5138521bee" title="Return a column of a SmallMat." alt="" coords="231,13,399,39"/>
+</map>

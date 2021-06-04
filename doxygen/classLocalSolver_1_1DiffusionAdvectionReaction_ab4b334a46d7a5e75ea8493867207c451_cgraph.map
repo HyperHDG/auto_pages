@@ -1,0 +1,7 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::solve_local_problem" name="LocalSolver::DiffusionAdvectionReaction::solve_local_problem">
+<area shape="rect" id="node1" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,116,233,157"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a981dc27f1034d4ad7543e86ebb7d07be" title="Assemble local matrix for the local solver." alt="" coords="303,5,531,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aa497509c4a1ca33cdc6a25cd84ecaa72" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="303,71,531,127"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#af45559dce2247103e6a6407fcfcc4fd2" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="281,152,552,193"/>
+<area shape="rect" id="node5" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="317,217,516,259"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::GaussLegendre::transform_weights" name="TPP::Quadrature::GaussLegendre::transform_weights">
+<area shape="rect" id="node1" title="Transform array of quadrature weights for interval &#160;to ." alt="" coords="5,35,240,76"/>
+<area shape="rect" id="node2" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#af94ca02db39f182a9dcfb5fca018caa8" title="Calculate the amount of quadrature points at compile time." alt="" coords="571,5,805,47"/>
+<area shape="rect" id="node3" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#a12ebcab6f3e57ed747030de8b1c7249e" title="Gauss–Legendre quadrature weights on one&#45;dimensional unit interval." alt="" coords="288,35,523,76"/>
+</map>

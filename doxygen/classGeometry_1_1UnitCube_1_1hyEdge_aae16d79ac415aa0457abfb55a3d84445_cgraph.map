@@ -1,0 +1,4 @@
+<map id="Geometry::UnitCube::hyEdge::adapt_data" name="Geometry::UnitCube::hyEdge::adapt_data">
+<area shape="rect" id="node1" title="Refine coarse elememnt." alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node2" href="$namespaceWrapper.html#a2d05be3480691c4d0750c83a21838bb8" title="Return coordinate value with respect to index&#45;th orthonormal direction of element." alt="" coords="212,13,420,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TPP::Quadrature::Tensorial::integrate_bdr_psipsi_cutdownwind" name="TPP::Quadrature::Tensorial::integrate_bdr_psipsi_cutdownwind">
+<area shape="rect" id="node1" title="Integrate cut downwind product of skeletal shape functions." alt="" coords="5,23,260,65"/>
+<area shape="rect" id="node2" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a28b5c5a39d6e10e6375c38e27f405744" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="308,5,535,32"/>
+<area shape="rect" id="node3" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="363,56,480,83"/>
+<area shape="rect" id="node4" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="583,56,701,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Geometry::UnitCube::hyEdge::boundary_lexicographic" name="Geometry::UnitCube::hyEdge::boundary_lexicographic">
+<area shape="rect" id="node1" title="Return equidistant tensorial point of given index on a given boundary face (slightly moved away from ..." alt="" coords="5,5,247,47"/>
+<area shape="rect" id="node2" href="$classGeometry_1_1UnitCube_1_1hyEdge.html#aaff8ba0b0409efa62fd07fa3af319c05" title="Map n_vec points from reference to physical element." alt="" coords="295,5,493,47"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="541,13,660,39"/>
+</map>

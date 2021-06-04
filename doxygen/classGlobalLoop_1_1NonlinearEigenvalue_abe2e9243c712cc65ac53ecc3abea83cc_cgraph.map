@@ -1,0 +1,8 @@
+<map id="GlobalLoop::NonlinearEigenvalue::trace_to_flux" name="GlobalLoop::NonlinearEigenvalue::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,115,244,156"/>
+<area shape="rect" id="node2" href="$classHyperNodeFactory.html#a22f571769be2a3cf760d40cc91e38f42" title="Add different values to values of degrees of freedom related to a hypernode." alt="" coords="299,5,473,47"/>
+<area shape="rect" id="node3" href="$classHDGHyperGraph.html#ad24f0e1631c0f3cb1a0847e881aecf49" title="Return iterator to first hyEdge of HDGHyperGraph." alt="" coords="299,71,473,98"/>
+<area shape="rect" id="node4" href="$classHDGHyperGraph.html#a0bef42967dae1c8feb101a627762a555" title="Return iterator to the end of hyEdge list." alt="" coords="305,122,467,149"/>
+<area shape="rect" id="node5" href="$classHDGHyperGraph.html#a0365847f667308e4e5a9302ef13fda26" title="Return const reference to HyperNodeFactory." alt="" coords="292,173,480,215"/>
+<area shape="rect" id="node6" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="327,239,445,266"/>
+</map>

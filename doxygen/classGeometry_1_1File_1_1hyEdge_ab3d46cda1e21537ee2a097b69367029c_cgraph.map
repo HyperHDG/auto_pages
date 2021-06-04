@@ -1,0 +1,5 @@
+<map id="Geometry::File::hyEdge::face_barycenter" name="Geometry::File::hyEdge::face_barycenter">
+<area shape="rect" id="node1" title="Return barycenter of face of given index." alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$classGeometry_1_1File_1_1hyEdge.html#ab6d87001f033dacdd5512f12776e5406" title="Map n_vec points from reference to physical element." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="448,13,567,39"/>
+</map>

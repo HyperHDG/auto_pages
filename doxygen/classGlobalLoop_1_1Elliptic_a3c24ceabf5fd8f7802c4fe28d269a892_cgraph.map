@@ -1,0 +1,4 @@
+<map id="GlobalLoop::Elliptic::read_dirichlet_indices" name="GlobalLoop::Elliptic::read_dirichlet_indices">
+<area shape="rect" id="node1" title="Read indices of Dirichlet type hypernodes/faces." alt="" coords="5,5,177,47"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="225,13,453,39"/>
+</map>

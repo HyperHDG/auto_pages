@@ -1,0 +1,6 @@
+<map id="Geometry::UnitCube&lt; hyEdge_dimT, space_dimT, pt_coord_t, ConstructorVecT, hyEdge_index_t &gt;" name="Geometry::UnitCube&lt; hyEdge_dimT, space_dimT, pt_coord_t, ConstructorVecT, hyEdge_index_t &gt;">
+<area shape="rect" id="node1" title="Define the geometry of a unit cube that is subdivided into several orthotopes." alt="" coords="344,100,565,171"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,5,189,76"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,100,189,171"/>
+<area shape="rect" id="node4" href="$classSmallMat.html" title=" " alt="" coords="7,195,188,236"/>
+</map>

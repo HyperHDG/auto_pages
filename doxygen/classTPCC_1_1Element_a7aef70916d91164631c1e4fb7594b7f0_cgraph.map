@@ -1,0 +1,6 @@
+<map id="TPCC::Element::facet" name="TPCC::Element::facet">
+<area shape="rect" id="node1" title="Enumeration of the boundary facets of the element." alt="" coords="5,46,164,73"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="212,5,375,47"/>
+<area shape="rect" id="node4" href="$classTPCC_1_1Combination.html#a5ad4df7af7aa29a5c65b710670a16988" title="The combination obtained by eliminating the ith element." alt="" coords="216,71,371,112"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="423,13,589,39"/>
+</map>

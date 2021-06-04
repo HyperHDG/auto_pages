@@ -1,0 +1,4 @@
+<map id="Geometry::UnitCube::set_refinement" name="Geometry::UnitCube::set_refinement">
+<area shape="rect" id="node1" title="Set the refinement level (equal to number of subintervals)." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="208,13,335,39"/>
+</map>

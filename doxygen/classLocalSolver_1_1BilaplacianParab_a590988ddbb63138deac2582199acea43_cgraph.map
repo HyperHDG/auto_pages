@@ -1,0 +1,8 @@
+<map id="LocalSolver::BilaplacianParab::errors" name="LocalSolver::BilaplacianParab::errors">
+<area shape="rect" id="node1" title="Evaluate squared local L2 error." alt="" coords="5,119,183,160"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianParab.html#a1c0dc481f13c8899c791385f1b862fa4" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,119,431,160"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1BilaplacianParab.html#a516c477b6f9379a630c740800cd6d949" title="Assemble local matrix for the local solver." alt="" coords="479,5,684,47"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1BilaplacianParab.html#a409029bb1a44ffebb63db41ea07017dd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="484,71,679,127"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1BilaplacianParab.html#ae7be937cf7e0484eaee2f46900533d22" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="484,151,679,207"/>
+<area shape="rect" id="node6" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="482,232,681,273"/>
+</map>

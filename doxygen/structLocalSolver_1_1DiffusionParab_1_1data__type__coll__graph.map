@@ -1,0 +1,5 @@
+<map id="LocalSolver::DiffusionParab&lt; hyEdge_dimT, poly_deg, quad_deg, parametersT, lSol_float_t &gt;::data_type" name="LocalSolver::DiffusionParab&lt; hyEdge_dimT, poly_deg, quad_deg, parametersT, lSol_float_t &gt;::data_type">
+<area shape="rect" id="node1" title="Define type of (hyperedge related) data that is stored in HyDataContainer." alt="" coords="359,28,571,99"/>
+<area shape="rect" id="node2" href="$classSmallMat.html" title=" " alt="" coords="7,5,185,47"/>
+<area shape="rect" id="node3" href="$classSmallMat.html" title=" " alt="" coords="5,71,187,127"/>
+</map>

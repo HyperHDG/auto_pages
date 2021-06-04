@@ -1,0 +1,12 @@
+<map id="LocalSolver::DiffusionPostprocess::trace_to_flux" name="LocalSolver::DiffusionPostprocess::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,104,247,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionPostprocess.html#a925f667efe843a8a8a4bf0b8f46aa790" title="Evaluate dual variable at boundary." alt="" coords="295,5,536,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2a71645a8388444d672865e266978465" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="295,71,536,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionPostprocess.html#ace15683aded6e3d5e1038fc57b6acb79" title="Evaluate primal variable at boundary." alt="" coords="295,136,536,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionPostprocess.html#a02d7cbde4e8c1e9f14b3f98f3145ceb3" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="295,201,536,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="641,78,768,105"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1DiffusionPostprocess.html#af97fba33236fde9c9163cd18780a1238" title="Assemble local matrix for the local solver." alt="" coords="584,132,825,173"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionPostprocess.html#a9d22de4807fdab6ffd067d99ef175525" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="584,197,825,239"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1DiffusionPostprocess.html#af49a85f220fd2c6e58be9e89fc0811ca" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="584,263,825,304"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="605,328,804,369"/>
+</map>

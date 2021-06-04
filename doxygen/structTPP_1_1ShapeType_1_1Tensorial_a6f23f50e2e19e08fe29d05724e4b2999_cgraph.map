@@ -1,0 +1,4 @@
+<map id="TPP::ShapeType::Tensorial::n_fun" name="TPP::ShapeType::Tensorial::n_fun">
+<area shape="rect" id="node1" title="Number of shape functions that span the local polynomial space." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$structTPP_1_1Hypercube.html#a3cd6db24addd2c95c98a9ebffcfa5c30" title="Return n to the power dim." alt="" coords="244,13,403,39"/>
+</map>

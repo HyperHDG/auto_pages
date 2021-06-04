@@ -1,0 +1,8 @@
+<map id="print_combination::doit" name="print_combination::doit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,179,98"/>
+<area shape="rect" id="node2" href="$structTPCC_1_1Combinations.html#ab7c595d5bdfc19423a6e1d418d9f5e13" title="The array of numbers (of length n&#45;k) of numbers not in the combination of the given index." alt="" coords="227,5,381,47"/>
+<area shape="rect" id="node3" href="$structTPCC_1_1Combinations.html#a5bd5ec2b4694420c1ea4f3c01a312006" title="The array of numbers (of length k) in the combination with given index." alt="" coords="435,23,590,64"/>
+<area shape="rect" id="node4" href="$structTPCC_1_1Combinations.html#a85739dbbfbbf291ae0e09fd25f0aa2b3" title="The index of a combination within the lexicographic enumeration." alt="" coords="227,123,381,164"/>
+<area shape="rect" id="node5" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="452,105,573,131"/>
+<area shape="rect" id="node6" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="429,155,596,182"/>
+</map>

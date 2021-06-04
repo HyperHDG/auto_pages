@@ -1,0 +1,4 @@
+<map id="TPCC::Slab::aux_dimensions" name="TPCC::Slab::aux_dimensions">
+<area shape="rect" id="node1" title="Compute the dimensions of the auxiliary object." alt="" coords="5,13,212,39"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Lexicographic.html#ad959263091edaa5082515c9a47ad9f6d" title="Dimension of the fiber with given index in the tensor product." alt="" coords="260,5,415,47"/>
+</map>

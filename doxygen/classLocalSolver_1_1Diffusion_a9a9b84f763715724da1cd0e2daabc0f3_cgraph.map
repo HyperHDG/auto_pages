@@ -1,0 +1,14 @@
+<map id="LocalSolver::Diffusion::trace_to_mass_flux" name="LocalSolver::Diffusion::trace_to_mass_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to mass matrix–vector multiplication." alt="" coords="5,136,168,177"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1Diffusion.html#a112f647381473f2c31848f6b885115bc" title="Evaluate dual variable at boundary." alt="" coords="222,5,385,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1Diffusion.html#ae8e7fb3436f47caaaf981741769e59a6" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="216,71,391,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1Diffusion.html#a65618aef7ea348fd9c140792264c629d" title="Evaluate primal variable at boundary." alt="" coords="222,136,385,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1Diffusion.html#a3d15eef7f4f6daba626e9dd25ed3ba3c" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="221,267,385,308"/>
+<area shape="rect" id="node11" href="$classLocalSolver_1_1Diffusion.html#a28e3b2cf228dba6d9b1c4d0f8925855d" title="Solve local problem for mass matrix approximation." alt="" coords="219,201,387,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="491,78,618,105"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1Diffusion.html#afc5d3210a39d3488130674406e6b9a7c" title="Assemble local matrix for the local solver." alt="" coords="470,201,639,243"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1Diffusion.html#ab48d5258719068b0575b2ab694725047" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="439,332,671,373"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1Diffusion.html#a0616ee5c76c0114ac7e99ff49ac5a4ae" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="447,397,662,439"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="455,267,654,308"/>
+<area shape="rect" id="node12" href="$classLocalSolver_1_1Diffusion.html#aa37c80204225171977c2ec5d97395f93" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="453,136,657,177"/>
+</map>

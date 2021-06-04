@@ -1,0 +1,4 @@
+<map id="HDGHyperGraph::iterator::operator++" name="HDGHyperGraph::iterator::operator++">
+<area shape="rect" id="node1" title="Increment iterator and return old iterator." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph_1_1iterator.html#acf12264a5d8c0bbf91c1a18d8d3f6d1d" title="Construct an iterator from an HDGHyperGraph and an index." alt="" coords="240,5,427,47"/>
+</map>

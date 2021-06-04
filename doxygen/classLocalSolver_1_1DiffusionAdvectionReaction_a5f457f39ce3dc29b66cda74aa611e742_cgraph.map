@@ -1,0 +1,6 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::solve_mass_problem" name="LocalSolver::DiffusionAdvectionReaction::solve_mass_problem">
+<area shape="rect" id="node1" title="Solve local problem for mass matrix approximation." alt="" coords="5,71,233,112"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a981dc27f1034d4ad7543e86ebb7d07be" title="Assemble local matrix for the local solver." alt="" coords="298,5,526,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aa329d8d76f66ea09d3a1ce10327c53f3" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="281,71,543,112"/>
+<area shape="rect" id="node4" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="313,136,511,177"/>
+</map>

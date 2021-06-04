@@ -1,0 +1,7 @@
+<map id="HyperHDG.hy_config.extract_include" name="HyperHDG.hy_config.extract_include">
+<area shape="rect" id="node1" title="Add the files that need to be included for defining the problem to include list." alt="" coords="5,35,212,76"/>
+<area shape="rect" id="node2" href="$namespaceHyperHDG_1_1cpp.html#a58eff841b3fc6824f1a8b2baa3a5aafa" title="Extract classname from name that might contain template arguemnts." alt="" coords="283,5,451,47"/>
+<area shape="rect" id="node3" href="$namespaceHyperHDG_1_1cpp.html#a452362e2392ed8af18546612ef97af49" title="Find file with definition of classname in directory folder." alt="" coords="260,71,475,98"/>
+<area shape="rect" id="node4" href="$namespaceHyperHDG_1_1paths.html#a689b8b87c6356f0372d9a43315e64779" title="Return path to main directory of HyperHDG." alt="" coords="523,71,715,98"/>
+<area shape="rect" id="node5" href="$namespaceHyperHDG_1_1paths.html#a9c7a6eec547e6c3d782d577f64ac9978" title="Return path to directory of file." alt="" coords="763,71,945,98"/>
+</map>

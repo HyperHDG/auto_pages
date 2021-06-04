@@ -1,0 +1,4 @@
+<map id="GlobalLoop::ShiftedInverseEigenvalue::trace_to_flux" name="GlobalLoop::ShiftedInverseEigenvalue::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="249,13,368,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="operator&#45;" name="operator&#45;">
+<area shape="rect" id="node1" title="Subtract second small/dense matrix from first." alt="" coords="5,31,88,57"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#a976d7528e18fb75a3acb0e5138521bee" title="Return a column of a SmallMat." alt="" coords="136,5,304,32"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="137,56,303,83"/>
+</map>

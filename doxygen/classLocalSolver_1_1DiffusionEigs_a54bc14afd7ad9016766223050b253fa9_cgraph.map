@@ -1,0 +1,11 @@
+<map id="LocalSolver::DiffusionEigs::trace_to_flux" name="LocalSolver::DiffusionEigs::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,104,196,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionEigs.html#a640dac5552e4b84e194628b0770037a8" title="Evaluate dual variable at boundary." alt="" coords="244,5,435,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionEigs.html#a0fb23d386066d36d9c2f85dd961b9f97" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="244,71,435,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionEigs.html#a0b8668bf7ea8248ff5d7a870e29d6c00" title="Evaluate primal variable at boundary." alt="" coords="244,136,435,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionEigs.html#a56d5df887bbfd9b43a5ecec08cce5591" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="244,201,435,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="527,78,653,105"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1DiffusionEigs.html#abf2c7afd8165d388455f4868e5b4cda1" title="Assemble local matrix for the local solver." alt="" coords="495,136,685,177"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionEigs.html#ab56b7522c3a09894696e13f1f87f6f92" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="483,201,697,243"/>
+<area shape="rect" id="node9" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="491,267,689,308"/>
+</map>

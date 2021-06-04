@@ -1,0 +1,6 @@
+<map id="LocalSolver::BilaplacianEigs::solve_local_problem" name="LocalSolver::BilaplacianEigs::solve_local_problem">
+<area shape="rect" id="node1" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,79,196,120"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianEigs.html#a9ad654b3af2283a5994347c81f2b6a27" title="Assemble local matrix for the local solver." alt="" coords="245,5,441,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1BilaplacianEigs.html#a28e06fffd6a6c2e14fac4bfb6e366fc6" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="251,71,436,127"/>
+<area shape="rect" id="node4" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="244,152,443,193"/>
+</map>

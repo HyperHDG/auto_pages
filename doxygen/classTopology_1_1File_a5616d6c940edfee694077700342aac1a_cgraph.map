@@ -1,0 +1,5 @@
+<map id="Topology::File::set_refinement" name="Topology::File::set_refinement">
+<area shape="rect" id="node1" title="Set the refinement level (equal to number of subintervals)." alt="" coords="5,23,144,65"/>
+<area shape="rect" id="node2" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="192,5,353,32"/>
+<area shape="rect" id="node3" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="209,56,336,83"/>
+</map>

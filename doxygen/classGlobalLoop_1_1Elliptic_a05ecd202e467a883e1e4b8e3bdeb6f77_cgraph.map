@@ -1,0 +1,4 @@
+<map id="GlobalLoop::Elliptic::set_refinement" name="GlobalLoop::Elliptic::set_refinement">
+<area shape="rect" id="node1" title="Set refinement level." alt="" coords="5,5,152,47"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph.html#af261857624880d358fac6b954beb622c" title="Set the refinement level of the hypergraph." alt="" coords="200,5,359,47"/>
+</map>

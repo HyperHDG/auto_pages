@@ -1,0 +1,6 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_phiDphi" name="TPP::Quadrature::Tensorial::integrate_vol_phiDphi">
+<area shape="rect" id="node1" title="Integrate product of shape function amd derivative over dimT&#45;dimensional unit volume." alt="" coords="5,57,199,98"/>
+<area shape="rect" id="node2" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a28b5c5a39d6e10e6375c38e27f405744" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="247,5,473,32"/>
+<area shape="rect" id="node3" href="$classTPP_1_1Quadrature_1_1Tensorial.html#af20238a1a53844c0547820276d1873c3" title="Integrate product of one&#45;dimensional shape function and one derivative." alt="" coords="263,57,457,98"/>
+<area shape="rect" id="node4" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a54a02992dd800bffe84e7efe578207ba" title="Integrate product of one&#45;dimensional shape functions." alt="" coords="263,122,457,163"/>
+</map>

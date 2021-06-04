@@ -1,0 +1,4 @@
+<map id="Hypercube::tensorial_pt" name="Hypercube::tensorial_pt">
+<area shape="rect" id="node1" title="Generate tensorial point whose entries are elements of an array." alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node2" href="$structHypercube.html#a5c9f8f73f7bf0ce8632835677789d59b" title="Decompose global index of tensorial structure with respect to its dimensions." alt="" coords="231,5,449,32"/>
+</map>

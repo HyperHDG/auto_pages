@@ -1,0 +1,7 @@
+<map id="GlobalLoop::MassApproxEigenvalue&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;" name="GlobalLoop::MassApproxEigenvalue&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;">
+<area shape="rect" id="node1" title="Combine local solver and global information for eigenvalue problems with mass matrix approximation." alt="" coords="764,87,1059,143"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph.html" title=" " alt="" coords="403,15,623,101"/>
+<area shape="rect" id="node3" href="$classHyperNodeFactory.html" title=" " alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node4" href="$classHyDataContainer.html" title=" " alt="" coords="15,71,230,112"/>
+<area shape="rect" id="node5" href="$structPlotOptions.html" title="A class storing options for plotting." alt="" coords="464,125,561,151"/>
+</map>

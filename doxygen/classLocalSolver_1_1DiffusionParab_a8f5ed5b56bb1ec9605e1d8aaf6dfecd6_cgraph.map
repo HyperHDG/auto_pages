@@ -1,0 +1,6 @@
+<map id="LocalSolver::DiffusionParab::make_initial" name="LocalSolver::DiffusionParab::make_initial">
+<area shape="rect" id="node1" title="L2 project initial data to skeletal and fill data container." alt="" coords="5,57,204,98"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="291,5,412,32"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionParab.html#af4df0eda3861b4141f1c8b7dae2e6f87" title="Evaluate dual variable at boundary." alt="" coords="252,57,451,98"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionParab.html#a94d2e21243cac2913e5160b3b2e2de40" title="Evaluate primal variable at boundary." alt="" coords="252,122,451,163"/>
+</map>

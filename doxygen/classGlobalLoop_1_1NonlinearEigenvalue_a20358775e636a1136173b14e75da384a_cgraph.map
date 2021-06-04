@@ -1,0 +1,4 @@
+<map id="GlobalLoop::NonlinearEigenvalue::plot_option" name="GlobalLoop::NonlinearEigenvalue::plot_option">
+<area shape="rect" id="node1" title="Set plot option and return old plot option." alt="" coords="5,5,244,47"/>
+<area shape="rect" id="node2" href="$plot_8hxx.html#a999ac0ed32f7cd586c09bf0a7ff2f2e3" title="Set a plot option and return the new value of this option as std::string." alt="" coords="292,13,415,39"/>
+</map>

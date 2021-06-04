@@ -1,0 +1,12 @@
+<map id="LocalSolver::BilaplacianEigs::jacobian_of_trace_to_flux" name="LocalSolver::BilaplacianEigs::jacobian_of_trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,151,183,207"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianEigs.html#a9ad654b3af2283a5994347c81f2b6a27" title="Assemble local matrix for the local solver." alt="" coords="483,161,679,203"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1BilaplacianEigs.html#a437edca1faf8b325f894243759dd786a" title="Evaluate dual variable at boundary." alt="" coords="243,71,421,112"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1BilaplacianEigs.html#a558371d8889927a57df2c0fdfc2f139a" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="231,5,433,47"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1BilaplacianEigs.html#a8159fa1ec102d173045d9f55a3ca4e84" title="Evaluate primal variable at boundary." alt="" coords="239,188,425,229"/>
+<area shape="rect" id="node7" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="273,254,391,281"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1BilaplacianEigs.html#a43cc458bf37aad421df9ce19e843d86f" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="237,305,427,347"/>
+<area shape="rect" id="node5" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="517,13,644,39"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1BilaplacianEigs.html#a28e06fffd6a6c2e14fac4bfb6e366fc6" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="488,261,673,317"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="481,341,680,383"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TPCC::Element::print_debug" name="TPCC::Element::print_debug">
+<area shape="rect" id="node1" title="Function for printing the data stored in the element." alt="" coords="5,39,161,80"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Element.html#a5d1222afc50e0e10b0679c9980eff7a0" title="Mapping of orthogonal coordinate directions to global." alt="" coords="209,5,377,47"/>
+<area shape="rect" id="node4" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="212,71,375,112"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="425,13,601,39"/>
+<area shape="rect" id="node5" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="430,78,597,105"/>
+</map>

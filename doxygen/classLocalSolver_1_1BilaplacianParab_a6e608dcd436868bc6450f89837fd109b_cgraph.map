@@ -1,0 +1,4 @@
+<map id="LocalSolver::BilaplacianParab::make_initial" name="LocalSolver::BilaplacianParab::make_initial">
+<area shape="rect" id="node1" title="L2 project initial data to skeletal and fill data container." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="231,13,352,39"/>
+</map>
