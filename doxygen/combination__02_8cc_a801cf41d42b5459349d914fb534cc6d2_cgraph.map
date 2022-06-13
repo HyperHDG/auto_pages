@@ -1,0 +1,8 @@
+<map id="test" name="test">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,52,112"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Combination.html#af1645ebb990d910484eca4086f5deedd" title="The combination obtained by adding the element i." alt="" coords="100,5,279,32"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="101,56,277,83"/>
+<area shape="rect" id="node4" href="$classTPCC_1_1Combination.html#a1c0bba967b5e7bec42136436212902ae" title="Print the content of this object for debugging." alt="" coords="112,107,267,149"/>
+<area shape="rect" id="node5" href="$structTPCC_1_1Combinations.html#abbbc4bb5244c91bd54e8d85af84ab780" title="The number of such combinations." alt="" coords="112,173,267,214"/>
+<area shape="rect" id="node6" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="327,180,448,207"/>
+</map>

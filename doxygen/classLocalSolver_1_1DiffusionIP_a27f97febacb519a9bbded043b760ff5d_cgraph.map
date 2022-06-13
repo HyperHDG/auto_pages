@@ -1,0 +1,4 @@
+<map id="LocalSolver::DiffusionIP::n_glob_dofs_per_node" name="LocalSolver::DiffusionIP::n_glob_dofs_per_node">
+<area shape="rect" id="node1" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="228,13,355,39"/>
+</map>

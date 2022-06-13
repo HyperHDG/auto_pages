@@ -1,0 +1,8 @@
+<map id="LocalSolver::Diffusion::solve_loc_prob_cor" name="LocalSolver::Diffusion::solve_loc_prob_cor">
+<area shape="rect" id="node1" title="Solve local problem for parabolic approximations." alt="" coords="5,136,168,177"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1Diffusion.html#afc5d3210a39d3488130674406e6b9a7c" title="Assemble local matrix for the local solver." alt="" coords="247,5,417,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1Diffusion.html#aa37c80204225171977c2ec5d97395f93" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="230,71,434,112"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1Diffusion.html#ab48d5258719068b0575b2ab694725047" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="216,136,448,177"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1Diffusion.html#a0616ee5c76c0114ac7e99ff49ac5a4ae" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="225,201,439,243"/>
+<area shape="rect" id="node6" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="233,267,431,308"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LocalSolver::AdvectionParab::trace_to_flux" name="LocalSolver::AdvectionParab::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,71,212,112"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1AdvectionParab.html#a5979e3ecc19cbb93b1971f83b6219abe" title="Evaluate flux at boundary." alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1AdvectionParab.html#ac42046827aae22b2303180e9142718d0" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="260,71,467,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1AdvectionParab.html#a70ba4e5a4acbcc657dae12a1922aa42a" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="260,165,467,207"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="567,49,694,75"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1AdvectionParab.html#a4d0092474514fcdc3ba449f6bf50a7be" title="Assemble local matrix for the local solver." alt="" coords="527,100,734,141"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1AdvectionParab.html#af7536c73c7fc2fc2f90597de19fae065" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="515,165,747,207"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1AdvectionParab.html#a1d44a4a0a7f89275ebccc5e21de58e32" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="523,231,738,272"/>
+<area shape="rect" id="node9" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="531,296,730,337"/>
+</map>

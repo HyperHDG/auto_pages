@@ -1,0 +1,5 @@
+<map id="LocalSolver::Diffusion::make_initial" name="LocalSolver::Diffusion::make_initial">
+<area shape="rect" id="node1" title="Evaluate L2 projected lambda values at initial state." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1Diffusion.html#ae8e7fb3436f47caaaf981741769e59a6" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="216,5,391,47"/>
+<area shape="rect" id="node3" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="439,13,565,39"/>
+</map>

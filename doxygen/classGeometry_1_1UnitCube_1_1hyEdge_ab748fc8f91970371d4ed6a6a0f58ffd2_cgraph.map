@@ -1,0 +1,5 @@
+<map id="Geometry::UnitCube::hyEdge::lexicographic" name="Geometry::UnitCube::hyEdge::lexicographic">
+<area shape="rect" id="node1" title="Return lexicographically ordered equidistant tensorial point of given index." alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node2" href="$classGeometry_1_1UnitCube_1_1hyEdge.html#aaff8ba0b0409efa62fd07fa3af319c05" title="Map n_vec points from reference to physical element." alt="" coords="227,5,425,47"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="473,13,592,39"/>
+</map>

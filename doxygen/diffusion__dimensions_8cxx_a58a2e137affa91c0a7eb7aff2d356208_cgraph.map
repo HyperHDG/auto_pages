@@ -1,0 +1,11 @@
+<map id="do_test_uniform" name="do_test_uniform">
+<area shape="rect" id="node1" title=" " alt="" coords="5,163,133,190"/>
+<area shape="rect" id="node2" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="199,5,354,47"/>
+<area shape="rect" id="node4" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="426,67,642,94"/>
+<area shape="rect" id="node5" href="$classGlobalLoop_1_1Elliptic.html#a3c24ceabf5fd8f7802c4fe28d269a892" title="Read indices of Dirichlet type hypernodes/faces." alt="" coords="191,123,363,164"/>
+<area shape="rect" id="node7" href="$classGlobalLoop_1_1Elliptic.html#a898cec3cc65735b8a0b1664cc865af1b" title="Evaluate condensed matrix&#45;vector product." alt="" coords="203,188,350,229"/>
+<area shape="rect" id="node8" href="$structSparseLA_1_1SolveException.html#a5cf659d35cfaf55821fb4108ebc61626" title=" " alt="" coords="181,253,372,295"/>
+<area shape="rect" id="node9" href="$classGlobalLoop_1_1Elliptic.html#a61cb5221f879d10a148986ef18600a55" title="Returns vector of appropriate size for the predefined problem." alt="" coords="203,319,350,360"/>
+<area shape="rect" id="node3" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="444,13,624,39"/>
+<area shape="rect" id="node6" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="420,195,648,222"/>
+</map>

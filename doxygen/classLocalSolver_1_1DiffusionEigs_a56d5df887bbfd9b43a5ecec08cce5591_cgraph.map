@@ -1,0 +1,6 @@
+<map id="LocalSolver::DiffusionEigs::solve_local_problem" name="LocalSolver::DiffusionEigs::solve_local_problem">
+<area shape="rect" id="node1" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,71,196,112"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionEigs.html#abf2c7afd8165d388455f4868e5b4cda1" title="Assemble local matrix for the local solver." alt="" coords="256,5,447,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionEigs.html#ab56b7522c3a09894696e13f1f87f6f92" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="244,71,459,112"/>
+<area shape="rect" id="node4" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="252,136,451,177"/>
+</map>

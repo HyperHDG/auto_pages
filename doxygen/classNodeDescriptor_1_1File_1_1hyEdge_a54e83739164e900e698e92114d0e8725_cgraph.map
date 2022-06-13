@@ -1,0 +1,7 @@
+<map id="NodeDescriptor::File::hyEdge::hyEdge" name="NodeDescriptor::File::hyEdge::hyEdge">
+<area shape="rect" id="node1" title="Construct hyperedge from hypergraph and index." alt="" coords="5,74,160,115"/>
+<area shape="rect" id="node2" href="$namespaceWrapper.html#a9a7761598e101d334bc7fc1fe5fe1695" title="Return coordinate value with respect to index&#45;th orthonormal direction on element." alt="" coords="208,5,420,32"/>
+<area shape="rect" id="node3" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="231,56,397,83"/>
+<area shape="rect" id="node4" href="$namespaceWrapper.html#ac3f910d46efa5efdb316cc9a06516013" title="Return i&#45;th element facet." alt="" coords="243,107,385,133"/>
+<area shape="rect" id="node5" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="233,157,395,184"/>
+</map>

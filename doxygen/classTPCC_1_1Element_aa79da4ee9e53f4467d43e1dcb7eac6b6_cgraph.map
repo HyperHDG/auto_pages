@@ -1,0 +1,5 @@
+<map id="TPCC::Element::across_coordinate" name="TPCC::Element::across_coordinate">
+<area shape="rect" id="node1" title="The position of the element orthogonal to its extension." alt="" coords="5,5,173,47"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Element.html#a5d1222afc50e0e10b0679c9980eff7a0" title="Mapping of orthogonal coordinate directions to global." alt="" coords="221,5,389,47"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="437,13,613,39"/>
+</map>

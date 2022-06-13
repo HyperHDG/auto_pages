@@ -1,0 +1,8 @@
+<map id="HyperHDG.compile_prep.need_compile" name="HyperHDG.compile_prep.need_compile">
+<area shape="rect" id="node1" title="Check whether recompilation of executable is necessary." alt="" coords="5,123,224,164"/>
+<area shape="rect" id="node2" href="$namespaceHyperHDG_1_1names.html#ac816f4b46633397305947ecafd3c0ff3" title="Transform C++ class name to cython file name." alt="" coords="305,5,491,47"/>
+<area shape="rect" id="node3" href="$namespaceHyperHDG_1_1paths.html#a689b8b87c6356f0372d9a43315e64779" title="Return path to main directory of HyperHDG." alt="" coords="572,159,764,186"/>
+<area shape="rect" id="node4" href="$namespaceHyperHDG_1_1paths.html#a9c7a6eec547e6c3d782d577f64ac9978" title="Return path to directory of file." alt="" coords="812,214,995,241"/>
+<area shape="rect" id="node5" href="$namespaceHyperHDG_1_1compile__prep.html#a933fd241a42aee8080a6dbdee1088c32" title="Check whether any dependent files have been changed." alt="" coords="289,123,507,164"/>
+<area shape="rect" id="node6" href="$namespaceHyperHDG_1_1compile__prep.html#a19694864f7e6d0c6ab487eb4a1763573" title="Check whether own code differs from last iteration." alt="" coords="272,189,524,215"/>
+</map>

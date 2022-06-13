@@ -1,0 +1,5 @@
+<map id="GlobalLoop::MassApproxEigenvalue::dirichlet_indices" name="GlobalLoop::MassApproxEigenvalue::dirichlet_indices">
+<area shape="rect" id="node1" title="Return indices of Dirichlet degrees of freedom." alt="" coords="5,23,260,65"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph.html#ad24f0e1631c0f3cb1a0847e881aecf49" title="Return iterator to first hyEdge of HDGHyperGraph." alt="" coords="308,5,483,32"/>
+<area shape="rect" id="node3" href="$classHDGHyperGraph.html#a0bef42967dae1c8feb101a627762a555" title="Return iterator to the end of hyEdge list." alt="" coords="314,56,477,83"/>
+</map>

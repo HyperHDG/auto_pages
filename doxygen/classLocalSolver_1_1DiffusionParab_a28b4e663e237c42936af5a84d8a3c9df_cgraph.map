@@ -1,0 +1,12 @@
+<map id="LocalSolver::DiffusionParab::residual_flux" name="LocalSolver::DiffusionParab::residual_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to residual." alt="" coords="5,104,204,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionParab.html#af4df0eda3861b4141f1c8b7dae2e6f87" title="Evaluate dual variable at boundary." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionParab.html#a835fbfdf719c7c82adc9f1ab0581c6cd" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionParab.html#a94d2e21243cac2913e5160b3b2e2de40" title="Evaluate primal variable at boundary." alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionParab.html#a04b6988e1b3c21976418aaac6a750a30" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="252,201,451,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="551,78,678,105"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1DiffusionParab.html#abe1186842729a2096ed3ca6d71f4b867" title="Assemble local matrix for the local solver." alt="" coords="515,132,714,173"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionParab.html#a012850a13812893992bc8abf827a55bd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="499,197,731,239"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1DiffusionParab.html#a6bec4fd26413dcd65a5b1e38f5c6a989" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="507,263,722,304"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="515,328,714,369"/>
+</map>

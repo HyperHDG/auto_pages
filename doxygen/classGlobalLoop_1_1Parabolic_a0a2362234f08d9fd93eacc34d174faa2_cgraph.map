@@ -1,0 +1,4 @@
+<map id="GlobalLoop::Parabolic::zero_vector" name="GlobalLoop::Parabolic::zero_vector">
+<area shape="rect" id="node1" title="Returns vector of appropriate size for the predefined problem." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="216,13,444,39"/>
+</map>

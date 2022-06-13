@@ -1,0 +1,17 @@
+<map id="HyperHDG.include.include" name="HyperHDG.include.include">
+<area shape="rect" id="node1" title="Function to import classes of the HyperHDG package using Cython." alt="" coords="5,242,199,268"/>
+<area shape="rect" id="node2" href="$namespaceHyperHDG_1_1compile__prep.html#a5994f12d33a12223413cc13eb30d670d" title="Generate shell commands from CMAKE parameters." alt="" coords="247,8,485,49"/>
+<area shape="rect" id="node3" href="$namespaceHyperHDG_1_1paths.html#a689b8b87c6356f0372d9a43315e64779" title="Return path to main directory of HyperHDG." alt="" coords="833,410,1025,436"/>
+<area shape="rect" id="node5" href="$namespaceHyperHDG_1_1config.html#a0e52728ae0f563b8c1cd2f872b3157a9" title="Check that config is consistent." alt="" coords="557,124,762,151"/>
+<area shape="rect" id="node6" href="$namespaceHyperHDG_1_1names.html#ac816f4b46633397305947ecafd3c0ff3" title="Transform C++ class name to cython file name." alt="" coords="566,293,753,334"/>
+<area shape="rect" id="node7" href="$namespaceHyperHDG_1_1config.html#a6d77f020ae7d9ced272db2971063df91" title="Add the files that need to be included for defining the problem to include list." alt="" coords="274,176,458,217"/>
+<area shape="rect" id="node10" href="$namespaceHyperHDG_1_1names.html#a21d908df5e3c773639cdcd62f71caa27" title="Generate names of auxiliary classes that will be constructed (internal use only)." alt="" coords="281,292,451,319"/>
+<area shape="rect" id="node11" href="$namespaceHyperHDG_1_1config.html#a441b39bc3b11cca977cba4f0aee46d02" title="Evaluate config file that needs to be present for all .pyx/.pxd files." alt="" coords="268,344,464,385"/>
+<area shape="rect" id="node12" href="$namespaceHyperHDG_1_1cmake.html#a07bd894923fe19f86ddd2e24ff409511" title="Read out parameters for Cython compilation provided by CMAKE." alt="" coords="285,409,447,450"/>
+<area shape="rect" id="node13" href="$namespaceHyperHDG_1_1compile__prep.html#ad9fd91dd93c320f8db046cf03bf7fcc1" title="Check whether recompilation of executable is necessary." alt="" coords="257,493,475,534"/>
+<area shape="rect" id="node4" href="$namespaceHyperHDG_1_1paths.html#a9c7a6eec547e6c3d782d577f64ac9978" title="Return path to directory of file." alt="" coords="1073,519,1256,546"/>
+<area shape="rect" id="node8" href="$namespaceHyperHDG_1_1cpp.html#a58eff841b3fc6824f1a8b2baa3a5aafa" title="Extract classname from name that might contain template arguemnts." alt="" coords="575,176,743,217"/>
+<area shape="rect" id="node9" href="$namespaceHyperHDG_1_1cpp.html#a452362e2392ed8af18546612ef97af49" title="Find file with definition of classname in directory folder." alt="" coords="552,242,767,268"/>
+<area shape="rect" id="node14" href="$namespaceHyperHDG_1_1compile__prep.html#a933fd241a42aee8080a6dbdee1088c32" title="Check whether any dependent files have been changed." alt="" coords="550,512,769,553"/>
+<area shape="rect" id="node15" href="$namespaceHyperHDG_1_1compile__prep.html#a19694864f7e6d0c6ab487eb4a1763573" title="Check whether own code differs from last iteration." alt="" coords="533,578,785,604"/>
+</map>

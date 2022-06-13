@@ -1,0 +1,12 @@
+<map id="LocalSolver::BilaplacianParab::residual_flux" name="LocalSolver::BilaplacianParab::residual_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to residual." alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianParab.html#a2e7d51c36a854df4c3c686e2db19d6d7" title="Evaluate dual variable at boundary." alt="" coords="245,5,427,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1BilaplacianParab.html#a72547d83afa77858140cbf041d06286a" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="231,71,441,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1BilaplacianParab.html#aa1c1805b46632331559f7f25a47360fb" title="Evaluate primal variable at boundary." alt="" coords="238,136,434,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1BilaplacianParab.html#a1c0dc481f13c8899c791385f1b862fa4" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="236,201,436,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="529,77,655,103"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1BilaplacianParab.html#a516c477b6f9379a630c740800cd6d949" title="Assemble local matrix for the local solver." alt="" coords="489,128,695,169"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1BilaplacianParab.html#a409029bb1a44ffebb63db41ea07017dd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="495,194,689,250"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1BilaplacianParab.html#ae7be937cf7e0484eaee2f46900533d22" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="495,274,689,330"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="493,355,691,396"/>
+</map>

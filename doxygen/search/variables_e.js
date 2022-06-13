@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['parameters_1788',['parameters',['../License_8txt.html#a4ff3b40dd630814cc9ceb2f3b05f6f52',1,'parameters():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a4ff3b40dd630814cc9ceb2f3b05f6f52',1,'parameters():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a4ff3b40dd630814cc9ceb2f3b05f6f52',1,'parameters():&#160;License.txt']]],
+  ['pascal_5fdata_1789',['pascal_data',['../binomial_8cc.html#a8efea72ed554544f475b0373bbc50af1',1,'binomial.cc']]],
+  ['permitted_1790',['permitted',['../License_8txt.html#a6063e0ff241979deb5bdd1622fef9233',1,'permitted():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a6063e0ff241979deb5bdd1622fef9233',1,'permitted():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a6063e0ff241979deb5bdd1622fef9233',1,'permitted():&#160;License.txt']]],
+  ['place_1791',['place',['../License_8txt.html#a5092c9ff9459e29face27814a2388918',1,'place():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a5092c9ff9459e29face27814a2388918',1,'place():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a5092c9ff9459e29face27814a2388918',1,'place():&#160;License.txt']]],
+  ['plot_5fedge_5fboundaries_1792',['plot_edge_boundaries',['../structPlotOptions.html#a80e06098250f1accb3eb87f1b596aaf6',1,'PlotOptions']]],
+  ['plot_5fedges_1793',['plot_edges',['../structPlotOptions.html#ab479639c02e77a0ae2dc87c235738782',1,'PlotOptions']]],
+  ['plot_5foptions_1794',['plot_options',['../classGlobalLoop_1_1Elliptic.html#ac14dbb5c790234f48b8e859f324d53f6',1,'GlobalLoop::Elliptic::plot_options()'],['../classGlobalLoop_1_1MassApproxEigenvalue.html#a0afd1e632dc67a07a906db56fb7ff0f1',1,'GlobalLoop::MassApproxEigenvalue::plot_options()'],['../classGlobalLoop_1_1NonlinearEigenvalue.html#ae2cdff27d486bd0649fa37e8376cc691',1,'GlobalLoop::NonlinearEigenvalue::plot_options()'],['../classGlobalLoop_1_1Parabolic.html#a5d8cc06a8e295a8c315182f9b783f3dd',1,'GlobalLoop::Parabolic::plot_options()'],['../classGlobalLoop_1_1ShiftedInverseEigenvalue.html#aaff434a5e8190776230f47026eda8640',1,'GlobalLoop::ShiftedInverseEigenvalue::plot_options()']]],
+  ['points_1795',['points',['../structDomainInfo.html#a9c4b211f7816624985944d16abbb1560',1,'DomainInfo']]],
+  ['points_5fhyedge_1796',['points_hyEdge',['../structDomainInfo.html#acb83b64cb51845608d74b60877a6165e',1,'DomainInfo']]],
+  ['positions_1797',['positions',['../classTPCC_1_1Element.html#acfbbe5a7d72629795b689f2000da97f0',1,'TPCC::Element']]],
+  ['printfilenumber_1798',['printFileNumber',['../structPlotOptions.html#a0238fc0cdde11dc2ecb4a88c35a7fb19',1,'PlotOptions']]],
+  ['programs_1799',['programs',['../License_8txt.html#a4ef2920e76005114cb8e96e7f62863bd',1,'programs():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a4ef2920e76005114cb8e96e7f62863bd',1,'programs():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a4ef2920e76005114cb8e96e7f62863bd',1,'programs():&#160;License.txt']]],
+  ['project_1800',['project',['../DeveloperCertificateOfOrigin_8txt.html#af69d124fcada56da48913a50cdc84f61',1,'DeveloperCertificateOfOrigin.txt']]],
+  ['public_1801',['public',['../License_8txt.html#a44c884046830f02d608063785de4532a',1,'public():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a44c884046830f02d608063785de4532a',1,'public():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a44c884046830f02d608063785de4532a',1,'public():&#160;License.txt']]],
+  ['py_5fdir_1802',['py_dir',['../classHyperHDG_1_1cmake_1_1options.html#a9eee6c4077e2455095cddba4fa276854',1,'HyperHDG::cmake::options']]],
+  ['py_5fver_5fmaj_1803',['py_ver_maj',['../classHyperHDG_1_1cmake_1_1options.html#a6313db1c1267da03e973c8be02ec736c',1,'HyperHDG::cmake::options']]],
+  ['py_5fver_5fmin_1804',['py_ver_min',['../classHyperHDG_1_1cmake_1_1options.html#a6f91b8cefb1b59d4d0f7a06660d57309',1,'HyperHDG::cmake::options']]],
+  ['pydiffusionproblem_1805',['PyDiffusionProblem',['../namespacediffusion__uniform.html#ab60e48a0b8ccff5498da7c2d99a630bd',1,'diffusion_uniform']]]
+];

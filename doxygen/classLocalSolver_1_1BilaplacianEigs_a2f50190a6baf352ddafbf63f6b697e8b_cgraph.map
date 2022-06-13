@@ -1,0 +1,11 @@
+<map id="LocalSolver::BilaplacianEigs::trace_to_flux" name="LocalSolver::BilaplacianEigs::trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianEigs.html#a437edca1faf8b325f894243759dd786a" title="Evaluate dual variable at boundary." alt="" coords="243,5,421,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1BilaplacianEigs.html#a558371d8889927a57df2c0fdfc2f139a" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="231,71,433,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1BilaplacianEigs.html#a8159fa1ec102d173045d9f55a3ca4e84" title="Evaluate primal variable at boundary." alt="" coords="239,136,425,177"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1BilaplacianEigs.html#a43cc458bf37aad421df9ce19e843d86f" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="237,201,427,243"/>
+<area shape="rect" id="node4" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="517,77,644,103"/>
+<area shape="rect" id="node7" href="$classLocalSolver_1_1BilaplacianEigs.html#a9ad654b3af2283a5994347c81f2b6a27" title="Assemble local matrix for the local solver." alt="" coords="483,128,679,169"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1BilaplacianEigs.html#a28e06fffd6a6c2e14fac4bfb6e366fc6" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="488,194,673,250"/>
+<area shape="rect" id="node9" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="481,275,680,316"/>
+</map>

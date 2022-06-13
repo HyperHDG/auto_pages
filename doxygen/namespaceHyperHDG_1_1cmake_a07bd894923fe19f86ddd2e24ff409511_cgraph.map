@@ -1,0 +1,5 @@
+<map id="HyperHDG.cmake.get_options" name="HyperHDG.cmake.get_options">
+<area shape="rect" id="node1" title="Read out parameters for Cython compilation provided by CMAKE." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$namespaceHyperHDG_1_1paths.html#a689b8b87c6356f0372d9a43315e64779" title="Return path to main directory of HyperHDG." alt="" coords="216,13,408,39"/>
+<area shape="rect" id="node3" href="$namespaceHyperHDG_1_1paths.html#a9c7a6eec547e6c3d782d577f64ac9978" title="Return path to directory of file." alt="" coords="456,13,639,39"/>
+</map>

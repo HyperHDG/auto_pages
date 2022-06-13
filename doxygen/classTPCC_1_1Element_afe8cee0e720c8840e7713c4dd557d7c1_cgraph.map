@@ -1,0 +1,5 @@
+<map id="TPCC::Element::along_coordinate" name="TPCC::Element::along_coordinate">
+<area shape="rect" id="node1" title="The coordinates in the k&#45;dimensional element." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node3" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="427,13,593,39"/>
+</map>

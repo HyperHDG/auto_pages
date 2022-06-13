@@ -1,0 +1,8 @@
+<map id="LocalSolver::Bilaplacian::errors" name="LocalSolver::Bilaplacian::errors">
+<area shape="rect" id="node1" title="Calculate squared local contribution of L2 error." alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1Bilaplacian.html#ae8af7ced5413218881e958dba3087c8d" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,104,408,145"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1Bilaplacian.html#af574fd35a21db2f064e3c901ec3b6922" title="Assemble local matrix for the local solver." alt="" coords="483,5,661,47"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1Bilaplacian.html#af5e49be06258427f9aca12928d92e274" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="456,71,688,112"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1Bilaplacian.html#ae8da9fc7f44cc6da47b5d72d9227c62e" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="465,136,679,177"/>
+<area shape="rect" id="node6" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="473,201,671,243"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="test" name="test">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,52,91"/>
+<area shape="rect" id="node2" href="$element__01_8cc.html#a5b9da2b60d1776d2bd1d10dd6d353e8f" title=" " alt="" coords="137,5,217,32"/>
+<area shape="rect" id="node3" href="$structTPCC_1_1Combinations.html#abbbc4bb5244c91bd54e8d85af84ab780" title="The number of such combinations." alt="" coords="100,57,255,98"/>
+<area shape="rect" id="node5" href="$element__01_8cc.html#a9a7d0bb5dd740086ca25eacf7bab3eeb" title=" " alt="" coords="154,123,201,149"/>
+<area shape="rect" id="node4" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="321,64,443,91"/>
+<area shape="rect" id="node6" href="$classTPCC_1_1Element.html#a7aef70916d91164631c1e4fb7594b7f0" title="Enumeration of the boundary facets of the element." alt="" coords="303,119,461,145"/>
+<area shape="rect" id="node10" href="$classTPCC_1_1Element.html#a9bfade40410448be4b29649c8c2aa0a9" title="Function for printing the data stored in the element." alt="" coords="304,170,460,211"/>
+<area shape="rect" id="node7" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="512,141,675,182"/>
+<area shape="rect" id="node9" href="$classTPCC_1_1Combination.html#a5ad4df7af7aa29a5c65b710670a16988" title="The combination obtained by eliminating the ith element." alt="" coords="516,75,671,117"/>
+<area shape="rect" id="node8" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="730,148,897,175"/>
+<area shape="rect" id="node11" href="$classTPCC_1_1Element.html#a5d1222afc50e0e10b0679c9980eff7a0" title="Mapping of orthogonal coordinate directions to global." alt="" coords="509,206,677,247"/>
+<area shape="rect" id="node12" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="725,213,901,240"/>
+</map>

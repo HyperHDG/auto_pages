@@ -1,0 +1,8 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::solve_loc_prob_cor" name="LocalSolver::DiffusionAdvectionReaction::solve_loc_prob_cor">
+<area shape="rect" id="node1" title="Solve local problem for parabolic approximations." alt="" coords="5,144,233,185"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a981dc27f1034d4ad7543e86ebb7d07be" title="Assemble local matrix for the local solver." alt="" coords="303,5,531,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aa329d8d76f66ea09d3a1ce10327c53f3" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="286,71,547,112"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aa497509c4a1ca33cdc6a25cd84ecaa72" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="303,137,531,193"/>
+<area shape="rect" id="node5" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#af45559dce2247103e6a6407fcfcc4fd2" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="281,217,552,259"/>
+<area shape="rect" id="node6" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="317,283,516,324"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Wrapper::get_q_from_lapack_qr_result" name="Wrapper::get_q_from_lapack_qr_result">
+<area shape="rect" id="node1" title="Matrix Q of QR decomposition — DO NOT USE." alt="" coords="5,23,164,65"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="212,5,333,32"/>
+<area shape="rect" id="node3" href="$dense__la_8hxx.html#a2d753c58eced16eec2a93f21bcb99156" title="Create dyadic product of two small vectors." alt="" coords="212,56,333,83"/>
+</map>

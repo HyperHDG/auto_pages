@@ -1,0 +1,6 @@
+<map id="Mapping::Linear::Linear" name="Mapping::Linear::Linear">
+<area shape="rect" id="node1" title="Construct affine&#45;linear mapping." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$classMapping_1_1Linear.html#aa7b4ba2fb43995ed06e5d35c2e1b655f" title="Return matrix associated to affine&#45;linear transformation." alt="" coords="228,5,405,32"/>
+<area shape="rect" id="node3" href="$dense__la_8hxx.html#af58fbbde4904a8235723b72b4d99ef36" title="Normalized QR decomposition." alt="" coords="269,56,364,83"/>
+<area shape="rect" id="node4" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="453,56,575,83"/>
+</map>

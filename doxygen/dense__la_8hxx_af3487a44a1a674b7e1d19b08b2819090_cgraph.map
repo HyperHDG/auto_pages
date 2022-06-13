@@ -1,0 +1,4 @@
+<map id="qr_decomp_q" name="qr_decomp_q">
+<area shape="rect" id="node1" title="Matrix Q of Householder QR decomposition." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="163,5,284,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="LocalSolver::DiffusionEigs::jacobian_of_trace_to_flux" name="LocalSolver::DiffusionEigs::jacobian_of_trace_to_flux">
+<area shape="rect" id="node1" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,159,201,200"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionEigs.html#abf2c7afd8165d388455f4868e5b4cda1" title="Assemble local matrix for the local solver." alt="" coords="500,168,691,209"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionEigs.html#a640dac5552e4b84e194628b0770037a8" title="Evaluate dual variable at boundary." alt="" coords="249,71,440,112"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionEigs.html#a0fb23d386066d36d9c2f85dd961b9f97" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="249,5,440,47"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionEigs.html#a0b8668bf7ea8248ff5d7a870e29d6c00" title="Evaluate primal variable at boundary." alt="" coords="249,188,440,229"/>
+<area shape="rect" id="node7" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="285,254,404,281"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionEigs.html#a56d5df887bbfd9b43a5ecec08cce5591" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="249,305,440,347"/>
+<area shape="rect" id="node5" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="532,13,659,39"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1DiffusionEigs.html#ab56b7522c3a09894696e13f1f87f6f92" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="488,272,703,313"/>
+<area shape="rect" id="node10" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="496,337,695,379"/>
+</map>

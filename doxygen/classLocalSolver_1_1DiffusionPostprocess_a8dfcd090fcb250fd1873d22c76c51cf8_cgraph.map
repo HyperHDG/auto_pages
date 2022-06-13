@@ -1,0 +1,14 @@
+<map id="LocalSolver::DiffusionPostprocess::errors" name="LocalSolver::DiffusionPostprocess::errors">
+<area shape="rect" id="node1" title="Calculate squared local contribution of post&#45;processed L2 error." alt="" coords="5,122,247,163"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="355,5,476,32"/>
+<area shape="rect" id="node3" href="$classTPP_1_1Quadrature_1_1Tensorial.html#abda24fc45ea74dbf6d2bb7579f794df1" title="Integrate product of shape functions over dimT&#45;dimensional unit volume." alt="" coords="319,57,512,98"/>
+<area shape="rect" id="node6" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2a71645a8388444d672865e266978465" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="295,122,536,163"/>
+<area shape="rect" id="node7" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="641,129,768,156"/>
+<area shape="rect" id="node8" href="$classLocalSolver_1_1DiffusionPostprocess.html#a02d7cbde4e8c1e9f14b3f98f3145ceb3" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="295,246,536,287"/>
+<area shape="rect" id="node4" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a28b5c5a39d6e10e6375c38e27f405744" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="591,8,818,35"/>
+<area shape="rect" id="node5" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a54a02992dd800bffe84e7efe578207ba" title="Integrate product of one&#45;dimensional shape functions." alt="" coords="608,59,801,101"/>
+<area shape="rect" id="node9" href="$classLocalSolver_1_1DiffusionPostprocess.html#af97fba33236fde9c9163cd18780a1238" title="Assemble local matrix for the local solver." alt="" coords="584,181,825,222"/>
+<area shape="rect" id="node10" href="$classLocalSolver_1_1DiffusionPostprocess.html#a9d22de4807fdab6ffd067d99ef175525" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="584,246,825,287"/>
+<area shape="rect" id="node11" href="$classLocalSolver_1_1DiffusionPostprocess.html#af49a85f220fd2c6e58be9e89fc0811ca" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="584,311,825,353"/>
+<area shape="rect" id="node12" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="605,377,804,418"/>
+</map>

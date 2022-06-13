@@ -1,0 +1,5 @@
+<map id="LocalSolver::BernoulliBendingBeam&lt; hyEdge_dimT, space_dim, poly_deg, quad_deg, lSol_float_t, bilaplacian_sol_t &gt;" name="LocalSolver::BernoulliBendingBeam&lt; hyEdge_dimT, space_dim, poly_deg, quad_deg, lSol_float_t, bilaplacian_sol_t &gt;">
+<area shape="rect" id="node1" title="Local solver for the equation that governs the bending of an elastic Bernoulli beam." alt="" coords="5,228,236,299"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1BilaplacianUniform.html" title=" " alt="" coords="9,109,232,165"/>
+<area shape="rect" id="node3" href="$classSmallMat.html" title=" " alt="" coords="37,5,205,47"/>
+</map>

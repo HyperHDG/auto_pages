@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['general_1688',['GENERAL',['../License_8txt.html#a0bb3213ee1b083288e16fd41e9fc062d',1,'GENERAL():&#160;License.txt'],['../submodules_2docker_8git_2License_8txt.html#a0bb3213ee1b083288e16fd41e9fc062d',1,'GENERAL():&#160;License.txt'],['../submodules_2tensor__product__polynomials_8git_2License_8txt.html#a0bb3213ee1b083288e16fd41e9fc062d',1,'GENERAL():&#160;License.txt']]],
+  ['geometry_1689',['geometry',['../classHyperHDG_1_1config_1_1config.html#a5326962276235176dc00516a77df9ea5',1,'HyperHDG.config.config.geometry()'],['../classHyperHDG_1_1hy__config_1_1config.html#ae6a45f88248b99350693fdadd2a18851',1,'HyperHDG.hy_config.config.geometry()'],['../structHDGHyperGraph_1_1hyEdge.html#a5a22d6f785834b41e89fe06f5977ca90',1,'HDGHyperGraph::hyEdge::geometry()'],['../namespacediffusion__uniform.html#afffae990992b617cc7da331c451ec995',1,'diffusion_uniform.geometry()']]],
+  ['global_5floop_1690',['global_loop',['../classHyperHDG_1_1config_1_1config.html#a1e51a9982fb5f54d5b963145ba7a6a24',1,'HyperHDG.config.config.global_loop()'],['../classHyperHDG_1_1hy__config_1_1config.html#a6ff464b2ca59a551ec36db788a35212e',1,'HyperHDG.hy_config.config.global_loop()'],['../namespacediffusion__uniform.html#a1bf901b97aa71663e7287e241ecc048d',1,'diffusion_uniform.global_loop()']]]
+];

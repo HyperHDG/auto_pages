@@ -1,0 +1,8 @@
+<map id="Topology::Cubic::hyEdge::hyEdge" name="Topology::Cubic::hyEdge::hyEdge">
+<area shape="rect" id="node1" title="Construct a cubic hyperedge from its index and a the global topology class." alt="" coords="5,99,184,141"/>
+<area shape="rect" id="node2" href="$namespaceWrapper.html#a9a7761598e101d334bc7fc1fe5fe1695" title="Return coordinate value with respect to index&#45;th orthonormal direction on element." alt="" coords="232,5,444,32"/>
+<area shape="rect" id="node3" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="255,56,421,83"/>
+<area shape="rect" id="node4" href="$namespaceWrapper.html#ac3f910d46efa5efdb316cc9a06516013" title="Return i&#45;th element facet." alt="" coords="267,107,409,133"/>
+<area shape="rect" id="node5" href="$namespaceWrapper.html#a32207f68b4a1135949d7ec296ab7ee40" title="Return index of given element within TPCC." alt="" coords="263,157,413,184"/>
+<area shape="rect" id="node6" href="$namespaceWrapper.html#ac1896e61017058db7f7bca3358fd2f5b" title="Return index of given element within TPCC." alt="" coords="263,209,413,250"/>
+</map>

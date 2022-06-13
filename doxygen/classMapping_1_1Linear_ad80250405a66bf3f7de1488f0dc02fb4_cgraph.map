@@ -1,0 +1,10 @@
+<map id="Mapping::Linear::inner_normal" name="Mapping::Linear::inner_normal">
+<area shape="rect" id="node1" title="Return inner normal of given index." alt="" coords="5,115,172,157"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#a976d7528e18fb75a3acb0e5138521bee" title="Return a column of a SmallMat." alt="" coords="220,5,388,32"/>
+<area shape="rect" id="node3" href="$classMapping_1_1Linear.html#a94e3aeec3e8b0b7868a0387cf6962f3f" title="Return outer normal of given index." alt="" coords="220,57,388,98"/>
+<area shape="rect" id="node4" href="$dense__la_8hxx.html#af3487a44a1a674b7e1d19b08b2819090" title="Matrix Q of Householder QR decomposition." alt="" coords="249,123,359,149"/>
+<area shape="rect" id="node6" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="245,173,363,200"/>
+<area shape="rect" id="node8" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="221,224,387,251"/>
+<area shape="rect" id="node5" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="436,123,557,149"/>
+<area shape="rect" id="node7" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="437,173,556,200"/>
+</map>

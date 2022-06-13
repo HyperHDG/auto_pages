@@ -1,0 +1,8 @@
+<map id="Geometry::File::hyEdge::hyEdge" name="Geometry::File::hyEdge::hyEdge">
+<area shape="rect" id="node1" title="Construct hyperedge from hypergraph and index." alt="" coords="5,99,179,141"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#a976d7528e18fb75a3acb0e5138521bee" title="Return a column of a SmallMat." alt="" coords="247,5,415,32"/>
+<area shape="rect" id="node3" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="247,56,414,83"/>
+<area shape="rect" id="node4" href="$namespaceWrapper.html#a2d05be3480691c4d0750c83a21838bb8" title="Return coordinate value with respect to index&#45;th orthonormal direction of element." alt="" coords="227,107,435,133"/>
+<area shape="rect" id="node5" href="$classGeometry_1_1File_1_1hyEdge.html#a17eed091bd739aae84d344277f43c442" title="Return vertex of specified index of a hyperedge." alt="" coords="244,158,417,199"/>
+<area shape="rect" id="node6" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="247,224,414,251"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TPCC::Combinations::dual" name="TPCC::Combinations::dual">
+<area shape="rect" id="node1" title="The array of numbers (of length n&#45;k) of numbers not in the combination of the given index." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$structTPCC_1_1Combinations.html#a5bd5ec2b4694420c1ea4f3c01a312006" title="The array of numbers (of length k) in the combination with given index." alt="" coords="208,5,363,47"/>
+</map>

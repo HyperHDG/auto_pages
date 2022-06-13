@@ -1,0 +1,6 @@
+<map id="TPCC::Element::direction_index" name="TPCC::Element::direction_index">
+<area shape="rect" id="node1" title="The index of the combination enumerating directions." alt="" coords="5,23,188,65"/>
+<area shape="rect" id="node2" href="$structTPCC_1_1Combinations.html#a85739dbbfbbf291ae0e09fd25f0aa2b3" title="The index of a combination within the lexicographic enumeration." alt="" coords="236,23,391,65"/>
+<area shape="rect" id="node3" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="461,5,583,32"/>
+<area shape="rect" id="node4" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="439,56,605,83"/>
+</map>

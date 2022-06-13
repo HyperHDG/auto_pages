@@ -1,0 +1,4 @@
+<map id="Geometry::UnitCube::hyEdge::face_area" name="Geometry::UnitCube::hyEdge::face_area">
+<area shape="rect" id="node1" title="Return Haussdorff measure of the specified hypernode." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$classGeometry_1_1UnitCube_1_1hyEdge.html#a272975e1e8ad20dd97beaefb13d4a17f" title="Return Haussdorff/Lebesque measure of the hyperedge." alt="" coords="208,5,363,47"/>
+</map>

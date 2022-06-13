@@ -1,0 +1,5 @@
+<map id="HyperHDG.compile_prep.need_compile_check_hy_files" name="HyperHDG.compile_prep.need_compile_check_hy_files">
+<area shape="rect" id="node1" title="Check whether any dependent files have been changed." alt="" coords="5,5,224,47"/>
+<area shape="rect" id="node2" href="$namespaceHyperHDG_1_1paths.html#a689b8b87c6356f0372d9a43315e64779" title="Return path to main directory of HyperHDG." alt="" coords="272,13,464,39"/>
+<area shape="rect" id="node3" href="$namespaceHyperHDG_1_1paths.html#a9c7a6eec547e6c3d782d577f64ac9978" title="Return path to directory of file." alt="" coords="512,13,695,39"/>
+</map>

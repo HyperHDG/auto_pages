@@ -1,0 +1,6 @@
+<map id="Wrapper::lapack_det" name="Wrapper::lapack_det">
+<area shape="rect" id="node1" title="Determinant of a rectangular system." alt="" coords="5,31,161,57"/>
+<area shape="rect" id="node2" href="$dense__la_8hxx.html#a3837ed6c2c4059ebb640b063e5128269" title="Determinant of a rectangular system." alt="" coords="232,5,335,32"/>
+<area shape="rect" id="node4" href="$namespaceWrapper.html#a30ffaed585da23b7878a779861bf2f56" title="QR decomposition in double floating point arithmetic — DO NOT USE." alt="" coords="209,56,357,83"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#abbb7dccad350dcd38a93efc78c721976" title="Return data array that allows to manipulate the SmallMat." alt="" coords="405,5,527,32"/>
+</map>

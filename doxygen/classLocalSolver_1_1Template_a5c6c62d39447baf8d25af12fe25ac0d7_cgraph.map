@@ -1,0 +1,4 @@
+<map id="LocalSolver::Template::bulk_values" name="LocalSolver::Template::bulk_values">
+<area shape="rect" id="node1" title="The values of the local solution in quadrature points of the cell." alt="" coords="5,5,171,47"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1Template.html#a0fbcc8d68acd9a0828c2900350a3c28f" title="The dimension of the local system of partial differential equations." alt="" coords="219,5,384,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LocalSolver::DiffusionPostprocess::solve_local_problem" name="LocalSolver::DiffusionPostprocess::solve_local_problem">
+<area shape="rect" id="node1" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,104,247,145"/>
+<area shape="rect" id="node2" href="$classLocalSolver_1_1DiffusionPostprocess.html#af97fba33236fde9c9163cd18780a1238" title="Assemble local matrix for the local solver." alt="" coords="295,5,536,47"/>
+<area shape="rect" id="node3" href="$classLocalSolver_1_1DiffusionPostprocess.html#a9d22de4807fdab6ffd067d99ef175525" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="295,71,536,112"/>
+<area shape="rect" id="node4" href="$classLocalSolver_1_1DiffusionPostprocess.html#af49a85f220fd2c6e58be9e89fc0811ca" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="295,136,536,177"/>
+<area shape="rect" id="node5" href="$structWrapper_1_1LAPACKexception.html#ab22de5f589a6350c98cc6831fb1cb120" title=" " alt="" coords="316,201,515,243"/>
+</map>

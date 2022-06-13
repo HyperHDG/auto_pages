@@ -1,0 +1,7 @@
+<map id="LeVequeHG::initial" name="LeVequeHG::initial">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$structLeVequeHG.html#ad7cdbe917d1b541126a5bbde4d25ea00" title=" " alt="" coords="196,5,353,47"/>
+<area shape="rect" id="node3" href="$dense__la_8hxx.html#af5f1f5f464ae8788d6d70c8ed7b68242" title="Euclidean norm of a small/dense vector." alt="" coords="401,13,472,39"/>
+<area shape="rect" id="node4" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="520,13,637,39"/>
+<area shape="rect" id="node5" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="685,13,804,39"/>
+</map>

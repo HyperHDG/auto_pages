@@ -1,0 +1,4 @@
+<map id="operator/" name="operator/">
+<area shape="rect" id="node1" title="Divide scalar by small/dense matrix." alt="" coords="5,5,87,32"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="135,5,253,32"/>
+</map>

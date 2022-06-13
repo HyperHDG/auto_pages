@@ -1,0 +1,5 @@
+<map id="norm_2" name="norm_2">
+<area shape="rect" id="node1" title="Euclidean norm of a small/dense vector." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node2" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="124,5,241,32"/>
+<area shape="rect" id="node3" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="289,5,408,32"/>
+</map>

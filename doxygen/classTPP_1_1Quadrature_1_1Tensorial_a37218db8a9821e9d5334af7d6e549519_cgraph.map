@@ -1,0 +1,7 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_nablaphinablaphifunc" name="TPP::Quadrature::Tensorial::integrate_vol_nablaphinablaphifunc">
+<area shape="rect" id="node1" title="Integrate gradient of shape functions times other function over some geometry." alt="" coords="5,49,268,90"/>
+<area shape="rect" id="node2" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a28b5c5a39d6e10e6375c38e27f405744" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="316,5,543,32"/>
+<area shape="rect" id="node3" href="$dense__la_8hxx.html#af93a533140665deb2c9f29c24617da03" title="Multiply first matrix with transposed of second second." alt="" coords="327,56,531,83"/>
+<area shape="rect" id="node4" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="371,107,488,133"/>
+<area shape="rect" id="node5" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="591,107,709,133"/>
+</map>

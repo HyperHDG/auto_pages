@@ -1,0 +1,4 @@
+<map id="GlobalLoop::Parabolic::make_initial" name="GlobalLoop::Parabolic::make_initial">
+<area shape="rect" id="node1" title="Evaluate the initial flux of the problem." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="216,13,335,39"/>
+</map>

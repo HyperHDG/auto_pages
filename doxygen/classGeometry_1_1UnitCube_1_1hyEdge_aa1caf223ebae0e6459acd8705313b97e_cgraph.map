@@ -1,0 +1,6 @@
+<map id="Geometry::UnitCube::hyEdge::hyEdge" name="Geometry::UnitCube::hyEdge::hyEdge">
+<area shape="rect" id="node1" title="Construct a orthotopic hyperedge from its index and the surrounding unit hypercube." alt="" coords="5,35,160,76"/>
+<area shape="rect" id="node2" href="$classGeometry_1_1UnitCube_1_1hyEdge.html#aae16d79ac415aa0457abfb55a3d84445" title="Refine coarse elememnt." alt="" coords="212,5,371,47"/>
+<area shape="rect" id="node4" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="208,71,375,98"/>
+<area shape="rect" id="node3" href="$namespaceWrapper.html#a2d05be3480691c4d0750c83a21838bb8" title="Return coordinate value with respect to index&#45;th orthonormal direction of element." alt="" coords="423,13,631,39"/>
+</map>
