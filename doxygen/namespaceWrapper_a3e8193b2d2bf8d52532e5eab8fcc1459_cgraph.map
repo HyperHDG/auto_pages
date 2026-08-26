@@ -1,0 +1,9 @@
+<map id="Wrapper::lapack_qr_decomp_q" name="Wrapper::lapack_qr_decomp_q">
+<area shape="rect" id="Node000001" title="Matrix Q of QR decomposition." alt="" coords="5,23,153,63"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a30ffaed585da23b7878a779861bf2f56" title="QR decomposition in double floating point arithmetic — DO NOT USE." alt="" coords="201,5,349,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,31,187,27,188,32,154,36"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="397,31,568,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="154,41,384,41,384,46,154,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,24,384,29,383,34,349,30"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="449,32,442,22,445,12,459,6,483,4,511,8,523,17,519,21,509,13,483,9,461,11,449,16,447,22,453,29"/>
+</map>

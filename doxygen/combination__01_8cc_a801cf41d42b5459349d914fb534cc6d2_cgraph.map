@@ -1,0 +1,15 @@
+<map id="test" name="test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,52,102"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Combination.html#aa58430f2c067fdda3258e6d9e76b2961" title="The combination obtained by eliminating the ith element." alt="" coords="100,5,255,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="52,76,99,55,114,48,116,53,101,60,54,81"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Combination.html#a1c0bba967b5e7bec42136436212902ae" title="Print the content of this object for debugging." alt="" coords="100,69,255,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="52,87,86,87,86,92,52,92"/>
+<area shape="rect" id="Node000006" href="$structTPCC_1_1Combinations.html#abbbc4bb5244c91bd54e8d85af84ab780" title="The number of such combinations." alt="" coords="100,133,255,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="54,97,101,119,116,125,114,130,99,124,52,102"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="307,35,474,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="254,72,311,61,312,66,255,77"/>
+<area shape="rect" id="Node000005" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="303,85,479,110"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="255,90,289,91,289,96,255,95"/>
+<area shape="rect" id="Node000007" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="330,141,451,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="255,151,316,151,316,156,255,156"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="LocalSolver::DiffusionEigs::errors" name="LocalSolver::DiffusionEigs::errors">
+<area shape="rect" id="Node000001" title="Local squared contribution to the L2 error." alt="" coords="5,69,196,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionEigs.html#a85edd518e7f45c129f6e3d11152705f8" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="244,69,435,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,87,230,87,230,92,196,92"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionEigs.html#a93fd0937b0a1e2480c6e6fdf3d22ff20" title="Assemble local matrix for the local solver." alt="" coords="495,5,685,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,67,497,46,499,51,419,72"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionEigs.html#a8a2a962bac26d6fed75b4510009f3546" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="483,69,697,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,87,469,87,469,92,435,92"/>
+<area shape="rect" id="Node000005" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="491,133,689,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="419,107,499,127,497,133,418,112"/>
+</map>

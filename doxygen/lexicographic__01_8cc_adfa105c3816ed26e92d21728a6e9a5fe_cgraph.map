@@ -1,0 +1,9 @@
+<map id="test_3" name="test_3">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,68,88"/>
+<area shape="rect" id="Node000002" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="133,5,254,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,60,115,41,138,33,140,38,117,46,69,65"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Lexicographic.html#a16e828c7f7f08ffb9ed0ad4e27ac6cb8" title="The number of elements in one direction." alt="" coords="116,55,271,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="68,73,102,73,102,78,68,78"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Lexicographic.html#af057c65273dac2380364cde77e066fdf" title="The number of elements in this set." alt="" coords="116,119,271,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="69,85,132,112,130,117,67,90"/>
+</map>

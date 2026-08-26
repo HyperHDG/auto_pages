@@ -1,0 +1,7 @@
+<map id="read_domain" name="read_domain">
+<area shape="rect" id="Node000001" title="General Function to read domain from input file." alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$structDomainInfo.html#ab4a8483763750927d6753fa8a7f778bf" title="Check, whether DomainInfo is in a consistent state." alt="" coords="160,5,388,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,34,152,30,153,35,112,40"/>
+<area shape="rect" id="Node000003" href="$read__domain_8hxx.html#ae951d30052aafc4cb9e2cc268b2a308d" title="Function to read geo file." alt="" coords="205,55,343,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,47,191,55,190,61,112,52"/>
+</map>

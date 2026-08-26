@@ -1,0 +1,10 @@
+<map id="Mapping::Linear::functional_determinant_hyEdge" name="Mapping::Linear::functional_determinant_hyEdge">
+<area shape="rect" id="Node000001" title="The functional determinant of the affine&#45;linear mappring." alt="" coords="5,35,204,75"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#a3837ed6c2c4059ebb640b063e5128269" title="Determinant of a rectangular system." alt="" coords="252,43,355,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,53,238,53,238,58,204,58"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="427,5,549,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="354,42,413,30,414,36,355,48"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="403,79,573,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,63,410,73,409,79,354,68"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="457,80,451,70,454,61,467,54,488,52,513,56,524,64,521,68,511,60,488,57,469,59,458,64,456,70,462,77"/>
+</map>

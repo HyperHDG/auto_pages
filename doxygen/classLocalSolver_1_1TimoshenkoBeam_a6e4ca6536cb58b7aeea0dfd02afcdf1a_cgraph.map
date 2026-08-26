@@ -1,0 +1,19 @@
+<map id="LocalSolver::TimoshenkoBeam::errors" name="LocalSolver::TimoshenkoBeam::errors">
+<area shape="rect" id="Node000001" title="Local squared contribution to the L2 error." alt="" coords="5,69,228,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoBeam.html#a84d05b3f0168e74157b82d1288c78669" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="276,5,499,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,67,288,46,290,51,203,72"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1TimoshenkoBeam.html#afb726c679fad4957f05a2ba121de245c" title=" " alt="" coords="276,69,499,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,87,262,87,262,92,228,92"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1TimoshenkoBeam.html#ad1916f0f1f82f3899338da6b9c7743f4" title=" " alt="" coords="276,133,499,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="203,107,290,128,288,133,201,112"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="599,13,726,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,23,585,23,585,28,499,28"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoBeam.html#a646a6fb7cd52474848db6822ba86463e" title=" " alt="" coords="551,65,774,105"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="468,131,567,106,569,111,470,136"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoBeam.html#ae0815ca76ce86de2d7b8f0cc3452b354" title=" " alt="" coords="547,129,779,169"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="499,149,533,149,533,154,499,154"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1TimoshenkoBeam.html#a3de35401177d4fb7b4018d3b32dd4b80" title=" " alt="" coords="551,193,774,233"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="480,171,558,188,557,193,479,176"/>
+<area shape="rect" id="Node000009" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="563,257,762,297"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="419,171,477,207,548,243,567,250,566,255,546,248,475,212,416,176"/>
+</map>

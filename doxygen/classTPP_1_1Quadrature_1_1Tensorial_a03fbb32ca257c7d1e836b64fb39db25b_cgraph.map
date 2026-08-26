@@ -1,0 +1,8 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_nablaphiphivecfunc" name="TPP::Quadrature::Tensorial::integrate_vol_nablaphiphivecfunc">
+<area shape="rect" id="Node000001" title="Integrate gradient of shape function times other shape function times vector function." alt="" coords="5,35,256,75"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="304,5,531,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,36,306,30,306,35,257,42"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#a647ab0f880a48457539b4a39ecdf54c2" title="Transpose given matrix." alt="" coords="370,79,465,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,68,357,81,356,86,256,74"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="372,81,361,70,367,60,386,54,417,52,459,56,470,61,473,68,468,70,466,65,457,61,417,57,387,59,370,64,367,70,375,77"/>
+</map>

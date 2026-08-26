@@ -1,0 +1,8 @@
+<map id="operator/" name="operator/">
+<area shape="rect" id="Node000001" title="Solve linear system of equations A * x = b &lt;=&gt; x = A / b." alt="" coords="5,43,87,68"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="159,5,281,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,44,146,31,148,36,88,49"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="135,79,305,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,61,145,73,144,78,87,66"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="191,80,185,70,188,61,200,54,220,52,244,56,254,64,250,68,242,60,220,57,202,59,192,64,190,70,196,77"/>
+</map>

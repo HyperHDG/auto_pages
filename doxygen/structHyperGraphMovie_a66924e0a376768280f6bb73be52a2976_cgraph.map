@@ -1,0 +1,14 @@
+<map id="HyperGraphMovie::initial" name="HyperGraphMovie::initial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,191,80"/>
+<area shape="rect" id="Node000002" href="$structHyperGraphMovie.html#aabc5f580b38a038fe86bf38258f111f8" title=" " alt="" coords="239,47,439,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,65,225,65,225,70,191,70"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#af5f1f5f464ae8788d6d70c8ed7b68242" title="Euclidean norm of a small/dense vector." alt="" coords="497,29,568,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,52,483,46,484,51,439,57"/>
+<area shape="rect" id="Node000005" href="$dense__la_8hxx.html#a1b6e80a61976646da37253222357c765" title="Row sum norm of a small/dense matrix." alt="" coords="487,79,579,104"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="439,77,473,81,473,87,439,82"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="627,29,745,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="568,39,613,39,613,45,568,45"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="660,31,655,21,658,11,668,5,686,3,707,6,716,15,712,19,705,11,686,8,670,10,662,15,660,20,665,28"/>
+<area shape="rect" id="Node000006" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="627,79,745,104"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="579,89,613,89,613,94,579,94"/>
+</map>

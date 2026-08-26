@@ -1,0 +1,25 @@
+<map id="GlobalLoop::ShiftedInverseEigenvalue::plot_solution" name="GlobalLoop::ShiftedInverseEigenvalue::plot_solution">
+<area shape="rect" id="Node000001" title="Plot solution in vtu format." alt="" coords="5,99,201,139"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#ae6488020df2c6c7ceec4ddcddac195a4" title="Function plotting the solution of an equation on a hypergraph in vtu format." alt="" coords="249,106,296,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,116,236,116,236,121,202,121"/>
+<area shape="rect" id="Node000003" href="$plot_8hxx.html#a98f770580324a7ae7ccb4b19cff7387f" title="Auxiliary function to plot solution values to vtu file." alt="" coords="344,106,419,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,116,330,116,330,121,296,121"/>
+<area shape="rect" id="Node000004" href="$namespacePlotFunctions.html#a351692d1e30ffc057fa03e41ce2a6f31" title="Close stream to file." alt="" coords="496,5,647,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="396,104,426,79,465,55,482,47,484,52,468,60,430,84,399,108"/>
+<area shape="rect" id="Node000005" href="$namespacePlotFunctions.html#a75c70b284efb3110a52381a9fc54b800" title="Open stream to file." alt="" coords="497,69,646,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="418,110,483,100,484,106,419,116"/>
+<area shape="rect" id="Node000007" href="$plot_8hxx.html#a63038e2ca2125640bd936bc763c86af4" title="Auxiliary function to plot solution values on edge." alt="" coords="503,134,639,159"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="419,121,490,132,490,137,418,127"/>
+<area shape="rect" id="Node000009" href="$namespacePlotFunctions.html#a47cdba70c1955aea7dbd1a572eb484e3" title="Auxiliary function for writing geometry section VTU files." alt="" coords="467,204,676,244"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="404,129,468,168,519,195,516,200,465,173,401,134"/>
+<area shape="rect" id="Node000006" href="$namespacePlotFunctions.html#a59566f6e5442d0818f917270d8bdf1ea" title="Turn fileType enum into string." alt="" coords="729,69,896,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="646,87,716,87,716,92,646,92"/>
+<area shape="rect" id="Node000008" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="752,134,873,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="640,144,738,144,738,149,640,149"/>
+<area shape="rect" id="Node000010" href="$structHypercube.html#aa316d27aad8778241954792dda4821c5" title="Number of vertices of the hypercube." alt="" coords="729,183,896,209"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="676,209,716,205,716,210,677,214"/>
+<area shape="rect" id="Node000011" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="749,233,876,258"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="677,231,736,236,735,241,676,236"/>
+<area shape="rect" id="Node000012" href="$namespacePlotFunctions.html#ad21f3a929b1a1b6aa6ef7d353e5fae69" title="Output of the cubes of the subdivision of an edge in lexicographic order." alt="" coords="724,283,901,323"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="634,242,738,276,737,281,633,247"/>
+</map>

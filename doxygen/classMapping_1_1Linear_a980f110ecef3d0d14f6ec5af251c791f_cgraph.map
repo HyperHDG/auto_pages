@@ -1,0 +1,12 @@
+<map id="Mapping::Linear::Linear" name="Mapping::Linear::Linear">
+<area shape="rect" id="Node000001" title="Construct affine&#45;linear mapping." alt="" coords="5,31,180,56"/>
+<area shape="rect" id="Node000002" href="$classMapping_1_1Linear.html#a6980bd93a44638e2f03879702b902898" title="Return matrix associated to affine&#45;linear transformation." alt="" coords="228,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,214,27,215,32,181,36"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#af58fbbde4904a8235723b72b4d99ef36" title="Normalized QR decomposition." alt="" coords="269,55,364,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,50,256,58,255,63,180,55"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="478,17,599,43"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,57,464,40,465,45,365,62"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="453,91,624,116"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="365,72,447,86,446,91,364,78"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="503,92,495,82,499,72,514,66,539,64,569,68,582,77,578,81,567,73,539,69,515,71,502,76,500,82,507,89"/>
+</map>

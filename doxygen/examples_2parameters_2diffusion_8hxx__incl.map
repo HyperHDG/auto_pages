@@ -1,0 +1,24 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/examples/parameters/diffusion.hxx" name="/home/runner/work/HyperHDG/HyperHDG/examples/parameters/diffusion.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,335,60"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html" title=" " alt="" coords="263,108,445,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,58,325,98,322,103,255,62"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="5,181,68,207"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="186,62,62,174,58,170,183,58"/>
+<area shape="rect" id="Node000003" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="93,181,279,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,136,227,178,225,173,326,131"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="435,255,491,280"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="351,134,339,168,338,188,344,205,360,223,379,237,423,255,421,260,377,242,356,227,340,208,333,188,334,167,345,133"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="299,136,82,184,81,179,298,131"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="355,181,431,207"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="363,132,382,168,378,171,358,135"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="455,181,517,207"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="376,131,454,172,451,177,374,136"/>
+<area shape="rect" id="Node000010" href="$lapack_8hxx.html" title="This file provides the function lapack_solve." alt="" coords="541,181,764,207"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="396,131,585,176,584,181,395,136"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,255,175,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,209,154,245,149,242,175,205"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,255,274,280"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="197,205,223,242,218,245,192,209"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="611,184,421,139,423,134,612,179"/>
+<area shape="poly" id="edge10_Node000010_Node000006" title=" " alt="" coords="623,209,506,253,504,248,621,204"/>
+</map>

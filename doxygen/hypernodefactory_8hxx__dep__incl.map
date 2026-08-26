@@ -1,0 +1,34 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/hypernodefactory.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/hypernodefactory.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1079,5,1298,60"/>
+<area shape="rect" id="Node000002" href="$hdg__hypergraph_8hxx.html" title=" " alt="" coords="1079,108,1298,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1191,74,1191,108,1186,108,1186,74"/>
+<area shape="rect" id="Node000003" href="$elliptic_8hxx.html" title=" " alt="" coords="382,321,601,375"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1088,169,940,213,578,323,576,318,939,208,1086,164"/>
+<area shape="rect" id="Node000008" href="$mass__approx__eigenvalue_8hxx.html" title=" " alt="" coords="625,321,923,375"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1126,171,827,323,824,318,1124,167"/>
+<area shape="rect" id="Node000009" href="$nonlinear__eigenvalue_8hxx.html" title=" " alt="" coords="948,321,1221,375"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1172,176,1100,321,1095,319,1167,174"/>
+<area shape="rect" id="Node000010" href="$parabolic_8hxx.html" title=" " alt="" coords="1731,321,1950,375"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1297,164,1445,208,1769,318,1768,323,1444,213,1296,169"/>
+<area shape="rect" id="Node000011" href="$shifted__inverse__eigenvalue_8hxx.html" title=" " alt="" coords="1974,313,2193,383"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1312,158,1547,208,1755,257,1963,311,1974,314,1973,319,1961,316,1754,262,1545,213,1311,164"/>
+<area shape="rect" id="Node000012" href="$plot_8hxx.html" title=" " alt="" coords="1214,211,1433,265"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="1236,169,1290,208,1286,213,1233,173"/>
+<area shape="rect" id="Node000004" href="$diffusion__elliptic_8cxx.html" title=" " alt="" coords="5,431,228,485"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="388,382,208,433,207,428,386,377"/>
+<area shape="rect" id="Node000005" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="253,431,479,485"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="452,387,398,432,395,428,448,383"/>
+<area shape="rect" id="Node000006" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="503,431,730,485"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="534,383,588,428,584,432,531,387"/>
+<area shape="rect" id="Node000007" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="754,431,981,485"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="597,377,777,428,775,433,595,382"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="1200,249,930,271,771,291,613,316,580,323,579,318,612,311,770,285,929,266,1200,243"/>
+<area shape="poly" id="edge13_Node000012_Node000008" title=" " alt="" coords="1201,265,936,316,900,323,899,318,935,311,1200,260"/>
+<area shape="poly" id="edge14_Node000012_Node000009" title=" " alt="" coords="1254,274,1144,323,1142,318,1251,269"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="1447,257,1579,281,1720,311,1749,318,1748,323,1719,316,1577,286,1446,262"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="1447,245,1686,269,1825,287,1962,311,1974,313,1973,318,1962,316,1824,293,1686,274,1446,251"/>
+<area shape="rect" id="Node000013" href="$plot__refined_8cxx.html" title=" " alt="" coords="1489,321,1707,375"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="1404,268,1532,318,1530,323,1402,273"/>
+<area shape="rect" id="Node000014" href="$plot__simple_8cxx.html" title=" " alt="" coords="1246,321,1465,375"/>
+<area shape="poly" id="edge18_Node000012_Node000014" title=" " alt="" coords="1338,278,1350,320,1345,321,1332,279"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="LocalSolver::AdvectionParab::residual_flux" name="LocalSolver::AdvectionParab::residual_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to residual." alt="" coords="5,69,212,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1AdvectionParab.html#afa067f8b7f477ae2d2e290d27d27338a" title="Evaluate flux at boundary." alt="" coords="260,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,67,269,46,271,51,190,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1AdvectionParab.html#ac42046827aae22b2303180e9142718d0" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="260,69,467,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,87,246,87,246,92,212,92"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1AdvectionParab.html#ae94d45dee2d6936f5e047b10232785ca" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="260,161,467,201"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="166,107,295,154,293,159,164,112"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="567,47,694,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,75,553,66,554,71,467,81"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1AdvectionParab.html#aff61dde08baa933e3605198c80d92828" title="Assemble local matrix for the local solver." alt="" coords="527,97,734,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="447,159,533,138,534,143,448,164"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1AdvectionParab.html#a37dc5ff4c244534f503b7a196d90703a" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="515,161,747,201"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="467,179,501,179,501,184,467,184"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1AdvectionParab.html#a77e80d983e0c15734d68822d6c1d23ba" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="523,225,738,265"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="448,199,534,220,533,225,447,204"/>
+<area shape="rect" id="Node000009" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="531,289,730,329"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="392,199,448,237,516,275,534,282,532,287,514,280,445,242,389,204"/>
+</map>

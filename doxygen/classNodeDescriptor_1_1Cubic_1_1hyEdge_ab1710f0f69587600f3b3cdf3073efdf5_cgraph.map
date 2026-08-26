@@ -1,0 +1,22 @@
+<map id="NodeDescriptor::Cubic::hyEdge::hyEdge" name="NodeDescriptor::Cubic::hyEdge::hyEdge">
+<area shape="rect" id="Node000001" title="Construct a hyperEdge, i.e. determine its node indices." alt="" coords="5,122,172,162"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a9a7761598e101d334bc7fc1fe5fe1695" title="Return coordinate value with respect to index&#45;th orthonormal direction on element." alt="" coords="220,5,432,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,120,156,79,187,58,219,40,237,32,239,37,221,44,189,62,160,83,112,124"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#ad2cbd2afbaf263e84899aed3b19bc26a" title="Return the index&#45;th orthonormal direction to element." alt="" coords="226,55,426,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="136,119,219,89,248,81,250,86,221,94,138,124"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="243,104,409,129"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="172,130,229,124,229,130,172,136"/>
+<area shape="rect" id="Node000006" href="$namespaceWrapper.html#ac3f910d46efa5efdb316cc9a06516013" title="Return i&#45;th element facet." alt="" coords="255,153,397,179"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="172,148,242,155,241,160,172,153"/>
+<area shape="rect" id="Node000007" href="$classNodeDescriptor_1_1Cubic.html#a1f4d460db8efa562e6f09b04fa626955" title="Return the array / vector of elements per dimensions." alt="" coords="243,203,409,243"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="144,160,221,187,247,196,246,201,219,193,142,165"/>
+<area shape="rect" id="Node000008" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="245,268,407,293"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="109,160,157,207,188,232,221,253,240,261,238,266,219,258,185,236,153,211,105,164"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="480,104,651,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,28,433,40,489,66,536,94,533,99,486,71,431,44,395,33"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="527,106,518,96,523,86,539,80,565,77,599,81,611,91,608,95,597,86,565,83,540,85,526,90,524,95,531,102"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="389,77,490,99,489,104,388,83"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="409,114,466,114,466,119,409,119"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="388,151,489,130,490,135,389,156"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="402,265,431,253,466,228,498,197,546,139,550,143,502,201,470,232,433,258,404,270"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_nablaphiphiphi" name="TPP::Quadrature::Tensorial::integrate_vol_nablaphiphiphi">
+<area shape="rect" id="Node000001" title="Integrate product of two shape functions and derivative over dimT&#45;dimensional unit volume." alt="" coords="5,55,224,95"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="272,5,499,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,53,311,31,312,36,210,58"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ab394619601a0417dfdab2169625173ce" title="Integrate product of two one&#45;dimensional shape function and one derivative." alt="" coords="289,55,482,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,73,275,73,275,78,224,78"/>
+<area shape="rect" id="Node000004" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a22eefa7840ab19735a6adfb24090049c" title="Integrate triple product of one&#45;dimensional shape functions." alt="" coords="289,119,482,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,93,288,114,286,119,199,98"/>
+</map>

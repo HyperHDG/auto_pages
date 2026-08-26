@@ -1,0 +1,13 @@
+<map id="bilaplacian_hypergraph_convergence_elliptic.main" name="bilaplacian_hypergraph_convergence_elliptic.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,205,75"/>
+<area shape="rect" id="Node000002" href="$namespacebilaplacian__hypergraph__convergence__elliptic.html#a8476273f06227ba298d675632f0a89f7" title=" " alt="" coords="253,5,524,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,42,239,38,240,43,206,47"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="361,70,416,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,62,348,76,347,81,205,67"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="572,63,727,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,80,558,80,558,85,416,85"/>
+<area shape="rect" id="Node000005" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="793,45,973,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="727,72,779,66,779,71,727,77"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="775,94,991,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="727,88,761,91,761,97,727,93"/>
+</map>

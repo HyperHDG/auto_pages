@@ -1,0 +1,5 @@
+<map id="GlobalLoop::Parabolic::residual_flux" name="GlobalLoop::Parabolic::residual_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="216,13,335,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,23,202,23,202,28,169,28"/>
+</map>

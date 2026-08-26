@@ -1,0 +1,5 @@
+<map id="TPCC::Lexicographic::Lexicographic" name="TPCC::Lexicographic::Lexicographic">
+<area shape="rect" id="Node000001" title="Constructor setting the dimensions of the complex." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="Node000002" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="208,13,329,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,23,194,23,194,28,160,28"/>
+</map>

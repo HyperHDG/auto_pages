@@ -1,0 +1,5 @@
+<map id="HyperHDG.scipy_compat.patch" name="HyperHDG.scipy_compat.patch">
+<area shape="rect" id="Node000001" title="Patch scipy.sparse.linalg in place so the legacy tol keyword keeps working." alt="" coords="5,13,231,38"/>
+<area shape="rect" id="Node000002" href="$namespaceHyperHDG_1_1scipy__compat.html#ac06bd5939866fa1ce20bb2772d4e682b" title="Wrap a solver so that a passed tol keyword is forwarded as rtol." alt="" coords="279,5,468,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,23,265,23,265,28,231,28"/>
+</map>

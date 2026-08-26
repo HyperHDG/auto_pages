@@ -1,0 +1,21 @@
+<map id="LocalSolver::Bilaplacian::errors_temp" name="LocalSolver::Bilaplacian::errors_temp">
+<area shape="rect" id="Node000001" title="Parabolic approximation version of local squared L2 error." alt="" coords="5,101,183,141"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Bilaplacian.html#a8f26ce8ec151f85ca2024dc344cbe774" title="Solve local problem for parabolic approximations." alt="" coords="231,133,408,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,131,218,136,217,141,182,137"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1Bilaplacian.html#ad18c6e729bc818e177a08208806a117a" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,69,408,109"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="182,106,217,101,218,106,183,111"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Bilaplacian.html#a92fe0991df9c320eb26c38ced4bcc12c" title="Assemble local matrix for the local solver." alt="" coords="483,69,661,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,131,479,110,480,115,400,136"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1Bilaplacian.html#abc8e55c04e493ea93a80b644e0a08b77" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="470,261,674,301"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,171,395,210,457,247,474,254,472,259,455,252,392,214,342,175"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1Bilaplacian.html#a7f547d1cc05c7a6366d0bd60663a17bd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="456,133,688,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,151,442,151,442,156,408,156"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1Bilaplacian.html#ad8158ce1fe01dc55e74d72b7f0688bfd" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="465,197,679,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="400,171,480,191,479,197,398,176"/>
+<area shape="rect" id="Node000007" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="473,5,671,45"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="387,131,406,119,421,104,429,88,438,71,454,55,464,49,467,54,458,59,442,74,434,90,426,107,410,123,389,136"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="408,87,469,87,469,92,408,92"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="400,107,480,127,479,133,398,112"/>
+<area shape="poly" id="edge10_Node000008_Node000006" title=" " alt="" coords="389,107,410,119,426,136,434,153,442,168,458,183,467,189,464,193,454,187,438,171,429,155,421,139,406,123,387,112"/>
+<area shape="poly" id="edge11_Node000008_Node000007" title=" " alt="" coords="398,67,479,46,480,51,400,72"/>
+</map>

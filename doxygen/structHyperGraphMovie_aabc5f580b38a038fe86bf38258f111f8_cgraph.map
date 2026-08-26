@@ -1,0 +1,12 @@
+<map id="HyperGraphMovie::analytic_result" name="HyperGraphMovie::analytic_result">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,205,87"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#af5f1f5f464ae8788d6d70c8ed7b68242" title="Euclidean norm of a small/dense vector." alt="" coords="264,29,335,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,52,250,46,251,51,206,57"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#a1b6e80a61976646da37253222357c765" title="Row sum norm of a small/dense matrix." alt="" coords="253,79,345,104"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="206,77,240,81,239,87,205,82"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="394,29,511,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,39,380,39,380,45,335,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="427,31,422,21,424,11,435,5,453,3,474,6,483,15,479,19,471,11,453,8,437,10,429,15,427,20,432,28"/>
+<area shape="rect" id="Node000005" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="393,79,512,104"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="345,89,380,89,380,94,345,94"/>
+</map>

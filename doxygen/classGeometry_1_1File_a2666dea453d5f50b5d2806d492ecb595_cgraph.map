@@ -1,0 +1,8 @@
+<map id="Geometry::File::set_refinement" name="Geometry::File::set_refinement">
+<area shape="rect" id="Node000001" title="Set the refinement level (equal to number of subintervals)." alt="" coords="5,47,151,87"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="199,29,369,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,56,185,52,185,57,151,61"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="221,79,347,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="151,73,207,80,206,85,151,78"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="250,31,243,21,247,11,261,5,284,3,313,6,324,15,321,20,310,11,284,8,262,10,251,15,248,20,254,28"/>
+</map>

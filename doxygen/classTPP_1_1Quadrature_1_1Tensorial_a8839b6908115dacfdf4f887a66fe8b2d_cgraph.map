@@ -1,0 +1,10 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_nablaphinablaphifunc" name="TPP::Quadrature::Tensorial::integrate_vol_nablaphinablaphifunc">
+<area shape="rect" id="Node000001" title="Integrate gradient of shape functions times other function over some geometry." alt="" coords="5,47,268,87"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="316,5,543,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,45,340,30,341,36,256,50"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#ac5b7eafb0cc2b4179405f35d0cab066c" title="Multiply first matrix with transposed of second second." alt="" coords="327,55,531,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,65,313,65,313,70,268,70"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="371,128,488,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,85,365,122,364,127,217,90"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="383,130,372,120,378,110,397,103,429,101,471,106,483,111,486,117,481,120,479,115,470,111,429,107,398,109,381,114,378,119,386,126"/>
+</map>

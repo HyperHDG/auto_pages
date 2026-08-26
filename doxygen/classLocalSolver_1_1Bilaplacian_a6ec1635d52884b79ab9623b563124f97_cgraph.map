@@ -1,0 +1,27 @@
+<map id="LocalSolver::Bilaplacian::trace_to_mass_flux" name="LocalSolver::Bilaplacian::trace_to_mass_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to mass matrix–vector multiplication." alt="" coords="5,133,183,173"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Bilaplacian.html#a23d3199f83ece464c8af01d363ea6382" title="Evaluate dual variable at boundary." alt="" coords="231,5,408,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,131,168,93,229,55,243,48,245,53,232,60,171,98,121,135"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Bilaplacian.html#ab191380c10610e4e108fc3695a34ca8f" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="231,69,408,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,131,234,111,236,116,166,136"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1Bilaplacian.html#ac03586fd6779fc27add2957452a282fe" title="Evaluate primal variable at boundary." alt="" coords="231,133,408,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,151,217,151,217,156,183,156"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1Bilaplacian.html#ad18c6e729bc818e177a08208806a117a" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,261,408,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="121,171,171,209,232,247,245,253,243,258,229,252,168,213,118,176"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1Bilaplacian.html#af6d9151fa8bf3c5bae7dd872bed38484" title="Solve local problem for mass matrix approximation." alt="" coords="231,197,408,237"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="166,171,236,191,234,196,164,176"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="509,77,635,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="408,87,495,87,495,92,408,92"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1Bilaplacian.html#a92fe0991df9c320eb26c38ced4bcc12c" title="Assemble local matrix for the local solver." alt="" coords="483,197,661,237"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="398,259,479,238,480,243,400,264"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1Bilaplacian.html#a7f547d1cc05c7a6366d0bd60663a17bd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="456,325,688,365"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="400,299,480,319,479,325,398,304"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1Bilaplacian.html#ad8158ce1fe01dc55e74d72b7f0688bfd" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="465,389,679,429"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="345,299,395,338,457,375,474,382,472,387,455,380,392,342,342,303"/>
+<area shape="rect" id="Node000010" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="473,261,671,301"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="408,279,459,279,459,284,408,284"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="408,215,469,215,469,220,408,220"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="400,235,480,255,479,261,398,240"/>
+<area shape="rect" id="Node000012" href="$classLocalSolver_1_1Bilaplacian.html#abc8e55c04e493ea93a80b644e0a08b77" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="470,133,674,173"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="398,195,479,174,480,179,400,200"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Topology::File&lt; hyEdge_dimT, space_dimT, vectorT, pointT, hyEdge_index_t, hyNode_index_t, pt_index_t, NodeOrientationT &gt;" name="Topology::File&lt; hyEdge_dimT, space_dimT, vectorT, pointT, hyEdge_index_t, hyNode_index_t, pt_index_t, NodeOrientationT &gt;">
+<area shape="rect" id="Node000001" title="Hypergraph topology based on an input file." alt="" coords="393,107,603,191"/>
+<area shape="rect" id="Node000002" href="$structDomainInfo.html" title=" " alt="" coords="5,5,240,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,80,394,118,392,123,253,85"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="31,114,215,183"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,146,393,146,393,151,228,151"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="21,207,224,277"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="237,211,392,172,394,177,238,216"/>
+</map>

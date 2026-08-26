@@ -1,0 +1,5 @@
+<map id="get_edge_dof_values" name="get_edge_dof_values">
+<area shape="rect" id="Node000001" title="Auxiliary function to get dof values of edge." alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="213,5,332,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,15,200,15,200,21,166,21"/>
+</map>

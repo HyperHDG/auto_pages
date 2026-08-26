@@ -1,0 +1,25 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/plot.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/plot.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1246,5,1465,60"/>
+<area shape="rect" id="Node000002" href="$elliptic_8hxx.html" title=" " alt="" coords="382,115,601,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1232,43,948,65,780,84,613,111,580,118,579,113,612,105,779,79,948,59,1232,37"/>
+<area shape="rect" id="Node000007" href="$mass__approx__eigenvalue_8hxx.html" title=" " alt="" coords="625,115,923,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1233,57,937,111,900,118,899,113,936,105,1232,52"/>
+<area shape="rect" id="Node000008" href="$nonlinear__eigenvalue_8hxx.html" title=" " alt="" coords="948,115,1221,170"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1278,68,1151,118,1149,113,1276,63"/>
+<area shape="rect" id="Node000009" href="$parabolic_8hxx.html" title=" " alt="" coords="1246,115,1465,170"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1358,74,1358,115,1353,115,1353,74"/>
+<area shape="rect" id="Node000010" href="$shifted__inverse__eigenvalue_8hxx.html" title=" " alt="" coords="1489,108,1707,177"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1428,63,1523,105,1521,110,1426,68"/>
+<area shape="rect" id="Node000011" href="$plot__refined_8cxx.html" title=" " alt="" coords="1731,115,1950,170"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1479,54,1720,105,1749,113,1747,118,1719,111,1478,59"/>
+<area shape="rect" id="Node000012" href="$plot__simple_8cxx.html" title=" " alt="" coords="1974,115,2193,170"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1479,41,1705,65,1834,83,1963,105,1995,113,1994,118,1961,111,1833,88,1704,70,1478,46"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html" title=" " alt="" coords="5,225,228,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,176,208,228,207,223,386,171"/>
+<area shape="rect" id="Node000004" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="253,225,479,280"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="452,182,398,227,395,223,448,177"/>
+<area shape="rect" id="Node000005" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="503,225,730,280"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="534,177,588,223,584,227,531,182"/>
+<area shape="rect" id="Node000006" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="754,225,981,280"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="597,171,777,223,775,228,595,176"/>
+</map>

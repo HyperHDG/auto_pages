@@ -1,0 +1,15 @@
+<map id="GlobalLoop::NonlinearEigenvalue::trace_to_flux" name="GlobalLoop::NonlinearEigenvalue::trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,112,244,152"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a9e7dd233775f4b69a52c1a5aa95033bf" title="Add different values to values of degrees of freedom related to a hypernode." alt="" coords="299,5,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,109,291,55,310,47,312,52,293,60,169,114"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#afc0f44c2bb15a922773fb021f8da1e49" title="Return iterator to first hyEdge of HDGHyperGraph." alt="" coords="299,70,473,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,109,304,95,305,101,232,115"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#af1253aff99d36ef0aae0f3a02e077c95" title="Return iterator to the end of hyEdge list." alt="" coords="305,119,467,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,129,291,129,291,135,244,135"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="292,169,480,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="217,149,282,164,281,169,216,155"/>
+<area shape="rect" id="Node000007" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="327,234,445,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,150,220,184,293,219,318,228,316,233,291,224,218,189,157,154"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="528,119,736,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="467,129,514,129,514,135,467,135"/>
+</map>

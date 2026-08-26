@@ -1,0 +1,13 @@
+<map id="advection_convergence_parabolic.main" name="advection_convergence_parabolic.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,75"/>
+<area shape="rect" id="Node000002" href="$namespaceadvection__convergence__parabolic.html#a5709360c97045e868494f4e604d42615" title=" " alt="" coords="229,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,41,216,36,216,41,182,46"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="293,70,347,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,63,279,75,279,80,182,68"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="459,63,613,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="347,80,445,80,445,85,347,85"/>
+<area shape="rect" id="Node000005" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="679,45,859,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="613,72,665,66,666,71,614,77"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="661,94,877,119"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="614,88,648,91,647,97,613,93"/>
+</map>

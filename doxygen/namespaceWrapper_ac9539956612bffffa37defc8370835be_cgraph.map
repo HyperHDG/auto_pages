@@ -1,0 +1,14 @@
+<map id="Wrapper::lapack_det" name="Wrapper::lapack_det">
+<area shape="rect" id="Node000001" title="Determinant of a rectangular system." alt="" coords="5,67,161,92"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#a3837ed6c2c4059ebb640b063e5128269" title="Determinant of a rectangular system." alt="" coords="232,16,335,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,64,219,42,220,47,135,69"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="405,79,576,104"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="162,79,392,86,392,91,162,84"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a30ffaed585da23b7878a779861bf2f56" title="QR decomposition in double floating point arithmetic — DO NOT USE." alt="" coords="209,117,357,143"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="135,90,220,111,219,117,134,95"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="430,5,551,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,23,416,19,417,24,335,29"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="327,39,435,72,434,77,325,44"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="457,80,450,70,453,60,467,54,491,52,519,56,531,65,527,69,517,61,491,57,469,59,457,64,455,70,461,77"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="352,115,408,104,409,109,353,120"/>
+</map>

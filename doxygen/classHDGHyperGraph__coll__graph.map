@@ -1,0 +1,7 @@
+<map id="HDGHyperGraph&lt; n_dofs_per_nodeT, TopoT, GeomT, NodeT, DataT, hyEdge_index_t &gt;" name="HDGHyperGraph&lt; n_dofs_per_nodeT, TopoT, GeomT, NodeT, DataT, hyEdge_index_t &gt;">
+<area shape="rect" id="Node000001" title="The class template uniting topology and geometry of a hypergraph with the topology of the skeleton sp..." alt="" coords="126,108,367,163"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html" title=" " alt="" coords="5,5,240,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,52,218,106,215,110,153,57"/>
+<area shape="rect" id="Node000003" href="$classHyDataContainer.html" title=" " alt="" coords="265,13,479,38"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="352,50,311,86,282,110,278,106,308,82,348,46"/>
+</map>

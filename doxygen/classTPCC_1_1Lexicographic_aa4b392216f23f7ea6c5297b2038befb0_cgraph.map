@@ -1,0 +1,8 @@
+<map id="TPCC::Lexicographic::index_in_slice" name="TPCC::Lexicographic::index_in_slice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,160,75"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Element.html#afe8cee0e720c8840e7713c4dd557d7c1" title="The coordinates in the k&#45;dimensional element." alt="" coords="208,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,41,194,36,195,41,161,46"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="419,35,581,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="160,54,208,55,371,55,405,54,405,60,371,60,208,60,160,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,34,406,39,405,44,371,39"/>
+</map>

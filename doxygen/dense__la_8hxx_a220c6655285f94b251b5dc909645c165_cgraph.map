@@ -1,0 +1,10 @@
+<map id="qr_decomp_q" name="qr_decomp_q">
+<area shape="rect" id="Node000001" title="Matrix Q of Householder QR decomposition." alt="" coords="5,43,115,68"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#abdb50ab244368f15f90b63a0316fc306" title="Matrix Q of Householder QR decomposition." alt="" coords="163,43,272,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,53,149,53,149,58,115,58"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="345,5,466,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,42,331,30,332,35,273,47"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="320,79,491,104"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="273,63,326,73,325,79,272,68"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="374,80,368,70,371,60,384,54,405,52,431,56,442,64,438,68,429,60,405,57,386,59,375,64,373,70,379,77"/>
+</map>

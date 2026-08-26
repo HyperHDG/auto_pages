@@ -1,0 +1,8 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_phiphivecfunc" name="TPP::Quadrature::Tensorial::integrate_vol_phiphivecfunc">
+<area shape="rect" id="Node000001" title="Integrate product of shape functions times some function over some geometry." alt="" coords="5,35,220,75"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="268,5,495,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,38,276,30,277,35,221,43"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="323,79,440,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,67,309,79,309,84,220,72"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="338,80,329,70,334,60,352,54,381,52,420,56,430,61,434,67,429,70,426,65,418,61,381,57,353,59,337,64,334,70,342,77"/>
+</map>

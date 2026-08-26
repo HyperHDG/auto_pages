@@ -1,0 +1,9 @@
+<map id="Geometry::UnitCube&lt; hyEdge_dimT, space_dimT, pt_coord_t, ConstructorVecT, hyEdge_index_t &gt;::hyEdge" name="Geometry::UnitCube&lt; hyEdge_dimT, space_dimT, pt_coord_t, ConstructorVecT, hyEdge_index_t &gt;::hyEdge">
+<area shape="rect" id="Node000001" title="Definition of the geometry of a single hyperedge." alt="" coords="327,55,561,124"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="10,5,191,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,42,327,65,326,70,204,47"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html" title=" " alt="" coords="5,69,196,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,87,326,87,326,92,210,92"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html" title=" " alt="" coords="5,133,196,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,130,326,109,327,114,210,136"/>
+</map>

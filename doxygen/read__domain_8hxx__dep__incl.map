@@ -1,0 +1,12 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/read_domain.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/read_domain.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,345,60"/>
+<area shape="rect" id="Node000002" href="$topology_2file_8hxx.html" title=" " alt="" coords="127,108,345,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,74,239,108,233,108,233,74"/>
+<area shape="rect" id="Node000003" href="$geometry_2file_8hxx.html" title=" " alt="" coords="5,211,224,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="195,174,148,213,145,209,192,169"/>
+<area shape="rect" id="Node000005" href="$node__descriptor_2file_8hxx.html" title=" " alt="" coords="248,211,467,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,169,327,209,324,213,277,174"/>
+<area shape="rect" id="Node000004" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="123,313,349,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,272,206,311,203,315,155,276"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="317,276,269,315,266,311,313,272"/>
+</map>

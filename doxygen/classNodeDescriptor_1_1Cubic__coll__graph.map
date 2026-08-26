@@ -1,0 +1,9 @@
+<map id="NodeDescriptor::Cubic&lt; hyEdge_dimT, space_dimT, NodeTypeVecT, ConstructorVecT, hyEdge_index_t, hyNode_index_t &gt;" name="NodeDescriptor::Cubic&lt; hyEdge_dimT, space_dimT, NodeTypeVecT, ConstructorVecT, hyEdge_index_t, hyNode_index_t &gt;">
+<area shape="rect" id="Node000001" title="Definition of the node types of a cubic hypergraph." alt="" coords="344,62,592,146"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="7,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,45,344,75,343,80,201,50"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,69,189,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,101,344,101,344,107,203,107"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,163,189,232"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,168,343,133,344,138,204,173"/>
+</map>

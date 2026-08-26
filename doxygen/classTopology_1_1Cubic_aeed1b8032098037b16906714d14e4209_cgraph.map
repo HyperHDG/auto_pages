@@ -1,0 +1,11 @@
+<map id="Topology::Cubic::set_refinement" name="Topology::Cubic::set_refinement">
+<area shape="rect" id="Node000001" title="Set the refinement level (equal to number of subintervals)." alt="" coords="5,47,156,87"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="413,29,584,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,47,204,39,305,34,400,34,400,40,305,39,204,45,157,52"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="204,55,365,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="156,65,190,65,190,70,156,70"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="221,104,348,129"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="157,83,219,98,217,103,156,88"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="464,31,456,21,460,11,475,5,499,3,528,6,540,15,537,20,526,11,499,8,476,10,464,15,461,20,468,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="366,55,400,51,400,56,366,60"/>
+</map>

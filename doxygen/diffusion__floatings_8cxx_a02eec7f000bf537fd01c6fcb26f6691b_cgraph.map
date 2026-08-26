@@ -1,0 +1,23 @@
+<map id="do_test" name="do_test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,76,197"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="142,5,297,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,170,74,118,96,88,122,62,141,49,144,54,126,66,100,92,78,121,50,172"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="369,66,585,91"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="49,169,79,136,100,119,123,106,180,86,240,74,299,68,354,67,355,72,299,74,240,79,181,91,125,110,103,123,83,140,53,173"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1Elliptic.html#a3c24ceabf5fd8f7802c4fe28d269a892" title="Read indices of Dirichlet type hypernodes/faces." alt="" coords="133,120,305,160"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="76,173,124,161,125,166,77,178"/>
+<area shape="rect" id="Node000007" href="$classGlobalLoop_1_1Elliptic.html#a898cec3cc65735b8a0b1664cc865af1b" title="Evaluate condensed matrix&#45;vector product." alt="" coords="146,208,293,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="77,190,133,204,132,209,76,195"/>
+<area shape="rect" id="Node000008" href="$structSparseLA_1_1SolveException.html#a581f8330678a40b8b132b62ab8d183bc" title=" " alt="" coords="124,272,315,312"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="55,195,85,226,125,258,137,264,135,269,123,262,81,230,51,199"/>
+<area shape="rect" id="Node000009" href="$classGlobalLoop_1_1Elliptic.html#a61cb5221f879d10a148986ef18600a55" title="Returns vector of appropriate size for the predefined problem." alt="" coords="146,336,293,376"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="49,196,75,256,97,291,126,322,136,329,133,333,122,326,93,295,70,259,44,198"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="387,13,567,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,23,373,23,373,28,297,28"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,39,402,61,401,66,296,44"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="363,215,591,241"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="281,158,316,169,427,208,425,213,314,175,279,163"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="293,225,349,225,349,231,293,231"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="185,208,183,198,189,189,201,183,219,181,241,184,252,192,249,196,239,189,219,187,202,189,192,193,189,199,191,207"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="285,333,314,322,385,284,444,246,447,251,387,288,316,326,287,338"/>
+</map>

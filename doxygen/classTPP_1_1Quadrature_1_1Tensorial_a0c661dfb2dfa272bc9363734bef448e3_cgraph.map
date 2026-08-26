@@ -1,0 +1,8 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_derphifunc" name="TPP::Quadrature::Tensorial::integrate_vol_derphifunc">
+<area shape="rect" id="Node000001" title="Integrate derivative of shape function times other function over some geometry." alt="" coords="5,35,199,75"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="247,5,473,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,39,258,30,259,35,199,44"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#a647ab0f880a48457539b4a39ecdf54c2" title="Transpose given matrix." alt="" coords="313,79,407,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,66,299,80,299,86,198,71"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="319,80,310,70,314,60,331,54,360,52,396,56,406,61,410,66,406,69,403,65,395,61,360,57,332,59,318,64,315,70,322,77"/>
+</map>

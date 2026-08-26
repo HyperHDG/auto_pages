@@ -1,0 +1,5 @@
+<map id="TPCC::Combination::add_and_expand" name="TPCC::Combination::add_and_expand">
+<area shape="rect" id="Node000001" title="The combination out of n+1 obtained by adding one element." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Combination.html#afafaf9fefc2271374167eed44304c18e" title="The combination obtained by adding the element i." alt="" coords="208,13,387,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,23,194,23,194,28,161,28"/>
+</map>

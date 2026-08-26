@@ -1,0 +1,19 @@
+<map id="do_test_standard_dir" name="do_test_standard_dir">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,149,164,175"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="230,22,385,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,147,148,110,211,72,226,65,228,70,213,76,151,115,103,151"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1Elliptic.html#ad3417d575a09443e583ad4bb7d655b29" title="Evaluate condensed matrix&#45;vector product containing data." alt="" coords="234,110,381,150"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="164,148,220,140,221,145,165,153"/>
+<area shape="rect" id="Node000007" href="$structSparseLA_1_1SolveException.html#a581f8330678a40b8b132b62ab8d183bc" title=" " alt="" coords="212,174,403,214"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="165,171,199,176,198,181,164,176"/>
+<area shape="rect" id="Node000008" href="$classGlobalLoop_1_1Elliptic.html#a61cb5221f879d10a148986ef18600a55" title="Returns vector of appropriate size for the predefined problem." alt="" coords="234,238,381,278"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="110,172,213,224,231,231,229,236,211,228,108,177"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="475,5,655,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,32,460,25,461,30,385,37"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="457,55,673,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,47,443,53,443,58,384,52"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="266,110,263,100,270,91,285,85,307,83,333,86,347,94,345,98,332,91,307,89,286,91,273,95,269,101,271,109"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="451,163,679,188"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="381,140,479,158,478,163,380,145"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="369,235,510,190,512,195,371,241"/>
+</map>

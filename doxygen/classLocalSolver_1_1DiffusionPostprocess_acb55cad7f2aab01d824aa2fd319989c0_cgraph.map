@@ -1,0 +1,26 @@
+<map id="LocalSolver::DiffusionPostprocess::errors" name="LocalSolver::DiffusionPostprocess::errors">
+<area shape="rect" id="Node000001" title="Calculate squared local contribution of post&#45;processed L2 error." alt="" coords="5,119,247,159"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="355,5,476,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,117,217,78,294,41,340,27,341,32,296,46,219,83,158,121"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title="Integrate product of shape functions over dimT&#45;dimensional unit volume." alt="" coords="319,55,512,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,117,310,96,312,101,218,122"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2a71645a8388444d672865e266978465" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="295,119,536,159"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="247,137,281,137,281,142,247,142"/>
+<area shape="rect" id="Node000007" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="641,127,768,152"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="216,157,295,169,415,176,536,169,630,152,631,157,536,174,415,182,294,174,215,162"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1DiffusionPostprocess.html#a6643be4745d32c7a53eac7b923b1780e" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="295,241,536,281"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="171,157,296,213,347,233,345,238,294,218,169,162"/>
+<area shape="rect" id="Node000004" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="591,8,818,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="512,55,623,33,624,39,513,60"/>
+<area shape="rect" id="Node000005" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ac6d67369491563b3f9e4a43512de7315" title="Integrate product of one&#45;dimensional shape functions." alt="" coords="608,58,801,98"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="512,74,594,74,594,80,512,79"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="536,137,628,137,628,142,536,142"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1DiffusionPostprocess.html#add772626f9a0945b088fb5912d1385a4" title="Assemble local matrix for the local solver." alt="" coords="584,177,825,217"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="506,238,600,217,601,222,507,243"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1DiffusionPostprocess.html#ac3549488ae9e817648cd8c8b4c4c44d4" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="584,241,825,281"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="536,258,570,258,570,263,536,263"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1DiffusionPostprocess.html#acceb0cd7b099a083346b4421779bb86c" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="584,305,825,345"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="507,278,601,299,600,304,506,283"/>
+<area shape="rect" id="Node000012" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="605,369,804,409"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="448,279,510,317,585,354,606,362,604,367,583,359,507,321,445,283"/>
+</map>

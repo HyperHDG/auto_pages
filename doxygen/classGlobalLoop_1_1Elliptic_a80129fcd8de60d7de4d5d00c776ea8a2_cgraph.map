@@ -1,0 +1,8 @@
+<map id="GlobalLoop::Elliptic::trace_to_flux_mat" name="GlobalLoop::Elliptic::trace_to_flux_mat">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,29,152,69"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1Elliptic.html#a898cec3cc65735b8a0b1664cc865af1b" title="Evaluate condensed matrix&#45;vector product." alt="" coords="200,29,347,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,47,186,47,186,52,152,52"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="237,30,234,20,240,11,253,5,273,3,296,6,309,13,306,17,295,11,273,8,255,10,244,15,240,21,242,28"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="395,37,623,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,47,381,47,381,52,347,52"/>
+</map>

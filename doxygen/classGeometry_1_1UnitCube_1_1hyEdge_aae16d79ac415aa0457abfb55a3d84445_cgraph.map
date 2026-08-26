@@ -1,0 +1,8 @@
+<map id="Geometry::UnitCube::hyEdge::adapt_data" name="Geometry::UnitCube::hyEdge::adapt_data">
+<area shape="rect" id="Node000001" title="Refine coarse elememnt." alt="" coords="5,22,164,62"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a2d05be3480691c4d0750c83a21838bb8" title="Return coordinate value with respect to index&#45;th orthonormal direction of element." alt="" coords="212,29,420,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,39,198,39,198,45,164,45"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="468,29,639,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,39,454,39,454,45,420,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="515,31,506,21,511,11,527,5,553,3,587,7,599,16,596,20,585,11,553,8,528,10,514,15,512,20,519,27"/>
+</map>

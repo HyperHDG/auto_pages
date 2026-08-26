@@ -1,0 +1,13 @@
+<map id="Topology::Cubic&lt; hyEdge_dimT, space_dimT, NodeIndexVecT, ConstructorVecT, hyEdge_index_t, NodeOrientationT &gt;" name="Topology::Cubic&lt; hyEdge_dimT, space_dimT, NodeIndexVecT, ConstructorVecT, hyEdge_index_t, NodeOrientationT &gt;">
+<area shape="rect" id="Node000001" title="Definition of the topology of a hypergraph — Cubic HyperGraphs." alt="" coords="363,163,589,232"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="16,5,197,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,47,209,55,276,82,340,115,420,160,417,165,337,120,273,87,207,60,186,52"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="13,69,200,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,128,363,166,362,171,212,133"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="11,163,203,232"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,195,363,195,363,200,216,200"/>
+<area shape="rect" id="Node000005" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="13,256,200,325"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="212,261,362,223,363,228,214,267"/>
+<area shape="rect" id="Node000006" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,349,208,419"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,341,337,276,418,230,421,235,340,281,204,346"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Mapping::Linear::local_normal" name="Mapping::Linear::local_normal">
+<area shape="rect" id="Node000001" title="Return local normal of given index." alt="" coords="5,85,171,125"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#a9ea962164a90abbad312baf5715fe08b" title="Return a column of a SmallMat." alt="" coords="219,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,82,218,40,239,32,240,37,220,44,128,87"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abdb50ab244368f15f90b63a0316fc306" title="Matrix Q of Householder QR decomposition." alt="" coords="248,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,88,233,77,234,82,171,93"/>
+<area shape="rect" id="Node000006" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="244,128,361,153"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="171,116,230,126,230,131,170,121"/>
+<area shape="rect" id="Node000007" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="219,177,386,203"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="129,122,220,164,241,171,239,176,218,168,127,127"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="459,19,581,44"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="357,56,445,41,446,46,358,61"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="435,92,605,117"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="358,74,433,87,432,92,357,79"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="485,94,477,84,481,74,496,68,520,65,550,69,562,78,559,82,548,74,520,71,497,73,485,78,482,83,489,90"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="268,130,260,120,264,110,279,104,303,101,332,105,344,114,341,118,330,110,303,107,280,109,268,114,265,119,272,126"/>
+</map>

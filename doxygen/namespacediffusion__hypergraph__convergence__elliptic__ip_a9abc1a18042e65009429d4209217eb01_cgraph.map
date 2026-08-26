@@ -1,0 +1,13 @@
+<map id="diffusion_hypergraph_convergence_elliptic_ip.main" name="diffusion_hypergraph_convergence_elliptic_ip.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,168,92"/>
+<area shape="rect" id="Node000002" href="$namespacediffusion__hypergraph__convergence__elliptic__ip.html#a33acd44eb72a029e9a432ac694d0640e" title=" " alt="" coords="216,5,379,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,50,202,44,203,50,169,55"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="270,84,325,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,74,257,88,256,93,168,80"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="427,77,581,117"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="325,94,413,94,413,99,325,99"/>
+<area shape="rect" id="Node000005" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="647,59,827,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="581,86,633,80,634,85,582,91"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="629,108,845,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="582,102,616,105,615,111,581,107"/>
+</map>

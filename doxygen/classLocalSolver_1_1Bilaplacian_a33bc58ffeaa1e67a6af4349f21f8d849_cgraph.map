@@ -1,0 +1,13 @@
+<map id="LocalSolver::Bilaplacian::errors" name="LocalSolver::Bilaplacian::errors">
+<area shape="rect" id="Node000001" title="Calculate squared local contribution of L2 error." alt="" coords="5,101,183,141"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Bilaplacian.html#ad18c6e729bc818e177a08208806a117a" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,101,408,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,119,217,119,217,124,183,124"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Bilaplacian.html#a92fe0991df9c320eb26c38ced4bcc12c" title="Assemble local matrix for the local solver." alt="" coords="483,5,661,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,99,455,55,478,47,480,52,457,60,360,103"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1Bilaplacian.html#a7f547d1cc05c7a6366d0bd60663a17bd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="456,69,688,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="408,107,442,103,442,108,408,113"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1Bilaplacian.html#ad8158ce1fe01dc55e74d72b7f0688bfd" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="465,133,679,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="408,130,451,135,451,141,408,135"/>
+<area shape="rect" id="Node000006" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="473,197,671,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="360,139,457,183,480,191,478,196,455,188,358,144"/>
+</map>

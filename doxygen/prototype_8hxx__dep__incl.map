@@ -1,0 +1,15 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/global_loop/prototype.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/global_loop/prototype.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="503,5,722,60"/>
+<area shape="rect" id="Node000002" href="$elliptic_8hxx.html" title=" " alt="" coords="382,108,601,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="572,71,525,110,521,106,569,67"/>
+<area shape="rect" id="Node000007" href="$parabolic_8hxx.html" title=" " alt="" coords="625,108,843,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="657,67,704,106,701,110,653,71"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html" title=" " alt="" coords="5,211,228,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,169,215,213,214,208,380,164"/>
+<area shape="rect" id="Node000004" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="253,211,479,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="449,174,400,213,397,208,446,169"/>
+<area shape="rect" id="Node000005" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="503,211,730,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="537,169,586,208,582,213,533,174"/>
+<area shape="rect" id="Node000006" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="754,211,981,265"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="603,164,770,208,769,213,601,169"/>
+</map>

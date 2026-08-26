@@ -1,0 +1,6 @@
+<map id="Wrapper::get_face" name="Wrapper::get_face">
+<area shape="rect" id="Node000001" title="Return i&#45;th element facet." alt="" coords="5,29,147,55"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="195,29,365,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,39,181,39,181,45,147,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="247,31,240,21,243,11,257,5,280,3,308,6,320,16,316,20,306,11,280,8,258,10,247,15,245,20,251,28"/>
+</map>

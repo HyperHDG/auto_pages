@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_diffsquare_discana" name="TPP::Quadrature::Tensorial::integrate_vol_diffsquare_discana">
+<area shape="rect" id="Node000001" title="Squared L2 distance of some function and a discrete function on volume." alt="" coords="5,5,199,60"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="247,20,473,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,30,233,30,233,35,199,35"/>
+</map>

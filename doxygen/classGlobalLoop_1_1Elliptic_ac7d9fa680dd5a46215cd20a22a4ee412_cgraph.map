@@ -1,0 +1,5 @@
+<map id="GlobalLoop::Elliptic::size_of_system" name="GlobalLoop::Elliptic::size_of_system">
+<area shape="rect" id="Node000001" title="Determine size of condensed system for the skeletal unknowns." alt="" coords="5,5,152,45"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="200,13,428,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,23,186,23,186,28,152,28"/>
+</map>

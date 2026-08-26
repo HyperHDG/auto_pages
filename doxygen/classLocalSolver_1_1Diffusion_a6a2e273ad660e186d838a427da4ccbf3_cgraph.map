@@ -1,0 +1,9 @@
+<map id="LocalSolver::Diffusion::solve_mass_problem" name="LocalSolver::Diffusion::solve_mass_problem">
+<area shape="rect" id="Node000001" title="Solve local problem for mass matrix approximation." alt="" coords="5,69,173,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#a82ffb50b1d1883e2b3cf5528ca0fac35" title="Assemble local matrix for the local solver." alt="" coords="239,5,408,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,67,236,46,237,52,164,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Diffusion.html#a47ddfc3f1de08b4b6051c564a2f3fc64" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="221,69,425,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,87,208,87,208,92,174,92"/>
+<area shape="rect" id="Node000004" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="224,133,423,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,107,237,127,236,132,163,112"/>
+</map>

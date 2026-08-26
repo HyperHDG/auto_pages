@@ -1,0 +1,17 @@
+<map id="LocalSolver::BilaplacianUniform::trace_to_flux" name="LocalSolver::BilaplacianUniform::trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,101,183,141"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1BilaplacianUniform.html#a89638eb418b92ae5070018965089f382" title="Evaluate dual variable at boundary." alt="" coords="245,5,444,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,99,230,55,253,47,254,52,232,60,135,104"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1BilaplacianUniform.html#ac28605593a955bf3db82dddd1bf30b82" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="231,69,459,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,107,217,103,217,108,183,113"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1BilaplacianUniform.html#abd5594073179e6d519c14d2be6930bb4" title="Evaluate primal variable at boundary." alt="" coords="238,133,451,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="183,130,225,135,224,141,182,135"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1BilaplacianUniform.html#a26e900f90ae68918ba49a93e09e2c3de" title="Solve local problem." alt="" coords="236,197,453,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="135,139,232,183,254,191,253,196,230,188,133,144"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="543,77,669,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="459,87,529,87,529,92,459,92"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1BilaplacianUniform.html#a0540861080f96ab1a08a67cdfe8b2cfd" title="Assemble local right hand for the local solver." alt="" coords="517,165,695,205"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="453,201,503,195,504,200,454,207"/>
+<area shape="rect" id="Node000008" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="507,229,705,269"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="454,228,493,233,493,238,453,233"/>
+</map>

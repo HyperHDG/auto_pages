@@ -1,0 +1,13 @@
+<map id="LocalSolver::Bilaplacian::solve_loc_prob_cor" name="LocalSolver::Bilaplacian::solve_loc_prob_cor">
+<area shape="rect" id="Node000001" title="Solve local problem for parabolic approximations." alt="" coords="5,133,183,173"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Bilaplacian.html#a92fe0991df9c320eb26c38ced4bcc12c" title="Assemble local matrix for the local solver." alt="" coords="258,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,131,166,93,229,55,246,48,249,53,232,60,169,97,120,135"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Bilaplacian.html#abc8e55c04e493ea93a80b644e0a08b77" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="245,69,449,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,131,253,110,255,115,174,136"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1Bilaplacian.html#a7f547d1cc05c7a6366d0bd60663a17bd" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="231,133,463,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,151,217,151,217,156,183,156"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1Bilaplacian.html#ad8158ce1fe01dc55e74d72b7f0688bfd" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="239,197,454,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,171,255,191,253,197,173,176"/>
+<area shape="rect" id="Node000006" href="$structWrapper_1_1LAPACKexception.html#abcda8a42005e4a946bafb96abd4ddc53" title=" " alt="" coords="247,261,446,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,171,169,210,232,247,249,254,246,259,229,252,166,214,117,175"/>
+</map>

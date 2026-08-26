@@ -1,0 +1,10 @@
+<map id="Wrapper::get_q_from_lapack_qr_result" name="Wrapper::get_q_from_lapack_qr_result">
+<area shape="rect" id="Node000001" title="Matrix Q of QR decomposition — DO NOT USE." alt="" coords="5,47,164,87"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="237,5,358,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,46,228,31,229,36,165,52"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#ad0fe73ac1c4e0f911b3cc9300073db09" title="Create dyadic product of two small vectors." alt="" coords="237,55,358,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,65,223,65,223,70,164,70"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a0ab92894ea304811ef074b02b2ae0f8e" title="Solve local system of equations." alt="" coords="212,128,383,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,85,247,121,246,126,143,90"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="263,130,255,120,259,110,274,104,297,101,327,105,338,114,335,118,325,110,297,107,275,109,263,113,261,119,267,126"/>
+</map>
