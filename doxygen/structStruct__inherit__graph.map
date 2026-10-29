@@ -1,0 +1,7 @@
+<map id="Struct" name="Struct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,5,219,31"/>
+<area shape="rect" id="Node000002" href="$structStructWithWeakrefs.html" title=" " alt="" coords="5,86,156,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,41,98,88,95,84,160,37"/>
+<area shape="rect" id="Node000003" href="$structStructWithWeakrefsAndDynamicAttrs.html" title=" " alt="" coords="181,79,415,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,36,273,76,270,81,214,41"/>
+</map>

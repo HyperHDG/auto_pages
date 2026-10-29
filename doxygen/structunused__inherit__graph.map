@@ -1,0 +1,7 @@
+<map id="unused" name="unused">
+<area shape="rect" id="Node000001" title="Sentinel type to initialize ndarray_config_t&lt;&gt;" alt="" coords="172,5,241,31"/>
+<area shape="rect" id="Node000002" href="$structdtype__name_3_01const_01void_01_4.html" title=" " alt="" coords="5,79,205,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,41,123,81,120,76,178,36"/>
+<area shape="rect" id="Node000003" href="$structdtype__name_3_01void_01_4.html" title=" " alt="" coords="229,79,390,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,36,294,76,291,81,233,41"/>
+</map>

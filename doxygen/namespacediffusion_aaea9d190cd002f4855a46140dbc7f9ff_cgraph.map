@@ -1,0 +1,30 @@
+<map id="diffusion.problem" name="diffusion.problem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,141,271"/>
+<area shape="rect" id="Node000002" href="$namespacehyperhdg.html#a2a3a376f47c23f9eca28eb2766bc6d2d" title=" " alt="" coords="208,220,323,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,246,194,239,195,245,142,252"/>
+<area shape="rect" id="Node000014" href="$namespacediffusion.html#a420337b6e00fb4a0df76bade9405c579" title=" " alt="" coords="189,269,341,295"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="142,264,176,268,175,273,141,269"/>
+<area shape="rect" id="Node000003" href="$namespacehyperhdg.html#a2214923754c7498c4ca9806e79c50feb" title=" " alt="" coords="389,177,528,203"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="322,217,386,203,387,208,323,223"/>
+<area shape="rect" id="Node000012" href="$common_8cpp.html#aa104d75f61b5159f0e0278bbe910580e" title="Get an object attribute or raise an exception." alt="" coords="425,263,492,288"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="323,243,413,263,411,268,322,248"/>
+<area shape="rect" id="Node000004" href="$namespacehyperhdg.html#ae1416e324f23491108fbd09be2800d47" title=" " alt="" coords="606,79,733,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,175,519,144,575,113,594,106,596,111,577,118,521,149,478,179"/>
+<area shape="rect" id="Node000009" href="$namespacehyperhdg.html#ae3da23de4dc429b01fc941b4156da0b4" title=" " alt="" coords="576,128,763,153"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="513,175,601,154,602,159,514,180"/>
+<area shape="rect" id="Node000010" href="$namespacehyperhdg.html#a9fac9b80781a95de1953a288defcf616" title=" " alt="" coords="601,177,737,203"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="528,187,588,187,588,193,528,193"/>
+<area shape="rect" id="Node000011" href="$namespacehyperhdg.html#abf0295bac7ad0eef314c1b630983d8fd" title=" " alt="" coords="576,227,763,252"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="514,200,602,221,601,226,513,205"/>
+<area shape="rect" id="Node000005" href="$namespacehyperhdg.html#a8832b56eddb38c8cc6f573005380a4f2" title=" " alt="" coords="836,5,975,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="703,76,810,39,837,32,838,37,811,45,705,81"/>
+<area shape="rect" id="Node000006" href="$namespacehyperhdg.html#a4b2ab2a3cc73db05eb15bc8d3792940f" title=" " alt="" coords="811,55,1000,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="733,82,797,76,797,81,733,88"/>
+<area shape="rect" id="Node000007" href="$namespacehyperhdg.html#a60c533bad261628efb095e241b5f5205" title=" " alt="" coords="848,104,963,129"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="733,95,835,106,834,112,733,101"/>
+<area shape="rect" id="Node000008" href="$namespacehyperhdg.html#a8fb0ec8068daaa2dbcfc555d8ffedd63" title=" " alt="" coords="834,154,977,194"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="729,102,764,113,788,125,812,138,832,147,830,152,810,143,786,130,762,118,727,107"/>
+<area shape="rect" id="Node000013" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="597,300,741,325"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="493,278,584,295,583,300,492,284"/>
+<area shape="poly" id="edge13_Node000013_Node000013" title=" " alt="" coords="635,302,627,292,631,282,646,276,669,273,699,277,710,286,707,290,697,282,669,279,647,281,635,285,633,291,639,298"/>
+</map>

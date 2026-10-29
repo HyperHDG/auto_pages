@@ -1,0 +1,7 @@
+<map id="qr_decomp" name="qr_decomp">
+<area shape="rect" id="Node000001" title="Normalized QR decomposition." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#af58fbbde4904a8235723b72b4d99ef36" title="Normalized QR decomposition." alt="" coords="148,5,243,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,15,134,15,134,21,100,21"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="291,5,399,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,15,277,15,277,21,243,21"/>
+</map>

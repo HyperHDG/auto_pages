@@ -1,0 +1,14 @@
+<map id="ndarray::nbytes" name="ndarray::nbytes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,128,56"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#aec91ba8fb6b8d3062a2c22504bcf9f6a" title=" " alt="" coords="176,5,292,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,31,162,26,162,31,129,37"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="181,55,287,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,49,168,55,167,61,128,55"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="340,5,469,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="278,52,346,32,347,37,279,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="340,55,469,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="287,65,326,65,326,70,287,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="349,128,461,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="266,78,363,120,361,125,264,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="376,129,370,120,373,110,385,104,405,101,428,105,438,113,435,117,426,110,405,107,387,109,377,113,375,119,381,126"/>
+</map>

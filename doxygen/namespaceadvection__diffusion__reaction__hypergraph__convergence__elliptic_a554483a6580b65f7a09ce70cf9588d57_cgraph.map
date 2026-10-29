@@ -1,0 +1,31 @@
+<map id="advection_diffusion_reaction_hypergraph_convergence_elliptic.main" name="advection_diffusion_reaction_hypergraph_convergence_elliptic.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,110,205,165"/>
+<area shape="rect" id="Node000002" href="$namespaceadvection__diffusion__reaction__hypergraph__convergence__elliptic.html#abc09818b47b853a991c5abd979d84f84" title=" " alt="" coords="253,5,444,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,107,248,77,250,82,175,112"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="543,63,595,89"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="205,122,529,78,530,84,206,127"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="327,150,370,175"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="206,145,314,156,313,162,205,150"/>
+<area shape="rect" id="Node000006" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="321,199,376,225"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="186,162,254,184,309,199,307,205,253,189,184,167"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="445,53,530,67,529,72,444,58"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="731,63,875,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="595,73,717,73,717,79,595,79"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="769,65,761,55,765,45,779,39,803,37,832,40,843,49,840,54,830,45,803,42,781,44,769,49,766,54,773,62"/>
+<area shape="rect" id="Node000007" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="492,192,647,232"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="376,209,479,209,479,215,376,215"/>
+<area shape="rect" id="Node000008" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="713,150,893,175"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="646,193,728,176,729,181,647,198"/>
+<area shape="rect" id="Node000009" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="695,199,911,225"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="647,209,681,209,681,215,647,215"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="959,225,1064,250"/>
+<area shape="poly" id="edge15_Node000007_Node000010" title=" " alt="" coords="647,227,695,235,828,241,945,238,945,244,828,246,694,240,647,233"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="908,222,945,227,944,232,907,227"/>
+<area shape="rect" id="Node000011" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="1112,175,1241,201"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1054,222,1119,202,1121,207,1055,227"/>
+<area shape="rect" id="Node000012" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="1112,225,1241,250"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1064,235,1098,235,1098,240,1064,240"/>
+<area shape="rect" id="Node000013" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="1121,298,1233,323"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="1042,248,1136,290,1133,295,1040,253"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="1149,299,1144,290,1147,280,1158,274,1177,271,1199,275,1209,283,1205,287,1197,280,1177,277,1160,279,1151,283,1149,289,1154,296"/>
+</map>

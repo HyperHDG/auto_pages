@@ -1,0 +1,16 @@
+<map id="nb_inst_zero" name="nb_inst_zero">
+<area shape="rect" id="Node000001" title="Zero&#45;initialize a POD type and mark it as ready + to be destructed upon GC." alt="" coords="5,55,109,80"/>
+<area shape="rect" id="Node000002" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="177,5,248,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,52,163,31,164,36,99,57"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="157,55,268,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,65,143,65,143,70,110,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="160,104,265,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="99,78,160,97,158,102,97,83"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="316,55,445,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,101,322,82,324,87,257,107"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="316,104,445,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="265,114,302,114,302,119,265,119"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="325,177,437,203"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="244,127,339,169,337,174,242,132"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="353,179,347,169,350,159,361,153,381,151,404,154,414,163,410,167,401,159,381,156,363,158,354,163,352,168,357,176"/>
+</map>

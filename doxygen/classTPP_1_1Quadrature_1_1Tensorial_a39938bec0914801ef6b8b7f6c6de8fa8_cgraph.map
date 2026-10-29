@@ -1,0 +1,14 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_discana_func" name="TPP::Quadrature::Tensorial::integrate_vol_discana_func">
+<area shape="rect" id="Node000001" title="Integral of a discrete function times an analytical function." alt="" coords="5,23,213,63"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="261,5,488,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,31,247,27,248,33,214,36"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="322,55,427,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,50,308,59,308,64,213,55"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="536,5,665,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="427,53,528,31,529,36,428,58"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="536,55,665,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="428,65,522,65,522,70,428,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="545,128,657,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="416,78,548,121,547,126,414,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="564,130,556,120,560,110,576,104,601,101,632,105,644,115,641,119,630,110,601,107,577,109,564,114,561,119,568,126"/>
+</map>

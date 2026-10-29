@@ -1,0 +1,8 @@
+<map id="Mapping::Linear::local_normal" name="Mapping::Linear::local_normal">
+<area shape="rect" id="Node000001" title="Return local normal of given index." alt="" coords="5,35,171,75"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#abdb50ab244368f15f90b63a0316fc306" title="Matrix Q of Householder QR decomposition." alt="" coords="223,5,332,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,36,209,29,210,34,172,42"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="219,79,336,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,69,206,75,205,80,171,74"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="246,80,239,70,243,60,256,54,277,52,303,56,314,64,311,68,301,60,277,57,257,59,247,64,245,70,250,77"/>
+</map>

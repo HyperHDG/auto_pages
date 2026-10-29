@@ -1,0 +1,21 @@
+<map id="property_install_static" name="property_install_static">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,159,172,185"/>
+<area shape="rect" id="Node000002" href="$nb__static__property_8cpp.html#ae292bc28e5266ab7f8818bf77c3c10f2" title=" " alt="" coords="220,106,383,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,157,236,132,237,137,141,162"/>
+<area shape="rect" id="Node000007" href="$common_8cpp.html#a6a85e12d65f5b5fb2b64884d041311b7" title=" " alt="" coords="221,183,381,209"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,179,208,183,208,188,172,184"/>
+<area shape="rect" id="Node000003" href="$nb__static__property_8cpp.html#a827ace6f9ca903087c565b53f89465f7" title="nb_static_property.__get__(): Always pass the class instead of the instance." alt="" coords="431,5,573,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,103,430,55,443,49,445,53,432,60,330,108"/>
+<area shape="rect" id="Node000004" href="$nb__static__property_8cpp.html#a83957522d03514f59e369cc849cd747a" title="nb_static_property.__set__(): Just like the above __get__()." alt="" coords="431,69,573,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,104,417,99,417,104,384,109"/>
+<area shape="rect" id="Node000005" href="$nb__internals_8h.html#ae819395120cbbb18f0efc3137d118dc6" title="Create a type via PyType_FromSpec and transfer ownership to the lifeline." alt="" coords="459,134,545,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="384,127,446,136,445,142,383,133"/>
+<area shape="rect" id="Node000006" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="621,134,717,159"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="545,144,608,144,608,149,545,149"/>
+<area shape="rect" id="Node000008" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="447,183,557,209"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="381,193,433,193,433,199,381,199"/>
+<area shape="rect" id="Node000009" href="$nb__types_8h.html#a25b511474eabf0e768cea0a1c1da88ef" title=" " alt="" coords="475,233,529,258"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="354,206,462,233,460,238,353,211"/>
+<area shape="rect" id="Node000010" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="642,233,697,258"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="529,243,628,243,628,248,529,248"/>
+</map>

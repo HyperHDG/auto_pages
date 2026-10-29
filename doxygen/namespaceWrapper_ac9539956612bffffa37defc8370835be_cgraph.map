@@ -1,0 +1,9 @@
+<map id="Wrapper::lapack_det" name="Wrapper::lapack_det">
+<area shape="rect" id="Node000001" title="Determinant of a rectangular system." alt="" coords="5,55,161,80"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="229,5,337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,52,217,31,219,37,136,57"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#a3837ed6c2c4059ebb640b063e5128269" title="Determinant of a rectangular system." alt="" coords="232,55,335,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,65,218,65,218,70,162,70"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a30ffaed585da23b7878a779861bf2f56" title="QR decomposition in double floating point arithmetic — DO NOT USE." alt="" coords="209,104,357,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="136,77,219,98,217,103,135,83"/>
+</map>

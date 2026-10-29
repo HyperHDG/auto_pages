@@ -1,0 +1,7 @@
+<map id="test_eigen.test08_sparse" name="test_eigen.test08_sparse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,42,191,67"/>
+<area shape="rect" id="Node000002" href="$namespacetest__eigen.html#a074d8c4f3e7db8c35999f1b56f5212d3" title=" " alt="" coords="239,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,40,225,36,225,41,192,46"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="305,70,355,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,63,291,75,291,81,191,69"/>
+</map>

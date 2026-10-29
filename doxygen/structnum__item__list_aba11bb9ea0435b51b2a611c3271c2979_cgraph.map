@@ -1,0 +1,8 @@
+<map id="num_item_list::del" name="num_item_list::del">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,148,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#accf1567e1afa1d35b2759d244f0925af" title="Delete an item or raise an exception." alt="" coords="196,29,268,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,39,182,39,182,45,148,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="316,29,460,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,39,302,39,302,45,268,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="362,31,356,21,359,11,370,5,388,3,409,6,418,15,415,19,407,11,388,8,372,10,364,15,362,20,366,28"/>
+</map>

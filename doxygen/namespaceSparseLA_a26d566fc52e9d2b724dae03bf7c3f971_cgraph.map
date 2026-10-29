@@ -1,0 +1,17 @@
+<map id="SparseLA::conjugate_gradient" name="SparseLA::conjugate_gradient">
+<area shape="rect" id="Node000001" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="5,47,160,87"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="226,5,406,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,48,242,31,243,36,161,54"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="208,55,424,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,65,194,65,194,70,160,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="472,80,577,105"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="161,82,208,89,342,95,458,93,458,99,342,100,208,94,160,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,77,458,82,458,87,421,83"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="625,31,755,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="567,77,633,58,634,63,569,83"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="625,80,755,105"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="577,90,612,90,612,95,577,95"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="634,153,746,179"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="555,103,649,145,647,150,553,108"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="663,155,657,145,660,135,671,129,690,127,712,130,722,139,718,143,710,135,690,132,673,134,664,139,662,144,667,152"/>
+</map>

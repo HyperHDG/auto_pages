@@ -1,0 +1,5 @@
+<map id="TPCC::Element::across_coordinate" name="TPCC::Element::across_coordinate">
+<area shape="rect" id="Node000001" title="The position of the element orthogonal to its extension." alt="" coords="5,5,173,45"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Element.html#a5d1222afc50e0e10b0679c9980eff7a0" title="Mapping of orthogonal coordinate directions to global." alt="" coords="221,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,23,208,23,208,28,174,28"/>
+</map>

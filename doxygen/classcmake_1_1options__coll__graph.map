@@ -1,0 +1,11 @@
+<map id="cmake.options" name="cmake.options">
+<area shape="rect" id="Node000001" title="Object that comprises all information for HyperHDG to create a problem." alt="" coords="27,464,145,489"/>
+<area shape="rect" id="Node000002" href="$classstr.html" title=" " alt="" coords="67,229,105,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,269,89,464,83,464,83,269"/>
+<area shape="rect" id="Node000003" href="$classobject.html" title=" " alt="" coords="55,155,117,180"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,194,89,229,83,229,83,194"/>
+<area shape="rect" id="Node000004" href="$classhandle.html" title=" " alt="" coords="53,80,119,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,120,89,154,83,154,83,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,45,89,80,83,80,83,45"/>
+</map>

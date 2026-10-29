@@ -1,0 +1,18 @@
+<map id="LocalSolver::DiffusionParab::make_initial" name="LocalSolver::DiffusionParab::make_initial">
+<area shape="rect" id="Node000001" title="L2 project initial data to skeletal and fill data container." alt="" coords="5,87,204,127"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="297,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,85,251,41,283,31,285,36,253,46,148,90"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionParab.html#a61a2a78272990ebee12fa6a77b625466" title="Evaluate dual variable at boundary." alt="" coords="252,55,451,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,92,238,87,239,93,205,97"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionParab.html#a78017803b35d8707b58ca996d722c386" title="Evaluate primal variable at boundary." alt="" coords="252,119,451,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="205,118,239,122,238,127,204,123"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="299,184,404,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,125,253,169,286,179,284,184,251,174,146,130"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="499,135,628,160"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,182,494,161,495,166,405,187"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="499,184,628,209"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="404,194,485,194,485,199,404,199"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="507,257,619,283"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="390,207,514,250,512,255,388,212"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="529,259,521,249,525,239,540,233,563,231,593,234,604,243,601,248,591,239,563,236,541,238,529,243,527,248,533,256"/>
+</map>

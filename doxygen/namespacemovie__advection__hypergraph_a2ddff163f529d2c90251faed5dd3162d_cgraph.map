@@ -1,0 +1,31 @@
+<map id="movie_advection_hypergraph.main" name="movie_advection_hypergraph.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,257,107"/>
+<area shape="rect" id="Node000002" href="$namespacemovie__advection__hypergraph.html#a829edc16a04f0ed4ecb297db0e260dc8" title=" " alt="" coords="305,5,612,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,79,305,47,380,31,381,36,306,53,181,84"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="711,31,763,56"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="257,81,697,44,697,49,258,86"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="437,107,480,132"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="258,101,423,114,423,119,258,106"/>
+<area shape="rect" id="Node000006" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="431,156,486,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="173,104,306,141,418,161,417,166,305,146,172,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="599,28,698,37,697,42,598,33"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="899,31,1043,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="763,41,885,41,885,46,763,46"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="937,32,929,22,933,12,947,6,971,4,1000,8,1011,17,1008,21,998,13,971,9,949,11,937,16,934,22,941,29"/>
+<area shape="rect" id="Node000007" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="660,149,815,189"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="486,166,646,166,646,171,486,171"/>
+<area shape="rect" id="Node000008" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="881,107,1061,132"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="814,150,896,132,897,137,815,155"/>
+<area shape="rect" id="Node000009" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="863,156,1079,181"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="815,166,849,166,849,171,815,171"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="1127,181,1232,207"/>
+<area shape="poly" id="edge15_Node000007_Node000010" title=" " alt="" coords="815,184,863,191,996,198,1113,195,1113,200,996,203,862,197,815,189"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1076,179,1113,183,1112,189,1075,184"/>
+<area shape="rect" id="Node000011" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="1280,132,1409,157"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="1222,179,1287,159,1289,164,1223,184"/>
+<area shape="rect" id="Node000012" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="1280,181,1409,207"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="1232,191,1266,191,1266,197,1232,197"/>
+<area shape="rect" id="Node000013" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="1289,255,1401,280"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="1210,204,1304,247,1301,251,1208,209"/>
+<area shape="poly" id="edge14_Node000013_Node000013" title=" " alt="" coords="1317,256,1312,246,1315,237,1326,230,1345,228,1367,231,1377,240,1373,244,1365,236,1345,233,1328,235,1319,240,1317,246,1322,253"/>
+</map>

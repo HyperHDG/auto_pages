@@ -1,0 +1,10 @@
+<map id="mt_from_handle_delete" name="mt_from_handle_delete">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,183,55"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8cpp.html#a8a8301fc4100fa7b113f9323dfbc38bc" title=" " alt="" coords="449,5,521,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,34,435,18,436,24,183,39"/>
+<area shape="rect" id="Node000003" href="$nb__ndarray_8cpp.html#a727e8de1dcf29fb8a54d56d26b45e14f" title="Decrease the reference count of the given ndarray object." alt="" coords="231,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,51,218,55,217,60,183,56"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="343,52,435,28,437,33,345,57"/>
+<area shape="rect" id="Node000004" href="$nb__ndarray_8cpp.html#ab7a8d05dfcddddff08911b82dea8ed2a" title=" " alt="" coords="405,55,565,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="358,65,392,65,392,70,358,70"/>
+</map>

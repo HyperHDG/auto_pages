@@ -1,0 +1,9 @@
+<map id="ndarray_export_fn" name="ndarray_export_fn">
+<area shape="rect" id="Node000001" title="Resolve (and cache) the callable for an ndarray_export cache slot." alt="" coords="5,55,147,80"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#ace5fa8be7a0ed1c1fb6e6d07f7215b4b" title="Try to import a Python extension module, raises an exception upon failure." alt="" coords="195,5,316,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,52,194,32,195,37,124,57"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="207,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,65,194,65,194,70,147,70"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="228,104,283,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,77,216,103,214,108,122,83"/>
+</map>

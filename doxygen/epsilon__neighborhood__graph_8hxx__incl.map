@@ -1,0 +1,20 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/epsilon_neighborhood_graph.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/epsilon_neighborhood_graph.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="267,5,508,60"/>
+<area shape="rect" id="Node000002" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="34,108,221,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="309,63,176,106,174,101,307,58"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="214,181,289,207"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="340,62,311,84,285,110,269,139,259,169,254,167,264,137,281,106,307,80,337,58"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="295,108,381,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="375,61,354,97,349,95,370,59"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="405,108,468,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="405,59,425,95,421,97,400,61"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="492,108,565,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="432,58,499,98,496,103,429,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="590,108,649,133"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="459,58,578,101,576,106,457,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,71,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,135,65,175,62,170,111,131"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,181,175,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,133,135,168,130,168,126,134"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="149,131,221,172,218,177,146,136"/>
+</map>

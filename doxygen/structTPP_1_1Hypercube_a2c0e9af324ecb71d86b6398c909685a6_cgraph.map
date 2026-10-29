@@ -1,0 +1,15 @@
+<map id="TPP::Hypercube::tensorial_pt" name="TPP::Hypercube::tensorial_pt">
+<area shape="rect" id="Node000001" title="Generate tensorial point whose entries are elements of an array." alt="" coords="5,55,215,80"/>
+<area shape="rect" id="Node000002" href="$structTPP_1_1Hypercube.html#a95aa61cf47f52914216caa5e6fdde49a" title="Decompose global index of tensorial structure with respect to its dimensions." alt="" coords="263,18,431,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,52,249,47,249,53,213,57"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="479,55,584,80"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="215,67,263,67,431,67,465,67,465,72,431,73,263,73,215,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,49,466,54,465,60,431,54"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="632,5,761,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="574,52,639,32,641,37,575,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="632,55,761,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="584,65,618,65,618,70,584,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="641,128,753,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="562,78,656,120,653,125,560,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="669,129,664,120,667,110,678,104,697,101,719,105,729,113,725,117,717,110,697,107,680,109,671,113,669,119,674,126"/>
+</map>

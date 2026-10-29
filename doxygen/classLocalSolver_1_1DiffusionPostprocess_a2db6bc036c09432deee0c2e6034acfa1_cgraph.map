@@ -1,0 +1,28 @@
+<map id="LocalSolver::DiffusionPostprocess::residual_flux" name="LocalSolver::DiffusionPostprocess::residual_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to residual ." alt="" coords="5,133,247,173"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionPostprocess.html#afe45d937f4a0fa2200297362f1d98296" title="Evaluate dual variable at boundary." alt="" coords="295,5,536,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,131,218,93,294,55,315,47,316,52,296,60,220,97,158,135"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2a71645a8388444d672865e266978465" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="295,69,536,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,131,310,110,312,115,218,136"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1DiffusionPostprocess.html#ae37733a3fec2ea5f6341b93d6b5d9cca" title="Evaluate primal variable at boundary." alt="" coords="295,133,536,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="247,151,281,151,281,156,247,156"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="363,198,468,223"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="228,171,350,195,349,200,227,176"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1DiffusionPostprocess.html#a6643be4745d32c7a53eac7b923b1780e" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="295,341,536,381"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="157,171,377,331,374,335,154,176"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="641,77,768,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,87,628,87,628,92,536,92"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="640,137,769,162"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="468,197,535,183,583,171,626,162,627,167,585,176,537,188,469,203"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="640,186,769,211"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="468,206,626,199,626,205,469,211"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="649,259,761,285"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="469,219,636,255,635,260,468,224"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="658,261,648,251,654,241,673,235,705,233,746,237,758,242,761,248,756,251,754,246,745,242,705,238,674,240,657,245,654,250,662,257"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1DiffusionPostprocess.html#add772626f9a0945b088fb5912d1385a4" title="Assemble local matrix for the local solver." alt="" coords="584,309,825,349"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="536,345,570,342,571,347,536,351"/>
+<area shape="rect" id="Node000012" href="$classLocalSolver_1_1DiffusionPostprocess.html#ac3549488ae9e817648cd8c8b4c4c44d4" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="584,373,825,413"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="536,372,571,376,570,381,536,377"/>
+<area shape="rect" id="Node000013" href="$classLocalSolver_1_1DiffusionPostprocess.html#acceb0cd7b099a083346b4421779bb86c" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="584,437,825,477"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="466,379,585,423,612,431,610,436,583,428,464,384"/>
+</map>

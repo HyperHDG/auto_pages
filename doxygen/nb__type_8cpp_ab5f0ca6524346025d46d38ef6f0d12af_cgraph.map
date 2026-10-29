@@ -1,0 +1,13 @@
+<map id="nb_type_init" name="nb_type_init">
+<area shape="rect" id="Node000001" title="Called when a C++ type is extended from within Python." alt="" coords="5,80,108,105"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8cpp.html#af40d06c55c6806b2ed17769c4efdbd29" title=" " alt="" coords="156,5,287,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,77,155,40,170,33,172,38,157,44,82,82"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="166,55,277,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,82,152,75,153,81,109,87"/>
+<area shape="rect" id="Node000004" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="162,104,281,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,97,149,103,148,109,108,103"/>
+<area shape="rect" id="Node000005" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="167,153,275,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="84,103,157,138,174,146,172,150,155,143,82,108"/>
+<area shape="rect" id="Node000006" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="335,153,377,179"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="276,163,321,163,321,169,276,169"/>
+</map>

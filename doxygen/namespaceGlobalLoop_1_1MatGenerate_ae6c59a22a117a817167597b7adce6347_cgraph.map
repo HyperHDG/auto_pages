@@ -1,0 +1,5 @@
+<map id="GlobalLoop::MatGenerate::local_condensed_matrix" name="GlobalLoop::MatGenerate::local_condensed_matrix">
+<area shape="rect" id="Node000001" title="Local condensed matrix of a hyperedge, i.e., the matrix representation of trace_to_flux." alt="" coords="5,5,193,45"/>
+<area shape="rect" id="Node000002" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="241,13,332,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,23,227,23,227,28,194,28"/>
+</map>

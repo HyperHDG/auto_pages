@@ -1,0 +1,5 @@
+<map id="nb_type_supplement" name="nb_type_supplement">
+<area shape="rect" id="Node000001" title="Get a pointer to a user&#45;defined &#39;extra&#39; value associated with the nb_type t." alt="" coords="5,5,164,31"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="212,5,323,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,15,198,15,198,21,164,21"/>
+</map>

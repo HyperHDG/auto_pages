@@ -1,0 +1,9 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/local_solver/diffusion_uniform_ldgh.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/local_solver/diffusion_uniform_ldgh.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,5,481,75"/>
+<area shape="rect" id="Node000002" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="5,123,232,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,82,180,125,178,120,278,78"/>
+<area shape="rect" id="Node000003" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="256,123,483,177"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="372,88,372,122,367,122,367,88"/>
+<area shape="rect" id="Node000004" href="$stiffness__matrix_8cxx.html" title="Check the assembly of the condensed (stiffness) matrix." alt="" coords="507,123,733,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="461,78,560,120,558,125,459,82"/>
+</map>

@@ -1,0 +1,42 @@
+<map id="nb_ndarray_tp" name="nb_ndarray_tp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,352,120,377"/>
+<area shape="rect" id="Node000002" href="$nb__ndarray_8cpp.html#aa1dbcd97642ac104849aa5d221d6e51e" title=" " alt="" coords="187,153,337,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,350,237,186,240,190,79,354"/>
+<area shape="rect" id="Node000006" href="$nb__ndarray_8cpp.html#a1fa2141187414d87aed34ae1c0e56767" title=" " alt="" coords="181,327,343,352"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,355,167,349,168,354,121,360"/>
+<area shape="rect" id="Node000016" href="$nb__ndarray_8cpp.html#abcef5069eda072ae5b29ae9bcf8a2e3e" title=" " alt="" coords="168,376,356,401"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="121,369,155,373,154,378,120,374"/>
+<area shape="rect" id="Node000017" href="$nb__internals_8h.html#ae819395120cbbb18f0efc3137d118dc6" title="Create a type via PyType_FromSpec and transfer ownership to the lifeline." alt="" coords="219,523,305,548"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="81,375,237,512,234,516,77,380"/>
+<area shape="rect" id="Node000003" href="$nb__ndarray_8cpp.html#a727e8de1dcf29fb8a54d56d26b45e14f" title="Decrease the reference count of the given ndarray object." alt="" coords="427,29,553,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="276,151,330,109,365,85,403,64,420,57,422,61,405,68,368,89,333,113,280,155"/>
+<area shape="rect" id="Node000004" href="$nb__internals_8cpp.html#a8a8301fc4100fa7b113f9323dfbc38bc" title=" " alt="" coords="668,5,740,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,32,654,21,655,26,554,38"/>
+<area shape="rect" id="Node000005" href="$nb__ndarray_8cpp.html#ab7a8d05dfcddddff08911b82dea8ed2a" title=" " alt="" coords="624,55,784,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="554,47,610,54,610,59,553,52"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a35991caa8c38a365c91731a2b00cb77c" title=" " alt="" coords="414,103,566,128"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="269,325,330,226,369,172,402,137,412,131,415,136,406,141,373,176,335,229,273,328"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="436,152,544,177"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="269,325,320,259,358,220,403,186,422,177,424,182,405,191,362,224,324,263,274,328"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a61ab8e7786883e9e7f8544d42dd4d5e4" title=" " alt="" coords="411,225,569,251"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="286,324,403,268,439,253,441,258,405,272,289,329"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#aec91ba8fb6b8d3062a2c22504bcf9f6a" title=" " alt="" coords="646,301,762,327"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="320,324,404,311,525,306,632,308,632,313,525,311,404,317,321,329"/>
+<area shape="rect" id="Node000011" href="$classndarray.html#ace7dd001aec87a639d2c8ed659d930ff" title=" " alt="" coords="423,327,557,352"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="343,337,409,337,409,342,343,342"/>
+<area shape="rect" id="Node000012" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="469,376,511,401"/>
+<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="322,349,456,379,454,384,321,355"/>
+<area shape="rect" id="Node000013" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="434,449,546,475"/>
+<area shape="poly" id="edge15_Node000006_Node000013" title=" " alt="" coords="329,350,357,362,373,374,383,387,392,399,406,412,451,441,448,445,402,416,388,402,379,390,369,378,355,367,326,354"/>
+<area shape="rect" id="Node000014" href="$classndarray.html#a7dbbeb427eda8e6e0472bb79953e1e1e" title=" " alt="" coords="431,523,549,548"/>
+<area shape="poly" id="edge17_Node000006_Node000014" title=" " alt="" coords="338,350,358,363,371,378,379,393,385,424,389,454,395,470,406,486,424,502,444,514,441,519,421,506,402,489,390,472,384,456,379,425,374,395,367,381,354,367,335,354"/>
+<area shape="rect" id="Node000015" href="$structndarray__handle.html#ad5888cc76cf7b671611fa43f6acd0f23" title=" " alt="" coords="404,572,576,597"/>
+<area shape="poly" id="edge19_Node000006_Node000015" title=" " alt="" coords="340,350,358,363,376,388,384,413,385,438,383,463,381,487,382,511,389,535,406,559,410,562,406,566,402,562,384,538,376,512,375,487,377,462,380,438,379,414,371,390,354,367,337,354"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="455,104,448,94,451,84,466,78,490,76,520,80,531,89,528,93,518,85,490,81,467,83,455,88,453,94,459,101"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="455,227,448,217,451,207,466,201,490,199,520,202,531,211,528,216,518,207,490,204,467,206,455,211,453,216,459,224"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="557,329,632,320,633,325,558,334"/>
+<area shape="poly" id="edge16_Node000013_Node000013" title=" " alt="" coords="455,451,448,441,451,431,466,425,490,423,520,426,531,435,528,440,518,431,490,428,467,430,455,435,453,440,459,448"/>
+<area shape="poly" id="edge18_Node000014_Node000014" title=" " alt="" coords="455,524,448,514,451,504,466,498,490,496,520,500,531,509,528,513,518,505,490,501,467,503,455,508,453,514,459,521"/>
+<area shape="rect" id="Node000018" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="442,621,538,647"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="285,546,339,576,405,608,430,616,428,621,403,612,336,581,283,550"/>
+</map>

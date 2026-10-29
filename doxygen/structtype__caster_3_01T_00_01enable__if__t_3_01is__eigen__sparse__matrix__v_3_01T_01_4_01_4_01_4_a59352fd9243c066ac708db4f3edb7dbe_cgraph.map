@@ -1,0 +1,11 @@
+<map id="type_caster&lt; T, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_python" name="type_caster&lt; T, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_python">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,65,252,120"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="335,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,63,321,30,322,35,218,68"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="314,55,422,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,77,300,72,301,77,252,82"/>
+<area shape="rect" id="Node000004" href="$classmodule__.html#a00d7077570683dc1d782bcd8dd3a2659" title=" " alt="" coords="300,104,436,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,102,286,106,286,111,252,108"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="347,153,389,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,118,334,153,333,158,218,123"/>
+</map>

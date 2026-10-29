@@ -1,0 +1,51 @@
+<map id="nb_internals" name="nb_internals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1871,222,1973,247"/>
+<area shape="rect" id="Node000002" href="$structnb__maybe__atomic.html" title=" " alt="" coords="1431,33,1701,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1686,30,1727,32,1770,39,1811,52,1848,72,1866,88,1881,107,1902,149,1915,190,1922,221,1916,222,1910,191,1897,151,1876,110,1862,92,1845,77,1809,57,1768,44,1727,37,1686,35"/>
+<area shape="rect" id="Node000003" href="$structnb__maybe__atomic.html" title=" " alt="" coords="1445,82,1687,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1701,86,1776,97,1813,109,1848,126,1874,147,1894,173,1918,221,1914,223,1889,176,1870,151,1845,130,1811,114,1775,102,1700,91"/>
+<area shape="rect" id="Node000004" href="$structnb__shard.html" title=" " alt="" coords="1525,195,1607,221"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1621,209,1871,228,1870,234,1620,215"/>
+<area shape="rect" id="Node000005" href="$classtsl_1_1robin__map.html" title=" " alt="" coords="1024,127,1183,167"/>
+<area shape="poly" id="edge23_Node000001_Node000005" title=" " alt="" coords="1197,148,1426,159,1702,180,1775,185,1807,189,1847,199,1898,219,1896,224,1846,204,1806,194,1775,190,1701,185,1426,165,1196,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1151,170,1207,192,1295,207,1383,213,1463,212,1525,209,1525,214,1463,218,1383,218,1294,212,1206,197,1149,175"/>
+<area shape="rect" id="Node000006" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html" title=" " alt="" coords="625,67,939,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="953,133,1024,138,1023,144,952,139"/>
+<area shape="rect" id="Node000007" href="$structptr__hash.html" title="Pointers require a good hash function to randomize the mapping to buckets." alt="" coords="364,30,443,55"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="457,51,626,88,625,93,456,56"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="316,79,491,105"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="505,98,625,108,625,113,504,103"/>
+<area shape="rect" id="Node000009" href="$classtsl_1_1rh_1_1power__of__two__growth__policy.html" title=" " alt="" coords="324,353,483,393"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="493,345,501,338,512,320,514,302,515,282,524,260,547,234,569,218,624,190,645,178,648,183,627,194,572,223,551,238,529,263,520,283,519,302,517,322,505,342,496,349"/>
+<area shape="rect" id="Node000013" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html" title=" " alt="" coords="639,205,925,318"/>
+<area shape="poly" id="edge15_Node000013_Node000009" title=" " alt="" coords="496,371,549,364,600,348,612,339,624,329,645,316,648,320,627,333,615,343,603,353,550,369,497,376"/>
+<area shape="rect" id="Node000017" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html" title=" " alt="" coords="677,343,887,500"/>
+<area shape="poly" id="edge21_Node000017_Node000009" title=" " alt="" coords="497,382,677,405,676,411,496,388"/>
+<area shape="rect" id="Node000010" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html" title=" " alt="" coords="304,274,503,329"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="496,264,501,260,510,244,512,229,514,212,525,195,571,163,624,142,626,147,574,168,529,199,519,214,517,229,515,246,505,263,500,268"/>
+<area shape="poly" id="edge16_Node000013_Node000010" title=" " alt="" coords="516,287,639,274,639,279,517,292"/>
+<area shape="poly" id="edge22_Node000017_Node000010" title=" " alt="" coords="504,330,677,386,676,391,503,335"/>
+<area shape="rect" id="Node000011" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry__hash.html" title=" " alt="" coords="5,281,255,321"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="268,299,304,299,304,304,268,304"/>
+<area shape="rect" id="Node000012" href="$classtsl_1_1robin__map.html" title=" " alt="" coords="1225,227,1388,296"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1402,256,1701,244,1870,235,1871,240,1701,249,1402,261"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="939,259,1225,259,1225,264,939,264"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="336,129,471,154"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="484,126,544,129,575,137,603,150,613,159,617,170,620,180,627,190,643,202,639,207,623,194,615,183,612,172,608,162,600,154,573,142,544,135,484,132"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="323,225,483,250"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="497,241,639,250,639,255,497,246"/>
+<area shape="rect" id="Node000016" href="$classtsl_1_1robin__map.html" title=" " alt="" coords="1207,303,1407,372"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="1420,320,1619,290,1846,249,1870,244,1871,249,1847,255,1620,295,1421,325"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="900,386,1024,360,1117,348,1206,340,1207,345,1118,353,1024,365,901,392"/>
+<area shape="rect" id="Node000018" href="$structstd__typeinfo__hash.html" title=" " alt="" coords="333,423,474,449"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="487,430,676,423,677,428,488,435"/>
+<area shape="rect" id="Node000019" href="$structstd__typeinfo__eq.html" title=" " alt="" coords="340,473,467,498"/>
+<area shape="poly" id="edge20_Node000017_Node000019" title=" " alt="" coords="480,470,676,436,677,442,481,475"/>
+<area shape="rect" id="Node000020" href="$structnb__maybe__atomic.html" title=" " alt="" coords="1479,371,1653,411"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="1667,396,1711,394,1758,388,1803,375,1845,354,1872,330,1892,300,1914,247,1919,249,1896,303,1876,333,1848,358,1805,380,1759,393,1712,400,1667,401"/>
+<area shape="rect" id="Node000021" href="$structnb__translator__seq.html" title=" " alt="" coords="1034,414,1173,439"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="1186,418,1479,395,1479,400,1187,423"/>
+<area shape="poly" id="edge26_Node000021_Node000021" title=" " alt="" coords="1079,399,1087,391,1103,387,1118,390,1126,396,1128,406,1124,415,1119,413,1123,405,1122,399,1115,395,1103,393,1089,395,1083,403"/>
+<area shape="rect" id="Node000022" href="$structnb__maybe__atomic.html" title=" " alt="" coords="1453,435,1679,461"/>
+<area shape="poly" id="edge27_Node000001_Node000022" title=" " alt="" coords="1692,457,1732,454,1772,446,1810,433,1845,413,1864,395,1879,374,1900,327,1912,282,1917,247,1922,248,1917,283,1905,329,1883,377,1868,399,1848,417,1813,438,1774,452,1733,459,1693,462"/>
+</map>

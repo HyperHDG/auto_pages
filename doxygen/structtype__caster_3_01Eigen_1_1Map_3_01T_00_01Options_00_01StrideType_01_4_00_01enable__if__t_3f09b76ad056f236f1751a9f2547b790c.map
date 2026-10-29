@@ -1,0 +1,9 @@
+<map id="type_caster&lt; Eigen::Map&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;" name="type_caster&lt; Eigen::Map&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;">
+<area shape="rect" id="Node000001" title="Type caster for Eigen::Map&lt;T&gt;" alt="" coords="5,243,273,327"/>
+<area shape="rect" id="Node000002" href="$structtype__caster.html" title=" " alt="" coords="48,155,231,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,194,142,243,137,243,137,194"/>
+<area shape="rect" id="Node000003" href="$structtype__caster__base.html" title=" " alt="" coords="38,80,241,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="142,120,142,154,137,154,137,120"/>
+<area shape="rect" id="Node000004" href="$structtype__caster__base__tag.html" title="Base of all type casters for traditional bindings created via nanobind::class_&lt;&gt;" alt="" coords="57,5,221,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,45,142,80,137,80,137,45"/>
+</map>

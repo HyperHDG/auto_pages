@@ -1,0 +1,13 @@
+<map id="compile_prep.need_compile" name="compile_prep.need_compile">
+<area shape="rect" id="Node000001" title="Check whether recompilation of executable is necessary." alt="" coords="5,63,211,88"/>
+<area shape="rect" id="Node000002" href="$nb__misc_8h.html#a6ffb176925adbe8476c547acc6523be6" title=" " alt="" coords="317,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,60,303,28,304,34,166,65"/>
+<area shape="rect" id="Node000004" href="$namespacecompile__prep.html#a0d018ac90c9076847539eb425fd19be3" title="Check whether any dependent files have been changed." alt="" coords="259,55,464,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="211,73,245,73,245,78,211,78"/>
+<area shape="rect" id="Node000006" href="$namespacecompile__prep.html#a2789bdbcb91ea616161bdace0d92b206" title="Check whether own code differs from last iteration." alt="" coords="272,120,451,145"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="166,85,292,114,291,120,164,91"/>
+<area shape="rect" id="Node000003" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="512,5,604,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,15,498,15,498,21,406,21"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="537,63,579,88"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="464,73,523,73,523,78,464,78"/>
+</map>

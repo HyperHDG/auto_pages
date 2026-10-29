@@ -1,0 +1,12 @@
+<map id="Wrapper::get_index" name="Wrapper::get_index">
+<area shape="rect" id="Node000001" title="Return index of given element within TPCC." alt="" coords="5,55,155,80"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="203,55,308,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,65,189,65,189,70,155,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="356,5,485,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,52,363,32,365,37,299,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="356,55,485,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,65,342,65,342,70,308,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="365,128,477,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="286,78,380,120,377,125,284,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="393,129,388,120,391,110,402,104,421,101,443,105,453,113,449,117,441,110,421,107,404,109,395,113,393,119,398,126"/>
+</map>

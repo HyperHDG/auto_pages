@@ -1,0 +1,12 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::error_def::postprocess_error" name="LocalSolver::DiffusionAdvectionReaction::error_def::postprocess_error">
+<area shape="rect" id="Node000001" title="Define how global errors should be postprocessed." alt="" coords="5,47,275,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="323,55,428,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,65,309,65,309,70,275,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="476,5,605,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,52,483,32,485,37,419,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="476,55,605,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="428,65,462,65,462,70,428,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="485,128,597,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="406,78,500,120,497,125,404,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="513,129,508,120,511,110,522,104,541,101,563,105,573,113,569,117,561,110,541,107,524,109,515,113,513,119,518,126"/>
+</map>

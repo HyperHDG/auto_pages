@@ -1,0 +1,17 @@
+<map id="TPP::Quadrature::Tensorial::integrate_bdr_psiphi_cutwind" name="TPP::Quadrature::Tensorial::integrate_bdr_psiphi_cutwind">
+<area shape="rect" id="Node000001" title="Integrate cut upwind of skeletal shape function times shape function." alt="" coords="5,71,227,111"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="275,5,501,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,69,274,39,309,31,310,36,275,45,177,74"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="329,79,447,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,89,316,89,316,94,227,94"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="335,128,441,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="227,109,322,126,321,131,226,114"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="351,80,344,70,348,60,363,54,388,52,420,56,432,65,428,69,418,61,388,57,364,59,351,64,349,70,356,77"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="549,79,679,104"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="441,127,542,104,543,110,442,132"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="549,128,679,153"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="441,138,536,138,536,143,441,143"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="558,201,670,227"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="429,151,562,194,560,199,427,156"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="577,203,570,193,574,183,589,177,614,175,646,179,658,188,654,192,644,183,614,180,590,182,577,187,575,192,582,199"/>
+</map>

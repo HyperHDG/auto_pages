@@ -1,0 +1,21 @@
+<map id="nb_func_render_signature" name="nb_func_render_signature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,196,105"/>
+<area shape="rect" id="Node000002" href="$structBuffer.html#a047fbe1481b2b4665a5d01e4ea44ee32" title="Append a string with the specified length." alt="" coords="268,5,359,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,77,243,39,262,33,264,38,245,45,138,82"/>
+<area shape="rect" id="Node000003" href="$structBuffer.html#a7ab0efeb986630c1f31c2b7fd72a145c" title="Append a dynamic string." alt="" coords="252,55,375,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,79,238,74,238,79,197,84"/>
+<area shape="rect" id="Node000004" href="$structBuffer.html#aa9c473354cd36261a50e87e281deb9fe" title="Append an unsigned 32 bit integer." alt="" coords="244,104,383,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,101,231,105,230,110,196,106"/>
+<area shape="rect" id="Node000005" href="$nb__func_8cpp.html#a9ee9544573091d32dc378a9a92b93766" title="Return a readable string representation of a C++ type." alt="" coords="266,153,361,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,103,264,146,262,151,138,108"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="431,104,560,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="360,151,434,130,435,136,362,156"/>
+<area shape="rect" id="Node000007" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="441,153,549,179"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="361,163,428,163,428,169,361,169"/>
+<area shape="rect" id="Node000009" href="$nb__func_8cpp.html#a6ebd3e791285383173b3db34f7eae6a3" title="Excise a substring from &#39;s&#39;." alt="" coords="464,203,527,228"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="362,176,451,201,450,206,360,181"/>
+<area shape="rect" id="Node000008" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="608,153,651,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="550,163,594,163,594,169,550,169"/>
+<area shape="rect" id="Node000010" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="608,203,651,228"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="527,213,594,213,594,218,527,218"/>
+</map>

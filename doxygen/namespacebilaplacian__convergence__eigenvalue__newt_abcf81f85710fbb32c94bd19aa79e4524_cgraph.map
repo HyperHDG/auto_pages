@@ -1,0 +1,10 @@
+<map id="bilaplacian_convergence_eigenvalue_newt.eigenvalue_newt" name="bilaplacian_convergence_eigenvalue_newt.eigenvalue_newt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,260,63"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="313,5,355,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,25,299,20,299,25,261,30"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="308,55,360,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="261,56,294,60,294,65,260,61"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="408,55,552,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,65,394,65,394,70,360,70"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="455,56,450,46,453,37,463,30,480,28,500,32,509,40,505,44,497,36,480,33,465,35,457,40,456,46,460,53"/>
+</map>

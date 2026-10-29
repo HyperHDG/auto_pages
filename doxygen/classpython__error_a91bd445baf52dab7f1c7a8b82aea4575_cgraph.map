@@ -1,0 +1,18 @@
+<map id="python_error::what" name="python_error::what">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,128,151,153"/>
+<area shape="rect" id="Node000002" href="$classmodule__.html#a00d7077570683dc1d782bcd8dd3a2659" title=" " alt="" coords="219,5,355,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,126,134,84,164,60,197,40,212,33,215,38,200,44,168,64,138,88,93,130"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="223,55,352,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,125,198,89,221,81,223,86,200,94,108,130"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="215,128,359,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,138,201,138,201,143,151,143"/>
+<area shape="rect" id="Node000005" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="233,177,341,203"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="133,151,221,172,220,177,132,156"/>
+<area shape="rect" id="Node000007" href="$classpython__error.html#a033bc47076954e85a77251dae3ad9b0b" title=" " alt="" coords="199,227,376,252"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="98,151,143,181,200,212,221,220,219,225,198,216,140,186,95,156"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="259,129,253,120,256,110,268,104,287,101,310,105,320,113,317,117,308,110,287,107,270,109,261,113,259,119,264,126"/>
+<area shape="rect" id="Node000006" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="436,177,479,203"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="342,187,422,187,422,193,342,193"/>
+<area shape="rect" id="Node000008" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="424,227,491,252"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="376,237,411,237,411,242,376,242"/>
+</map>

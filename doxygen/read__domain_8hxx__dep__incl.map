@@ -1,0 +1,16 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/read_domain.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/read_domain.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,471,60"/>
+<area shape="rect" id="Node000002" href="$topology_2file_8hxx.html" title=" " alt="" coords="252,108,471,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,74,364,108,359,108,359,74"/>
+<area shape="rect" id="Node000003" href="$geometry_2file_8hxx.html" title=" " alt="" coords="252,211,471,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,176,364,211,359,211,359,176"/>
+<area shape="rect" id="Node000005" href="$stiffness__matrix_8cxx.html" title="Check the assembly of the condensed (stiffness) matrix." alt="" coords="256,313,483,368"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="443,167,467,186,485,209,494,238,485,267,463,294,434,315,431,311,459,291,480,264,489,238,480,212,463,190,440,172"/>
+<area shape="rect" id="Node000006" href="$node__descriptor_2file_8hxx.html" title=" " alt="" coords="9,211,228,265"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="287,170,183,213,181,208,285,165"/>
+<area shape="rect" id="Node000004" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="5,313,232,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,273,183,316,181,311,285,268"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="367,279,370,313,365,313,362,279"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="121,279,121,313,116,313,116,279"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="197,268,305,311,303,316,195,273"/>
+</map>

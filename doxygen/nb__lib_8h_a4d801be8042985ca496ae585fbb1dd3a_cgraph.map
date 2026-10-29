@@ -1,0 +1,22 @@
+<map id="nb_inst_replace_move" name="nb_inst_replace_move">
+<area shape="rect" id="Node000001" title="Destruct &#39;dst&#39;, move&#45;construct &#39;dst&#39; from &#39;src&#39;, mark ready and retain &#39;destruct&#39; status (must have t..." alt="" coords="5,31,173,56"/>
+<area shape="rect" id="Node000002" href="$nb__type_8cpp.html#a58f659dd6480cd46a73a7c817e5171d3" title="Call the destructor of the given python object." alt="" coords="221,5,351,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,30,207,25,208,31,174,35"/>
+<area shape="rect" id="Node000005" href="$nb__type_8cpp.html#a0227681fa462106cd8832d72c6ce7384" title="Move&#45;construct &#39;dst&#39; from &#39;src&#39;, mark it as ready and to be destructed (must have the same nb_type)" alt="" coords="229,55,343,80"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,51,216,56,215,61,173,56"/>
+<area shape="rect" id="Node000003" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="419,55,489,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,28,406,51,405,56,329,33"/>
+<area shape="rect" id="Node000004" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="399,5,509,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="351,15,385,15,385,21,351,21"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="343,65,405,65,405,70,343,70"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="329,52,396,32,397,37,331,57"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="401,104,507,129"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="331,77,397,97,396,102,329,83"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="557,55,687,80"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="497,101,564,82,565,87,499,107"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="557,104,687,129"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="507,114,544,114,544,119,507,119"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="566,177,678,203"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="485,127,580,169,578,174,483,132"/>
+<area shape="poly" id="edge11_Node000009_Node000009" title=" " alt="" coords="594,179,588,169,591,159,603,153,622,151,645,154,655,163,651,167,643,159,622,156,604,158,595,163,593,168,598,176"/>
+</map>

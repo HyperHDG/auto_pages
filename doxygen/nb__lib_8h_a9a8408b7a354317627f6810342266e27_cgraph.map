@@ -1,0 +1,10 @@
+<map id="str_from_cstr" name="str_from_cstr">
+<area shape="rect" id="Node000001" title="Convert an UTF8 null&#45;terminated C string into a Python unicode string." alt="" coords="5,29,113,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a131914673a0a5fa38d59c69213c59360" title="Raise a runtime error with the given message." alt="" coords="161,29,216,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,39,148,39,148,45,114,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="167,30,162,21,164,11,174,5,189,3,206,6,214,14,210,18,204,11,189,8,176,10,169,14,167,20,171,28"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a09dc45ab3cd7c0463be975c3c88f7351" title=" " alt="" coords="264,29,399,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,39,250,39,250,45,216,45"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="447,29,497,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,39,433,39,433,45,399,45"/>
+</map>

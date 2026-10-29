@@ -1,0 +1,17 @@
+<map id="TPP::Quadrature::Tensorial::integrate_bdr_psifuncnuvecfunc_cutwind" name="TPP::Quadrature::Tensorial::integrate_bdr_psifuncnuvecfunc_cutwind">
+<area shape="rect" id="Node000001" title="Integrate cut upwind of skeletal shape function times function times vector function." alt="" coords="5,64,244,119"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="292,5,519,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,61,291,39,327,31,328,36,293,45,214,67"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="347,79,464,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,89,333,89,333,94,244,94"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="353,128,458,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="245,110,340,127,339,132,244,115"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="369,80,361,70,365,60,380,54,405,52,437,56,449,65,446,69,435,61,405,57,381,59,369,64,366,70,373,77"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="567,79,696,104"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="458,127,559,104,560,110,459,132"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="567,128,696,153"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="458,138,553,138,553,143,458,143"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="575,201,687,227"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="446,151,579,194,577,199,445,156"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="595,203,587,193,591,183,606,177,631,175,663,179,675,188,672,192,661,183,631,180,607,182,595,187,592,192,599,199"/>
+</map>

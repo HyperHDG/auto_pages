@@ -1,0 +1,18 @@
+<map id="Geometry::UnitCube::hyEdge::hyEdge" name="Geometry::UnitCube::hyEdge::hyEdge">
+<area shape="rect" id="Node000001" title="Construct a orthotopic hyperedge from its index and the surrounding unit hypercube." alt="" coords="5,35,160,75"/>
+<area shape="rect" id="Node000002" href="$classGeometry_1_1UnitCube_1_1hyEdge.html#aae16d79ac415aa0457abfb55a3d84445" title="Refine coarse elememnt." alt="" coords="212,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,41,198,36,199,41,160,46"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="208,70,375,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,62,195,67,194,72,160,68"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a2d05be3480691c4d0750c83a21838bb8" title="Return coordinate value with respect to index&#45;th orthonormal direction of element." alt="" coords="423,13,631,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,23,409,23,409,28,371,28"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="474,70,579,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="375,80,460,80,460,85,375,85"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="679,21,808,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="579,68,673,46,674,52,580,73"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="679,70,808,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="580,80,665,80,665,85,580,85"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="687,143,799,169"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="566,93,693,136,691,141,564,98"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="708,145,700,135,704,125,719,119,743,117,773,120,785,129,782,134,771,125,743,122,720,124,708,129,706,134,712,142"/>
+</map>

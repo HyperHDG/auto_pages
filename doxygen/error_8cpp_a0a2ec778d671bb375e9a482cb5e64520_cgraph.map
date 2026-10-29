@@ -1,0 +1,7 @@
+<map id="chain_error_v" name="chain_error_v">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,116,56"/>
+<area shape="rect" id="Node000002" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="164,5,256,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,31,150,25,151,31,117,37"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="185,55,235,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="117,50,172,59,171,64,116,55"/>
+</map>

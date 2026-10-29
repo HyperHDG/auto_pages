@@ -1,0 +1,30 @@
+<map id="nb_func_get_nb_signature" name="nb_func_get_nb_signature">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,197,132"/>
+<area shape="rect" id="Node000002" href="$structBuffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title=" " alt="" coords="290,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,104,244,48,284,33,286,38,246,52,128,109"/>
+<area shape="rect" id="Node000003" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="848,143,891,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,104,245,91,351,82,434,78,517,81,623,91,682,101,741,115,836,142,834,147,740,120,681,106,622,97,517,86,434,83,352,88,246,97,161,109"/>
+<area shape="rect" id="Node000004" href="$structBuffer.html#a096a90c1dc0b81f38aca799cf7dc9076" title=" " alt="" coords="295,107,386,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,117,282,117,282,122,198,122"/>
+<area shape="rect" id="Node000005" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="286,156,395,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="164,129,273,152,272,157,163,135"/>
+<area shape="rect" id="Node000006" href="$nb__func_8cpp.html#a582215dc31fc684f349fbbfcd2072d78" title=" " alt="" coords="245,205,436,231"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="126,130,179,160,246,190,272,199,271,204,244,195,177,164,123,135"/>
+<area shape="rect" id="Node000007" href="$structBuffer.html#a047fbe1481b2b4665a5d01e4ea44ee32" title="Append a string with the specified length." alt="" coords="508,107,599,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="406,203,435,190,449,179,458,167,467,154,482,141,494,135,497,139,486,146,471,158,462,170,453,183,437,195,409,208"/>
+<area shape="rect" id="Node000008" href="$structBuffer.html#a7ab0efeb986630c1f31c2b7fd72a145c" title="Append a dynamic string." alt="" coords="492,156,615,181"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="395,203,484,182,485,187,397,208"/>
+<area shape="rect" id="Node000009" href="$structBuffer.html#aa9c473354cd36261a50e87e281deb9fe" title="Append an unsigned 32 bit integer." alt="" coords="484,205,623,231"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="437,215,470,215,470,221,437,221"/>
+<area shape="rect" id="Node000010" href="$nb__func_8cpp.html#a9ee9544573091d32dc378a9a92b93766" title="Return a readable string representation of a C++ type." alt="" coords="506,255,601,280"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="397,228,494,251,492,256,395,233"/>
+<area shape="rect" id="Node000011" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="671,180,800,205"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="593,252,622,241,669,214,684,208,686,213,672,219,624,246,595,257"/>
+<area shape="rect" id="Node000012" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="681,229,789,255"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="600,258,667,249,668,254,601,263"/>
+<area shape="rect" id="Node000013" href="$nb__func_8cpp.html#a6ebd3e791285383173b3db34f7eae6a3" title="Excise a substring from &#39;s&#39;." alt="" coords="704,279,767,304"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="601,271,691,283,690,288,600,276"/>
+<area shape="poly" id="edge12_Node000012_Node000003" title=" " alt="" coords="774,227,799,214,824,196,845,176,849,180,827,200,801,219,776,231"/>
+<area shape="rect" id="Node000014" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="848,279,891,304"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="767,289,834,289,834,294,767,294"/>
+</map>

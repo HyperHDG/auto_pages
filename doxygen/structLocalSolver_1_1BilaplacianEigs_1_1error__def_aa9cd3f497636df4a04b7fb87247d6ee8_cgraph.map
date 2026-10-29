@@ -1,0 +1,12 @@
+<map id="LocalSolver::BilaplacianEigs::error_def::sum_error" name="LocalSolver::BilaplacianEigs::error_def::sum_error">
+<area shape="rect" id="Node000001" title="Define how local errors should be accumulated." alt="" coords="5,47,195,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="243,55,348,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,65,229,65,229,70,195,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="396,5,525,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,52,403,32,405,37,339,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="396,55,525,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="348,65,382,65,382,70,348,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="405,128,517,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="326,78,420,120,417,125,324,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="433,129,428,120,431,110,442,104,461,101,483,105,493,113,489,117,481,110,461,107,444,109,435,113,433,119,438,126"/>
+</map>

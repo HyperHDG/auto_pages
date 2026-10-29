@@ -1,0 +1,8 @@
+<map id="advection_convergence_rotation.diffusion_test" name="advection_convergence_rotation.diffusion_test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,181,62"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="229,29,281,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,39,216,39,216,45,182,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="329,29,473,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,39,316,39,316,45,282,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="377,30,372,21,374,11,385,5,401,3,421,6,430,15,426,18,419,11,401,8,386,10,379,15,377,20,381,28"/>
+</map>

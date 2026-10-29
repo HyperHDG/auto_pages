@@ -1,0 +1,42 @@
+<map id="nb_func_error_overload" name="nb_func_error_overload">
+<area shape="rect" id="Node000001" title="Used by nb_func_vectorcall: generate an error when overload resolution fails." alt="" coords="5,256,180,281"/>
+<area shape="rect" id="Node000002" href="$structBuffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title=" " alt="" coords="273,5,374,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,255,110,213,136,155,175,93,199,64,227,40,258,24,261,29,229,44,203,68,179,96,141,157,115,215,100,256"/>
+<area shape="rect" id="Node000003" href="$structBuffer.html#a096a90c1dc0b81f38aca799cf7dc9076" title=" " alt="" coords="278,55,369,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="98,254,115,221,143,176,181,129,227,89,264,73,266,78,229,94,184,133,147,179,120,223,102,257"/>
+<area shape="rect" id="Node000004" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="269,104,378,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="103,254,153,203,188,173,227,146,259,131,261,136,229,151,191,177,157,207,107,258"/>
+<area shape="rect" id="Node000005" href="$nb__func_8cpp.html#a582215dc31fc684f349fbbfcd2072d78" title=" " alt="" coords="228,256,419,281"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="180,266,214,266,214,271,180,271"/>
+<area shape="rect" id="Node000006" href="$structBuffer.html#a047fbe1481b2b4665a5d01e4ea44ee32" title="Append a string with the specified length." alt="" coords="491,156,581,181"/>
+<area shape="poly" id="edge17_Node000001_Node000006" title=" " alt="" coords="121,253,170,233,227,214,361,187,477,171,477,177,362,192,229,219,172,238,123,258"/>
+<area shape="rect" id="Node000007" href="$structBuffer.html#a7ab0efeb986630c1f31c2b7fd72a145c" title="Append a dynamic string." alt="" coords="475,207,597,232"/>
+<area shape="poly" id="edge18_Node000001_Node000007" title=" " alt="" coords="153,253,228,241,351,228,461,220,461,226,351,233,228,246,154,259"/>
+<area shape="rect" id="Node000008" href="$structBuffer.html#aa9c473354cd36261a50e87e281deb9fe" title="Append an unsigned 32 bit integer." alt="" coords="467,307,605,332"/>
+<area shape="poly" id="edge19_Node000001_Node000008" title=" " alt="" coords="154,279,228,291,346,304,453,312,452,318,345,309,228,297,153,284"/>
+<area shape="rect" id="Node000015" href="$nb__type_8cpp.html#a0d872f74491b53bfca5eb5f92975a4c6" title="Return a unicode string representing the long&#45;form name of object&#39;s type." alt="" coords="267,357,380,383"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="118,279,168,306,229,336,268,351,267,355,227,340,166,311,115,284"/>
+<area shape="rect" id="Node000017" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="277,407,369,432"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="106,280,155,335,190,366,229,393,265,407,263,412,227,398,187,371,151,339,102,283"/>
+<area shape="rect" id="Node000018" href="$classobject.html#a4ce66b1d44b37ae6b28e80228b075aae" title=" " alt="" coords="264,456,383,481"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="102,280,120,314,148,358,184,404,229,442,252,454,250,458,227,447,181,407,143,361,115,316,98,283"/>
+<area shape="rect" id="Node000019" href="$structBuffer.html#a44d90419fadd91b49a1fceec22ddc8be" title="Remove the last &#39;n&#39; characters." alt="" coords="267,505,380,531"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="100,281,115,322,141,380,179,440,203,468,230,492,254,505,252,510,226,496,199,472,175,444,136,382,110,324,95,283"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="346,254,400,224,466,192,484,184,486,189,468,196,402,229,348,258"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="378,253,467,233,468,238,379,259"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="378,279,470,301,468,306,377,284"/>
+<area shape="rect" id="Node000009" href="$nb__func_8cpp.html#a9ee9544573091d32dc378a9a92b93766" title="Return a readable string representation of a C++ type." alt="" coords="489,256,583,281"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="419,266,475,266,475,271,419,271"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="653,207,783,232"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="583,253,656,233,658,238,584,259"/>
+<area shape="rect" id="Node000011" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="664,256,772,281"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="584,266,650,266,650,271,584,271"/>
+<area shape="rect" id="Node000013" href="$nb__func_8cpp.html#a6ebd3e791285383173b3db34f7eae6a3" title="Excise a substring from &#39;s&#39;." alt="" coords="687,305,749,331"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="584,279,674,304,673,309,583,284"/>
+<area shape="rect" id="Node000012" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="831,256,873,281"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="772,266,817,266,817,271,772,271"/>
+<area shape="rect" id="Node000014" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="831,305,873,331"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="750,315,817,315,817,321,750,321"/>
+<area shape="rect" id="Node000016" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="477,357,595,383"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="380,367,463,367,463,373,380,373"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="fiber_network.make_geo.make_geo" name="fiber_network.make_geo.make_geo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,156,63"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="209,5,251,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,28,195,21,196,26,157,33"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="204,55,256,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,53,191,58,190,64,156,58"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="304,55,448,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,65,290,65,290,70,256,70"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="351,56,346,46,349,37,359,30,376,28,396,32,405,40,401,44,393,36,376,33,361,35,353,40,352,46,356,53"/>
+</map>

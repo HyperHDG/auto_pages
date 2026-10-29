@@ -1,0 +1,5 @@
+<map id="is_complex&lt; T, enable_if_t&lt; std::is_same_v&lt; decltype(std::declval&lt; T &gt;().real()), typename T::value_type &gt; &amp;&amp;std::is_same_v&lt; decltype(std::declval&lt; T &gt;().imag()), typename T::value_type &gt; &amp;&amp;(sizeof(T)==2 *sizeof(typename T::value_type))&gt; &gt;" name="is_complex&lt; T, enable_if_t&lt; std::is_same_v&lt; decltype(std::declval&lt; T &gt;().real()), typename T::value_type &gt; &amp;&amp;std::is_same_v&lt; decltype(std::declval&lt; T &gt;().imag()), typename T::value_type &gt; &amp;&amp;(sizeof(T)==2 *sizeof(typename T::value_type))&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,316,221"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="105,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,44,163,78,158,78,158,44"/>
+</map>

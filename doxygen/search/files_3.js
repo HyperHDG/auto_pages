@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['check_5fpush_5ftest_2epy_0',['check_push_test.py',['../check__push__test_8py.html',1,'']]],
+  ['check_5freproducibles_5ftest_2epy_1',['check_reproducibles_test.py',['../check__reproducibles__test_8py.html',1,'']]],
+  ['check_5fvs_5fcython_2epy_2',['check_vs_cython.py',['../check__vs__cython_8py.html',1,'']]],
+  ['chrono_2eh_3',['chrono.h',['../detail_2chrono_8h.html',1,'(Global Namespace)'],['../chrono_8h.html',1,'(Global Namespace)']]],
+  ['cmake_2epy_4',['cmake.py',['../cmake_8py.html',1,'']]],
+  ['collect_2dsymbols_2dpypy_2epy_5',['collect-symbols-pypy.py',['../collect-symbols-pypy_8py.html',1,'']]],
+  ['collect_2dsymbols_2epy_6',['collect-symbols.py',['../collect-symbols_8py.html',1,'']]],
+  ['combination_5f01_2ecc_7',['combination_01.cc',['../combination__01_8cc.html',1,'']]],
+  ['combination_5f02_2ecc_8',['combination_02.cc',['../combination__02_8cc.html',1,'']]],
+  ['combinations_2eh_9',['combinations.h',['../combinations_8h.html',1,'']]],
+  ['common_2ecpp_10',['common.cpp',['../common_8cpp.html',1,'']]],
+  ['common_2epy_11',['common.py',['../common_8py.html',1,'']]],
+  ['compile_5fprep_2epy_12',['compile_prep.py',['../compile__prep_8py.html',1,'']]],
+  ['compile_5ftime_5ftricks_2ehxx_13',['compile_time_tricks.hxx',['../submodules_2tensor__product__polynomials_8git_2include_2tpp_2compile__time__tricks_8hxx.html',1,'(Global Namespace)'],['../include_2HyperHDG_2compile__time__tricks_8hxx.html',1,'(Global Namespace)']]],
+  ['complex_2eh_14',['complex.h',['../complex_8h.html',1,'']]],
+  ['condensed_5foperator_2ehxx_15',['condensed_operator.hxx',['../condensed__operator_8hxx.html',1,'']]],
+  ['conf_2epy_16',['conf.py',['../conf_8py.html',1,'']]],
+  ['config_2epy_17',['config.py',['../config_8py.html',1,'']]],
+  ['conftest_2epy_18',['conftest.py',['../conftest_8py.html',1,'']]],
+  ['counter_2eh_19',['counter.h',['../counter_8h.html',1,'']]],
+  ['counter_2einl_20',['counter.inl',['../counter_8inl.html',1,'']]],
+  ['cpp_2epy_21',['cpp.py',['../cpp_8py.html',1,'']]],
+  ['cppyy_2eh_22',['cppyy.h',['../cppyy_8h.html',1,'']]],
+  ['cubic_2ehxx_23',['cubic.hxx',['../topology_2cubic_8hxx.html',1,'(Global Namespace)'],['../node__descriptor_2cubic_8hxx.html',1,'(Global Namespace)']]],
+  ['custom_5fallocator_5ftests_2ecpp_24',['custom_allocator_tests.cpp',['../custom__allocator__tests_8cpp.html',1,'']]]
+];

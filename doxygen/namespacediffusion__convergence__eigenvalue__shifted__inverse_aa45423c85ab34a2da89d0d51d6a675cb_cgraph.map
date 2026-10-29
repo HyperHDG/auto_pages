@@ -1,0 +1,8 @@
+<map id="diffusion_convergence_eigenvalue_shifted_inverse.eigenvalue_approx_SI" name="diffusion_convergence_eigenvalue_shifted_inverse.eigenvalue_approx_SI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,15,288,69"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="336,29,388,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,39,322,39,322,45,288,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="436,29,580,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,39,422,39,422,45,388,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="483,30,478,21,481,11,491,5,508,3,528,6,537,15,533,18,525,11,508,8,493,10,485,15,484,20,488,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="nb_inst_ptr" name="nb_inst_ptr">
+<area shape="rect" id="Node000001" title="Get a pointer to the instance data of a nanobind instance (nb_inst)" alt="" coords="5,5,100,31"/>
+<area shape="rect" id="Node000002" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="148,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,15,134,15,134,21,100,21"/>
+</map>

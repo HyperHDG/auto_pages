@@ -1,0 +1,41 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structtype__caster__base__tag.html" title="Base of all type casters for traditional bindings created via nanobind::class_&lt;&gt;" alt="" coords="5,266,169,291"/>
+<area shape="rect" id="Node000001" href="$structtype__caster__base.html" title=" " alt="" coords="231,13,427,38"/>
+<area shape="poly" id="edge145_Node000000_Node000001" title=" " alt="" coords="93,252,108,208,133,152,169,96,191,71,216,48,239,36,242,40,219,53,194,74,173,99,138,155,113,209,98,254"/>
+<area shape="rect" id="Node000003" href="$structtype__caster__base.html" title=" " alt="" coords="234,63,425,103"/>
+<area shape="poly" id="edge147_Node000000_Node000003" title=" " alt="" coords="99,253,144,183,177,145,216,112,238,100,241,105,219,117,181,149,149,186,104,255"/>
+<area shape="rect" id="Node000004" href="$structtype__caster__base.html" title=" " alt="" coords="229,127,430,167"/>
+<area shape="poly" id="edge148_Node000000_Node000004" title=" " alt="" coords="110,254,157,215,216,176,244,164,246,169,219,181,160,219,113,258"/>
+<area shape="rect" id="Node000005" href="$structtype__caster__base.html" title=" " alt="" coords="219,191,440,217"/>
+<area shape="poly" id="edge149_Node000000_Node000005" title=" " alt="" coords="129,258,217,225,260,214,262,219,218,231,131,263"/>
+<area shape="rect" id="Node000006" href="$structtype__caster__base.html" title=" " alt="" coords="232,241,427,266"/>
+<area shape="poly" id="edge150_Node000000_Node000006" title=" " alt="" coords="183,266,231,261,232,266,183,271"/>
+<area shape="rect" id="Node000007" href="$structtype__caster__base.html" title=" " alt="" coords="217,290,441,315"/>
+<area shape="poly" id="edge151_Node000000_Node000007" title=" " alt="" coords="183,285,217,289,217,294,183,291"/>
+<area shape="rect" id="Node000008" href="$structtype__caster__base.html" title=" " alt="" coords="238,339,421,365"/>
+<area shape="poly" id="edge152_Node000000_Node000008" title=" " alt="" coords="132,294,218,325,262,337,261,342,217,331,130,299"/>
+<area shape="rect" id="Node000009" href="$structtype__caster__base.html" title=" " alt="" coords="238,389,421,414"/>
+<area shape="poly" id="edge153_Node000000_Node000009" title=" " alt="" coords="113,299,159,338,188,358,218,375,250,386,248,391,216,380,185,363,156,343,109,303"/>
+<area shape="rect" id="Node000010" href="$structtype__caster__base.html" title=" " alt="" coords="242,438,417,463"/>
+<area shape="poly" id="edge154_Node000000_Node000010" title=" " alt="" coords="105,302,150,364,182,397,219,424,243,435,241,440,216,429,179,401,146,368,101,305"/>
+<area shape="rect" id="Node000011" href="$structtype__caster__base.html" title=" " alt="" coords="228,487,431,513"/>
+<area shape="poly" id="edge155_Node000000_Node000011" title=" " alt="" coords="100,304,117,342,143,389,176,435,219,474,240,485,238,490,216,478,173,439,138,392,112,345,96,306"/>
+<area shape="rect" id="Node000002" href="$structtype__caster.html" title=" " alt="" coords="527,5,674,45"/>
+<area shape="poly" id="edge146_Node000001_Node000002" title=" " alt="" coords="441,23,527,23,527,28,441,28"/>
+<area shape="rect" id="Node000012" href="$structtype__caster.html" title=" " alt="" coords="489,298,712,323"/>
+<area shape="poly" id="edge156_Node000011_Node000012" title=" " alt="" coords="435,478,439,474,453,458,460,441,463,406,466,370,473,351,488,334,507,321,510,326,491,338,478,354,471,371,468,406,465,442,458,461,443,478,438,482"/>
+<area shape="rect" id="Node000013" href="$structtype__caster.html" title=" " alt="" coords="501,348,700,388"/>
+<area shape="poly" id="edge157_Node000011_Node000013" title=" " alt="" coords="431,479,440,474,456,457,463,438,471,418,488,399,510,386,513,390,491,403,475,421,468,440,460,460,443,478,434,484"/>
+<area shape="rect" id="Node000014" href="$structtype__caster.html" title=" " alt="" coords="509,413,692,438"/>
+<area shape="poly" id="edge158_Node000011_Node000014" title=" " alt="" coords="416,481,440,474,464,461,488,448,531,435,532,441,490,453,467,466,442,478,417,486"/>
+<area shape="rect" id="Node000015" href="$structtype__caster.html" title=" " alt="" coords="523,462,679,487"/>
+<area shape="poly" id="edge159_Node000011_Node000015" title=" " alt="" coords="444,487,522,479,523,485,445,492"/>
+<area shape="rect" id="Node000016" href="$structtype__caster.html" title=" " alt="" coords="507,511,694,537"/>
+<area shape="poly" id="edge160_Node000011_Node000016" title=" " alt="" coords="445,508,507,513,507,518,444,513"/>
+<area shape="rect" id="Node000017" href="$structtype__caster.html" title=" " alt="" coords="529,561,673,586"/>
+<area shape="poly" id="edge161_Node000011_Node000017" title=" " alt="" coords="382,514,490,547,537,558,536,563,489,552,380,519"/>
+<area shape="rect" id="Node000018" href="$structtype__caster.html" title=" " alt="" coords="529,610,673,635"/>
+<area shape="poly" id="edge162_Node000011_Node000018" title=" " alt="" coords="359,519,418,558,490,596,529,608,528,613,488,601,415,563,356,523"/>
+<area shape="rect" id="Node000019" href="$structtype__caster.html" title=" " alt="" coords="533,659,669,685"/>
+<area shape="poly" id="edge163_Node000011_Node000019" title=" " alt="" coords="350,521,408,584,447,618,491,646,533,661,531,666,488,650,444,622,405,588,347,525"/>
+</map>

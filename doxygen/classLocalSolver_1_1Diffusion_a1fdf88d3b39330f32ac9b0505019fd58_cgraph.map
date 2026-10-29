@@ -1,0 +1,7 @@
+<map id="LocalSolver::Diffusion::trace_to_flux_mat" name="LocalSolver::Diffusion::trace_to_flux_mat">
+<area shape="rect" id="Node000001" title="Local condensed matrix, i.e., the matrix representation of trace_to_flux." alt="" coords="5,35,168,75"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#a82ffb50b1d1883e2b3cf5528ca0fac35" title="Assemble local matrix for the local solver." alt="" coords="216,5,385,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,41,202,36,203,41,169,46"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="247,70,355,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,63,233,71,232,76,168,68"/>
+</map>

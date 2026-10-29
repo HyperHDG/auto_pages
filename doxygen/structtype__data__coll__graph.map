@@ -1,0 +1,16 @@
+<map id="type_data" name="type_data">
+<area shape="rect" id="Node000001" title="Information about a type that persists throughout its lifetime." alt="" coords="260,269,347,295"/>
+<area shape="rect" id="Node000002" href="$structnb__alias__chain.html" title=" " alt="" coords="5,181,124,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,210,188,243,264,267,262,272,186,248,102,215"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="139,185,151,194,142,202,125,204,124,199,140,197,145,194,136,190"/>
+<area shape="rect" id="Node000003" href="$structimplicit__t.html" title=" " alt="" coords="206,181,289,207"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="264,218,280,244,297,268,292,271,276,247,259,220"/>
+<area shape="rect" id="Node000004" href="$structenum__tbl__t.html" title=" " alt="" coords="313,181,408,207"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="350,220,334,247,315,271,311,268,329,244,345,217"/>
+<area shape="rect" id="Node000005" href="$structnb__inst__pool.html" title="LIFO Instance pool." alt="" coords="433,181,537,207"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="461,217,413,248,348,272,346,267,410,243,458,213"/>
+<area shape="rect" id="Node000006" href="$structnb__inst.html" title="Python object representing an instance of a bound C++ type." alt="" coords="450,93,519,119"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="487,133,487,181,482,181,482,133"/>
+<area shape="rect" id="Node000007" href="$structnb__inst__state.html" title="Packed status of a nanobind type instance." alt="" coords="430,5,539,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="487,45,487,93,482,93,482,45"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="object::reset" name="object::reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,108,31"/>
+<area shape="rect" id="Node000002" href="$counter_8h.html#a75ad3f18a3975ffb8e9d8bd3e0e7d16d" title="Decrease the reference count and potentially delete an intrusively reference&#45;counted object o if o is..." alt="" coords="156,5,227,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,15,142,15,142,21,108,21"/>
+</map>

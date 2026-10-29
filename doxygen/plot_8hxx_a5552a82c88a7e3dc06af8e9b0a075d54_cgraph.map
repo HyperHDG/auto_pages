@@ -1,0 +1,14 @@
+<map id="plot_boundary_values" name="plot_boundary_values">
+<area shape="rect" id="Node000001" title="Auxiliary function to plot solution values on edge boundary." alt="" coords="5,31,171,56"/>
+<area shape="rect" id="Node000002" href="$structHypercube.html#aa316d27aad8778241954792dda4821c5" title="Number of vertices of the hypercube." alt="" coords="219,5,385,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,31,205,27,206,32,171,36"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="249,55,355,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,50,236,57,235,63,171,55"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="433,5,563,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="352,52,433,32,434,37,354,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="433,55,563,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="355,65,419,65,419,70,355,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="442,128,554,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="338,78,451,120,449,125,336,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="466,129,459,120,463,110,476,104,498,101,525,105,536,114,533,118,523,110,498,107,477,109,466,113,464,119,470,126"/>
+</map>

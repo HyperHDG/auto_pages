@@ -1,0 +1,28 @@
+<map id="diffusion_convergence_eigenvalue_newt.main" name="diffusion_convergence_eigenvalue_newt.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,183,95"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="237,13,279,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,53,222,34,224,39,162,58"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="231,63,285,88"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,73,217,73,217,78,183,78"/>
+<area shape="rect" id="Node000011" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="232,120,284,145"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="153,93,220,117,218,122,151,98"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations." alt="" coords="333,47,488,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="285,71,319,69,320,75,286,77"/>
+<area shape="rect" id="Node000005" href="$namespaceSparseLA.html#a4e8d2ccaece139868adfed54769bfca8" title="Evaluate the inner product of two vectors." alt="" coords="554,5,734,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="488,48,570,31,571,36,489,54"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#ac570d418f73cd49d70fd962be2e4e00b" title="Evaluate linear combination of vectors and return the result." alt="" coords="536,55,752,80"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="488,65,522,65,522,70,488,70"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="800,80,905,105"/>
+<area shape="poly" id="edge11_Node000004_Node000007" title=" " alt="" coords="489,82,536,89,670,95,786,93,786,99,670,100,536,94,488,87"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="749,77,786,82,786,87,749,83"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="953,31,1083,56"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="895,77,961,58,962,63,897,83"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="953,80,1083,105"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="905,90,940,90,940,95,905,95"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="962,153,1074,179"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="883,103,977,145,975,150,881,108"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="991,155,985,145,988,135,999,129,1018,127,1040,130,1050,139,1046,143,1038,135,1018,132,1001,134,992,139,990,144,995,152"/>
+<area shape="rect" id="Node000012" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="339,136,483,161"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="284,133,326,137,325,142,284,138"/>
+<area shape="poly" id="edge14_Node000012_Node000012" title=" " alt="" coords="385,137,380,128,382,118,393,112,411,109,432,113,441,121,437,125,429,118,411,115,395,117,387,121,385,127,390,135"/>
+</map>

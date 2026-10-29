@@ -1,0 +1,16 @@
+<map id="LocalSolver::DiffusionPostprocess::flux_from_coeffs" name="LocalSolver::DiffusionPostprocess::flux_from_coeffs">
+<area shape="rect" id="Node000001" title="Evaluate trace_to_flux for given solution of the local problem." alt="" coords="5,69,247,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionPostprocess.html#afe45d937f4a0fa2200297362f1d98296" title="Evaluate dual variable at boundary." alt="" coords="295,5,536,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,67,310,46,312,51,218,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionPostprocess.html#ae37733a3fec2ea5f6341b93d6b5d9cca" title="Evaluate primal variable at boundary." alt="" coords="295,69,536,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,87,281,87,281,92,247,92"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="363,134,468,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,107,350,131,349,136,227,112"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="584,85,713,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="468,133,535,119,575,110,576,116,537,124,469,138"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="584,134,713,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="468,144,570,144,570,149,468,149"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="593,207,705,233"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="458,157,595,201,593,206,456,162"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="611,209,603,199,607,189,623,183,649,181,681,185,694,194,690,198,679,189,649,186,624,188,611,193,608,198,615,205"/>
+</map>

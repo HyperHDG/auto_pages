@@ -1,0 +1,7 @@
+<map id="nb_inst_destruct" name="nb_inst_destruct">
+<area shape="rect" id="Node000001" title="Call the destructor of the given python object." alt="" coords="5,31,135,56"/>
+<area shape="rect" id="Node000002" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="203,5,273,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,31,188,23,189,28,135,36"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="183,55,293,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="135,50,169,55,168,60,134,55"/>
+</map>

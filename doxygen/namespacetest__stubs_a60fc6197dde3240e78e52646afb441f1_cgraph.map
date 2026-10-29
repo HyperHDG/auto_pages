@@ -1,0 +1,13 @@
+<map id="test_stubs.test01_check_stub_refs" name="test_stubs.test01_check_stub_refs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,34,184,74"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="537,5,580,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,31,232,19,314,13,395,10,524,13,523,19,395,16,314,18,232,25,169,37"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="309,99,361,124"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,71,297,100,295,105,179,77"/>
+<area shape="rect" id="Node000005" href="$namespacetest__stubs.html#a6971c2d615580276920f754146466b0e" title=" " alt="" coords="232,34,439,74"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="184,51,218,51,218,57,184,57"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="487,99,631,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="362,109,473,109,473,114,362,114"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="523,100,515,90,519,80,534,74,559,72,589,76,602,85,598,89,587,81,559,77,535,79,522,84,520,90,527,97"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="439,35,523,21,524,26,440,40"/>
+</map>

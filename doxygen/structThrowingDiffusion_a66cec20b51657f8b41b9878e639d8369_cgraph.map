@@ -1,0 +1,9 @@
+<map id="ThrowingDiffusion::trace_to_flux_mat" name="ThrowingDiffusion::trace_to_flux_mat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,153,75"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#a1fdf88d3b39330f32ac9b0505019fd58" title="Local condensed matrix, i.e., the matrix representation of trace_to_flux." alt="" coords="201,35,364,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,52,188,52,188,57,154,57"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Diffusion.html#a82ffb50b1d1883e2b3cf5528ca0fac35" title="Assemble local matrix for the local solver." alt="" coords="412,5,581,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,41,398,36,399,41,365,46"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="443,70,551,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,63,429,71,428,76,364,68"/>
+</map>

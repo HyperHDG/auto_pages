@@ -1,0 +1,7 @@
+<map id="NodeDescriptor::File&lt; hyEdge_dimT, space_dimT, vectorT, pointT, hyEdge_index_t, hyNode_index_t, pt_index_t &gt;::hyEdge" name="NodeDescriptor::File&lt; hyEdge_dimT, space_dimT, vectorT, pointT, hyEdge_index_t, hyNode_index_t, pt_index_t &gt;::hyEdge">
+<area shape="rect" id="Node000001" title="Definition of the node types of a hypergraph&#39;s edges." alt="" coords="747,5,971,89"/>
+<area shape="rect" id="Node000002" href="$classNodeDescriptor_1_1File.html" title="Hypergraph topology based on an input file." alt="" coords="381,5,568,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,45,747,45,747,50,582,50"/>
+<area shape="rect" id="Node000003" href="$structDomainInfo.html" title=" " alt="" coords="5,5,240,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,45,381,45,381,50,254,50"/>
+</map>

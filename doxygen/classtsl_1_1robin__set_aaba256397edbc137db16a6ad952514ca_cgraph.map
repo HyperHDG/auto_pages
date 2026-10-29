@@ -1,0 +1,30 @@
+<map id="tsl::robin_set::erase_fast" name="tsl::robin_set::erase_fast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,139,188,165"/>
+<area shape="rect" id="Node000002" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a07adb1e60300e6b487eacfe2ecec9bd8" title=" " alt="" coords="236,132,413,172"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,149,222,149,222,155,188,155"/>
+<area shape="rect" id="Node000003" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a7a33132b6ab16d543d4fd2a0c1861af6" title=" " alt="" coords="461,125,644,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,149,448,149,448,155,414,155"/>
+<area shape="rect" id="Node000004" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a18a6d71a3aebccb487aa897064bdbf66" title=" " alt="" coords="705,36,867,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="609,122,691,85,710,78,712,83,693,90,611,127"/>
+<area shape="rect" id="Node000008" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a24d9538f5eab01edb6621f1d41c04cfc" title=" " alt="" coords="705,100,867,140"/>
+<area shape="poly" id="edge9_Node000003_Node000008" title=" " alt="" coords="644,137,691,130,692,135,645,142"/>
+<area shape="rect" id="Node000009" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a18e4e4f67fca285000fa2d664273c14d" title=" " alt="" coords="692,164,880,204"/>
+<area shape="poly" id="edge10_Node000003_Node000009" title=" " alt="" coords="645,162,679,167,678,172,644,167"/>
+<area shape="rect" id="Node000011" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#ac04faad1279a09d6f335c21172798d3a" title=" " alt="" coords="694,238,878,293"/>
+<area shape="poly" id="edge12_Node000003_Node000011" title=" " alt="" coords="611,177,718,229,716,234,609,182"/>
+<area shape="rect" id="Node000005" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#ab6eca967c55bc08763c8e534bf789b19" title=" " alt="" coords="931,27,1144,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="867,50,917,48,917,54,867,56"/>
+<area shape="rect" id="Node000006" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a340ef1dd98ee7dc8cd302f6dab921d2a" title=" " alt="" coords="1404,56,1567,96"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="867,68,928,76,1053,83,1178,84,1390,79,1390,84,1178,89,1053,88,928,81,867,74"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1109,24,1163,13,1226,5,1292,4,1357,12,1401,27,1442,47,1439,51,1399,32,1355,17,1291,9,1226,10,1164,18,1110,29"/>
+<area shape="rect" id="Node000007" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#acca0ef814b29e7275cc08ed0b5de87c0" title=" " alt="" coords="1195,27,1356,67"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1144,44,1181,44,1181,49,1144,49"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="1357,55,1391,60,1390,65,1356,60"/>
+<area shape="rect" id="Node000010" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a82d07c98305050461c5e853f3734434b" title=" " alt="" coords="940,141,1135,181"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="880,173,926,169,927,174,881,178"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="878,248,1005,224,1146,191,1294,144,1420,98,1422,103,1296,149,1147,196,1007,229,879,253"/>
+<area shape="rect" id="Node000012" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a9bea1736cfcae38d3e5a623e65d2ca74" title=" " alt="" coords="946,257,1129,311"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="878,269,932,273,932,279,878,275"/>
+<area shape="rect" id="Node000013" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry__hash.html#af40159825764d023f139cebfbd753970" title=" " alt="" coords="928,336,1147,376"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="850,290,929,321,952,329,950,334,927,326,848,295"/>
+</map>

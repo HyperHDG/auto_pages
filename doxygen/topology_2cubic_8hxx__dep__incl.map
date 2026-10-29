@@ -1,0 +1,26 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/topology/cubic.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/topology/cubic.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="751,5,969,60"/>
+<area shape="rect" id="Node000002" href="$unit__cube_8hxx.html" title=" " alt="" coords="751,108,969,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="863,74,863,108,857,108,857,74"/>
+<area shape="rect" id="Node000008" href="$stiffness__matrix_8cxx.html" title="Check the assembly of the condensed (stiffness) matrix." alt="" coords="1240,211,1467,265"/>
+<area shape="poly" id="edge15_Node000001_Node000008" title=" " alt="" coords="937,63,1291,208,1289,213,935,68"/>
+<area shape="rect" id="Node000009" href="$node__descriptor_2cubic_8hxx.html" title=" " alt="" coords="508,108,727,163"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="785,68,682,110,680,105,783,63"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic_8cxx.html" title=" " alt="" coords="249,211,471,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="738,166,485,213,472,216,471,211,483,208,737,160"/>
+<area shape="rect" id="Node000004" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="496,211,723,265"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="783,170,676,213,674,208,781,165"/>
+<area shape="rect" id="Node000005" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="747,211,973,265"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="863,176,863,211,857,211,857,176"/>
+<area shape="rect" id="Node000006" href="$plot__refined_8cxx.html" title=" " alt="" coords="997,211,1216,265"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="938,165,1043,208,1041,213,936,170"/>
+<area shape="rect" id="Node000007" href="$plot__simple_8cxx.html" title=" " alt="" coords="5,211,224,265"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="737,165,596,182,485,189,375,196,236,213,225,215,224,210,236,208,374,191,484,184,595,177,737,160"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="983,159,1229,208,1240,210,1239,216,1227,213,982,164"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="539,170,428,213,426,208,537,165"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="617,177,614,211,609,210,611,176"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="694,165,798,208,796,213,692,170"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="741,160,986,208,997,210,996,216,985,213,740,166"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="495,162,237,213,225,216,224,210,235,208,494,157"/>
+<area shape="poly" id="edge14_Node000009_Node000008" title=" " alt="" coords="741,160,879,177,986,184,1093,192,1228,208,1240,210,1239,215,1228,213,1093,197,986,190,878,182,740,166"/>
+</map>

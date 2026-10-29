@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,169,124,194"/>
+<area shape="rect" id="Node000001" href="$structdetector.html" title="Detector pattern." alt="" coords="201,5,369,45"/>
+<area shape="poly" id="edge122_Node000000_Node000001" title=" " alt="" coords="78,156,116,105,141,78,171,55,199,41,201,46,173,60,145,82,120,108,83,159"/>
+<area shape="rect" id="Node000002" href="$structhas__arg__defaults.html" title=" " alt="" coords="199,70,370,95"/>
+<area shape="poly" id="edge123_Node000000_Node000002" title=" " alt="" coords="89,158,126,130,171,104,204,93,206,98,173,109,129,134,92,162"/>
+<area shape="rect" id="Node000003" href="$structis__complex.html" title=" " alt="" coords="181,119,389,145"/>
+<area shape="poly" id="edge124_Node000000_Node000003" title=" " alt="" coords="131,163,171,153,223,142,224,147,173,159,132,168"/>
+<area shape="rect" id="Node000004" href="$structis__pair.html" title=" " alt="" coords="233,169,336,194"/>
+<area shape="poly" id="edge125_Node000000_Node000004" title=" " alt="" coords="138,179,233,179,233,184,138,184"/>
+<area shape="rect" id="Node000005" href="$structtsl_1_1detail__robin__hash_1_1has__is__transparent.html" title=" " alt="" coords="203,218,367,273"/>
+<area shape="poly" id="edge126_Node000000_Node000005" title=" " alt="" coords="123,195,203,219,202,224,122,201"/>
+<area shape="rect" id="Node000006" href="$structtsl_1_1detail__robin__hash_1_1is__power__of__two__policy.html" title=" " alt="" coords="172,297,397,337"/>
+<area shape="poly" id="edge127_Node000000_Node000006" title=" " alt="" coords="87,203,124,243,173,282,201,295,199,300,171,286,121,247,83,207"/>
+<area shape="rect" id="Node000007" href="$structtype__hook.html" title=" " alt="" coords="193,362,376,387"/>
+<area shape="poly" id="edge128_Node000000_Node000007" title=" " alt="" coords="77,206,91,239,112,277,139,315,174,347,197,360,195,364,170,352,135,319,107,280,87,241,72,208"/>
+</map>

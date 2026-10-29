@@ -1,0 +1,12 @@
+<map id="LocalSolver::TimoshenkoBeam::node_dof_to_edge_dof" name="LocalSolver::TimoshenkoBeam::node_dof_to_edge_dof">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,228,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="276,55,381,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,65,262,65,262,70,228,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="429,5,559,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,52,437,32,438,37,373,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="429,55,559,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="381,65,416,65,416,70,381,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="438,128,550,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="359,78,453,120,451,125,357,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="467,129,461,120,464,110,475,104,494,101,516,105,526,113,522,117,514,110,494,107,477,109,468,113,466,119,471,126"/>
+</map>

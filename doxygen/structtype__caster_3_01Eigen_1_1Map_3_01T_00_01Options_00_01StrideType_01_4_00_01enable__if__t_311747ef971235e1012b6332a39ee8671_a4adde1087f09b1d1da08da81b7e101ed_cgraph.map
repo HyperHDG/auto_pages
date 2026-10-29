@@ -1,0 +1,8 @@
+<map id="type_caster&lt; Eigen::Map&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::operator Map" name="type_caster&lt; Eigen::Map&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::operator Map">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,6,228,105"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="281,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,34,267,27,268,32,229,39"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a7dbbeb427eda8e6e0472bb79953e1e1e" title=" " alt="" coords="276,79,395,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,71,263,77,262,82,228,76"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="300,80,292,70,296,60,311,54,335,52,365,56,377,65,374,69,363,61,335,57,312,59,300,64,298,70,304,77"/>
+</map>

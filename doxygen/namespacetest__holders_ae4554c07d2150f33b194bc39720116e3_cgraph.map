@@ -1,0 +1,9 @@
+<map id="test_holders.test10_shared_from_this_create_in_python" name="test_holders.test10_shared_from_this_create_in_python">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,16,196,71"/>
+<area shape="rect" id="Node000002" href="$namespacetest__holders.html#a955492b56376a07b65332bf07f42be1a" title=" " alt="" coords="244,23,459,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,41,230,41,230,46,196,46"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a014de143e99e873a13b356155b36d300" title=" " alt="" coords="507,5,575,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,26,493,22,493,27,459,32"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="515,55,566,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="459,54,502,60,502,65,459,60"/>
+</map>

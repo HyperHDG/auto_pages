@@ -1,0 +1,25 @@
+<map id="GlobalLoop::NonlinearEigenvalue::trace_to_flux" name="GlobalLoop::NonlinearEigenvalue::trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,151,244,191"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a9e7dd233775f4b69a52c1a5aa95033bf" title="Add different values to values of degrees of freedom related to a hypernode." alt="" coords="299,18,473,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,149,218,113,291,74,319,61,321,66,293,79,221,118,160,154"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="579,55,685,80"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="184,149,291,118,438,90,565,72,566,77,439,95,293,123,185,154"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#afc0f44c2bb15a922773fb021f8da1e49" title="Return iterator to first hyEdge of HDGHyperGraph." alt="" coords="299,133,473,159"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="244,157,285,153,285,158,245,162"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#af1253aff99d36ef0aae0f3a02e077c95" title="Return iterator to the end of hyEdge list." alt="" coords="305,183,467,208"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="245,180,291,184,291,189,244,185"/>
+<area shape="rect" id="Node000010" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="292,233,480,273"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="191,189,309,226,307,231,189,194"/>
+<area shape="rect" id="Node000011" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="341,297,431,323"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="151,189,213,236,252,261,293,282,328,295,326,300,291,287,250,265,210,240,148,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,46,566,57,565,62,472,51"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="784,5,913,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,53,779,31,780,36,686,58"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="784,55,913,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="685,65,770,65,770,70,685,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="793,128,905,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="671,78,798,121,796,126,670,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="813,130,806,120,810,110,824,104,849,101,879,105,891,114,887,118,877,110,849,107,826,109,813,114,811,119,817,126"/>
+<area shape="rect" id="Node000009" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="528,183,736,208"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="467,193,514,193,514,198,467,198"/>
+</map>

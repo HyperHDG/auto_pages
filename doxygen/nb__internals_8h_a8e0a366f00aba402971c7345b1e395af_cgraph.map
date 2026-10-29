@@ -1,0 +1,64 @@
+<map id="nb_pool_drain" name="nb_pool_drain">
+<area shape="rect" id="Node000001" title="Release all objects kept in the given instance pool." alt="" coords="5,402,119,427"/>
+<area shape="rect" id="Node000002" href="$classtsl_1_1robin__map.html#ac01a41b854aba819088233eabc66458d" title=" " alt="" coords="189,173,335,198"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,401,75,364,94,314,124,261,143,236,165,214,184,201,187,206,168,218,147,239,128,264,99,316,80,366,69,403"/>
+<area shape="rect" id="Node000004" href="$classtsl_1_1robin__map.html#a91d922d623212e739875a1e62908e195" title=" " alt="" coords="167,229,357,254"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="66,401,100,335,129,296,165,263,174,258,177,262,168,267,133,300,105,338,71,403"/>
+<area shape="rect" id="Node000017" href="$classtsl_1_1robin__map.html#aad8cc88e86eb4fdce3aacc8b07362006" title=" " alt="" coords="189,278,335,303"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="71,400,109,357,136,333,165,312,179,306,181,310,168,317,139,337,113,360,75,403"/>
+<area shape="rect" id="Node000023" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="227,327,297,353"/>
+<area shape="poly" id="edge27_Node000001_Node000023" title=" " alt="" coords="85,399,166,361,213,347,214,353,168,366,87,404"/>
+<area shape="rect" id="Node000024" href="$nb__internals_8h.html#a90a365564ca445d7a17809b04c51a56b" title="Retrieve the nb_inst_seq* pointer from an &#39;inst_c2p&#39; value." alt="" coords="214,377,310,402"/>
+<area shape="poly" id="edge28_Node000001_Node000024" title=" " alt="" coords="118,405,200,394,200,400,119,410"/>
+<area shape="rect" id="Node000025" href="$nb__internals_8h.html#aaa82a604a0544f1dbd98004978bdade6" title="Convenience functions to deal with the pointer encoding in &#39;internals.inst_c2p&#39;." alt="" coords="219,426,305,451"/>
+<area shape="poly" id="edge29_Node000001_Node000025" title=" " alt="" coords="119,419,205,429,204,434,119,424"/>
+<area shape="rect" id="Node000026" href="$nb__internals_8h.html#ac179df8c7d5635e7f24012ede2ee99c2" title="Tag a nb_inst_seq* pointer as such." alt="" coords="207,475,317,501"/>
+<area shape="poly" id="edge30_Node000001_Node000026" title=" " alt="" coords="88,425,168,461,194,470,193,475,166,466,85,430"/>
+<area shape="rect" id="Node000027" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="207,525,317,550"/>
+<area shape="poly" id="edge31_Node000001_Node000027" title=" " alt="" coords="75,426,113,468,139,491,168,511,195,522,193,527,165,516,136,495,109,472,71,429"/>
+<area shape="rect" id="Node000028" href="$nb__type_8cpp.html#aa230bbab27ad22a3a050d5e3b44c2223" title="Function to check (in the fastest manner) if a nb_type is garbage&#45;collected." alt="" coords="199,574,325,599"/>
+<area shape="poly" id="edge32_Node000001_Node000028" title=" " alt="" coords="71,426,105,491,133,529,168,560,187,570,184,575,165,565,129,532,101,494,66,429"/>
+<area shape="rect" id="Node000029" href="$structnb__internals.html#adec66040d1ec20a39f70b64c40396bfb" title=" " alt="" coords="189,623,335,649"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="69,427,79,463,98,513,128,566,147,589,168,610,178,616,175,621,165,614,143,593,123,569,94,515,74,465,64,428"/>
+<area shape="rect" id="Node000003" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a9535ac8fa8e808cf66064eab64ebd5ec" title=" " alt="" coords="413,157,575,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,180,399,178,399,183,336,185"/>
+<area shape="rect" id="Node000005" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a07adb1e60300e6b487eacfe2ecec9bd8" title=" " alt="" coords="405,221,583,261"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,239,392,239,392,244,358,244"/>
+<area shape="rect" id="Node000006" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a7a33132b6ab16d543d4fd2a0c1861af6" title=" " alt="" coords="631,166,813,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="583,220,617,213,618,218,584,225"/>
+<area shape="rect" id="Node000007" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a18a6d71a3aebccb487aa897064bdbf66" title=" " alt="" coords="875,45,1036,85"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="756,163,804,129,860,95,875,88,877,93,863,100,807,133,759,168"/>
+<area shape="rect" id="Node000011" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a24d9538f5eab01edb6621f1d41c04cfc" title=" " alt="" coords="875,109,1036,149"/>
+<area shape="poly" id="edge12_Node000006_Node000011" title=" " alt="" coords="813,166,868,150,869,156,815,171"/>
+<area shape="rect" id="Node000012" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a18e4e4f67fca285000fa2d664273c14d" title=" " alt="" coords="861,173,1049,213"/>
+<area shape="poly" id="edge13_Node000006_Node000012" title=" " alt="" coords="814,191,847,191,847,196,814,196"/>
+<area shape="rect" id="Node000014" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#ac04faad1279a09d6f335c21172798d3a" title=" " alt="" coords="863,238,1047,293"/>
+<area shape="poly" id="edge15_Node000006_Node000014" title=" " alt="" coords="812,218,854,231,853,236,810,223"/>
+<area shape="rect" id="Node000008" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#ab6eca967c55bc08763c8e534bf789b19" title=" " alt="" coords="1100,27,1313,67"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1036,57,1086,53,1087,58,1036,62"/>
+<area shape="rect" id="Node000009" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a340ef1dd98ee7dc8cd302f6dab921d2a" title=" " alt="" coords="1573,56,1736,96"/>
+<area shape="poly" id="edge11_Node000007_Node000009" title=" " alt="" coords="1036,71,1097,76,1348,80,1560,77,1560,82,1348,86,1097,81,1036,77"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1278,24,1332,13,1395,5,1461,4,1526,12,1571,27,1611,47,1609,51,1569,32,1525,17,1461,9,1395,10,1333,18,1279,29"/>
+<area shape="rect" id="Node000010" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#acca0ef814b29e7275cc08ed0b5de87c0" title=" " alt="" coords="1364,27,1525,67"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="1314,44,1350,44,1350,49,1314,49"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="1526,55,1560,60,1560,65,1525,60"/>
+<area shape="rect" id="Node000013" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a82d07c98305050461c5e853f3734434b" title=" " alt="" coords="1109,141,1304,181"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="1049,179,1095,173,1096,178,1050,184"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="1047,248,1175,224,1315,191,1463,144,1589,98,1591,103,1465,149,1317,196,1176,229,1048,253"/>
+<area shape="rect" id="Node000015" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry.html#a9bea1736cfcae38d3e5a623e65d2ca74" title=" " alt="" coords="1115,257,1298,311"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1048,269,1102,273,1101,279,1047,275"/>
+<area shape="rect" id="Node000016" href="$classtsl_1_1detail__robin__hash_1_1bucket__entry__hash.html#af40159825764d023f139cebfbd753970" title=" " alt="" coords="1097,336,1316,376"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="1023,290,1098,320,1125,329,1123,334,1096,325,1021,295"/>
+<area shape="rect" id="Node000018" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a0b90c6fc2c844cdb217d36e20d3b8348" title=" " alt="" coords="413,333,575,373"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="315,301,358,312,411,327,410,332,357,317,313,306"/>
+<area shape="rect" id="Node000019" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#ac032ad46dfad73e0fa294da5de4e0b10" title=" " alt="" coords="637,333,807,373"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="575,359,623,360,623,365,575,365"/>
+<area shape="rect" id="Node000022" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a399ead09b62361f796b4f3094fcd70cd" title=" " alt="" coords="637,397,807,437"/>
+<area shape="poly" id="edge26_Node000018_Node000022" title=" " alt="" coords="567,371,637,391,636,396,565,376"/>
+<area shape="poly" id="edge22_Node000019_Node000018" title=" " alt="" coords="637,347,588,347,588,342,637,342"/>
+<area shape="rect" id="Node000020" href="$nb__misc_8h.html#a5b955d1ac974250c10d48b6c0f274016" title=" " alt="" coords="929,341,982,366"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="807,351,915,351,915,356,807,356"/>
+<area shape="rect" id="Node000021" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#aed879d9e608af630358e1c41d28359fc" title=" " alt="" coords="874,390,1037,445"/>
+<area shape="poly" id="edge25_Node000019_Node000021" title=" " alt="" coords="796,371,861,389,860,394,795,376"/>
+<area shape="poly" id="edge24_Node000020_Node000020" title=" " alt="" coords="927,347,911,337,911,325,927,317,955,314,980,316,996,321,1001,330,996,340,992,337,996,330,992,326,979,321,955,319,928,322,916,328,916,334,930,343"/>
+</map>

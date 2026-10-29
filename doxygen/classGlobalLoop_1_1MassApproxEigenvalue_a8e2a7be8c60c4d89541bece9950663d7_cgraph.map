@@ -1,0 +1,29 @@
+<map id="GlobalLoop::MassApproxEigenvalue::plot_solution" name="GlobalLoop::MassApproxEigenvalue::plot_solution">
+<area shape="rect" id="Node000001" title="Plot solution in vtu format." alt="" coords="5,99,260,139"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#ae6488020df2c6c7ceec4ddcddac195a4" title="Function plotting the solution of an equation on a hypergraph in vtu format." alt="" coords="308,106,355,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,116,294,116,294,121,260,121"/>
+<area shape="rect" id="Node000003" href="$plot_8hxx.html#a98f770580324a7ae7ccb4b19cff7387f" title="Auxiliary function to plot solution values to vtu file." alt="" coords="403,106,477,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,116,389,116,389,121,355,121"/>
+<area shape="rect" id="Node000004" href="$namespacePlotFunctions.html#a351692d1e30ffc057fa03e41ce2a6f31" title="Close stream to file." alt="" coords="555,5,705,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,104,485,79,524,55,541,47,543,52,527,60,488,84,457,108"/>
+<area shape="rect" id="Node000005" href="$namespacePlotFunctions.html#a75c70b284efb3110a52381a9fc54b800" title="Open stream to file." alt="" coords="555,69,705,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="477,110,541,100,542,106,478,116"/>
+<area shape="rect" id="Node000008" href="$plot_8hxx.html#a63038e2ca2125640bd936bc763c86af4" title="Auxiliary function to plot solution values on edge." alt="" coords="562,134,698,159"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="478,121,549,132,548,137,477,127"/>
+<area shape="rect" id="Node000011" href="$namespacePlotFunctions.html#a47cdba70c1955aea7dbd1a572eb484e3" title="Auxiliary function for writing geometry section VTU files." alt="" coords="525,204,735,244"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="462,129,527,168,577,195,575,200,524,173,460,134"/>
+<area shape="rect" id="Node000006" href="$namespacePlotFunctions.html#a59566f6e5442d0818f917270d8bdf1ea" title="Turn fileType enum into string." alt="" coords="788,33,955,73"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="704,76,774,65,775,70,705,81"/>
+<area shape="rect" id="Node000007" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="1008,41,1059,66"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="955,51,994,51,994,56,955,56"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="817,98,925,123"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="698,134,803,118,804,123,699,139"/>
+<area shape="rect" id="Node000010" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="826,147,917,173"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="699,148,812,154,812,159,698,153"/>
+<area shape="rect" id="Node000012" href="$structHypercube.html#aa316d27aad8778241954792dda4821c5" title="Number of vertices of the hypercube." alt="" coords="788,197,955,222"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="735,215,774,213,775,218,735,220"/>
+<area shape="rect" id="Node000013" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="808,246,935,271"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="735,236,795,245,794,250,735,242"/>
+<area shape="rect" id="Node000014" href="$namespacePlotFunctions.html#ad21f3a929b1a1b6aa6ef7d353e5fae69" title="Output of the cubes of the subdivision of an edge in lexicographic order." alt="" coords="783,296,960,336"/>
+<area shape="poly" id="edge13_Node000011_Node000014" title=" " alt="" coords="682,242,784,282,803,289,801,294,782,286,680,247"/>
+</map>

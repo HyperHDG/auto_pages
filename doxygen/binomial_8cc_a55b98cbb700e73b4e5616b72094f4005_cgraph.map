@@ -1,0 +1,8 @@
+<map id="pascal" name="pascal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,69,31"/>
+<area shape="rect" id="Node000002" href="$namespaceTPCC.html#a3a4bbfe6e054d8e823aa5cad6c3ba61e" title="Compute the binomial coefficient n over k." alt="" coords="320,5,441,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,13,117,11,272,11,306,12,306,18,272,17,117,17,70,19"/>
+<area shape="rect" id="Node000003" href="$structTPCC_1_1Combinations.html#abbbc4bb5244c91bd54e8d85af84ab780" title="The number of such combinations." alt="" coords="117,26,272,66"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="70,21,104,27,103,32,69,26"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="272,32,306,27,307,32,273,37"/>
+</map>

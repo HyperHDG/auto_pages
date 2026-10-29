@@ -1,0 +1,12 @@
+<map id="LocalSolver::BilaplacianUniform::error_def::postprocess_error" name="LocalSolver::BilaplacianUniform::error_def::postprocess_error">
+<area shape="rect" id="Node000001" title="Define how global errors should be postprocessed." alt="" coords="5,47,271,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="319,55,424,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,65,305,65,305,70,271,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="472,5,601,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,52,479,32,481,37,415,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="472,55,601,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,65,458,65,458,70,424,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="481,128,593,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="402,78,496,120,493,125,400,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="509,129,504,120,507,110,518,104,537,101,559,105,569,113,565,117,557,110,537,107,520,109,511,113,509,119,514,126"/>
+</map>

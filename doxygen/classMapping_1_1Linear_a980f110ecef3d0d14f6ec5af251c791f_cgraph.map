@@ -1,0 +1,9 @@
+<map id="Mapping::Linear::Linear" name="Mapping::Linear::Linear">
+<area shape="rect" id="Node000001" title="Construct affine&#45;linear mapping." alt="" coords="5,31,180,56"/>
+<area shape="rect" id="Node000002" href="$classMapping_1_1Linear.html#a6980bd93a44638e2f03879702b902898" title="Return matrix associated to affine&#45;linear transformation." alt="" coords="228,5,405,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,214,27,215,32,181,36"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#af58fbbde4904a8235723b72b4d99ef36" title="Normalized QR decomposition." alt="" coords="269,55,364,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,50,256,58,255,63,180,55"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="453,55,561,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,65,440,65,440,70,364,70"/>
+</map>

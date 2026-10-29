@@ -1,0 +1,5 @@
+<map id="TPCC::Element::along_coordinate" name="TPCC::Element::along_coordinate">
+<area shape="rect" id="Node000001" title="The coordinates in the k&#45;dimensional element." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Element.html#aa3043baab728217d0dc180e68c785328" title="Mapping from local to global coordinate directions." alt="" coords="216,5,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+</map>

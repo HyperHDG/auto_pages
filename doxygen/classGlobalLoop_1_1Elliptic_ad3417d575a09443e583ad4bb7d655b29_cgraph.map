@@ -1,0 +1,15 @@
+<map id="GlobalLoop::Elliptic::residual_flux" name="GlobalLoop::Elliptic::residual_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product containing data." alt="" coords="5,29,152,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="35,30,32,20,39,10,55,5,79,3,106,6,121,13,119,18,105,11,79,8,56,10,42,15,37,21,40,28"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="200,11,428,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,39,186,35,186,40,153,44"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="261,61,367,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="153,54,248,64,247,69,152,59"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="476,11,605,37"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="366,59,468,37,469,42,367,65"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="476,61,605,86"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="367,71,462,71,462,76,367,76"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="485,134,597,159"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="355,84,488,127,486,132,354,89"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="504,136,496,126,500,116,515,110,541,107,573,111,585,121,581,125,571,116,541,113,516,115,504,120,501,125,508,132"/>
+</map>

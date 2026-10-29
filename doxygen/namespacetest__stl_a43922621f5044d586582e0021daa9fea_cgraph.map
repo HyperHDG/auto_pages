@@ -1,0 +1,10 @@
+<map id="test_stl.test42_std_optional_unbound_type" name="test_stl.test42_std_optional_unbound_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,187,87"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#aa104d75f61b5159f0e0278bbe910580e" title="Get an object attribute or raise an exception." alt="" coords="265,29,331,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,53,251,45,251,50,187,59"/>
+<area shape="rect" id="Node000004" href="$namespacetest__stl.html#a305678e8d5e656be3d6a29291231556c" title=" " alt="" coords="235,79,361,104"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="187,75,221,80,221,85,187,81"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="409,29,553,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,39,395,39,395,45,332,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="451,31,445,21,448,11,461,5,481,3,506,6,517,15,513,19,504,11,481,8,462,10,452,15,450,20,456,28"/>
+</map>

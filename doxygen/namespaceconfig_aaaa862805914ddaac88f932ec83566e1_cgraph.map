@@ -1,0 +1,10 @@
+<map id="config.extract_includes" name="config.extract_includes">
+<area shape="rect" id="Node000001" title="Add the files that need to be included for defining the problem to include list." alt="" coords="5,31,177,56"/>
+<area shape="rect" id="Node000002" href="$namespaceconfig.html#a72dbb28ce5fb7a4b06edadafaa80d289" title="Check that config is consistent." alt="" coords="225,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,30,211,25,212,31,178,35"/>
+<area shape="rect" id="Node000003" href="$nb__misc_8h.html#a6ffb176925adbe8476c547acc6523be6" title=" " alt="" coords="405,31,493,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="178,41,392,41,392,46,178,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,26,392,31,391,37,357,31"/>
+<area shape="rect" id="Node000004" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="541,31,633,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="493,41,527,41,527,46,493,46"/>
+</map>

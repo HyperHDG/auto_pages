@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['darwin_2dpython_2dpath_0',['darwin-python-path',['../namespacedarwin-python-path.html',1,'']]],
+  ['detail_1',['detail',['../namespacedetail.html',1,'']]],
+  ['diffusion_2',['diffusion',['../namespacediffusion.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fapprox_3',['diffusion_convergence_eigenvalue_approx',['../namespacediffusion__convergence__eigenvalue__approx.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fcomb_4',['diffusion_convergence_eigenvalue_comb',['../namespacediffusion__convergence__eigenvalue__comb.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fcross_5',['diffusion_convergence_eigenvalue_cross',['../namespacediffusion__convergence__eigenvalue__cross.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fnewt_6',['diffusion_convergence_eigenvalue_newt',['../namespacediffusion__convergence__eigenvalue__newt.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fshifted_5finverse_7',['diffusion_convergence_eigenvalue_shifted_inverse',['../namespacediffusion__convergence__eigenvalue__shifted__inverse.html',1,'']]],
+  ['diffusion_5fconvergence_5feigenvalue_5fshifted_5finverse_5fcross_8',['diffusion_convergence_eigenvalue_shifted_inverse_cross',['../namespacediffusion__convergence__eigenvalue__shifted__inverse__cross.html',1,'']]],
+  ['diffusion_5fconvergence_5felliptic_9',['diffusion_convergence_elliptic',['../namespacediffusion__convergence__elliptic.html',1,'']]],
+  ['diffusion_5fconvergence_5felliptic_5fip_10',['diffusion_convergence_elliptic_ip',['../namespacediffusion__convergence__elliptic__ip.html',1,'']]],
+  ['diffusion_5fconvergence_5felliptic_5fpostprocess_11',['diffusion_convergence_elliptic_postprocess',['../namespacediffusion__convergence__elliptic__postprocess.html',1,'']]],
+  ['diffusion_5fconvergence_5fhypergraph_5felliptic_12',['diffusion_convergence_hypergraph_elliptic',['../namespacediffusion__convergence__hypergraph__elliptic.html',1,'']]],
+  ['diffusion_5fconvergence_5fhypergraph_5felliptic_5fhigh_5forder_13',['diffusion_convergence_hypergraph_elliptic_high_order',['../namespacediffusion__convergence__hypergraph__elliptic__high__order.html',1,'']]],
+  ['diffusion_5fconvergence_5fhypergraph_5felliptic_5fhigh_5forder_5fpostprocess_14',['diffusion_convergence_hypergraph_elliptic_high_order_postprocess',['../namespacediffusion__convergence__hypergraph__elliptic__high__order__postprocess.html',1,'']]],
+  ['diffusion_5fconvergence_5fparabolic_15',['diffusion_convergence_parabolic',['../namespacediffusion__convergence__parabolic.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5feigenvalue_5fapprox_16',['diffusion_hypergraph_convergence_eigenvalue_approx',['../namespacediffusion__hypergraph__convergence__eigenvalue__approx.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5feigenvalue_5fcomb_17',['diffusion_hypergraph_convergence_eigenvalue_comb',['../namespacediffusion__hypergraph__convergence__eigenvalue__comb.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5feigenvalue_5fnewt_18',['diffusion_hypergraph_convergence_eigenvalue_newt',['../namespacediffusion__hypergraph__convergence__eigenvalue__newt.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5feigenvalue_5fnewt_5fcross_19',['diffusion_hypergraph_convergence_eigenvalue_newt_cross',['../namespacediffusion__hypergraph__convergence__eigenvalue__newt__cross.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5feigenvalue_5fshifted_5finverse_20',['diffusion_hypergraph_convergence_eigenvalue_shifted_inverse',['../namespacediffusion__hypergraph__convergence__eigenvalue__shifted__inverse.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5felliptic_21',['diffusion_hypergraph_convergence_elliptic',['../namespacediffusion__hypergraph__convergence__elliptic.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5felliptic_5fip_22',['diffusion_hypergraph_convergence_elliptic_ip',['../namespacediffusion__hypergraph__convergence__elliptic__ip.html',1,'']]],
+  ['diffusion_5fhypergraph_5fconvergence_5felliptic_5fpostprocess_23',['diffusion_hypergraph_convergence_elliptic_postprocess',['../namespacediffusion__hypergraph__convergence__elliptic__postprocess.html',1,'']]],
+  ['diffusion_5funiform_24',['diffusion_uniform',['../namespacediffusion__uniform.html',1,'']]]
+];

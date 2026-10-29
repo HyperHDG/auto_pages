@@ -1,0 +1,16 @@
+<map id="LocalSolver::DiffusionIP::flux_from_coeffs" name="LocalSolver::DiffusionIP::flux_from_coeffs">
+<area shape="rect" id="Node000001" title="Evaluate trace_to_flux for given solution of the local problem." alt="" coords="5,69,180,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionIP.html#af296d96533f95adb77159f53f6c233c7" title="Evaluate dual variable at boundary." alt="" coords="228,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,67,231,47,233,52,164,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionIP.html#af389312e2db58064affc0caf23c14c11" title="Evaluate primal variable at boundary." alt="" coords="228,69,403,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,87,214,87,214,92,180,92"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="263,134,368,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,107,253,128,251,133,170,112"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="451,85,580,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="367,131,449,111,451,116,368,137"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="451,134,580,159"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="369,144,437,144,437,149,369,149"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="459,207,571,233"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="352,157,468,200,466,205,350,162"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="482,209,475,199,479,189,493,183,515,181,543,184,554,194,551,198,541,189,515,186,494,188,483,193,481,198,487,206"/>
+</map>

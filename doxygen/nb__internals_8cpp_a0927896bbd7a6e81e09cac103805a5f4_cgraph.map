@@ -1,0 +1,7 @@
+<map id="init_pyobjects" name="init_pyobjects">
+<area shape="rect" id="Node000001" title="Populate this library&#39;s static_pyobjects[]." alt="" coords="5,5,119,31"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8cpp.html#afc719c3bed42df19a4e611aafd7467c6" title=" " alt="" coords="167,5,279,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,15,153,15,153,21,119,21"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="327,5,423,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,15,313,15,313,21,279,21"/>
+</map>

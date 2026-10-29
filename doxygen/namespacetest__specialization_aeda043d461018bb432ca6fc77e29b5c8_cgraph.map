@@ -1,0 +1,14 @@
+<map id="test_specialization.test_static_attribute_specialization" name="test_specialization.test_static_attribute_specialization">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,231,113"/>
+<area shape="rect" id="Node000002" href="$namespacetest__specialization.html#a4490e8259ca3d6f52b0c3d3b07f0791b" title=" " alt="" coords="279,5,485,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,70,278,39,309,31,311,36,279,45,180,75"/>
+<area shape="rect" id="Node000003" href="$namespacetest__specialization.html#aac5e135d0c7e8dc8807c2674882da602" title=" " alt="" coords="285,55,479,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,79,270,75,271,81,231,85"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="356,104,408,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,100,343,110,342,116,231,106"/>
+<area shape="rect" id="Node000006" href="$namespacetest__specialization.html#a7ad8d772619e3677aa8a1518b092d502" title=" " alt="" coords="281,153,483,179"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="184,110,279,138,315,147,313,153,278,143,183,115"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="533,104,677,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,114,519,114,519,119,408,119"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="569,106,561,96,565,86,580,80,605,77,636,81,648,90,645,94,634,86,605,83,582,85,569,90,567,95,573,102"/>
+</map>

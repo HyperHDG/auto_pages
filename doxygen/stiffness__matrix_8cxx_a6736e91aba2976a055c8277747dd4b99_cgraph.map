@@ -1,0 +1,7 @@
+<map id="check" name="check">
+<area shape="rect" id="Node000001" title="Compare assembled matrix to matrix obtained by applying trace_to_flux to unit vectors." alt="" coords="5,31,65,56"/>
+<area shape="rect" id="Node000002" href="$stiffness__matrix_8cxx.html#a9837fc6aa249b13ef404c9ac9c83a5bc" title="Dense matrix from triplets (summing up duplicates), stored column&#45;major." alt="" coords="113,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,36,99,30,100,35,66,41"/>
+<area shape="rect" id="Node000003" href="$stiffness__matrix_8cxx.html#adf9225b522f3c2afb74fc8c9c22b1d05" title="Matrix whose columns are trace_to_flux applied to all unit vectors (column&#45;major)." alt="" coords="120,55,259,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,45,107,52,106,57,65,51"/>
+</map>

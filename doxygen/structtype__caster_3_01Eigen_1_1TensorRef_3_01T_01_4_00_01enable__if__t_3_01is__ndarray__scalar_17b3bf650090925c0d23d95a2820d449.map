@@ -1,0 +1,9 @@
+<map id="type_caster&lt; Eigen::TensorRef&lt; T &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;" name="type_caster&lt; Eigen::TensorRef&lt; T &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;">
+<area shape="rect" id="Node000001" title="Type caster for Eigen::TensorRef&lt;T&gt;" alt="" coords="5,243,228,312"/>
+<area shape="rect" id="Node000002" href="$structtype__caster.html" title=" " alt="" coords="23,155,210,180"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,194,119,242,114,242,114,194"/>
+<area shape="rect" id="Node000003" href="$structtype__caster__base.html" title=" " alt="" coords="15,80,218,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,120,119,154,114,154,114,120"/>
+<area shape="rect" id="Node000004" href="$structtype__caster__base__tag.html" title="Base of all type casters for traditional bindings created via nanobind::class_&lt;&gt;" alt="" coords="35,5,199,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="119,45,119,80,114,80,114,45"/>
+</map>

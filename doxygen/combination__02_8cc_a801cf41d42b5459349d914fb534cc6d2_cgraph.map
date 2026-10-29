@@ -1,0 +1,21 @@
+<map id="test" name="test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,52,111"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Combination.html#afafaf9fefc2271374167eed44304c18e" title="The combination obtained by adding the element i." alt="" coords="100,5,279,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="44,83,99,48,133,33,135,38,101,52,47,88"/>
+<area shape="rect" id="Node000003" href="$classTPCC_1_1Combination.html#a5a8689640e2c004da7f868170b04ef11" title="The ith element which is not part of the combination in descending order." alt="" coords="327,57,503,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="52,94,313,75,313,80,52,99"/>
+<area shape="rect" id="Node000004" href="$classTPCC_1_1Combination.html#a1c0bba967b5e7bec42136436212902ae" title="Print the content of this object for debugging." alt="" coords="112,106,267,146"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="53,99,99,108,98,113,52,105"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="137,187,242,212"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="45,109,70,132,101,156,144,179,142,183,99,160,67,136,41,113"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="266,104,349,83,350,89,267,109"/>
+<area shape="rect" id="Node000005" href="$classTPCC_1_1Combination.html#abd74a8ecd0f2b33c1fd39423758c29ea" title="The ith element which is part of the combination in descending order." alt="" coords="331,111,498,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="267,122,318,122,318,127,267,128"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="350,160,479,185"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="242,191,336,179,336,185,243,196"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="350,209,479,235"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="243,202,336,211,336,217,242,207"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="359,283,471,308"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="221,210,372,275,370,280,219,215"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="378,284,370,274,374,264,390,258,415,256,446,260,458,269,455,273,444,265,415,261,391,263,378,268,375,274,382,281"/>
+</map>

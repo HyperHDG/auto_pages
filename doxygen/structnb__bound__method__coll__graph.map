@@ -1,0 +1,5 @@
+<map id="nb_bound_method" name="nb_bound_method">
+<area shape="rect" id="Node000001" title="Python object representing an nb_method bound to an instance (analogous to non&#45;public PyMethod_Type)" alt="" coords="5,93,148,119"/>
+<area shape="rect" id="Node000002" href="$structnb__func.html" title="Python object representing a bound C++ function." alt="" coords="40,5,113,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,45,79,93,74,93,74,45"/>
+</map>

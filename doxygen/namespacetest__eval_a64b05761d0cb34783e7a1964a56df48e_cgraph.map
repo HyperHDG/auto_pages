@@ -1,0 +1,12 @@
+<map id="test_eval.test_write_globals" name="test_eval.test_write_globals">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,156,62"/>
+<area shape="rect" id="Node000002" href="$nb__misc_8h.html#a0be04c9e8c8a6833cabae628e2243b6c" title=" " alt="" coords="204,29,273,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a131914673a0a5fa38d59c69213c59360" title="Raise a runtime error with the given message." alt="" coords="321,29,376,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,39,308,39,308,45,273,45"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="329,30,326,21,328,12,336,5,349,3,364,6,371,14,367,18,361,11,349,8,338,10,332,14,331,20,334,28"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a09dc45ab3cd7c0463be975c3c88f7351" title=" " alt="" coords="424,29,559,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,39,410,39,410,45,376,45"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="607,29,657,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="559,39,593,39,593,45,559,45"/>
+</map>

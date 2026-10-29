@@ -1,0 +1,15 @@
+<map id="obj_vectorcall" name="obj_vectorcall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,119,128"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a131914673a0a5fa38d59c69213c59360" title="Raise a runtime error with the given message." alt="" coords="219,29,274,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,100,166,64,205,50,207,55,168,68,89,105"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="175,103,319,128"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="119,113,161,113,161,118,119,118"/>
+<area shape="rect" id="Node000006" href="$common_8cpp.html#a5a95c07e5018f14af88a8d64872766ea" title="Raise nanobind::cast_error." alt="" coords="167,153,327,193"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="105,126,170,146,168,151,103,131"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="217,32,210,22,213,12,225,5,247,3,273,7,283,17,279,20,271,12,247,8,227,10,217,15,215,21,221,28"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a09dc45ab3cd7c0463be975c3c88f7351" title=" " alt="" coords="375,29,509,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,39,361,39,361,45,274,45"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="557,29,608,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,39,543,39,543,45,510,45"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="216,104,210,94,213,85,226,78,247,76,272,80,283,88,279,92,270,84,247,81,227,83,217,88,215,94,220,101"/>
+</map>

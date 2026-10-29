@@ -1,0 +1,9 @@
+<map id="cb_policy_common::precall" name="cb_policy_common::precall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,204,56"/>
+<area shape="rect" id="Node000002" href="$test__callbacks_8cpp.html#abc2128e66671e359d788de778a3462fa" title=" " alt="" coords="252,5,360,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,28,238,24,239,29,205,33"/>
+<area shape="rect" id="Node000004" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="260,55,352,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,53,247,58,246,63,204,58"/>
+<area shape="rect" id="Node000003" href="$test__callbacks_8cpp.html#ade8b2f2833c6286b0b8fc1f6f4c6c67f" title=" " alt="" coords="408,5,503,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,15,394,15,394,21,360,21"/>
+</map>

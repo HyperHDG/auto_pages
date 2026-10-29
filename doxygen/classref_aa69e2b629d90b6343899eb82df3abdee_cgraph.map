@@ -1,0 +1,5 @@
+<map id="ref::operator=" name="ref::operator=">
+<area shape="rect" id="Node000001" title="Move&#45;assign another reference into this one." alt="" coords="5,5,119,31"/>
+<area shape="rect" id="Node000002" href="$counter_8h.html#a75ad3f18a3975ffb8e9d8bd3e0e7d16d" title="Decrease the reference count and potentially delete an intrusively reference&#45;counted object o if o is..." alt="" coords="167,5,237,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,15,153,15,153,21,119,21"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="GlobalLoop::MatGenerate::for_each_local_matrix" name="GlobalLoop::MatGenerate::for_each_local_matrix">
+<area shape="rect" id="Node000001" title="Compute the local condensed matrix of every hyperedge and hand it to sink." alt="" coords="5,63,193,103"/>
+<area shape="rect" id="Node000002" href="$namespaceGlobalLoop_1_1MatGenerate.html#af489f01fc67f470bf10023e3de433b65" title="Throw if a local matrix differs from the local matrix reused by factorize_once." alt="" coords="241,5,448,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,60,244,46,246,51,186,65"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="291,70,399,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,80,277,80,277,85,193,85"/>
+<area shape="rect" id="Node000004" href="$namespaceGlobalLoop_1_1MatGenerate.html#ae6c59a22a117a817167597b7adce6347" title="Local condensed matrix of a hyperedge, i.e., the matrix representation of trace_to_flux." alt="" coords="251,120,439,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,100,246,114,244,119,185,105"/>
+<area shape="rect" id="Node000005" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="496,127,587,153"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="439,137,482,137,482,143,439,143"/>
+</map>

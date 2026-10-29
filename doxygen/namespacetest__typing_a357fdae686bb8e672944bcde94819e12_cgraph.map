@@ -1,0 +1,10 @@
+<map id="test_typing.test01_parameterize_generic" name="test_typing.test01_parameterize_generic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,176,87"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#af6e5330018642489b0723e93d56a0de3" title=" " alt="" coords="224,29,313,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,53,210,48,211,53,176,58"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="243,79,294,104"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="176,76,230,84,229,89,176,81"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="361,29,505,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,39,348,39,348,45,313,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="406,31,400,21,403,11,415,5,433,3,456,6,465,15,462,19,453,11,433,8,416,10,407,15,406,20,411,28"/>
+</map>

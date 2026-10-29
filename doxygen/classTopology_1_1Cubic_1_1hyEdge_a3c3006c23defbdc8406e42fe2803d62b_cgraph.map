@@ -1,0 +1,24 @@
+<map id="Topology::Cubic::hyEdge::hyEdge" name="Topology::Cubic::hyEdge::hyEdge">
+<area shape="rect" id="Node000001" title="Construct a cubic hyperedge from its index and a the global topology class." alt="" coords="5,123,184,163"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a9a7761598e101d334bc7fc1fe5fe1695" title="Return coordinate value with respect to index&#45;th orthonormal direction on element." alt="" coords="232,5,444,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,121,166,79,197,58,231,40,249,32,251,37,233,44,200,62,169,84,119,125"/>
+<area shape="rect" id="Node000003" href="$namespaceWrapper.html#a03d06bae04b36b31cc6e58dce70863ca" title="Return the element of given index the TPCC." alt="" coords="255,55,421,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,121,231,97,281,82,282,87,233,102,158,126"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="492,105,597,131"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="184,136,478,119,478,124,185,141"/>
+<area shape="rect" id="Node000008" href="$namespaceWrapper.html#ac3f910d46efa5efdb316cc9a06516013" title="Return i&#45;th element facet." alt="" coords="267,156,409,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="185,150,254,157,253,163,184,155"/>
+<area shape="rect" id="Node000009" href="$namespaceWrapper.html#a32207f68b4a1135949d7ec296ab7ee40" title="Return index of given element within TPCC." alt="" coords="263,205,413,231"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="148,161,233,190,267,199,265,205,231,195,146,166"/>
+<area shape="rect" id="Node000010" href="$namespaceWrapper.html#ac1896e61017058db7f7bca3358fd2f5b" title="Return index of given element within TPCC." alt="" coords="263,255,413,295"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="121,162,171,201,233,240,252,248,250,253,231,244,168,205,117,166"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,78,480,99,478,105,390,83"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="645,56,775,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="587,103,653,83,654,88,589,108"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="645,105,775,131"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="597,115,632,115,632,121,597,121"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="654,179,766,204"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="575,128,669,171,667,175,573,133"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="683,180,677,170,680,161,691,154,710,152,732,155,742,164,738,168,730,160,710,157,693,159,684,164,682,170,687,177"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="408,203,443,190,484,166,518,138,521,142,487,170,445,195,410,208"/>
+</map>

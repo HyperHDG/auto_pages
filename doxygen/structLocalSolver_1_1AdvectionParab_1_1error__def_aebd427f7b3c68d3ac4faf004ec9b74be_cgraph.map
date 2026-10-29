@@ -1,0 +1,12 @@
+<map id="LocalSolver::AdvectionParab::error_def::sum_error" name="LocalSolver::AdvectionParab::error_def::sum_error">
+<area shape="rect" id="Node000001" title="Define how local errors should be accumulated." alt="" coords="5,47,212,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="260,55,365,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,65,246,65,246,70,212,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="413,5,543,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,52,421,32,422,37,357,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="413,55,543,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="365,65,400,65,400,70,365,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="422,128,534,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="343,78,437,120,435,125,341,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="451,129,445,120,448,110,459,104,478,101,500,105,510,113,506,117,498,110,478,107,461,109,452,113,450,119,455,126"/>
+</map>

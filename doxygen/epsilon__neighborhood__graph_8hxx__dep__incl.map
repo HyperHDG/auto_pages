@@ -1,0 +1,18 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/epsilon_neighborhood_graph.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/epsilon_neighborhood_graph.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,482,60"/>
+<area shape="rect" id="Node000002" href="$read__domain_8hxx.html" title=" " alt="" coords="252,108,471,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,74,364,108,359,108,359,74"/>
+<area shape="rect" id="Node000003" href="$topology_2file_8hxx.html" title=" " alt="" coords="252,211,471,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,176,364,211,359,211,359,176"/>
+<area shape="rect" id="Node000004" href="$geometry_2file_8hxx.html" title=" " alt="" coords="252,313,471,368"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="364,279,364,313,359,313,359,279"/>
+<area shape="rect" id="Node000006" href="$stiffness__matrix_8cxx.html" title="Check the assembly of the condensed (stiffness) matrix." alt="" coords="256,416,483,471"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="443,270,467,289,485,312,494,341,485,369,463,397,434,418,431,414,459,393,480,367,489,341,480,315,463,292,440,274"/>
+<area shape="rect" id="Node000007" href="$node__descriptor_2file_8hxx.html" title=" " alt="" coords="9,313,228,368"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="287,273,183,316,181,311,285,268"/>
+<area shape="rect" id="Node000005" href="$diffusion__dimensions_8cxx.html" title=" " alt="" coords="5,416,232,471"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,376,183,418,181,413,285,371"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="367,382,370,416,365,416,362,382"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="121,382,121,416,116,416,116,382"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="197,370,305,413,303,418,195,375"/>
+</map>

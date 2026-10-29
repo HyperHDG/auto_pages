@@ -1,0 +1,14 @@
+<map id="duration_caster::from_python" name="duration_caster::from_python">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,88,168,128"/>
+<area shape="rect" id="Node000002" href="$classpython__error.html#aa7c1796326841a15c69502024be9d244" title=" " alt="" coords="216,5,376,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,86,231,48,233,53,139,90"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="231,70,361,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,95,217,90,217,95,169,101"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="271,119,321,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,115,257,125,257,130,168,120"/>
+<area shape="rect" id="Node000005" href="$detail_2chrono_8h.html#ada99afe33e95f8852f46e5f2dc6c28fd" title=" " alt="" coords="227,169,365,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,126,217,153,242,162,240,167,215,159,139,131"/>
+<area shape="rect" id="Node000006" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="424,169,568,194"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="366,179,410,179,410,184,366,184"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="463,170,456,160,460,150,473,144,496,142,524,146,535,155,532,159,522,151,496,147,475,149,464,154,461,160,467,167"/>
+</map>
