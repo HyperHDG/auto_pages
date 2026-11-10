@@ -1,0 +1,9 @@
+<map id="set_caster::from_python" name="set_caster::from_python">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,185,56"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a296be4e0af6cedd08994bc3e926fe944" title=" " alt="" coords="246,5,290,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,28,232,20,233,26,183,33"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#ae11332baedbfd587e8e0cf9862ea9af6" title="Return a new reference to an iterator for &#39;o&#39;, or nullptr." alt="" coords="233,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,53,220,58,219,63,185,59"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a3a1216d2207a750e7dc5492798b0b8d7" title=" " alt="" coords="351,55,468,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,65,337,65,337,70,303,70"/>
+</map>

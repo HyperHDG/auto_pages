@@ -1,0 +1,11 @@
+<map id="HDGHyperGraph::operator[]" name="HDGHyperGraph::operator[]">
+<area shape="rect" id="Node000001" title="Subscript operator of a HDGHyperGraph." alt="" coords="5,95,208,120"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#a53e20c7a24ce8ae4f6f0de38af84b97a" title="Data of prescribed hyperedge." alt="" coords="256,5,479,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,92,188,67,255,41,288,31,289,37,257,46,190,72,135,97"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#a98a8ec4cbe9c3129abeed84d37b57339" title="Geometrical information of prescribed hyperedge." alt="" coords="274,55,461,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,92,260,86,261,91,208,98"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#a38f7a12daa275e2416fc3b8b61625a4b" title="Topological information of prescribed hyperedge." alt="" coords="274,119,461,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,117,261,124,260,129,208,122"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#acee8486414d954661a4bfd9e092aba13" title="Nodal information of prescribed hyperedge." alt="" coords="273,183,461,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,118,257,169,280,177,278,182,255,174,134,123"/>
+</map>

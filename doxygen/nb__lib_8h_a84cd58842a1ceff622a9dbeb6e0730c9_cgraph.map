@@ -1,0 +1,16 @@
+<map id="nb_inst_move" name="nb_inst_move">
+<area shape="rect" id="Node000001" title="Move&#45;construct &#39;dst&#39; from &#39;src&#39;, mark it as ready and to be destructed (must have the same nb_type)" alt="" coords="5,55,119,80"/>
+<area shape="rect" id="Node000002" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="187,5,257,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,52,172,30,174,35,105,57"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="167,55,277,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,65,153,65,153,70,119,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="169,104,275,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,77,167,97,166,102,103,83"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="325,55,455,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="265,101,332,82,333,87,267,107"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="325,104,455,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="275,114,312,114,312,119,275,119"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="334,177,446,203"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="253,127,348,169,346,174,251,132"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="362,179,356,169,359,159,371,153,390,151,413,154,423,163,419,167,411,159,390,156,372,158,363,163,361,168,366,176"/>
+</map>

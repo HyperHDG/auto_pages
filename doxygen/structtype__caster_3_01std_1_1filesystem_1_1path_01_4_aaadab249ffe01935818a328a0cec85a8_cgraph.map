@@ -1,0 +1,12 @@
+<map id="type_caster&lt; std::filesystem::path &gt;::to_py_str" name="type_caster&lt; std::filesystem::path &gt;::to_py_str">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,215,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="263,55,368,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,65,248,65,248,70,215,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="416,5,545,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,52,423,32,425,37,359,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="416,55,545,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="368,65,402,65,402,70,368,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="425,128,537,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="346,78,440,120,437,125,344,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="453,129,448,120,451,110,462,104,481,101,503,105,513,113,509,117,501,110,481,107,464,109,455,113,453,119,458,126"/>
+</map>

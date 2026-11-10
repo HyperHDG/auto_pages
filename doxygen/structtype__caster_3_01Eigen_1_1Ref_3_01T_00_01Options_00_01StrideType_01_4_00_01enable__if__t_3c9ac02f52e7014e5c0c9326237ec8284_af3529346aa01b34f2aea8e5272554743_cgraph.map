@@ -1,0 +1,14 @@
+<map id="type_caster&lt; Eigen::Ref&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::from_cpp" name="type_caster&lt; Eigen::Ref&lt; T, Options, StrideType &gt;, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::from_cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,228,104"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="276,17,384,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,39,262,35,263,40,229,44"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="277,66,383,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,65,264,69,264,74,228,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="432,17,561,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,63,439,44,440,49,374,69"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="432,66,561,91"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="383,76,418,76,418,81,383,81"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="441,139,553,165"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,89,455,131,453,136,359,94"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="469,141,463,131,466,121,478,115,497,113,519,116,529,125,526,129,517,121,497,118,479,120,470,125,468,130,473,138"/>
+</map>

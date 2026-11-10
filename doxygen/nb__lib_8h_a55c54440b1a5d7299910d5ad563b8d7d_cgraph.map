@@ -1,0 +1,8 @@
+<map id="dict_getitem_or_raise" name="dict_getitem_or_raise">
+<area shape="rect" id="Node000001" title="Dict&#45;specialized item access." alt="" coords="5,43,168,68"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a3ba59849106c39631029ee9a265ac4c6" title=" " alt="" coords="227,5,349,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,40,213,29,214,34,156,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="216,79,360,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,65,203,74,203,79,158,71"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="255,80,248,70,252,60,265,54,288,52,316,56,327,65,324,69,314,61,288,57,267,59,256,64,253,70,259,77"/>
+</map>

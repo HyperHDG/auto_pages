@@ -1,0 +1,8 @@
+<map id="print" name="print">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,57,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="105,29,157,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="58,39,92,39,92,45,58,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="205,29,349,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,39,192,39,192,45,158,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="253,30,248,21,250,11,261,5,277,3,297,6,306,15,302,18,295,11,277,8,262,10,255,15,253,20,257,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ref::ref" name="ref::ref">
+<area shape="rect" id="Node000001" title="Copy a reference, increases the reference count." alt="" coords="5,5,71,31"/>
+<area shape="rect" id="Node000002" href="$counter_8h.html#a635265b92d33c372d1712a965f2919bf" title="Increase the reference count of an intrusively reference&#45;counted object o if o is non&#45;NULL." alt="" coords="119,5,185,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,15,105,15,105,21,71,21"/>
+</map>

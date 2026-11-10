@@ -1,0 +1,8 @@
+<map id="type_caster&lt; std::tuple&lt; Ts... &gt; &gt;::from_python_impl" name="type_caster&lt; std::tuple&lt; Ts... &gt; &gt;::from_python_impl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,224,87"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#aa8611d1df9a4f0c48755519791451cb0" title=" " alt="" coords="272,29,413,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,53,258,49,259,54,224,58"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="315,79,370,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="224,76,302,84,301,90,224,81"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="306,31,298,21,302,11,317,5,343,3,375,7,387,16,383,20,373,11,343,8,318,10,306,15,303,20,310,27"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Topology::Cubic&lt; hyEdge_dimT, space_dimT, NodeIndexVecT, ConstructorVecT, hyEdge_index_t, NodeOrientationT &gt;" name="Topology::Cubic&lt; hyEdge_dimT, space_dimT, NodeIndexVecT, ConstructorVecT, hyEdge_index_t, NodeOrientationT &gt;">
+<area shape="rect" id="Node000001" title="Definition of the topology of a hypergraph — Cubic HyperGraphs." alt="" coords="5,108,232,177"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="28,5,209,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,59,121,108,116,108,116,59"/>
+</map>

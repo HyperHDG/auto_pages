@@ -1,0 +1,24 @@
+<map id="exception_new" name="exception_new">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,125,155"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#aa104d75f61b5159f0e0278bbe910580e" title="Get an object attribute or raise an exception." alt="" coords="205,5,271,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,127,115,85,142,61,172,40,191,30,193,35,175,44,146,65,119,89,79,131"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#a014de143e99e873a13b356155b36d300" title=" " alt="" coords="204,55,272,80"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="91,127,172,89,190,82,192,87,174,94,93,132"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="173,104,303,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="125,131,159,125,160,131,126,136"/>
+<area shape="rect" id="Node000006" href="$common_8cpp.html#a131914673a0a5fa38d59c69213c59360" title="Raise a runtime error with the given message." alt="" coords="211,227,265,252"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="90,152,204,218,201,222,88,157"/>
+<area shape="rect" id="Node000009" href="$common_8cpp.html#a150bdc88d4358bda646e06031074e5b9" title="Set an object attribute or raise an exception." alt="" coords="205,153,271,179"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="126,148,192,157,191,162,125,153"/>
+<area shape="rect" id="Node000010" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="211,276,265,301"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="77,153,116,205,143,235,175,261,199,274,196,279,172,266,140,239,111,208,73,156"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="351,80,495,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,27,304,40,381,72,379,77,302,44,271,32"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="398,81,393,72,396,62,406,56,423,53,443,57,451,65,447,69,440,62,423,59,408,61,400,65,398,71,403,79"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="209,228,203,218,207,209,219,202,238,200,261,203,271,212,268,216,259,208,238,205,220,207,211,212,209,218,214,225"/>
+<area shape="rect" id="Node000007" href="$common_8cpp.html#a09dc45ab3cd7c0463be975c3c88f7351" title=" " alt="" coords="355,227,490,252"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="265,237,342,237,342,242,265,242"/>
+<area shape="rect" id="Node000008" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="543,227,593,252"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="490,237,529,237,529,242,490,242"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="270,151,302,138,376,108,378,113,304,143,272,156"/>
+</map>

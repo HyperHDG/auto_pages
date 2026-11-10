@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classGlobalLoop_1_1CondensedOperator.html" title="Assembly of the condensed matrix of a global loop." alt="" coords="5,129,237,213"/>
+<area shape="rect" id="Node000001" href="$classGlobalLoop_1_1Elliptic.html" title="Combine local solver and global information for elliptic problems." alt="" coords="317,5,548,75"/>
+<area shape="poly" id="edge70_Node000000_Node000001" title=" " alt="" coords="209,120,284,84,316,72,318,77,286,89,211,125"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1MassApproxEigenvalue.html" title="Combine local solver and global information for eigenvalue problems with mass matrix approximation." alt="" coords="285,99,580,154"/>
+<area shape="poly" id="edge71_Node000000_Node000002" title=" " alt="" coords="251,150,285,145,285,150,251,155"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Parabolic.html" title="Combine local solver and global information for parabolic problems." alt="" coords="317,179,548,248"/>
+<area shape="poly" id="edge72_Node000000_Node000003" title=" " alt="" coords="252,186,318,195,317,200,251,191"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1ShiftedInverseEigenvalue.html" title="Combine local solver and global information for eigenvalue problems with shifted inverse approach." alt="" coords="323,273,543,357"/>
+<area shape="poly" id="edge73_Node000000_Node000004" title=" " alt="" coords="207,217,286,258,324,273,322,278,284,262,205,222"/>
+</map>

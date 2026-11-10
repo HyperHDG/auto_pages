@@ -1,0 +1,9 @@
+<map id="nb_ndarray_dealloc" name="nb_ndarray_dealloc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,155,56"/>
+<area shape="rect" id="Node000002" href="$nb__ndarray_8cpp.html#a727e8de1dcf29fb8a54d56d26b45e14f" title="Decrease the reference count of the given ndarray object." alt="" coords="203,31,329,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,41,189,41,189,46,155,46"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8cpp.html#a8a8301fc4100fa7b113f9323dfbc38bc" title=" " alt="" coords="421,5,493,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,32,408,22,408,27,330,38"/>
+<area shape="rect" id="Node000004" href="$nb__ndarray_8cpp.html#ab7a8d05dfcddddff08911b82dea8ed2a" title=" " alt="" coords="377,55,537,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="330,49,364,53,363,58,329,54"/>
+</map>

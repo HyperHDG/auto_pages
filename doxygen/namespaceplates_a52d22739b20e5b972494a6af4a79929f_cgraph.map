@@ -1,0 +1,9 @@
+<map id="plates.domain_text" name="plates.domain_text">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,153,56"/>
+<area shape="rect" id="Node000002" href="$namespacecommon.html#a04e1a98a8defed5e8c367abcc0a86b2b" title=" " alt="" coords="201,31,341,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,41,187,41,187,46,154,46"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="392,5,435,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,28,378,21,379,27,342,33"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#a072ad2ac8e0406dc3c4c5d7576c99b37" title=" " alt="" coords="389,55,437,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="342,53,376,58,375,64,341,58"/>
+</map>

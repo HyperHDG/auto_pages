@@ -1,0 +1,5 @@
+<map id="GlobalLoop::ShiftedInverseEigenvalue::plot_option" name="GlobalLoop::ShiftedInverseEigenvalue::plot_option">
+<area shape="rect" id="Node000001" title="Set plot option and return old plot option." alt="" coords="5,5,201,45"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#a999ac0ed32f7cd586c09bf0a7ff2f2e3" title="Set a plot option and return the new value of this option as std::string." alt="" coords="249,13,372,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,23,235,23,235,28,202,28"/>
+</map>

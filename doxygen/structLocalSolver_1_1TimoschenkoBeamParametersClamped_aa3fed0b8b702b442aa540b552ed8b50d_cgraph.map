@@ -1,0 +1,5 @@
+<map id="LocalSolver::TimoschenkoBeamParametersClamped::dirichlet_value_phi" name="LocalSolver::TimoschenkoBeamParametersClamped::dirichlet_value_phi">
+<area shape="rect" id="Node000001" title="Dirichlet values of solution as analytic function." alt="" coords="5,5,197,60"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1TimoschenkoBeamParametersClamped.html#a09fc05a9bfd20de68f67e2f35ab41467" title="Analytic result of PDE (for convergence tests)." alt="" coords="245,5,437,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,30,232,30,232,35,197,35"/>
+</map>

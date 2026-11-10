@@ -1,0 +1,36 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::plot_solution" name="GlobalLoop::GeneralizedEigenvalue::plot_solution">
+<area shape="rect" id="Node000001" title="Plot an eigenfunction in vtu format." alt="" coords="5,35,259,75"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#ab93658d26d73b1db29343998c7fb747c" title="Number of skeletal unknowns (including the Dirichlet unknowns)." alt="" coords="307,5,560,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,40,293,36,293,42,259,45"/>
+<area shape="rect" id="Node000004" href="$plot_8hxx.html#ae6488020df2c6c7ceec4ddcddac195a4" title="Function plotting the solution of an equation on a hypergraph in vtu format." alt="" coords="410,70,457,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,64,397,77,396,82,258,69"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="608,13,836,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,23,595,23,595,28,560,28"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="924,46,1053,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="457,79,910,59,910,65,457,84"/>
+<area shape="rect" id="Node000006" href="$plot_8hxx.html#a98f770580324a7ae7ccb4b19cff7387f" title="Auxiliary function to plot solution values to vtu file." alt="" coords="685,135,759,161"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="458,85,672,134,671,139,457,90"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="751,133,811,108,883,81,916,72,917,77,885,87,813,113,753,138"/>
+<area shape="rect" id="Node000007" href="$namespacePlotFunctions.html#a351692d1e30ffc057fa03e41ce2a6f31" title="Close stream to file." alt="" coords="913,96,1064,136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="759,141,899,124,900,129,760,146"/>
+<area shape="rect" id="Node000008" href="$namespacePlotFunctions.html#a75c70b284efb3110a52381a9fc54b800" title="Open stream to file." alt="" coords="914,160,1063,200"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="760,150,901,167,900,172,759,155"/>
+<area shape="rect" id="Node000011" href="$plot_8hxx.html#a63038e2ca2125640bd936bc763c86af4" title="Auxiliary function to plot solution values on edge." alt="" coords="921,225,1057,250"/>
+<area shape="poly" id="edge11_Node000006_Node000011" title=" " alt="" coords="753,158,813,183,885,209,917,219,916,224,883,215,811,188,751,163"/>
+<area shape="rect" id="Node000014" href="$namespacePlotFunctions.html#a47cdba70c1955aea7dbd1a572eb484e3" title="Auxiliary function for writing geometry section VTU files." alt="" coords="884,295,1093,335"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="741,159,803,205,885,259,935,286,932,291,883,264,800,209,738,163"/>
+<area shape="rect" id="Node000009" href="$namespacePlotFunctions.html#a59566f6e5442d0818f917270d8bdf1ea" title="Turn fileType enum into string." alt="" coords="1147,124,1313,164"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1063,166,1133,156,1134,161,1064,172"/>
+<area shape="rect" id="Node000010" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="1367,131,1417,157"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1313,141,1353,141,1353,147,1313,147"/>
+<area shape="rect" id="Node000012" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="1176,189,1284,214"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1057,225,1162,209,1162,214,1058,230"/>
+<area shape="rect" id="Node000013" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="1185,238,1275,263"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1057,238,1171,245,1171,250,1057,244"/>
+<area shape="rect" id="Node000015" href="$structHypercube.html#aa316d27aad8778241954792dda4821c5" title="Number of vertices of the hypercube." alt="" coords="1147,287,1313,313"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="1093,306,1133,303,1133,309,1094,311"/>
+<area shape="rect" id="Node000016" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="1167,337,1293,362"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="1094,327,1153,336,1153,341,1093,332"/>
+<area shape="rect" id="Node000017" href="$namespacePlotFunctions.html#ad21f3a929b1a1b6aa6ef7d353e5fae69" title="Output of the cubes of the subdivision of an edge in lexicographic order." alt="" coords="1141,387,1319,427"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="1041,332,1142,372,1162,379,1160,384,1140,377,1039,337"/>
+</map>

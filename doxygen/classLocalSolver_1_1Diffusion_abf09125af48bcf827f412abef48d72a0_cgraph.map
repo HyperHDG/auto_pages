@@ -1,0 +1,31 @@
+<map id="LocalSolver::Diffusion::errors_temp" name="LocalSolver::Diffusion::errors_temp">
+<area shape="rect" id="Node000001" title="Parabolic approximation version of local squared L2 error." alt="" coords="5,199,168,239"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#ae8e7fb3436f47caaaf981741769e59a6" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="216,38,391,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,197,263,84,266,88,116,201"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="251,141,356,167"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="153,197,246,168,248,173,155,202"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1Diffusion.html#a96a92732c1ad238e3c9f73859b801d5f" title="Solve local problem for parabolic approximations." alt="" coords="222,291,385,331"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="130,237,217,277,234,284,232,289,215,282,127,242"/>
+<area shape="rect" id="Node000013" href="$classLocalSolver_1_1Diffusion.html#ab0be091a11cadcb2fe7dd7725a0f5338" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="221,227,385,267"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="169,227,208,232,207,238,168,232"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="491,5,618,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,41,477,28,478,33,391,47"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="490,55,619,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="327,139,377,114,438,89,476,78,477,83,440,94,379,118,329,144"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="490,104,619,129"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="356,144,476,126,477,131,357,149"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="499,177,611,203"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="357,159,485,177,485,183,356,164"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="514,179,505,169,510,159,527,153,555,151,590,155,600,159,604,165,599,168,597,163,589,160,555,156,528,158,513,163,511,168,518,175"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1Diffusion.html#a82ffb50b1d1883e2b3cf5528ca0fac35" title="Assemble local matrix for the local solver." alt="" coords="470,227,639,267"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="382,289,462,268,463,273,383,294"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1Diffusion.html#a47ddfc3f1de08b4b6051c564a2f3fc64" title="Assemble local right&#45;hand for the local solver (from volume function coefficients)." alt="" coords="453,419,657,459"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="329,329,378,368,440,405,456,412,454,417,437,410,375,372,326,333"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1Diffusion.html#ab6d077c193f32bcc1575dd592a4bc634" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="439,291,671,331"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="385,309,425,309,425,314,385,314"/>
+<area shape="rect" id="Node000012" href="$classLocalSolver_1_1Diffusion.html#ac1b6c75f3527dde6952f901bd520e68b" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="447,355,662,395"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="383,329,463,349,462,355,382,334"/>
+<area shape="poly" id="edge14_Node000013_Node000009" title=" " alt="" coords="385,245,456,245,456,250,385,250"/>
+<area shape="poly" id="edge15_Node000013_Node000011" title=" " alt="" coords="383,265,463,285,462,291,382,270"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="372,265,392,277,408,294,417,311,425,326,440,341,449,347,447,351,437,345,421,329,412,313,404,297,389,281,370,270"/>
+</map>

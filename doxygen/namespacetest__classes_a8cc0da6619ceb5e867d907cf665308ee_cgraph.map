@@ -1,0 +1,11 @@
+<map id="test_classes.test55_pooled_churn" name="test_classes.test55_pooled_churn">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,152,87"/>
+<area shape="rect" id="Node000002" href="$namespacetest__classes.html#a03dd891e60a585d99facdc3f5fbf38dc" title=" " alt="" coords="200,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,47,213,31,214,37,153,52"/>
+<area shape="rect" id="Node000003" href="$nb__misc_8h.html#a6ffb176925adbe8476c547acc6523be6" title=" " alt="" coords="235,55,323,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,65,221,65,221,70,152,70"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="257,104,300,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="153,83,245,106,243,111,152,88"/>
+<area shape="rect" id="Node000004" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="405,55,497,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="323,65,391,65,391,70,323,70"/>
+</map>

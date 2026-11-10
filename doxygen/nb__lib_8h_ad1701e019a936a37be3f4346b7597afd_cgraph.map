@@ -1,0 +1,6 @@
+<map id="getattr_or_raise" name="getattr_or_raise">
+<area shape="rect" id="Node000001" title="Get an object attribute or raise an exception. Skip if &#39;out&#39; is non&#45;null." alt="" coords="5,29,131,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="179,29,323,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,39,165,39,165,45,131,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="221,31,214,21,218,11,230,5,251,3,276,6,286,15,283,19,273,11,251,8,232,10,222,15,219,20,225,28"/>
+</map>

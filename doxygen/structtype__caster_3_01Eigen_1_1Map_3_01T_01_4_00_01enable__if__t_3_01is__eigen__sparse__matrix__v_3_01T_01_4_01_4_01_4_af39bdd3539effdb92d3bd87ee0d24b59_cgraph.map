@@ -1,0 +1,10 @@
+<map id="type_caster&lt; Eigen::Map&lt; T &gt;, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_cpp" name="type_caster&lt; Eigen::Map&lt; T &gt;, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,208,126"/>
+<area shape="rect" id="Node000002" href="$nb__cast_8h.html#a26161582a0804f525d03c3e82a6ef084" title=" " alt="" coords="311,29,360,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,67,297,47,298,53,209,72"/>
+<area shape="rect" id="Node000003" href="$classmodule__.html#a00d7077570683dc1d782bcd8dd3a2659" title=" " alt="" coords="267,79,403,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="208,89,253,89,253,94,208,94"/>
+<area shape="rect" id="Node000004" href="$classpython__error.html#a1311dc65d44c90e0a1a699ef608d2e93" title=" " alt="" coords="256,128,415,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="209,111,263,122,262,128,208,116"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="309,37,293,26,292,14,307,6,335,3,360,5,375,10,380,20,375,29,370,26,375,19,372,14,359,10,335,8,308,11,297,16,297,23,312,32"/>
+</map>

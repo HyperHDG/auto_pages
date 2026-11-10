@@ -1,0 +1,10 @@
+<map id="LocalSolver::DiffusionEigsWeighted::n_loc_dofs" name="LocalSolver::DiffusionEigsWeighted::n_loc_dofs">
+<area shape="rect" id="Node000001" title="Number of rows and columns of the local matrices." alt="" coords="5,37,196,77"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a36f15f6e16d89fa64bd9133ea1de0232" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="244,5,480,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,43,230,39,231,44,196,48"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a6fd1fac6313accbd6971d9aace0939f8" title="Number of bulk degrees of freedom (of the primal unknown) per hyperedge." alt="" coords="265,69,459,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,66,251,73,250,78,196,72"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="528,45,655,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="481,39,515,44,514,49,480,45"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="459,73,514,65,515,71,460,78"/>
+</map>

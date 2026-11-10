@@ -1,0 +1,62 @@
+<map id="run_experiments.hdg_study" name="run_experiments.hdg_study">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,321,165,361"/>
+<area shape="rect" id="Node000002" href="$namespaceplates.html#a15919d51cff920cd7c9078f31a37ce88" title=" " alt="" coords="213,153,317,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,319,239,187,243,190,109,323"/>
+<area shape="rect" id="Node000011" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="239,403,291,428"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="135,358,228,397,226,402,133,363"/>
+<area shape="rect" id="Node000013" href="$namespaceplates.html#af8e527afa9635142ad0998082b80462c" title=" " alt="" coords="222,328,309,353"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="165,338,208,338,208,343,165,343"/>
+<area shape="rect" id="Node000003" href="$namespacelimit.html#a3bfd25cd5ffbe688106de551d0e272b5" title=" " alt="" coords="401,29,507,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,151,310,108,335,84,364,64,386,53,389,58,367,68,339,88,314,112,278,155"/>
+<area shape="rect" id="Node000007" href="$namespacelimit.html#a488930ccd6e45012aa0763e8f944b2fd" title=" " alt="" coords="390,79,518,104"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="287,151,364,113,386,105,387,110,366,118,290,156"/>
+<area shape="rect" id="Node000008" href="$namespacecommon.html#af1deb0832450823623775a52743a757a" title=" " alt="" coords="401,128,507,153"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="317,156,386,147,387,152,318,162"/>
+<area shape="rect" id="Node000009" href="$namespacelimit.html#adf02a55374201598c7a9ba9e56d3e567" title=" " alt="" coords="409,177,499,203"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="318,170,395,180,395,185,317,175"/>
+<area shape="rect" id="Node000010" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="901,228,944,253"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="288,177,324,196,366,211,440,227,516,238,666,247,796,246,887,241,888,246,796,252,666,253,516,243,439,232,365,217,321,200,286,181"/>
+<area shape="rect" id="Node000004" href="$namespacelimit.html#a7fb21cefc02f6dd45d0143cce2212605" title=" " alt="" coords="591,5,785,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="508,34,577,27,577,32,508,39"/>
+<area shape="rect" id="Node000005" href="$namespacelimit.html#a65bc2325ebe08a500855fb9b148cb827" title=" " alt="" coords="603,55,773,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="508,45,589,54,589,59,508,50"/>
+<area shape="rect" id="Node000006" href="$namespacelimit.html#a95c1ad18ff0a5a6ccd603d2e79b9bac1" title=" " alt="" coords="833,55,1012,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="774,65,820,65,820,70,774,70"/>
+<area shape="rect" id="Node000012" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="1081,447,1225,472"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="292,414,1068,452,1068,458,292,419"/>
+<area shape="poly" id="edge12_Node000012_Node000012" title=" " alt="" coords="1116,448,1108,438,1112,428,1128,422,1153,420,1186,424,1198,433,1195,438,1184,429,1153,425,1129,427,1116,432,1113,438,1120,445"/>
+<area shape="rect" id="Node000014" href="$namespacecommon.html#a108506aeb95ae25e61c653483c79ea32" title=" " alt="" coords="375,328,533,353"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="309,338,361,338,361,343,309,343"/>
+<area shape="rect" id="Node000015" href="$namespaceplates.html#a52d22739b20e5b972494a6af4a79929f" title=" " alt="" coords="380,279,528,304"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="308,327,391,305,392,310,310,332"/>
+<area shape="rect" id="Node000018" href="$namespacecommon.html#aebad4fea3cb616abdc8c6104ad93783c" title=" " alt="" coords="365,377,543,403"/>
+<area shape="poly" id="edge19_Node000013_Node000018" title=" " alt="" coords="310,349,392,371,391,376,308,354"/>
+<area shape="rect" id="Node000016" href="$namespacecommon.html#a04e1a98a8defed5e8c367abcc0a86b2b" title=" " alt="" coords="618,279,758,304"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="529,289,604,289,604,294,529,294"/>
+<area shape="poly" id="edge17_Node000016_Node000010" title=" " alt="" coords="747,276,887,245,889,251,748,281"/>
+<area shape="rect" id="Node000017" href="$nb__types_8h.html#a072ad2ac8e0406dc3c4c5d7576c99b37" title=" " alt="" coords="899,277,947,303"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="758,288,885,288,885,293,758,294"/>
+<area shape="rect" id="Node000019" href="$namespacehyperhdg.html#a2a3a376f47c23f9eca28eb2766bc6d2d" title=" " alt="" coords="631,377,745,403"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="543,387,617,387,617,393,543,393"/>
+<area shape="rect" id="Node000020" href="$namespacehyperhdg.html#a2214923754c7498c4ca9806e79c50feb" title=" " alt="" coords="853,327,992,352"/>
+<area shape="poly" id="edge21_Node000019_Node000020" title=" " alt="" coords="745,375,850,352,851,357,746,380"/>
+<area shape="rect" id="Node000029" href="$common_8cpp.html#aa104d75f61b5159f0e0278bbe910580e" title="Get an object attribute or raise an exception." alt="" coords="889,380,956,405"/>
+<area shape="poly" id="edge30_Node000019_Node000029" title=" " alt="" coords="746,388,876,389,876,395,745,393"/>
+<area shape="rect" id="Node000021" href="$namespacehyperhdg.html#ae1416e324f23491108fbd09be2800d47" title=" " alt="" coords="1090,225,1217,251"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="983,324,1011,312,1025,299,1034,286,1043,273,1059,260,1076,251,1078,256,1061,264,1047,276,1038,289,1029,303,1013,316,986,329"/>
+<area shape="rect" id="Node000026" href="$namespacehyperhdg.html#ae3da23de4dc429b01fc941b4156da0b4" title=" " alt="" coords="1060,275,1247,300"/>
+<area shape="poly" id="edge27_Node000020_Node000026" title=" " alt="" coords="979,324,1083,300,1084,306,980,329"/>
+<area shape="rect" id="Node000027" href="$namespacehyperhdg.html#a9fac9b80781a95de1953a288defcf616" title=" " alt="" coords="1085,324,1221,349"/>
+<area shape="poly" id="edge28_Node000020_Node000027" title=" " alt="" coords="992,336,1072,335,1072,340,992,341"/>
+<area shape="rect" id="Node000028" href="$namespacehyperhdg.html#abf0295bac7ad0eef314c1b630983d8fd" title=" " alt="" coords="1060,373,1247,399"/>
+<area shape="poly" id="edge29_Node000020_Node000028" title=" " alt="" coords="987,349,1077,368,1076,373,986,355"/>
+<area shape="rect" id="Node000022" href="$namespacehyperhdg.html#a8832b56eddb38c8cc6f573005380a4f2" title=" " alt="" coords="1320,152,1459,177"/>
+<area shape="poly" id="edge23_Node000021_Node000022" title=" " alt="" coords="1187,223,1294,186,1321,178,1322,184,1295,191,1189,228"/>
+<area shape="rect" id="Node000023" href="$namespacehyperhdg.html#a4b2ab2a3cc73db05eb15bc8d3792940f" title=" " alt="" coords="1295,201,1484,227"/>
+<area shape="poly" id="edge24_Node000021_Node000023" title=" " alt="" coords="1217,229,1281,222,1281,228,1217,234"/>
+<area shape="rect" id="Node000024" href="$namespacehyperhdg.html#a60c533bad261628efb095e241b5f5205" title=" " alt="" coords="1332,251,1447,276"/>
+<area shape="poly" id="edge25_Node000021_Node000024" title=" " alt="" coords="1217,242,1319,253,1318,258,1217,247"/>
+<area shape="rect" id="Node000025" href="$namespacehyperhdg.html#a8fb0ec8068daaa2dbcfc555d8ffedd63" title=" " alt="" coords="1318,301,1461,341"/>
+<area shape="poly" id="edge26_Node000021_Node000025" title=" " alt="" coords="1213,248,1248,260,1272,272,1296,285,1316,293,1314,298,1294,290,1270,277,1246,264,1211,253"/>
+<area shape="poly" id="edge31_Node000029_Node000012" title=" " alt="" coords="957,400,1096,440,1094,445,955,405"/>
+</map>

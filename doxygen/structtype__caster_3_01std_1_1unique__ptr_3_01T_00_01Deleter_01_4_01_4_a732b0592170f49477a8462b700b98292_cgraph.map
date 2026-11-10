@@ -1,0 +1,9 @@
+<map id="type_caster&lt; std::unique_ptr&lt; T, Deleter &gt; &gt;::~type_caster" name="type_caster&lt; std::unique_ptr&lt; T, Deleter &gt; &gt;::~type_caster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,191,60"/>
+<area shape="rect" id="Node000002" href="$nb__type_8cpp.html#a17a3910c59ae93224a7fab6bf7626e7c" title="Reverse the effects of nb_type_relinquish_ownership()." alt="" coords="239,20,440,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,30,225,30,225,35,191,35"/>
+<area shape="rect" id="Node000003" href="$nb__type_8cpp.html#a0d872f74491b53bfca5eb5f92975a4c6" title="Return a unicode string representing the long&#45;form name of object&#39;s type." alt="" coords="488,20,601,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,30,474,30,474,35,440,35"/>
+<area shape="rect" id="Node000004" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="649,20,768,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,30,635,30,635,35,602,35"/>
+</map>

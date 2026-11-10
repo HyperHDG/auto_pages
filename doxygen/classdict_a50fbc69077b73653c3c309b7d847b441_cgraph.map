@@ -1,0 +1,10 @@
+<map id="dict::get" name="dict::get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,80,104"/>
+<area shape="rect" id="Node000002" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="154,5,246,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,76,127,40,143,33,145,38,129,44,64,81"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="128,79,272,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,89,114,89,114,94,80,94"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="173,128,227,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="81,100,160,126,159,131,79,105"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="173,80,168,70,171,61,182,54,200,52,222,55,231,64,227,68,219,60,200,57,184,59,175,64,173,70,178,77"/>
+</map>

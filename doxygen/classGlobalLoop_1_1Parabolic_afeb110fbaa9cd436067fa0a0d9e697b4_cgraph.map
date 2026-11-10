@@ -1,0 +1,14 @@
+<map id="GlobalLoop::Parabolic::make_initial" name="GlobalLoop::Parabolic::make_initial">
+<area shape="rect" id="Node000001" title="Evaluate the initial flux of the problem." alt="" coords="5,23,168,63"/>
+<area shape="rect" id="Node000002" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="223,5,314,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,29,209,23,210,29,169,35"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="216,55,321,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,51,203,56,202,61,168,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="369,5,499,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="311,52,377,32,378,37,313,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="369,55,499,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="321,65,356,65,356,70,321,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="378,128,490,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="299,78,393,120,391,125,297,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="407,129,401,120,404,110,415,104,434,101,456,105,466,113,462,117,454,110,434,107,417,109,408,113,406,119,411,126"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Geometry::UnitCube::hyEdge::mat_q" name="Geometry::UnitCube::hyEdge::mat_q">
+<area shape="rect" id="Node000001" title="Return matrix Q of the QR decomposition of the linear transoformation." alt="" coords="5,29,160,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="49,30,47,20,52,11,64,5,83,3,104,6,115,13,112,17,102,11,83,8,66,10,56,15,52,21,54,28"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="208,37,316,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,47,194,47,194,52,160,52"/>
+</map>

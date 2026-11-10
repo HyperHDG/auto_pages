@@ -1,0 +1,17 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/node_descriptor/cubic.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/node_descriptor/cubic.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="754,5,973,60"/>
+<area shape="rect" id="Node000002" href="$diffusion__elliptic_8cxx.html" title=" " alt="" coords="5,108,228,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="741,48,508,73,241,111,229,113,228,108,240,105,508,68,740,43"/>
+<area shape="rect" id="Node000003" href="$diffusion__floatings_8cxx.html" title=" " alt="" coords="253,108,479,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="741,61,492,111,480,113,479,108,491,105,740,56"/>
+<area shape="rect" id="Node000004" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="503,108,730,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="787,68,682,110,680,105,785,63"/>
+<area shape="rect" id="Node000005" href="$plot__refined_8cxx.html" title=" " alt="" coords="754,108,973,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="866,74,866,108,861,108,861,74"/>
+<area shape="rect" id="Node000006" href="$plot__simple_8cxx.html" title=" " alt="" coords="997,108,1215,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="940,63,1044,105,1042,110,938,68"/>
+<area shape="rect" id="Node000007" href="$plot__vtkhdf_8cxx.html" title=" " alt="" coords="1239,108,1458,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="987,56,1228,105,1239,108,1238,113,1227,111,986,61"/>
+<area shape="rect" id="Node000008" href="$stiffness__matrix_8cxx.html" title="Check the assembly of the condensed (stiffness) matrix." alt="" coords="1482,108,1709,163"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="987,43,1212,69,1470,105,1482,107,1481,113,1470,111,1211,74,986,49"/>
+</map>

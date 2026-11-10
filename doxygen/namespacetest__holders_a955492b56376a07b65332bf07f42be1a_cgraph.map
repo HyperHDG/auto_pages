@@ -1,0 +1,7 @@
+<map id="test_holders.check_shared_from_this_py_owned" name="test_holders.check_shared_from_this_py_owned">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,220,63"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a014de143e99e873a13b356155b36d300" title=" " alt="" coords="268,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,26,254,22,255,27,221,32"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="277,55,327,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,54,264,60,263,65,220,60"/>
+</map>

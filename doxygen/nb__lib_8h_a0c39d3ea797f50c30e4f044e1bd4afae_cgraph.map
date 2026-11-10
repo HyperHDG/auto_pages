@@ -1,0 +1,63 @@
+<map id="ndarray_export" name="ndarray_export">
+<area shape="rect" id="Node000001" title="Wrap a ndarray_handle* into a PyCapsule." alt="" coords="5,625,127,651"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="212,425,279,451"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,624,83,592,104,548,134,502,173,461,198,447,200,452,176,465,139,505,109,551,87,594,74,626"/>
+<area shape="rect" id="Node000003" href="$nb__ndarray_8cpp.html#a64fca64fae6cd802b553c91a8604975d" title=" " alt="" coords="188,475,303,500"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="78,623,173,536,212,506,216,510,176,540,82,627"/>
+<area shape="rect" id="Node000021" href="$nb__ndarray_8cpp.html#a5424e3db15d1c8970fe5856c266827c4" title="Resolve (and cache) the callable for an ndarray_export cache slot." alt="" coords="175,549,316,575"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="96,623,201,578,203,583,98,628"/>
+<area shape="rect" id="Node000023" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="431,649,485,675"/>
+<area shape="poly" id="edge34_Node000001_Node000023" title=" " alt="" coords="127,633,216,632,316,637,417,651,417,657,316,642,216,638,127,638"/>
+<area shape="rect" id="Node000024" href="$nb__ndarray_8cpp.html#ab5f0672f6b060daabfb589ccdbc0a6bf" title=" " alt="" coords="184,651,307,676"/>
+<area shape="poly" id="edge29_Node000001_Node000024" title=" " alt="" coords="128,644,171,650,170,655,127,649"/>
+<area shape="rect" id="Node000025" href="$nb__types_8h.html#a25b511474eabf0e768cea0a1c1da88ef" title=" " alt="" coords="218,700,273,725"/>
+<area shape="poly" id="edge30_Node000001_Node000025" title=" " alt="" coords="94,648,176,686,205,697,204,702,174,691,91,653"/>
+<area shape="rect" id="Node000026" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="199,749,291,775"/>
+<area shape="poly" id="edge32_Node000001_Node000026" title=" " alt="" coords="80,649,120,691,147,715,176,736,188,742,185,747,173,740,143,719,116,695,76,653"/>
+<area shape="rect" id="Node000027" href="$classobject.html#a4ce66b1d44b37ae6b28e80228b075aae" title=" " alt="" coords="186,799,305,824"/>
+<area shape="poly" id="edge33_Node000001_Node000027" title=" " alt="" coords="75,650,112,714,141,752,176,785,184,790,181,795,173,789,137,756,108,717,71,652"/>
+<area shape="rect" id="Node000004" href="$nb__ndarray_8cpp.html#aa1dbcd97642ac104849aa5d221d6e51e" title=" " alt="" coords="383,155,533,180"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="298,472,314,461,336,433,344,405,349,375,362,338,403,257,440,191,444,193,408,259,366,340,355,376,349,407,340,435,318,465,301,477"/>
+<area shape="rect" id="Node000008" href="$nb__ndarray_8cpp.html#a1fa2141187414d87aed34ae1c0e56767" title=" " alt="" coords="377,352,539,377"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="289,472,315,461,378,422,429,384,433,388,381,427,317,466,291,477"/>
+<area shape="rect" id="Node000018" href="$nb__ndarray_8cpp.html#abcef5069eda072ae5b29ae9bcf8a2e3e" title=" " alt="" coords="364,449,552,475"/>
+<area shape="poly" id="edge22_Node000003_Node000018" title=" " alt="" coords="303,478,350,472,350,478,303,483"/>
+<area shape="rect" id="Node000019" href="$nb__internals_8h.html#ae819395120cbbb18f0efc3137d118dc6" title="Create a type via PyType_FromSpec and transfer ownership to the lifeline." alt="" coords="415,499,501,524"/>
+<area shape="poly" id="edge23_Node000003_Node000019" title=" " alt="" coords="303,491,402,502,401,508,303,496"/>
+<area shape="rect" id="Node000005" href="$nb__ndarray_8cpp.html#a727e8de1dcf29fb8a54d56d26b45e14f" title="Decrease the reference count of the given ndarray object." alt="" coords="623,29,749,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,152,525,109,561,85,599,64,615,57,617,62,601,68,564,89,528,114,475,157"/>
+<area shape="rect" id="Node000006" href="$nb__internals_8cpp.html#a8a8301fc4100fa7b113f9323dfbc38bc" title=" " alt="" coords="864,5,936,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="749,32,850,21,851,26,750,38"/>
+<area shape="rect" id="Node000007" href="$nb__ndarray_8cpp.html#ab7a8d05dfcddddff08911b82dea8ed2a" title=" " alt="" coords="820,55,980,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="750,47,806,54,806,59,749,52"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a35991caa8c38a365c91731a2b00cb77c" title=" " alt="" coords="610,103,762,128"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="464,350,524,239,563,177,598,137,606,132,609,136,602,141,568,181,529,242,468,353"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="632,152,740,177"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="464,350,482,317,512,273,551,226,599,186,618,176,620,181,601,191,555,230,517,276,487,320,468,353"/>
+<area shape="rect" id="Node000011" href="$classndarray.html#a61ab8e7786883e9e7f8544d42dd4d5e4" title=" " alt="" coords="607,225,765,251"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="474,350,528,311,599,268,632,253,634,258,601,272,531,315,477,354"/>
+<area shape="rect" id="Node000012" href="$classndarray.html#aec91ba8fb6b8d3062a2c22504bcf9f6a" title=" " alt="" coords="842,301,958,327"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="485,349,537,328,599,311,659,304,720,301,828,305,828,310,720,307,660,309,601,317,539,333,487,354"/>
+<area shape="rect" id="Node000013" href="$classndarray.html#ace7dd001aec87a639d2c8ed659d930ff" title=" " alt="" coords="619,327,753,352"/>
+<area shape="poly" id="edge14_Node000008_Node000013" title=" " alt="" coords="538,353,604,346,605,351,539,358"/>
+<area shape="rect" id="Node000014" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="665,376,707,401"/>
+<area shape="poly" id="edge16_Node000008_Node000014" title=" " alt="" coords="539,370,651,382,650,388,538,376"/>
+<area shape="rect" id="Node000015" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="630,449,742,475"/>
+<area shape="poly" id="edge17_Node000008_Node000015" title=" " alt="" coords="490,375,644,441,642,446,488,380"/>
+<area shape="rect" id="Node000016" href="$classndarray.html#a7dbbeb427eda8e6e0472bb79953e1e1e" title=" " alt="" coords="627,523,745,548"/>
+<area shape="poly" id="edge19_Node000008_Node000016" title=" " alt="" coords="479,375,554,436,577,461,602,485,647,514,644,519,598,489,574,465,550,440,475,380"/>
+<area shape="rect" id="Node000017" href="$structndarray__handle.html#ad5888cc76cf7b671611fa43f6acd0f23" title=" " alt="" coords="600,572,772,597"/>
+<area shape="poly" id="edge21_Node000008_Node000017" title=" " alt="" coords="483,375,519,401,554,436,565,454,571,471,575,502,582,531,589,544,602,559,607,563,604,567,598,563,585,548,577,532,570,503,566,472,560,456,550,440,516,405,480,380"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="651,104,644,94,647,84,662,78,686,76,716,80,727,89,724,93,714,85,686,81,663,83,651,88,649,94,655,101"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="651,227,644,217,647,207,662,201,686,199,716,202,727,211,724,216,714,207,686,204,663,206,651,211,649,216,655,224"/>
+<area shape="poly" id="edge15_Node000013_Node000012" title=" " alt="" coords="753,329,828,320,829,325,754,334"/>
+<area shape="poly" id="edge18_Node000015_Node000015" title=" " alt="" coords="651,451,644,441,647,431,662,425,686,423,716,426,727,435,724,440,714,431,686,428,663,430,651,435,649,440,655,448"/>
+<area shape="poly" id="edge20_Node000016_Node000016" title=" " alt="" coords="651,524,644,514,647,504,662,498,686,496,716,500,727,509,724,513,714,505,686,501,663,503,651,508,649,514,655,521"/>
+<area shape="rect" id="Node000020" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="638,621,734,647"/>
+<area shape="poly" id="edge24_Node000019_Node000020" title=" " alt="" coords="502,517,528,527,554,541,570,558,578,576,586,592,602,608,626,620,624,625,598,612,582,595,573,578,565,562,550,545,526,532,500,522"/>
+<area shape="poly" id="edge27_Node000021_Node000020" title=" " alt="" coords="316,559,428,565,491,573,553,586,577,596,601,608,626,616,624,621,599,612,575,601,551,591,490,579,428,571,316,564"/>
+<area shape="rect" id="Node000022" href="$common_8cpp.html#ace5fa8be7a0ed1c1fb6e6d07f7215b4b" title="Try to import a Python extension module, raises an exception upon failure." alt="" coords="397,600,519,625"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="300,572,392,594,390,599,299,577"/>
+<area shape="poly" id="edge28_Node000021_Node000023" title=" " alt="" coords="281,572,318,592,341,615,351,626,365,636,391,647,418,654,416,659,389,652,363,640,347,630,338,619,314,596,278,577"/>
+<area shape="poly" id="edge31_Node000025_Node000023" title=" " alt="" coords="272,704,416,669,417,674,273,709"/>
+</map>

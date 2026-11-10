@@ -1,0 +1,7 @@
+<map id="nb_module_free" name="nb_module_free">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,132,38"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8cpp.html#acc4583647c8064007304d65926947bc3" title=" " alt="" coords="180,13,315,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,23,166,23,166,28,132,28"/>
+<area shape="rect" id="Node000003" href="$structnb__maybe__atomic.html#a2a0e1a82b280ad2790db0698cde0ebd4" title=" " alt="" coords="363,5,545,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,23,349,23,349,28,315,28"/>
+</map>

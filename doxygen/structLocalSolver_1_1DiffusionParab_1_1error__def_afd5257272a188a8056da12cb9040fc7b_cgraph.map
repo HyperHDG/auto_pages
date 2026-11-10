@@ -1,0 +1,12 @@
+<map id="LocalSolver::DiffusionParab::error_def::sum_error" name="LocalSolver::DiffusionParab::error_def::sum_error">
+<area shape="rect" id="Node000001" title="Define how local errors should be accumulated." alt="" coords="5,47,204,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="252,55,357,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,65,238,65,238,70,204,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="405,5,535,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,52,413,32,414,37,349,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="405,55,535,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,65,392,65,392,70,357,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="414,128,526,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="335,78,429,120,427,125,333,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="443,129,437,120,440,110,451,104,470,101,492,105,502,113,498,117,490,110,470,107,453,109,444,113,442,119,447,126"/>
+</map>

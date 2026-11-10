@@ -1,0 +1,11 @@
+<map id="nb_static_property_tp" name="nb_static_property_tp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,168,102"/>
+<area shape="rect" id="Node000002" href="$nb__static__property_8cpp.html#a827ace6f9ca903087c565b53f89465f7" title="nb_static_property.__get__(): Always pass the class instead of the instance." alt="" coords="216,5,359,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,74,210,47,212,52,128,79"/>
+<area shape="rect" id="Node000003" href="$nb__static__property_8cpp.html#a83957522d03514f59e369cc849cd747a" title="nb_static_property.__set__(): Just like the above __get__()." alt="" coords="216,69,359,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,87,202,87,202,92,169,92"/>
+<area shape="rect" id="Node000004" href="$nb__internals_8h.html#ae819395120cbbb18f0efc3137d118dc6" title="Create a type via PyType_FromSpec and transfer ownership to the lifeline." alt="" coords="245,134,330,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,99,232,128,231,133,131,105"/>
+<area shape="rect" id="Node000005" href="$nb__internals_8h.html#af3a4b35fdd87bff84dc58bc1999a8170" title="Append &#39;o&#39; to the lifeline and transfer ownership to it." alt="" coords="407,134,503,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,144,393,144,393,149,330,149"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LocalSolver::DiffusionEigsWeighted::n_loc_bulk_dofs" name="LocalSolver::DiffusionEigsWeighted::n_loc_bulk_dofs">
+<area shape="rect" id="Node000001" title="Number of bulk degrees of freedom (of the primal unknown) per hyperedge." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="248,13,375,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+</map>

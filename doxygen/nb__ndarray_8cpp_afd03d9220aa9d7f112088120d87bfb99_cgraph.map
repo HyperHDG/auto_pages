@@ -1,0 +1,11 @@
+<map id="nb_ndarray_dlpack_device" name="nb_ndarray_dlpack_device">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,103,200,128"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a5e325218727fc33b401a26b97b98c406" title=" " alt="" coords="263,29,405,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,100,247,63,272,56,274,61,249,69,140,105"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a61ab8e7786883e9e7f8544d42dd4d5e4" title=" " alt="" coords="255,103,413,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="200,113,241,113,241,118,200,118"/>
+<area shape="rect" id="Node000004" href="$structndarray__handle.html#ad5888cc76cf7b671611fa43f6acd0f23" title=" " alt="" coords="248,152,420,177"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="163,125,261,146,260,152,162,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="297,31,289,21,293,11,308,5,334,3,366,7,379,16,375,20,364,11,334,8,309,10,296,15,294,20,301,27"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="297,104,289,94,293,84,308,78,334,76,366,80,379,89,375,94,364,85,334,81,309,83,296,88,294,94,301,101"/>
+</map>

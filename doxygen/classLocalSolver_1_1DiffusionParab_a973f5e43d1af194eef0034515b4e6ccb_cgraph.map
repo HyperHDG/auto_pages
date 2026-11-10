@@ -1,0 +1,9 @@
+<map id="LocalSolver::DiffusionParab::solve_local_problem" name="LocalSolver::DiffusionParab::solve_local_problem">
+<area shape="rect" id="Node000001" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,69,204,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionParab.html#a19b891573d3c4d30d9d7cb72073aabdd" title="Assemble local matrix for the local solver." alt="" coords="269,5,467,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,67,271,46,273,51,188,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionParab.html#a3f5b722eaafc60d326e5058b5d583d6b" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="252,69,484,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,87,238,87,238,92,204,92"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionParab.html#af3b3ff75514cba03a1d5fa48e61e0db8" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="261,133,475,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,107,273,127,271,133,187,112"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="bilaplacian_hypergraph_convergence_eigenvalue_approx.helper_ev_approx.multiply_mass" name="bilaplacian_hypergraph_convergence_eigenvalue_approx.helper_ev_approx.multiply_mass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,703,300,757"/>
+<area shape="rect" id="Node000002" href="$classbilaplacian__convergence__eigenvalue__approx_1_1helper__ev__approx.html#a9509e6b0ff4876b029b56ee6604f6794" title=" " alt="" coords="388,5,587,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,702,155,587,163,506,178,417,202,324,237,232,259,187,284,145,313,106,346,69,374,50,377,54,350,73,317,109,289,148,264,190,242,234,208,326,184,418,168,507,160,587,156,703"/>
+<area shape="rect" id="Node000003" href="$classbilaplacian__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a92d21d361a0e21c839d3b8b9257d4aaf" title=" " alt="" coords="361,84,613,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,702,160,599,171,528,188,450,213,369,246,288,290,214,317,179,346,148,350,145,353,149,350,152,321,183,295,217,251,291,218,370,193,451,176,529,166,599,157,702"/>
+<area shape="rect" id="Node000004" href="$classbilaplacian__hypergraph__convergence__eigenvalue__approx_1_1helper__ev__approx.html#a413ccfed458d39fa1bace97fd3fa58aa" title=" " alt="" coords="350,163,625,217"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,702,167,612,180,551,198,484,223,415,256,347,296,284,346,228,352,223,355,227,350,232,300,287,260,350,228,417,203,486,185,552,172,613,159,703"/>
+<area shape="rect" id="Node000005" href="$classbilaplacian__hypergraph__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#adabc2067c566a573938975318824aa20" title=" " alt="" coords="392,242,583,311"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="157,702,176,627,212,525,237,470,268,416,304,366,346,321,378,301,381,305,350,325,308,369,272,419,242,472,217,527,181,628,162,703"/>
+<area shape="rect" id="Node000006" href="$classdiffusion__convergence__eigenvalue__approx_1_1helper__ev__approx.html#a45393f36ee7eb9dc1b359bd8349adc8c" title=" " alt="" coords="388,336,587,391"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,701,183,639,221,558,246,514,275,473,309,434,346,400,374,384,377,388,350,404,312,437,280,476,251,517,226,560,188,641,165,703"/>
+<area shape="rect" id="Node000007" href="$classdiffusion__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a94c77bcaa1a499ee61b3cd26c5f5c202" title=" " alt="" coords="361,415,613,469"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="165,701,193,653,233,593,285,531,314,503,346,478,354,474,357,478,350,483,318,507,289,535,237,596,197,656,170,704"/>
+<area shape="rect" id="Node000008" href="$classdiffusion__convergence__eigenvalue__shifted__inverse__cross_1_1helper__ev__approx.html#a77a1ef01966b46586c93fe4ccaa7e992" title=" " alt="" coords="356,493,619,548"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="176,700,248,629,295,590,347,557,359,551,361,556,349,562,298,594,251,633,180,704"/>
+<area shape="rect" id="Node000009" href="$classdiffusion__hypergraph__convergence__eigenvalue__approx_1_1helper__ev__approx.html#a61f934f048dd8d7e1f1a2304b5437e52" title=" " alt="" coords="350,572,625,627"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="206,700,272,668,347,637,371,628,373,633,349,642,275,673,208,705"/>
+<area shape="rect" id="Node000010" href="$classdiffusion__hypergraph__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a6283fb16702b25435128a5010d2d15b9" title=" " alt="" coords="392,651,583,721"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="300,708,378,698,379,703,300,713"/>
+<area shape="rect" id="Node000011" href="$classbilaplacian__convergence__eigenvalue__approx_1_1helper__ev__approx.html#a0a5814de441ae6251826e92526cd1f35" title=" " alt="" coords="388,745,587,800"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="300,746,374,756,373,761,300,751"/>
+<area shape="rect" id="Node000012" href="$classbilaplacian__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a1eb7895aab8d13c9fdad18034a744dc3" title=" " alt="" coords="361,824,613,879"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="215,755,349,809,374,817,373,822,347,814,213,760"/>
+<area shape="rect" id="Node000013" href="$classbilaplacian__hypergraph__convergence__eigenvalue__approx_1_1helper__ev__approx.html#afc49040ec4bbb4cd0927c6e615d25d61" title=" " alt="" coords="348,903,627,957"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="182,756,254,822,300,857,349,888,365,895,362,900,347,892,297,862,250,826,178,760"/>
+<area shape="rect" id="Node000014" href="$classbilaplacian__hypergraph__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a3ebea88fcf491a0d07171b6dfc134bac" title=" " alt="" coords="392,982,583,1051"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="172,756,200,801,240,858,291,916,350,966,381,984,378,989,346,971,287,920,236,861,195,804,167,759"/>
+<area shape="rect" id="Node000015" href="$classdiffusion__convergence__eigenvalue__approx_1_1helper__ev__approx.html#af056f3bce93e95978e06e23588075a0b" title=" " alt="" coords="388,1076,587,1131"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="165,757,187,820,225,902,250,946,279,988,312,1027,350,1061,377,1078,374,1082,346,1065,308,1031,275,991,246,948,220,904,182,822,160,759"/>
+<area shape="rect" id="Node000016" href="$classdiffusion__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#adf780dee5cdf802717b3ce8f82ab1330" title=" " alt="" coords="361,1155,613,1209"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="162,757,180,833,215,937,240,992,270,1046,307,1096,350,1140,356,1145,353,1149,346,1144,303,1100,266,1049,235,995,210,939,175,835,156,758"/>
+<area shape="rect" id="Node000017" href="$classdiffusion__convergence__eigenvalue__shifted__inverse__cross_1_1helper__ev__approx.html#a96804ecbc0066900618e061bc2fbaa61" title=" " alt="" coords="353,1233,621,1288"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="159,757,173,846,186,905,205,970,229,1038,261,1104,301,1165,350,1219,355,1223,352,1227,346,1223,297,1168,257,1106,224,1040,199,972,181,907,168,847,154,758"/>
+<area shape="rect" id="Node000018" href="$classdiffusion__hypergraph__convergence__eigenvalue__approx_1_1helper__ev__approx.html#ae13b88fe82cec8f40f52e6629868e822" title=" " alt="" coords="348,1312,627,1367"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="158,758,167,859,178,928,195,1004,219,1083,252,1161,296,1234,321,1267,350,1297,354,1302,351,1306,346,1301,317,1271,291,1237,248,1164,214,1085,190,1006,173,929,161,860,152,758"/>
+<area shape="rect" id="Node000019" href="$classdiffusion__hypergraph__convergence__eigenvalue__shifted__inverse_1_1helper__ev__approx.html#a8bceee1e9981b45fb8d10a38f16143ba" title=" " alt="" coords="392,1391,583,1461"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="157,757,162,870,172,948,188,1035,212,1126,246,1216,291,1301,319,1340,350,1376,381,1399,378,1403,346,1380,315,1343,287,1304,241,1218,207,1127,183,1036,167,949,157,870,151,758"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classLocalSolver_1_1Diffusion.html" title=" " alt="" coords="5,5,227,60"/>
+<area shape="rect" id="Node000001" href="$structThrowingDiffusion.html" title="Local solver that throws for all interior hyperedges (i.e. without boundary faces)." alt="" coords="275,20,415,45"/>
+<area shape="poly" id="edge79_Node000000_Node000001" title=" " alt="" coords="241,30,275,30,275,35,241,35"/>
+</map>

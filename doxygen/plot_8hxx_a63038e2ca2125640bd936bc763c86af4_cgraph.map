@@ -1,0 +1,7 @@
+<map id="plot_edge_values" name="plot_edge_values">
+<area shape="rect" id="Node000001" title="Auxiliary function to plot solution values on edge." alt="" coords="5,31,141,56"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="189,5,297,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,31,175,25,176,31,142,36"/>
+<area shape="rect" id="Node000003" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="198,55,289,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,50,185,56,184,62,141,56"/>
+</map>

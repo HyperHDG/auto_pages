@@ -1,0 +1,11 @@
+<map id="NB_MODULE" name="NB_MODULE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,106,111,131"/>
+<area shape="rect" id="Node000002" href="$structClassWithProperty.html#a58d022ae7f8da1da14293ce6d23197d9" title=" " alt="" coords="173,5,322,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,104,113,80,157,55,172,48,175,53,160,60,116,84,79,108"/>
+<area shape="rect" id="Node000003" href="$classClassWithClassProperty.html#a1a59e2c4eef008d436236b3ce0818696" title=" " alt="" coords="159,69,336,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,108,145,103,146,108,111,113"/>
+<area shape="rect" id="Node000004" href="$structCounter.html#a936f247406df26f76e06aed14fab9713" title=" " alt="" coords="197,134,297,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,124,184,135,183,140,110,129"/>
+<area shape="rect" id="Node000005" href="$structCounter.html#ae1ef1714f6a16e9caeab9110d1e043af" title=" " alt="" coords="186,183,309,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,129,160,168,184,177,182,182,158,173,80,134"/>
+</map>

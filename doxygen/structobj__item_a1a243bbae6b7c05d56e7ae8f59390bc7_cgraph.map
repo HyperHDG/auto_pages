@@ -1,0 +1,10 @@
+<map id="obj_item::set" name="obj_item::set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="160,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,32,146,26,147,31,113,37"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a9cb3a6d16e0520185e2ae520aafe19c3" title="Set an item or raise an exception." alt="" coords="170,55,242,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="113,49,157,57,156,62,112,55"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="300,55,444,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,65,286,65,286,70,242,70"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="344,56,338,46,342,37,353,30,372,28,395,31,404,40,401,44,392,36,372,33,355,35,346,40,344,46,349,53"/>
+</map>

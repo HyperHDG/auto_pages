@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structfunc__extra__info.html" title=" " alt="" coords="5,205,184,230"/>
+<area shape="rect" id="Node000001" href="$structfunc__extra__info_3_01T_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="260,5,411,45"/>
+<area shape="poly" id="edge63_Node000000_Node000001" title=" " alt="" coords="108,191,157,124,191,87,231,55,259,41,261,45,233,60,195,91,161,127,113,194"/>
+<area shape="rect" id="Node000002" href="$structfunc__extra__info_3_01arg__locked_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="256,69,415,109"/>
+<area shape="poly" id="edge64_Node000000_Node000002" title=" " alt="" coords="120,194,169,156,231,119,259,107,262,112,233,124,172,160,123,198"/>
+<area shape="rect" id="Node000003" href="$structfunc__extra__info_3_01arg__locked__v_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="256,133,415,173"/>
+<area shape="poly" id="edge65_Node000000_Node000003" title=" " alt="" coords="156,198,259,171,260,176,157,204"/>
+<area shape="rect" id="Node000004" href="$structfunc__extra__info_3_01call__guard_3_01Cs_8_8_8_01_4_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="249,197,421,237"/>
+<area shape="poly" id="edge66_Node000000_Node000004" title=" " alt="" coords="198,215,249,215,249,220,198,220"/>
+<area shape="rect" id="Node000005" href="$structfunc__extra__info_3_01call__policy_3_01Policy_01_4_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="243,261,428,301"/>
+<area shape="poly" id="edge67_Node000000_Node000005" title=" " alt="" coords="157,231,260,259,259,264,156,236"/>
+<area shape="rect" id="Node000006" href="$structfunc__extra__info_3_01lock__self_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="253,325,418,365"/>
+<area shape="poly" id="edge68_Node000000_Node000006" title=" " alt="" coords="123,237,172,274,233,311,262,323,259,328,231,316,169,279,120,241"/>
+<area shape="rect" id="Node000007" href="$structfunc__extra__info_3_01nanobind_1_1keep__alive_3_01Nurse_00_01Patient_01_4_00_01Ts_8_8_8_01_4.html" title=" " alt="" coords="232,390,439,445"/>
+<area shape="poly" id="edge69_Node000000_Node000007" title=" " alt="" coords="113,240,162,307,196,343,234,375,254,388,252,392,230,380,192,347,158,310,109,243"/>
+</map>

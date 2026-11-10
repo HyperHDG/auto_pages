@@ -1,0 +1,13 @@
+<map id="HyperHDG.scipy_compat.patch" name="HyperHDG.scipy_compat.patch">
+<area shape="rect" id="Node000001" title="Patch scipy.sparse.linalg in place so the legacy tol keyword keeps working." alt="" coords="5,70,231,95"/>
+<area shape="rect" id="Node000002" href="$namespaceHyperHDG_1_1scipy__compat.html#ac06bd5939866fa1ce20bb2772d4e682b" title="Wrap a solver so that a passed tol keyword is forwarded as rtol." alt="" coords="279,5,468,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,67,270,46,271,51,176,73"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#aa104d75f61b5159f0e0278bbe910580e" title="Get an object attribute or raise an exception." alt="" coords="340,70,407,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,80,326,80,326,85,231,85"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#a150bdc88d4358bda646e06031074e5b9" title="Set an object attribute or raise an exception." alt="" coords="341,119,406,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="185,93,328,121,327,126,184,98"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="516,95,660,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,84,503,95,502,101,407,89"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="553,97,546,87,549,77,564,71,588,69,618,72,629,81,626,86,616,77,588,74,565,76,553,81,551,86,557,94"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="406,126,502,115,502,120,407,131"/>
+</map>

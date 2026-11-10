@@ -1,0 +1,33 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/tests_c++/qr_handedness.cxx" name="/home/runner/work/HyperHDG/HyperHDG/tests_c++/qr_handedness.cxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,5,477,45"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html" title=" " alt="" coords="493,93,674,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,43,534,87,532,92,389,48"/>
+<area shape="rect" id="Node000003" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="105,167,291,192"/>
+<area shape="poly" id="edge14_Node000001_Node000003" title=" " alt="" coords="314,48,219,158,215,154,310,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,240,71,265"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="227,48,176,67,129,95,100,126,77,162,48,228,43,226,72,159,95,123,126,91,174,62,226,43"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="137,240,217,265"/>
+<area shape="poly" id="edge18_Node000001_Node000005" title=" " alt="" coords="264,48,219,66,172,92,128,126,110,146,95,168,92,186,101,203,118,218,139,232,136,236,115,223,97,206,87,187,90,166,106,142,125,122,169,88,216,61,262,43"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="277,240,351,265"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="330,46,318,226,313,226,325,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="590,240,646,265"/>
+<area shape="poly" id="edge15_Node000001_Node000007" title=" " alt="" coords="335,45,342,77,356,116,377,156,406,190,447,216,492,233,537,242,576,247,576,253,536,248,490,238,444,220,403,194,373,159,351,118,337,78,329,46"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="901,167,964,192"/>
+<area shape="poly" id="edge16_Node000001_Node000008" title=" " alt="" coords="454,43,568,64,687,91,799,125,892,159,890,164,797,130,685,96,567,69,453,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="522,121,274,167,273,161,521,116"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="589,118,615,226,609,227,584,120"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="648,116,888,164,887,169,647,121"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="417,167,493,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="564,121,490,162,487,157,561,116"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="517,167,580,192"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="580,120,563,155,558,153,575,118"/>
+<area shape="rect" id="Node000011" href="$lapack_8hxx.html" title="This file provides the function lapack_solve." alt="" coords="655,167,877,192"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="607,116,717,159,716,164,605,121"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,194,78,237,76,232,171,190"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="197,193,187,228,181,226,192,192"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="218,190,285,230,282,235,215,194"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="742,169,631,126,633,121,744,164"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="743,194,656,236,653,232,741,190"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="727,240,805,265"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="769,192,769,226,763,226,763,192"/>
+</map>

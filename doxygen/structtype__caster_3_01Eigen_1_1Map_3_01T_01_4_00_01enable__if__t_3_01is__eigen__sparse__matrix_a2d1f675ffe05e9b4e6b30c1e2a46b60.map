@@ -1,0 +1,14 @@
+<map id="type_caster&lt; Eigen::Map&lt; T &gt;, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;" name="type_caster&lt; Eigen::Map&lt; T &gt;, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;">
+<area shape="rect" id="Node000001" title="Caster for Eigen::Map&lt;Eigen::SparseMatrix&gt;, still needs to be implemented." alt="" coords="133,272,335,341"/>
+<area shape="rect" id="Node000002" href="$structtype__caster.html" title=" " alt="" coords="5,162,228,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,196,205,270,201,273,134,199"/>
+<area shape="rect" id="Node000003" href="$structtype__caster__base.html" title=" " alt="" coords="21,80,223,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="123,119,120,162,115,162,118,119"/>
+<area shape="rect" id="Node000004" href="$structtype__caster__base__tag.html" title="Base of all type casters for traditional bindings created via nanobind::class_&lt;&gt;" alt="" coords="152,5,316,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,40,141,82,139,78,203,36"/>
+<area shape="rect" id="Node000006" href="$structtype__caster__base.html" title=" " alt="" coords="249,80,451,105"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="266,36,333,78,330,82,263,40"/>
+<area shape="rect" id="Node000005" href="$structtype__caster.html" title=" " alt="" coords="252,155,451,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="327,207,267,273,263,270,323,204"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="353,119,354,155,348,155,348,119"/>
+</map>

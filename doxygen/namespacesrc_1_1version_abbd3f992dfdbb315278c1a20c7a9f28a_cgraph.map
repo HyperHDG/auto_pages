@@ -1,0 +1,17 @@
+<map id="src.version.main" name="src.version.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,136,107"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="37,83,30,73,33,63,47,57,71,55,99,58,111,67,107,72,97,63,71,60,49,62,37,67,35,72,41,80"/>
+<area shape="rect" id="Node000002" href="$namespacesrc_1_1version.html#a434806e933b08121ed4f91d8e8251d2a" title=" " alt="" coords="190,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,79,183,48,224,33,226,38,185,52,105,84"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="417,56,469,81"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="136,87,403,69,404,74,136,92"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="255,107,298,132"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="137,99,242,113,242,118,136,105"/>
+<area shape="rect" id="Node000006" href="$namespacesrc_1_1version.html#a4a55dc20e4377fc8d4916835c930753e" title=" " alt="" coords="184,156,369,181"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="99,104,185,141,212,150,210,155,183,146,97,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,28,405,54,403,60,319,33"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="517,56,661,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="470,66,504,66,504,71,470,71"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="565,57,560,48,562,38,573,32,589,29,609,33,618,41,614,45,607,38,589,35,574,37,567,41,565,47,569,55"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="340,153,368,141,398,117,422,91,426,95,402,121,371,146,342,158"/>
+</map>

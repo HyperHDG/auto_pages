@@ -1,0 +1,13 @@
+<map id="LocalSolver::AdvectionParab::set_data" name="LocalSolver::AdvectionParab::set_data">
+<area shape="rect" id="Node000001" title="Set data into data container to be used for next time step." alt="" coords="5,41,212,81"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="309,19,417,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,47,296,37,296,42,212,52"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1AdvectionParab.html#ae94d45dee2d6936f5e047b10232785ca" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="260,69,467,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,70,247,74,246,79,212,75"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1AdvectionParab.html#aff61dde08baa933e3605198c80d92828" title="Assemble local matrix for the local solver." alt="" coords="527,5,734,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="447,67,533,46,534,51,448,72"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1AdvectionParab.html#a37dc5ff4c244534f503b7a196d90703a" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="515,69,747,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="467,87,501,87,501,92,467,92"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1AdvectionParab.html#a77e80d983e0c15734d68822d6c1d23ba" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="523,133,738,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="448,107,534,128,533,133,447,112"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="BOOST_AUTO_TEST_CASE" name="BOOST_AUTO_TEST_CASE">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,58,196,83"/>
+<area shape="rect" id="Node000002" href="$classtsl_1_1robin__map.html#ac01a41b854aba819088233eabc66458d" title=" " alt="" coords="250,21,397,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,55,236,45,237,50,178,61"/>
+<area shape="rect" id="Node000004" href="$classtsl_1_1robin__map.html#a4bc70317c66aaef4a97c20b8e4f8e402" title=" " alt="" coords="244,79,403,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,80,231,84,230,90,196,85"/>
+<area shape="rect" id="Node000003" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a9535ac8fa8e808cf66064eab64ebd5ec" title=" " alt="" coords="465,5,626,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,28,451,26,451,31,397,33"/>
+<area shape="rect" id="Node000005" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#ad6ccb5f79c6f0093ace2b39bfd435ebe" title=" " alt="" coords="451,93,640,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="403,101,437,104,437,109,403,107"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="504,94,501,84,508,74,523,69,545,67,571,70,585,77,583,82,570,75,545,72,524,74,511,79,507,85,509,92"/>
+<area shape="rect" id="Node000006" href="$classtsl_1_1detail__robin__hash_1_1robin__hash.html#a399ead09b62361f796b4f3094fcd70cd" title=" " alt="" coords="688,93,859,133"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="640,111,674,111,674,116,640,116"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="ticket::ticket" name="ticket::ticket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,108,56"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="169,5,277,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,33,155,26,156,31,109,38"/>
+<area shape="rect" id="Node000003" href="$trampoline_8cpp.html#a00eb3bbb224e9b014e247dd9aa8075f8" title=" " alt="" coords="156,55,291,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,48,143,53,142,58,108,53"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a131914673a0a5fa38d59c69213c59360" title="Raise a runtime error with the given message." alt="" coords="605,29,660,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="291,61,591,42,592,47,291,66"/>
+<area shape="rect" id="Node000007" href="$trampoline_8cpp.html#a7b8fca59b55fc70909887d5c6bc0af07" title=" " alt="" coords="339,80,529,105"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="291,73,325,77,325,82,291,78"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="604,31,598,21,601,11,613,5,633,3,656,6,666,15,663,19,654,11,633,8,615,10,605,15,603,20,609,28"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#a09dc45ab3cd7c0463be975c3c88f7351" title=" " alt="" coords="736,29,871,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="660,39,722,39,722,45,660,45"/>
+<area shape="rect" id="Node000006" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="919,29,969,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="871,39,905,39,905,45,871,45"/>
+<area shape="poly" id="edge11_Node000007_Node000004" title=" " alt="" coords="484,77,591,50,592,55,485,82"/>
+<area shape="rect" id="Node000008" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="611,79,654,104"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="530,89,597,89,597,94,530,95"/>
+<area shape="rect" id="Node000009" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="577,128,688,153"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="488,103,567,122,566,127,487,108"/>
+<area shape="rect" id="Node000010" href="$nb__lib_8h.html#a7711d52ad678106bbea22bf1d30f81e4" title=" " alt="" coords="593,177,672,203"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="460,103,579,164,590,169,588,174,576,168,458,108"/>
+</map>

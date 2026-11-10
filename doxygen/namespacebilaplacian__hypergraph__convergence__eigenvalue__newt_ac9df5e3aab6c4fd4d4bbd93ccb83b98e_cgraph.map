@@ -1,0 +1,10 @@
+<map id="bilaplacian_hypergraph_convergence_eigenvalue_newt.eigenvalue_newt" name="bilaplacian_hypergraph_convergence_eigenvalue_newt.eigenvalue_newt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,16,196,71"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="249,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,26,235,20,235,26,196,32"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="244,55,296,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,54,231,59,230,64,196,60"/>
+<area shape="rect" id="Node000004" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="344,55,488,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="296,65,330,65,330,70,296,70"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="391,56,386,46,389,37,399,30,416,28,436,32,445,40,441,44,433,36,416,33,401,35,393,40,392,46,396,53"/>
+</map>

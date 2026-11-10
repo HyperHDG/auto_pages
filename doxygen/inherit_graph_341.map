@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$structPet.html" title=" " alt="" coords="5,31,48,56"/>
+<area shape="rect" id="Node000001" href="$structCat.html" title=" " alt="" coords="98,5,142,31"/>
+<area shape="poly" id="edge96_Node000000_Node000001" title=" " alt="" coords="61,31,97,21,99,26,62,37"/>
+<area shape="rect" id="Node000002" href="$structDog.html" title=" " alt="" coords="96,55,144,80"/>
+<area shape="poly" id="edge97_Node000000_Node000002" title=" " alt="" coords="62,50,96,59,95,64,61,55"/>
+</map>

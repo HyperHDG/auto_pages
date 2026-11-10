@@ -1,0 +1,7 @@
+<map id="type_caster&lt; T, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_cpp_internal" name="type_caster&lt; T, enable_if_t&lt; is_eigen_sparse_matrix_v&lt; T &gt; &gt; &gt;::from_cpp_internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,9,200,78"/>
+<area shape="rect" id="Node000002" href="$classmodule__.html#a00d7077570683dc1d782bcd8dd3a2659" title=" " alt="" coords="259,5,395,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,30,246,25,246,30,200,35"/>
+<area shape="rect" id="Node000003" href="$classpython__error.html#a1311dc65d44c90e0a1a699ef608d2e93" title=" " alt="" coords="248,55,407,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,51,235,55,234,60,200,56"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="cpp.extract_classname" name="cpp.extract_classname">
+<area shape="rect" id="Node000001" title="Extract classname from name that might contain template arguemnts." alt="" coords="5,5,177,31"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="225,5,268,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,15,212,15,212,21,177,21"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="dict_getitem_or_default" name="dict_getitem_or_default">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,183,68"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a3ba59849106c39631029ee9a265ac4c6" title=" " alt="" coords="242,5,363,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,40,228,29,229,34,166,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="231,79,375,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,65,217,74,216,79,168,71"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="269,80,261,70,265,60,279,54,303,52,332,56,343,65,340,69,330,61,303,57,281,59,269,64,266,70,273,77"/>
+</map>

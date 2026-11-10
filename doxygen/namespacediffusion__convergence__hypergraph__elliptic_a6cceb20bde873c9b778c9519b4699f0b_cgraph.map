@@ -1,0 +1,8 @@
+<map id="diffusion_convergence_hypergraph_elliptic.diffusion_test" name="diffusion_convergence_hypergraph_elliptic.diffusion_test">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,252,62"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="300,29,352,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,39,286,39,286,45,252,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="400,29,544,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,39,386,39,386,45,352,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="447,30,442,21,445,11,455,5,472,3,492,6,501,15,497,18,489,11,472,8,457,10,449,15,448,20,452,28"/>
+</map>

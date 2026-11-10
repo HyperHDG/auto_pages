@@ -1,0 +1,6 @@
+<map id="obj_comp" name="obj_comp">
+<area shape="rect" id="Node000001" title="Perform a comparison between Python objects and handle errors." alt="" coords="5,29,91,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="139,29,283,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,39,124,39,124,45,91,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="183,31,178,21,181,11,192,5,211,3,233,6,243,15,239,19,231,11,211,8,194,10,185,15,183,20,188,28"/>
+</map>

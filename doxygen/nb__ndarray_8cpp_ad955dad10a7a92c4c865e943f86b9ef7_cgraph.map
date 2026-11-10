@@ -1,0 +1,14 @@
+<map id="nb_ndarray_dlpack" name="nb_ndarray_dlpack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,151,157"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a5e325218727fc33b401a26b97b98c406" title=" " alt="" coords="211,29,353,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,130,139,97,197,64,215,57,217,61,200,68,142,102,97,134"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a61ab8e7786883e9e7f8544d42dd4d5e4" title=" " alt="" coords="203,103,361,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="150,132,189,126,190,131,151,137"/>
+<area shape="rect" id="Node000004" href="$structndarray__handle.html#a5a019de11d8dabfe0e18e7b18e906cbd" title=" " alt="" coords="199,153,365,193"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="151,152,185,157,185,162,151,157"/>
+<area shape="rect" id="Node000005" href="$structndarray__handle.html#ad5888cc76cf7b671611fa43f6acd0f23" title=" " alt="" coords="413,189,585,215"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="99,155,143,181,199,202,250,211,302,215,399,212,400,217,301,220,249,216,198,207,141,186,96,160"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="249,31,242,21,245,11,259,5,282,3,310,6,322,16,318,20,308,11,282,8,260,10,249,15,247,20,253,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="249,104,242,94,245,84,259,78,282,76,310,80,322,89,318,93,308,85,282,81,260,83,249,88,247,94,253,101"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="366,181,400,186,399,191,365,187"/>
+</map>

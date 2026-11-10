@@ -1,0 +1,5 @@
+<map id="decref_checked" name="decref_checked">
+<area shape="rect" id="Node000001" title="Decrease the reference count of &#39;o&#39;, and check that the GIL is held." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="Node000002" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="176,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,15,162,15,162,21,128,21"/>
+</map>

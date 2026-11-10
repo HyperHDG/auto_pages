@@ -1,0 +1,9 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::solve_local_problem" name="LocalSolver::DiffusionAdvectionReaction::solve_local_problem">
+<area shape="rect" id="Node000001" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,77,233,117"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a37fe1d1bc1b36e6f2b4f16fd71693fc0" title="Assemble local matrix for the local solver." alt="" coords="303,5,531,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,75,281,55,317,46,318,51,282,60,201,80"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a7e296f5002c59c949eda5cb8e0196252" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="303,70,531,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,95,289,95,289,100,234,100"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a5c7d97eeb660b33fa584b7ae5f2e4291" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="281,149,552,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,115,321,143,319,149,202,120"/>
+</map>

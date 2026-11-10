@@ -1,0 +1,9 @@
+<map id="api::operator()" name="api::operator()">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,120,56"/>
+<area shape="rect" id="Node000002" href="$nb__call_8h.html#a90eca881d934c7fef101da4b0d692358" title="Implementation detail of api&lt;T&gt;::operator() (call operator)" alt="" coords="181,5,284,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,32,167,25,168,30,121,37"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="168,55,297,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="121,49,155,54,154,59,120,54"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="345,5,388,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,15,332,15,332,21,284,21"/>
+</map>

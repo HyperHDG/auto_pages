@@ -1,0 +1,11 @@
+<map id="type_caster&lt; std::unique_ptr&lt; T, Deleter &gt; &gt;::can_cast" name="type_caster&lt; std::unique_ptr&lt; T, Deleter &gt; &gt;::can_cast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,227,45"/>
+<area shape="rect" id="Node000002" href="$nb__type_8cpp.html#a36277c9351090b5e2f446d36abe4dd85" title=" " alt="" coords="275,5,420,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,23,261,23,261,28,227,28"/>
+<area shape="rect" id="Node000003" href="$nb__type_8cpp.html#a760db41f5fb9bd5e3517e26a751b1244" title=" " alt="" coords="468,13,637,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,23,454,23,454,28,420,28"/>
+<area shape="rect" id="Node000004" href="$nb__type_8cpp.html#a0d872f74491b53bfca5eb5f92975a4c6" title="Return a unicode string representing the long&#45;form name of object&#39;s type." alt="" coords="685,13,799,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="638,23,671,23,671,28,638,28"/>
+<area shape="rect" id="Node000005" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="847,13,965,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="799,23,833,23,833,28,799,28"/>
+</map>

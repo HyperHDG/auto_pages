@@ -1,0 +1,9 @@
+<map id="thin.breakpoints" name="thin.breakpoints">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,133,56"/>
+<area shape="rect" id="Node000002" href="$namespacethin.html#a3a28a5fa5857d9a78d753c6feab60b61" title=" " alt="" coords="181,5,329,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,32,167,27,168,33,134,37"/>
+<area shape="rect" id="Node000003" href="$namespacethin.html#a3c0d3478dd6b7750dd14cc0b1486dbd3" title=" " alt="" coords="207,55,303,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,49,194,57,193,62,133,54"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="377,55,420,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,65,364,65,364,70,304,70"/>
+</map>

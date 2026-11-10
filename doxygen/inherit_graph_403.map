@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,285,117,310"/>
+<area shape="rect" id="Node000001" href="$structHyperHDG_1_1detail_1_1geometry__from__topology.html" title="Whether the geometry of a global loop is constructed from (and refers to) a topology." alt="" coords="203,5,438,45"/>
+<area shape="poly" id="edge134_Node000000_Node000001" title=" " alt="" coords="63,270,73,224,91,165,120,106,140,79,164,55,202,34,204,39,167,59,144,82,125,108,96,167,78,225,69,271"/>
+<area shape="rect" id="Node000002" href="$structdetector_3_01std_1_1void__t_3_01Op_3_01Arg_01_4_01_4_00_01Op_00_01Arg_01_4.html" title=" " alt="" coords="239,70,403,125"/>
+<area shape="poly" id="edge135_Node000000_Node000002" title=" " alt="" coords="69,271,83,240,104,203,131,166,164,135,199,116,238,104,239,109,201,121,167,139,135,170,108,206,88,242,74,273"/>
+<area shape="rect" id="Node000003" href="$structhas__arg__defaults_3_01std_1_1monostate_01_4.html" title=" " alt="" coords="237,149,405,189"/>
+<area shape="poly" id="edge136_Node000000_Node000003" title=" " alt="" coords="79,272,116,234,139,215,164,199,199,185,236,175,237,181,201,190,167,204,142,219,119,238,83,276"/>
+<area shape="rect" id="Node000004" href="$structhas__arg__defaults_3_01std_1_1nullptr__t_01_4.html" title=" " alt="" coords="237,213,405,253"/>
+<area shape="poly" id="edge137_Node000000_Node000004" title=" " alt="" coords="112,278,165,263,236,246,237,252,166,268,114,283"/>
+<area shape="rect" id="Node000005" href="$structhas__arg__defaults_3_01std_1_1optional_3_01T_01_4_01_4.html" title=" " alt="" coords="237,277,405,317"/>
+<area shape="poly" id="edge138_Node000000_Node000005" title=" " alt="" coords="131,295,237,295,237,300,131,300"/>
+<area shape="rect" id="Node000006" href="$structis__complex_3_01T_00_01enable__if__t_3_01std_1_1is__same__v_3_01decltype_07std_1_1declval_86122dbcb61eab901ce9dc28a4ec1033.html" title=" " alt="" coords="165,342,476,485"/>
+<area shape="poly" id="edge139_Node000000_Node000006" title=" " alt="" coords="105,313,166,341,164,346,102,318"/>
+<area shape="rect" id="Node000007" href="$structis__pair_3_01std_1_1pair_3_01T1_00_01T2_01_4_01_4.html" title=" " alt="" coords="254,509,387,549"/>
+<area shape="poly" id="edge140_Node000000_Node000007" title=" " alt="" coords="71,323,83,362,102,408,130,455,147,476,167,494,187,506,209,515,254,525,253,530,207,520,184,511,164,498,143,480,125,458,97,411,78,364,66,325"/>
+<area shape="rect" id="Node000008" href="$structtsl_1_1detail__robin__hash_1_1has__is__transparent_3_01T_00_01typename_01make__void_3_01ty718636ff8fc74d73885502911b06edfb.html" title=" " alt="" coords="213,574,428,658"/>
+<area shape="poly" id="edge141_Node000000_Node000008" title=" " alt="" coords="68,323,77,373,95,436,124,502,144,533,167,559,189,576,214,590,212,594,186,581,164,563,139,536,119,505,90,438,72,374,63,324"/>
+<area shape="rect" id="Node000009" href="$structtsl_1_1detail__robin__hash_1_1is__power__of__two__policy_3_01tsl_1_1rh_1_1power__of__two__a1a28c2963ea7bfc09f131241d081ae6.html" title=" " alt="" coords="195,683,446,752"/>
+<area shape="poly" id="edge142_Node000000_Node000009" title=" " alt="" coords="65,324,67,392,80,484,93,534,111,582,136,627,167,667,197,689,193,693,163,671,131,630,106,584,88,535,75,485,62,393,59,324"/>
+</map>

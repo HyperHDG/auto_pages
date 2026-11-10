@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::GaussLegendre::legendre" name="TPP::Quadrature::GaussLegendre::legendre">
+<area shape="rect" id="Node000001" title="Legendre polynomial P_n on [&#45;1,1] and its derivative at x, n = n_points()." alt="" coords="5,5,240,45"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#af94ca02db39f182a9dcfb5fca018caa8" title="Calculate the amount of quadrature points at compile time." alt="" coords="288,5,523,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+</map>

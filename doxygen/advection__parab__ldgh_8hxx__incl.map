@@ -1,0 +1,65 @@
+<map id="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/local_solver/advection_parab_ldgh.hxx" name="/home/runner/work/HyperHDG/HyperHDG/include/HyperHDG/local_solver/advection_parab_ldgh.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="562,5,781,75"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html" title=" " alt="" coords="1006,218,1187,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="646,77,634,98,626,120,624,142,633,161,656,178,691,193,734,204,783,212,891,223,992,227,992,232,890,228,783,218,733,209,689,198,654,183,629,164,619,143,620,119,629,95,642,74"/>
+<area shape="rect" id="Node000013" href="$include_2HyperHDG_2hypercube_8hxx.html" title=" " alt="" coords="643,130,833,155"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="696,74,725,117,720,120,692,77"/>
+<area shape="rect" id="Node000014" href="$quadrature_2tensorial_8hxx.html" title=" " alt="" coords="451,218,657,243"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="630,77,607,99,588,124,570,165,560,205,555,204,565,164,584,121,603,95,626,73"/>
+<area shape="rect" id="Node000020" href="$shape__function_8hxx.html" title=" " alt="" coords="320,123,473,163"/>
+<area shape="poly" id="edge27_Node000001_Node000020" title=" " alt="" coords="580,77,461,121,460,116,579,72"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="858,130,943,155"/>
+<area shape="poly" id="edge37_Node000001_Node000024" title=" " alt="" coords="749,72,863,122,861,127,747,77"/>
+<area shape="rect" id="Node000025" title=" " alt="" coords="968,130,1023,155"/>
+<area shape="poly" id="edge38_Node000001_Node000025" title=" " alt="" coords="782,66,868,90,956,120,961,122,959,127,954,125,866,95,780,71"/>
+<area shape="rect" id="Node000003" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="1333,306,1519,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1141,241,1370,300,1368,305,1140,246"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="870,387,926,412"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="1069,246,1023,269,976,301,940,339,914,376,909,373,936,335,972,297,1020,264,1067,241"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="556,387,619,412"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="1063,246,772,341,633,386,631,381,771,336,1061,241"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="1232,306,1308,331"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="1121,241,1235,297,1233,302,1119,246"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="1544,306,1607,331"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="1188,237,1350,257,1442,274,1532,296,1540,299,1538,304,1531,301,1441,279,1349,262,1187,242"/>
+<area shape="rect" id="Node000011" href="$lapack_8hxx.html" title="This file provides the function lapack_solve." alt="" coords="985,306,1208,331"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1093,244,1091,292,1086,292,1088,243"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="1345,387,1411,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1421,333,1394,376,1390,374,1417,330"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="709,533,789,559"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1392,334,797,532,795,526,1391,329"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="1435,387,1510,412"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1435,330,1461,373,1456,376,1431,333"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="1100,305,1102,257,1108,257,1106,306"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="1069,334,940,384,938,379,1067,329"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1057,387,1136,412"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1099,332,1099,373,1094,373,1094,332"/>
+<area shape="poly" id="edge24_Node000014_Node000007" title=" " alt="" coords="658,240,780,262,833,277,868,297,882,314,891,333,899,372,894,373,886,335,877,316,864,301,831,282,779,267,657,246"/>
+<area shape="poly" id="edge25_Node000014_Node000008" title=" " alt="" coords="542,246,525,264,509,287,500,313,500,325,504,337,523,361,548,378,545,382,520,365,500,340,495,326,495,312,504,285,521,261,539,242"/>
+<area shape="rect" id="Node000015" href="$quadrature_2one__dimensional_8hxx.html" title=" " alt="" coords="613,299,759,339"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="573,241,647,289,644,293,570,246"/>
+<area shape="rect" id="Node000017" href="$tpp__assert_8hxx.html" title="This file provides the function tpp_assert." alt="" coords="191,460,333,485"/>
+<area shape="poly" id="edge23_Node000014_Node000017" title=" " alt="" coords="484,246,348,272,292,287,264,301,254,317,247,335,243,375,248,413,256,446,251,447,243,414,238,375,242,334,249,315,260,297,290,282,347,267,483,241"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="514,306,589,331"/>
+<area shape="poly" id="edge26_Node000014_Node000019" title=" " alt="" coords="556,244,555,292,549,292,551,243"/>
+<area shape="poly" id="edge21_Node000015_Node000007" title=" " alt="" coords="738,336,858,380,856,385,736,341"/>
+<area shape="rect" id="Node000016" href="$submodules_2tensor__product__polynomials_8git_2include_2tpp_2compile__time__tricks_8hxx.html" title=" " alt="" coords="325,387,532,412"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="625,341,480,385,478,380,624,336"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="521,460,579,485"/>
+<area shape="poly" id="edge22_Node000015_Node000018" title=" " alt="" coords="680,340,661,376,633,414,609,436,583,455,580,450,606,432,629,410,656,373,675,337"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="403,414,303,457,301,452,401,410"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="450,410,520,451,517,455,447,414"/>
+<area shape="poly" id="edge19_Node000017_Node000005" title=" " alt="" coords="334,482,695,534,694,539,333,487"/>
+<area shape="rect" id="Node000021" href="$shape__function_2tensorial_8hxx.html" title=" " alt="" coords="279,211,426,251"/>
+<area shape="poly" id="edge28_Node000020_Node000021" title=" " alt="" coords="389,164,371,200,366,197,385,162"/>
+<area shape="poly" id="edge36_Node000021_Node000007" title=" " alt="" coords="427,246,440,248,534,258,609,260,683,268,725,278,772,296,804,313,834,334,880,375,876,379,830,338,801,318,770,301,723,283,682,273,609,265,534,264,439,253,426,251"/>
+<area shape="poly" id="edge35_Node000021_Node000017" title=" " alt="" coords="282,253,247,272,232,285,220,300,207,328,205,353,210,379,220,411,230,431,243,448,239,451,226,434,216,413,205,381,199,354,202,327,216,297,228,281,244,268,279,248"/>
+<area shape="rect" id="Node000022" href="$submodules_2tensor__product__polynomials_8git_2include_2tpp_2hypercube_8hxx.html" title=" " alt="" coords="5,387,148,412"/>
+<area shape="poly" id="edge29_Node000021_Node000022" title=" " alt="" coords="280,252,224,272,169,301,126,338,94,377,90,374,122,335,166,296,222,267,278,247"/>
+<area shape="rect" id="Node000023" href="$shape__function_2one__dimensional_8hxx.html" title=" " alt="" coords="274,299,439,339"/>
+<area shape="poly" id="edge31_Node000021_Node000023" title=" " alt="" coords="356,251,358,285,352,285,351,251"/>
+<area shape="poly" id="edge30_Node000022_Node000017" title=" " alt="" coords="107,410,220,453,218,457,105,415"/>
+<area shape="poly" id="edge32_Node000023_Node000008" title=" " alt="" coords="413,336,544,380,542,386,411,341"/>
+<area shape="poly" id="edge33_Node000023_Node000016" title=" " alt="" coords="376,337,411,375,407,378,372,341"/>
+<area shape="poly" id="edge34_Node000023_Node000017" title=" " alt="" coords="346,341,315,388,278,449,273,447,310,385,341,338"/>
+</map>

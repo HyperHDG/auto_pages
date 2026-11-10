@@ -1,0 +1,16 @@
+<map id="TPP::Quadrature::Tensorial::integrate_bdr_phiphi" name="TPP::Quadrature::Tensorial::integrate_bdr_phiphi">
+<area shape="rect" id="Node000001" title="Integrate product of shape functions over dimT&#45;dimensional volume&#39;s boundary." alt="" coords="5,27,199,67"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="247,5,473,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,34,234,30,235,35,199,39"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ac6d67369491563b3f9e4a43512de7315" title="Integrate product of one&#45;dimensional shape functions." alt="" coords="263,55,457,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,55,250,61,249,66,198,60"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="521,63,627,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,73,508,73,508,78,457,78"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="675,13,804,39"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="616,60,682,40,684,45,618,65"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="675,63,804,88"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="627,73,661,73,661,78,627,78"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="683,136,795,161"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="605,86,698,128,696,133,603,91"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="712,137,706,128,709,118,721,112,739,109,762,113,771,121,768,125,759,118,739,115,722,117,713,121,712,127,717,134"/>
+</map>

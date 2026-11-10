@@ -1,0 +1,14 @@
+<map id="TPP::Quadrature::Tensorial::integrate_volUni_phivecfunc" name="TPP::Quadrature::Tensorial::integrate_volUni_phivecfunc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,221,63"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="269,5,496,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,31,256,27,256,33,222,36"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="330,55,435,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,50,316,59,316,64,221,56"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="544,5,673,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,53,536,31,537,36,436,58"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="544,55,673,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="436,65,530,65,530,70,436,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="553,128,665,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="424,78,556,121,555,126,422,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="572,130,564,120,568,110,584,104,609,101,640,105,652,115,649,119,638,110,609,107,585,109,572,114,569,119,576,126"/>
+</map>

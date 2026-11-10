@@ -1,0 +1,8 @@
+<map id="type_caster&lt; Eigen::TensorMap&lt; T, MapOptions, MakePointer &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::operator MapType" name="type_caster&lt; Eigen::TensorMap&lt; T, MapOptions, MakePointer &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::operator MapType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,264,97"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="317,5,425,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,32,303,26,304,31,265,37"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a7dbbeb427eda8e6e0472bb79953e1e1e" title=" " alt="" coords="312,79,431,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,72,299,78,298,83,264,78"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="333,80,325,70,329,60,345,54,371,52,404,56,417,65,414,70,402,61,371,57,346,59,333,64,330,70,337,77"/>
+</map>

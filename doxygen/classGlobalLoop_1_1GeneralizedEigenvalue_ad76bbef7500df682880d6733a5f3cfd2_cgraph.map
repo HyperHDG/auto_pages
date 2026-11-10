@@ -1,0 +1,20 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::local_to_global" name="GlobalLoop::GeneralizedEigenvalue::local_to_global">
+<area shape="rect" id="Node000001" title="Global indices of the local unknowns of a hyperedge." alt="" coords="5,111,259,151"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="348,47,519,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,109,334,86,335,91,228,114"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="339,111,527,151"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="259,129,326,129,326,134,259,134"/>
+<area shape="rect" id="Node000008" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#ab93658d26d73b1db29343998c7fb747c" title="Number of skeletal unknowns (including the Dirichlet unknowns)." alt="" coords="307,175,560,215"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="228,149,326,170,325,175,226,154"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="669,55,775,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="519,65,656,65,656,70,519,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="884,5,1013,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="774,53,876,31,877,36,775,59"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="884,55,1013,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="775,65,870,65,870,70,775,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="893,128,1005,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="763,78,896,121,894,126,762,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="912,130,904,120,908,110,923,104,949,101,981,105,993,115,989,119,979,110,949,107,924,109,912,114,909,119,916,126"/>
+<area shape="rect" id="Node000009" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="608,183,836,208"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="560,193,595,193,595,198,560,198"/>
+</map>

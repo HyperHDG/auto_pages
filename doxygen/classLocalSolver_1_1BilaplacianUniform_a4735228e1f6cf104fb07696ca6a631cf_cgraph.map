@@ -1,0 +1,26 @@
+<map id="LocalSolver::BilaplacianUniform::residual_flux" name="LocalSolver::BilaplacianUniform::residual_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to matrix–vector residual." alt="" coords="5,133,183,173"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1BilaplacianUniform.html#ae5b75622d702cb0ad311fed5528bf67e" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="231,133,408,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,151,217,151,217,156,183,156"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1BilaplacianUniform.html#a89638eb418b92ae5070018965089f382" title="Evaluate dual variable at boundary." alt="" coords="471,5,669,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,131,392,93,455,55,472,48,474,53,457,60,395,97,346,135"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1BilaplacianUniform.html#ac28605593a955bf3db82dddd1bf30b82" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="456,69,684,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,131,477,110,479,115,399,136"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1BilaplacianUniform.html#abd5594073179e6d519c14d2be6930bb4" title="Evaluate primal variable at boundary." alt="" coords="463,133,677,173"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="408,151,450,151,450,156,408,156"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="517,198,623,223"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="405,171,457,183,504,194,503,199,455,188,404,176"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1BilaplacianUniform.html#a26e900f90ae68918ba49a93e09e2c3de" title="Solve local problem." alt="" coords="461,273,679,313"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="355,171,457,232,518,265,515,269,455,237,352,176"/>
+<area shape="rect" id="Node000005" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="757,77,884,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="684,87,744,87,744,92,684,92"/>
+<area shape="rect" id="Node000008" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="756,137,885,162"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="622,197,683,183,759,163,760,168,685,188,624,202"/>
+<area shape="rect" id="Node000009" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="756,186,885,211"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="623,206,742,200,742,205,623,211"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="765,259,877,285"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="623,221,755,253,754,259,622,226"/>
+<area shape="poly" id="edge10_Node000010_Node000010" title=" " alt="" coords="780,261,771,251,776,241,793,235,821,233,856,237,866,241,870,247,865,250,863,245,855,242,821,238,794,240,779,245,777,250,784,257"/>
+<area shape="rect" id="Node000012" href="$classLocalSolver_1_1BilaplacianUniform.html#a0540861080f96ab1a08a67cdfe8b2cfd" title="Assemble local right hand for the local solver." alt="" coords="732,309,909,349"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="679,306,719,312,718,317,678,312"/>
+</map>

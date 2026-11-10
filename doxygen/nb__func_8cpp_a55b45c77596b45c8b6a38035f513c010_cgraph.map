@@ -1,0 +1,65 @@
+<map id="nb_func_vectorcall_simple" name="nb_func_vectorcall_simple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,627,149,667"/>
+<area shape="rect" id="Node000002" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="1031,433,1073,459"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,638,319,626,522,619,737,619,783,615,827,602,870,584,910,561,979,511,1027,467,1031,471,982,515,913,566,872,589,829,607,784,620,737,625,522,625,319,631,150,643"/>
+<area shape="rect" id="Node000003" href="$nb__class_8h.html#a52574669c770c3ce78e1d0c01d73233e" title=" " alt="" coords="253,660,324,685"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="150,653,240,664,239,670,150,659"/>
+<area shape="rect" id="Node000004" href="$nb__func_8cpp.html#ab268484c8a354c047facb34d8ad933ea" title="Used by nb_func_vectorcall: convert a C++ exception into a Python error." alt="" coords="209,710,368,750"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,665,198,694,220,703,219,708,196,699,125,670"/>
+<area shape="rect" id="Node000006" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="469,5,578,31"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="78,627,90,521,113,369,129,290,148,218,170,159,195,118,223,92,254,72,288,55,323,42,392,25,455,17,455,23,393,31,324,47,290,60,257,77,226,97,199,121,175,161,153,220,134,291,118,370,95,522,83,627"/>
+<area shape="rect" id="Node000007" href="$nb__func_8cpp.html#a498273ae9f9b0e3be18025aa8c42be84" title="Used by nb_func_vectorcall: generate an error when result conversion fails." alt="" coords="197,132,380,157"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="83,626,126,496,195,320,235,236,271,168,276,171,240,238,200,322,131,498,88,628"/>
+<area shape="rect" id="Node000019" href="$nb__func_8cpp.html#a4a675a80116f5cbe9d056dba71d6cbbc" title="Used by nb_func_vectorcall: generate an error when overload resolution fails." alt="" coords="201,333,376,359"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="90,626,268,369,273,372,95,629"/>
+<area shape="rect" id="Node000025" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="233,775,344,800"/>
+<area shape="poly" id="edge34_Node000001_Node000025" title=" " alt="" coords="96,666,139,713,168,738,199,760,222,770,219,775,196,764,164,742,135,717,92,669"/>
+<area shape="rect" id="Node000026" href="$nb__func_8cpp.html#ac71714e9134d9d03e41e8e987fe236c2" title=" " alt="" coords="208,825,369,865"/>
+<area shape="poly" id="edge35_Node000001_Node000026" title=" " alt="" coords="90,666,131,737,162,776,199,811,207,816,204,820,196,815,158,780,127,740,86,669"/>
+<area shape="rect" id="Node000005" href="$structnb__maybe__atomic.html#a91bcb7536a46f7c1fdace82b8c72e289" title=" " alt="" coords="434,710,613,750"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="369,727,420,727,420,733,369,733"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="304,130,357,90,427,48,463,33,465,38,429,52,360,95,307,134"/>
+<area shape="rect" id="Node000008" href="$structBuffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title=" " alt="" coords="473,107,574,132"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="380,132,459,124,459,129,381,137"/>
+<area shape="rect" id="Node000009" href="$structBuffer.html#a096a90c1dc0b81f38aca799cf7dc9076" title=" " alt="" coords="478,156,569,181"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="381,151,464,160,464,165,380,157"/>
+<area shape="rect" id="Node000010" href="$nb__func_8cpp.html#a582215dc31fc684f349fbbfcd2072d78" title=" " alt="" coords="428,257,619,283"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="315,155,488,248,485,253,312,160"/>
+<area shape="rect" id="Node000011" href="$structBuffer.html#a047fbe1481b2b4665a5d01e4ea44ee32" title="Append a string with the specified length." alt="" coords="691,207,781,232"/>
+<area shape="poly" id="edge20_Node000007_Node000011" title=" " alt="" coords="314,129,371,105,448,83,491,76,535,74,578,79,620,92,653,112,682,139,723,193,719,197,678,143,650,116,618,96,577,84,534,79,491,81,449,88,372,110,316,134"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="577,255,677,231,678,236,578,260"/>
+<area shape="rect" id="Node000012" href="$structBuffer.html#a7ab0efeb986630c1f31c2b7fd72a145c" title="Append a dynamic string." alt="" coords="675,308,797,333"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="578,280,670,302,668,307,577,285"/>
+<area shape="rect" id="Node000013" href="$structBuffer.html#aa9c473354cd36261a50e87e281deb9fe" title="Append an unsigned 32 bit integer." alt="" coords="667,433,805,459"/>
+<area shape="poly" id="edge13_Node000010_Node000013" title=" " alt="" coords="542,281,620,344,712,422,708,426,617,348,539,285"/>
+<area shape="rect" id="Node000014" href="$nb__func_8cpp.html#a9ee9544573091d32dc378a9a92b93766" title="Return a readable string representation of a C++ type." alt="" coords="689,257,783,283"/>
+<area shape="poly" id="edge14_Node000010_Node000014" title=" " alt="" coords="619,267,675,267,675,273,619,273"/>
+<area shape="rect" id="Node000015" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="853,332,983,357"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="775,280,806,293,854,317,871,324,869,329,852,322,804,298,773,285"/>
+<area shape="rect" id="Node000016" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="864,283,972,308"/>
+<area shape="poly" id="edge16_Node000014_Node000016" title=" " alt="" coords="784,274,851,283,850,289,783,279"/>
+<area shape="rect" id="Node000017" href="$nb__func_8cpp.html#a6ebd3e791285383173b3db34f7eae6a3" title="Excise a substring from &#39;s&#39;." alt="" coords="887,233,949,259"/>
+<area shape="poly" id="edge18_Node000014_Node000017" title=" " alt="" coords="783,261,873,249,873,254,784,266"/>
+<area shape="poly" id="edge17_Node000016_Node000002" title=" " alt="" coords="967,306,984,317,1006,341,1023,368,1046,420,1041,422,1019,371,1002,344,981,321,964,310"/>
+<area shape="rect" id="Node000018" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="1031,233,1073,259"/>
+<area shape="poly" id="edge19_Node000017_Node000018" title=" " alt="" coords="950,243,1017,243,1017,249,950,249"/>
+<area shape="poly" id="edge24_Node000019_Node000006" title=" " alt="" coords="294,332,355,211,394,141,426,92,457,62,489,37,492,41,460,66,430,96,398,144,360,213,299,334"/>
+<area shape="poly" id="edge22_Node000019_Node000008" title=" " alt="" coords="292,332,309,294,337,242,376,188,400,163,427,141,458,126,460,131,429,146,404,167,381,191,342,245,314,297,297,334"/>
+<area shape="poly" id="edge23_Node000019_Node000009" title=" " alt="" coords="297,331,347,269,384,231,427,198,464,181,466,186,429,203,388,235,351,272,301,335"/>
+<area shape="poly" id="edge25_Node000019_Node000010" title=" " alt="" coords="328,331,470,284,471,289,330,336"/>
+<area shape="poly" id="edge29_Node000019_Node000011" title=" " alt="" coords="300,331,352,286,388,261,427,242,492,224,559,215,623,211,677,212,677,218,623,217,560,220,493,229,429,247,391,266,355,290,304,335"/>
+<area shape="poly" id="edge30_Node000019_Node000012" title=" " alt="" coords="376,338,661,322,661,328,376,344"/>
+<area shape="poly" id="edge31_Node000019_Node000013" title=" " alt="" coords="299,357,318,387,346,425,384,463,406,479,429,492,479,508,521,510,564,503,618,491,660,479,698,462,700,467,662,484,619,497,565,508,521,516,478,513,427,496,403,484,381,467,342,429,313,390,295,360"/>
+<area shape="rect" id="Node000020" href="$nb__type_8cpp.html#a0d872f74491b53bfca5eb5f92975a4c6" title="Return a unicode string representing the long&#45;form name of object&#39;s type." alt="" coords="467,559,580,584"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="298,358,316,393,344,441,383,493,430,537,455,552,453,556,426,541,379,496,340,444,311,396,293,360"/>
+<area shape="rect" id="Node000022" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="477,359,569,384"/>
+<area shape="poly" id="edge28_Node000019_Node000022" title=" " alt="" coords="377,353,464,362,464,368,376,358"/>
+<area shape="rect" id="Node000023" href="$classobject.html#a4ce66b1d44b37ae6b28e80228b075aae" title=" " alt="" coords="464,408,583,433"/>
+<area shape="poly" id="edge32_Node000019_Node000023" title=" " alt="" coords="324,356,429,393,460,402,458,407,427,398,322,361"/>
+<area shape="rect" id="Node000024" href="$structBuffer.html#a44d90419fadd91b49a1fceec22ddc8be" title="Remove the last &#39;n&#39; characters." alt="" coords="467,457,580,483"/>
+<area shape="poly" id="edge33_Node000019_Node000024" title=" " alt="" coords="306,357,358,399,393,422,429,442,455,452,453,457,427,447,390,427,355,403,303,361"/>
+<area shape="rect" id="Node000021" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="677,559,795,584"/>
+<area shape="poly" id="edge27_Node000020_Node000021" title=" " alt="" coords="580,569,663,569,663,574,580,574"/>
+<area shape="rect" id="Node000027" href="$classbuiltin__exception.html#a19a5ef8b180acfce8c96abf4d111a2c2" title=" " alt="" coords="438,832,609,857"/>
+<area shape="poly" id="edge36_Node000026_Node000027" title=" " alt="" coords="370,842,424,842,424,847,370,847"/>
+</map>

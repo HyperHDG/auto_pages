@@ -1,0 +1,5 @@
+<map id="nb_func_convert_cpp_exception" name="nb_func_convert_cpp_exception">
+<area shape="rect" id="Node000001" title="Used by nb_func_vectorcall: convert a C++ exception into a Python error." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="Node000002" href="$structnb__maybe__atomic.html#a91bcb7536a46f7c1fdace82b8c72e289" title=" " alt="" coords="212,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,23,198,23,198,28,164,28"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="ndarray_check" name="ndarray_check">
+<area shape="rect" id="Node000001" title="Check if an object represents an ndarray." alt="" coords="5,104,123,129"/>
+<area shape="rect" id="Node000002" href="$nb__ndarray_8cpp.html#a2b99d397201fbb35e2a90136b43c2ac8" title=" " alt="" coords="171,29,293,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,101,170,64,184,57,186,62,172,68,92,106"/>
+<area shape="rect" id="Node000005" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="173,79,291,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,105,158,100,159,105,123,111"/>
+<area shape="rect" id="Node000006" href="$nb__ndarray_8cpp.html#aa1c7507c8be9b531ad25fe35a8725248" title=" " alt="" coords="173,128,291,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="123,122,160,128,159,133,122,128"/>
+<area shape="rect" id="Node000007" href="$nb__class_8h.html#a442718e18daacaf6845bc5b3dabb90bc" title=" " alt="" coords="185,177,279,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,127,172,162,189,170,187,174,170,167,92,132"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="341,5,408,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,29,327,23,328,28,294,34"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="347,55,402,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="294,50,334,58,333,63,293,56"/>
+</map>

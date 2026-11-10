@@ -1,0 +1,11 @@
+<map id="type_caster&lt; std::variant&lt; Ts... &gt; &gt;::from_cpp" name="type_caster&lt; std::variant&lt; Ts... &gt; &gt;::from_cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,192,103"/>
+<area shape="rect" id="Node000002" href="$structtype__caster__base.html#a595a996f7385c95966f17289a8de5442" title=" " alt="" coords="240,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,235,46,237,51,181,65"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a25b511474eabf0e768cea0a1c1da88ef" title=" " alt="" coords="303,70,358,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,80,289,80,289,85,193,85"/>
+<area shape="rect" id="Node000005" href="$classobject.html#a4ce66b1d44b37ae6b28e80228b075aae" title=" " alt="" coords="271,119,390,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="193,100,258,114,257,119,192,105"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="469,70,524,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="358,80,456,80,456,85,358,85"/>
+</map>

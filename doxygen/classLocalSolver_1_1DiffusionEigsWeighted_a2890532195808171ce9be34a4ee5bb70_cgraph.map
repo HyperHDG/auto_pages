@@ -1,0 +1,14 @@
+<map id="LocalSolver::DiffusionEigsWeighted::mass_matrix" name="LocalSolver::DiffusionEigsWeighted::mass_matrix">
+<area shape="rect" id="Node000001" title="Local matrix of the bilinear form &#160;(mass matrix)." alt="" coords="5,47,196,87"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#aae78876867f3fbbf01975b48619d4455" title="Coefficients &#160;of a hyperedge, cf. class description." alt="" coords="244,47,435,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,65,230,65,230,70,196,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="483,55,588,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,65,469,65,469,70,435,70"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="636,5,765,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="578,52,643,32,645,37,579,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="636,55,765,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="588,65,622,65,622,70,588,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="645,128,757,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="566,78,660,120,657,125,564,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="673,129,668,120,671,110,682,104,701,101,723,105,733,113,729,117,721,110,701,107,684,109,675,113,673,119,678,126"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TPP::Hypercube::index_decompose" name="TPP::Hypercube::index_decompose">
+<area shape="rect" id="Node000001" title="Decompose global index of tensorial structure with respect to its dimensions." alt="" coords="5,47,173,87"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="221,55,327,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,65,207,65,207,70,174,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="375,5,504,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,52,382,32,384,37,318,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="375,55,504,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="327,65,361,65,361,70,327,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="383,128,495,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="305,78,398,120,396,125,303,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="412,129,406,120,409,110,421,104,439,101,462,105,471,113,468,117,459,110,439,107,422,109,413,113,412,119,417,126"/>
+</map>

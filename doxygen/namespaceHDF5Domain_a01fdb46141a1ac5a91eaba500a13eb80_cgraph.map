@@ -1,0 +1,5 @@
+<map id="HDF5Domain::write_attribute" name="HDF5Domain::write_attribute">
+<area shape="rect" id="Node000001" title="Write a fixed&#45;length string attribute to loc (as NumPy&#39;s bytes_ does)." alt="" coords="5,5,219,31"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#af600dbc02c9fdb6b3afc794cb649dc39" title="Retrieve the Python type object associated with a C++ class." alt="" coords="267,5,317,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,15,253,15,253,21,219,21"/>
+</map>

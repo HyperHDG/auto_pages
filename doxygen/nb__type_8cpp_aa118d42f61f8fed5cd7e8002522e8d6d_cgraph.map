@@ -1,0 +1,5 @@
+<map id="nb_inst_python_derived" name="nb_inst_python_derived">
+<area shape="rect" id="Node000001" title="Check if a particular instance uses a Python&#45;derived type." alt="" coords="5,5,183,31"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="231,5,341,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,15,217,15,217,21,183,21"/>
+</map>

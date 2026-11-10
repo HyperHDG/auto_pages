@@ -1,0 +1,30 @@
+<map id="nb_func_error_noconvert" name="nb_func_error_noconvert">
+<area shape="rect" id="Node000001" title="Used by nb_func_vectorcall: generate an error when result conversion fails." alt="" coords="5,104,188,129"/>
+<area shape="rect" id="Node000002" href="$structBuffer.html#af8ec6ec556d0227cbcb57d40e2d2fb06" title=" " alt="" coords="281,5,382,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,102,169,71,235,40,266,29,268,34,237,44,171,76,119,106"/>
+<area shape="rect" id="Node000003" href="$structBuffer.html#a096a90c1dc0b81f38aca799cf7dc9076" title=" " alt="" coords="286,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,101,272,77,273,82,158,107"/>
+<area shape="rect" id="Node000004" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="277,104,386,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,114,262,114,262,119,188,119"/>
+<area shape="rect" id="Node000005" href="$nb__func_8cpp.html#a582215dc31fc684f349fbbfcd2072d78" title=" " alt="" coords="236,205,427,231"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,127,174,154,237,184,277,198,275,203,235,188,172,159,120,132"/>
+<area shape="rect" id="Node000006" href="$structBuffer.html#a047fbe1481b2b4665a5d01e4ea44ee32" title="Append a string with the specified length." alt="" coords="499,155,589,180"/>
+<area shape="poly" id="edge14_Node000001_Node000006" title=" " alt="" coords="165,127,236,138,370,152,485,161,485,166,370,158,236,143,164,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="385,203,485,179,486,184,386,208"/>
+<area shape="rect" id="Node000007" href="$structBuffer.html#a7ab0efeb986630c1f31c2b7fd72a145c" title="Append a dynamic string." alt="" coords="483,204,605,229"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="427,215,469,214,469,220,427,220"/>
+<area shape="rect" id="Node000008" href="$structBuffer.html#aa9c473354cd36261a50e87e281deb9fe" title="Append an unsigned 32 bit integer." alt="" coords="475,253,613,279"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="389,228,474,248,473,253,388,233"/>
+<area shape="rect" id="Node000009" href="$nb__func_8cpp.html#a9ee9544573091d32dc378a9a92b93766" title="Return a readable string representation of a C++ type." alt="" coords="497,303,591,328"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="357,228,476,288,494,295,492,300,474,292,355,233"/>
+<area shape="rect" id="Node000010" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="661,253,791,279"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="591,300,664,280,666,285,592,305"/>
+<area shape="rect" id="Node000011" href="$nb__func_8cpp.html#ae8a94fd309d9d4a753e0d6eeeb300668" title=" " alt="" coords="672,303,780,328"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="592,313,658,313,658,318,592,318"/>
+<area shape="rect" id="Node000013" href="$nb__func_8cpp.html#a6ebd3e791285383173b3db34f7eae6a3" title="Excise a substring from &#39;s&#39;." alt="" coords="695,352,757,377"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="592,325,682,350,681,355,591,331"/>
+<area shape="rect" id="Node000012" href="$test__stl_8cpp.html#a664ea16a5976db852d277f2eeac2a57d" title=" " alt="" coords="839,303,881,328"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="780,313,825,313,825,318,780,318"/>
+<area shape="rect" id="Node000014" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="839,352,881,377"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="758,362,825,362,825,367,758,367"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="test_issue.test01_issue_279" name="test_issue.test01_issue_279">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,211,55"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a150bdc88d4358bda646e06031074e5b9" title="Set an object attribute or raise an exception." alt="" coords="259,29,324,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,39,245,39,245,45,211,45"/>
+<area shape="rect" id="Node000003" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="372,29,516,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,39,358,39,358,45,324,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="418,31,413,21,416,11,426,5,444,3,465,6,474,15,470,19,463,11,444,8,428,10,420,15,418,20,423,28"/>
+</map>

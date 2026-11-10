@@ -1,0 +1,15 @@
+<map id="limit.spectrum" name="limit.spectrum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,123,80"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="31,56,25,46,28,36,42,30,64,28,91,32,102,40,99,45,89,36,64,33,43,35,32,40,30,46,36,53"/>
+<area shape="rect" id="Node000002" href="$namespacelimit.html#a42d39f40c2c9898a644646fdc6a6dd42" title=" " alt="" coords="171,5,352,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,52,196,31,197,37,116,57"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="240,55,283,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,65,226,65,226,70,123,70"/>
+<area shape="rect" id="Node000005" href="$common_8cpp.html#adc90278dc7e39f1531325e801637b4c4" title="Print to stdout using Python." alt="" coords="235,104,287,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="116,77,223,104,221,110,115,83"/>
+<area shape="rect" id="Node000003" href="$namespacelimit.html#a96410f8b9a42c773f37a2f3bfc526859" title=" " alt="" coords="424,5,520,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,15,410,15,410,21,352,21"/>
+<area shape="rect" id="Node000006" href="$common_8cpp.html#a04da89c5165bdb17e582a8b463462064" title="Raise nanobind::python_error after an error condition was found." alt="" coords="400,104,544,129"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="287,114,386,114,386,119,287,119"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="437,106,430,96,434,86,448,80,472,77,501,81,513,90,510,94,499,86,472,83,450,85,438,89,435,95,442,102"/>
+</map>

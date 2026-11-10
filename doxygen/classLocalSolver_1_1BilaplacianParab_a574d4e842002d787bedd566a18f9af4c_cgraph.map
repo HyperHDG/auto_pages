@@ -1,0 +1,20 @@
+<map id="LocalSolver::BilaplacianParab::errors" name="LocalSolver::BilaplacianParab::errors">
+<area shape="rect" id="Node000001" title="Evaluate squared local L2 error." alt="" coords="5,169,183,209"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="278,111,383,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,166,270,137,272,142,168,171"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1BilaplacianParab.html#ada087a7ba4efc6ae69fcc17ea795d2f5" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="231,197,431,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="183,197,217,201,217,206,183,202"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="517,5,646,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="350,108,406,74,478,40,502,31,504,36,480,44,408,79,352,113"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="517,55,646,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,109,510,80,511,86,384,114"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="525,128,637,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="384,124,512,133,512,139,383,130"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="541,130,532,120,536,110,553,104,581,101,617,105,627,110,631,116,626,119,623,114,615,110,581,107,554,109,540,114,537,119,545,126"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1BilaplacianParab.html#a9f725290bf236fd7d5b4c1d854f8e7bd" title="Assemble local matrix for the local solver." alt="" coords="479,178,684,218"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="431,207,465,204,465,209,431,212"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1BilaplacianParab.html#a7e29e976bc60f0ca3254bcd98f494cfe" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="484,243,679,297"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="426,234,471,244,470,249,424,239"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1BilaplacianParab.html#a1b7c00c1db4280ca8bba5402aa7b52fd" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="484,321,679,376"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="361,234,415,270,480,308,492,313,489,318,477,312,412,275,358,239"/>
+</map>

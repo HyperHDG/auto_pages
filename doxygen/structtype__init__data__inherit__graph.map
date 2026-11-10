@@ -1,0 +1,5 @@
+<map id="type_init_data" name="type_init_data">
+<area shape="rect" id="Node000001" title="Information about a type that is only relevant when it is being created." alt="" coords="5,79,120,104"/>
+<area shape="rect" id="Node000002" href="$structtype__data.html" title="Information about a type that persists throughout its lifetime." alt="" coords="19,5,106,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,44,65,79,60,79,60,44"/>
+</map>

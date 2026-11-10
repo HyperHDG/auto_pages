@@ -1,0 +1,11 @@
+<map id="call_init" name="call_init">
+<area shape="rect" id="Node000001" title="Implementation detail of api&lt;T&gt;::operator() (call operator)" alt="" coords="5,80,79,105"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="153,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,78,125,40,139,33,141,38,128,44,64,82"/>
+<area shape="rect" id="Node000003" href="$nb__types_8h.html#a26dd23e69b0d09c31028592cfc6489eb" title=" " alt="" coords="165,55,207,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="79,84,151,71,152,76,79,89"/>
+<area shape="rect" id="Node000004" href="$classhandle.html#a5da9ef2071680b765494b3ae8930ea35" title=" " alt="" coords="140,104,232,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="79,96,127,104,126,109,79,101"/>
+<area shape="rect" id="Node000005" href="$classobject.html#a4ce66b1d44b37ae6b28e80228b075aae" title=" " alt="" coords="127,153,245,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="65,103,128,138,143,145,140,150,125,143,63,108"/>
+</map>

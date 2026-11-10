@@ -1,0 +1,7 @@
+<map id="type_caster&lt; Eigen::Tensor&lt; Scalar, NumIndices, Options, IndexType &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; Scalar &gt; &gt; &gt;::from_cpp_internal" name="type_caster&lt; Eigen::Tensor&lt; Scalar, NumIndices, Options, IndexType &gt;, enable_if_t&lt; is_ndarray_scalar_v&lt; Scalar &gt; &gt; &gt;::from_cpp_internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,243,89"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="311,9,378,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,31,298,25,298,30,244,36"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="291,59,399,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,58,277,61,276,67,243,63"/>
+</map>

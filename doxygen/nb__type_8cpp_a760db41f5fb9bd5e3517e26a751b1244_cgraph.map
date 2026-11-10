@@ -1,0 +1,7 @@
+<map id="warn_relinquish_failed" name="warn_relinquish_failed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,175,31"/>
+<area shape="rect" id="Node000002" href="$nb__type_8cpp.html#a0d872f74491b53bfca5eb5f92975a4c6" title="Return a unicode string representing the long&#45;form name of object&#39;s type." alt="" coords="223,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,15,209,15,209,21,175,21"/>
+<area shape="rect" id="Node000003" href="$nb__type_8cpp.html#abfd31d7c77e0fd61b89a220ccaaf1ec6" title="Return a unicode string representing the long&#45;form name of the given type." alt="" coords="384,5,503,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,15,370,15,370,21,336,21"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TPCC::Slab::size" name="TPCC::Slab::size">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,132,80"/>
+<area shape="rect" id="Node000002" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="180,55,285,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,65,166,65,166,70,132,70"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="333,5,463,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,52,341,32,342,37,277,57"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="333,55,463,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,65,320,65,320,70,285,70"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="342,128,454,153"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="263,78,357,120,355,125,261,83"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="371,129,365,120,368,110,379,104,398,101,420,105,430,113,426,117,418,110,398,107,381,109,372,113,370,119,375,126"/>
+</map>

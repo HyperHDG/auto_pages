@@ -1,0 +1,14 @@
+<map id="GlobalLoop::NonlinearEigenvalue::jacobian_of_trace_to_flux" name="GlobalLoop::NonlinearEigenvalue::jacobian_of_trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,23,244,63"/>
+<area shape="rect" id="Node000002" href="$include_2HyperHDG_2compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="299,5,390,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,27,285,22,286,27,245,32"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="292,55,397,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,54,279,58,278,63,244,59"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="445,5,575,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="387,52,453,32,454,37,389,57"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="445,55,575,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="397,65,432,65,432,70,397,70"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="454,128,566,153"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="375,78,469,120,467,125,373,83"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="483,129,477,120,480,110,491,104,510,101,532,105,542,113,538,117,530,110,510,107,493,109,484,113,482,119,487,126"/>
+</map>

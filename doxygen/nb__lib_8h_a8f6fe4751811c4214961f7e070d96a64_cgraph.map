@@ -1,0 +1,11 @@
+<map id="property_install" name="property_install">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,129,56"/>
+<area shape="rect" id="Node000002" href="$common_8cpp.html#a6a85e12d65f5b5fb2b64884d041311b7" title=" " alt="" coords="177,31,337,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,41,164,41,164,46,129,46"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="385,5,495,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="337,30,371,25,372,30,338,35"/>
+<area shape="rect" id="Node000004" href="$nb__types_8h.html#a25b511474eabf0e768cea0a1c1da88ef" title=" " alt="" coords="413,55,467,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="338,51,399,59,398,65,337,57"/>
+<area shape="rect" id="Node000005" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="543,55,597,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="468,65,529,65,529,70,468,70"/>
+</map>

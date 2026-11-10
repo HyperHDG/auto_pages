@@ -1,0 +1,7 @@
+<map id="inst_traverse" name="inst_traverse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,112,31"/>
+<area shape="rect" id="Node000002" href="$nb__type_8cpp.html#a791fcffb3db81f4b7ad0d678d9584a6e" title=" " alt="" coords="160,5,255,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,15,146,15,146,21,112,21"/>
+<area shape="rect" id="Node000003" href="$nb__internals_8h.html#aef188f9d619190639c58d11f91a4f0f0" title="Fetch the nanobind type record from a &#39;nb_type&#39; instance." alt="" coords="303,5,413,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,15,289,15,289,21,255,21"/>
+</map>

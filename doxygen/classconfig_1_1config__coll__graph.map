@@ -1,0 +1,14 @@
+<map id="config.config" name="config.config">
+<area shape="rect" id="Node000001" title="Object that comprises all information for HyperHDG to create a problem." alt="" coords="35,391,139,416"/>
+<area shape="rect" id="Node000002" href="$classstr.html" title=" " alt="" coords="35,229,73,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,266,23,280,14,304,10,324,13,343,23,365,35,379,51,388,48,393,32,383,18,368,8,345,5,324,9,302,18,278,27,263"/>
+<area shape="rect" id="Node000003" href="$classobject.html" title=" " alt="" coords="55,155,117,180"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,194,62,230,57,228,73,192"/>
+<area shape="rect" id="Node000006" href="$classlist.html" title=" " alt="" coords="115,229,158,255"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="104,190,131,227,126,231,100,193"/>
+<area shape="rect" id="Node000004" href="$classhandle.html" title=" " alt="" coords="53,80,119,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,120,89,154,83,154,83,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="89,45,89,80,83,80,83,45"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="142,268,142,316,137,342,128,368,119,382,107,393,103,389,115,378,124,365,132,341,137,315,137,268"/>
+</map>

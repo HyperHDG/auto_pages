@@ -1,0 +1,7 @@
+<map id="nb_func_get_qualname" name="nb_func_get_qualname">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,179,56"/>
+<area shape="rect" id="Node000002" href="$nb__internals_8h.html#aa302f857ff7b80166cc9562fe622f099" title="Fetch the nanobind function record from a &#39;nb_func&#39; instance." alt="" coords="227,5,336,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,29,212,24,213,30,179,34"/>
+<area shape="rect" id="Node000003" href="$nb__lib_8h.html#a7711d52ad678106bbea22bf1d30f81e4" title=" " alt="" coords="242,55,321,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,52,229,58,228,63,179,57"/>
+</map>

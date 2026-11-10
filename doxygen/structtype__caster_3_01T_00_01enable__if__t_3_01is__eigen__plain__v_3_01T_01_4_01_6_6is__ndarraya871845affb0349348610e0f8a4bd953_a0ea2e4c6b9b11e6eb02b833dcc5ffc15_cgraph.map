@@ -1,0 +1,19 @@
+<map id="type_caster&lt; T, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::from_cpp_internal" name="type_caster&lt; T, enable_if_t&lt; is_eigen_plain_v&lt; T &gt; &amp;&amp;is_ndarray_scalar_v&lt; typename T::Scalar &gt; &gt; &gt;::from_cpp_internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,76,219,160"/>
+<area shape="rect" id="Node000002" href="$nb__types_8h.html#a1d24cbbde9b960f1b40311118b002919" title=" " alt="" coords="287,5,354,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,73,266,40,277,34,279,39,268,44,198,78"/>
+<area shape="rect" id="Node000003" href="$classndarray.html#a0978e0f665f15ec1a105418e24dbb3b8" title=" " alt="" coords="267,55,375,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,89,254,81,255,86,219,95"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="423,105,552,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="219,115,409,115,409,121,219,121"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="268,156,373,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="219,141,255,150,254,155,218,147"/>
+<area shape="rect" id="Node000008" href="$nb__types_8h.html#aa7df15035ebd83302713020438e4b66f" title=" " alt="" coords="293,205,348,231"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="201,158,268,190,282,197,280,202,266,195,198,163"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="363,153,431,132,432,137,364,158"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="423,155,552,180"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="373,166,409,165,409,171,373,171"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="431,228,543,253"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="352,179,446,220,443,225,350,184"/>
+<area shape="poly" id="edge8_Node000007_Node000007" title=" " alt="" coords="460,229,454,220,457,210,468,204,487,201,510,205,520,213,516,217,508,210,487,207,470,209,461,213,459,219,464,226"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="LocalSolver::DiffusionEigsWeighted::bulk_values" name="LocalSolver::DiffusionEigsWeighted::bulk_values">
+<area shape="rect" id="Node000001" title="Evaluate the local reconstruction of an eigenfunction at tensorial abscissas." alt="" coords="5,92,196,132"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a2aba73bf5f58110459ccbcf721d365d6" title="Evaluate a bulk function (given by its coefficients) at a reference point." alt="" coords="244,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,89,269,48,271,53,158,94"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#aae78876867f3fbbf01975b48619d4455" title="Coefficients &#160;of a hyperedge, cf. class description." alt="" coords="483,124,673,164"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,101,311,98,373,100,435,105,499,118,498,123,434,111,373,105,311,103,196,107"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#abac5cd5f92b90c03296f0105773a735c" title="Assemble the matrices that define the local flux reconstruction." alt="" coords="244,120,435,160"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="197,121,231,125,230,130,196,126"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a2890532195808171ce9be34a4ee5bb70" title="Local matrix of the bilinear form &#160;(mass matrix)." alt="" coords="244,184,435,224"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="148,130,245,170,265,177,263,182,243,174,146,134"/>
+<area shape="rect" id="Node000004" href="$classndarray.html#ad27ec59ce46d4802ee4452ff6e11d702" title=" " alt="" coords="721,131,827,157"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="674,141,708,141,708,147,674,147"/>
+<area shape="rect" id="Node000005" href="$classndarray.html#a90c0f800305ad78e992b0d246940a4b4" title=" " alt="" coords="875,82,1004,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="816,129,882,109,884,114,818,134"/>
+<area shape="rect" id="Node000006" href="$classndarray.html#a998346fe9fe3e70bef5ddae50b515a6a" title=" " alt="" coords="875,131,1004,157"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="827,141,861,141,861,147,827,147"/>
+<area shape="rect" id="Node000007" href="$classndarray.html#a2b921b3ecf9796750d6c7433f70bb95b" title=" " alt="" coords="883,205,995,230"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="805,154,898,197,896,201,803,159"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="912,206,906,196,909,187,921,180,939,178,962,181,971,190,968,194,959,186,939,183,922,185,913,190,912,196,917,203"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="419,181,484,165,485,170,421,186"/>
+</map>
