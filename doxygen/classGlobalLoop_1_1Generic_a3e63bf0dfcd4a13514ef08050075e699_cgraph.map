@@ -1,0 +1,5 @@
+<map id="GlobalLoop::Generic::plot_solution" name="GlobalLoop::Generic::plot_solution">
+<area shape="rect" id="Node000001" title="Write the local solutions of x to the file the plot options name (plot.hxx; the local solver&#39;s bulk_v..." alt="" coords="5,5,159,45"/>
+<area shape="rect" id="Node000002" href="$plot__exact_8cxx.html#aa6e478b09f49fa4f11ad1b2e9f602b5e" title=" " alt="" coords="207,13,253,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,23,193,23,193,28,159,28"/>
+</map>

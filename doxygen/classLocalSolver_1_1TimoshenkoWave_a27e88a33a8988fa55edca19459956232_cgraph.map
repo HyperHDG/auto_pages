@@ -1,0 +1,5 @@
+<map id="LocalSolver::TimoshenkoWave::zero_dirichlet_trace" name="LocalSolver::TimoshenkoWave::zero_dirichlet_trace">
+<area shape="rect" id="Node000001" title="Zero every dynamic&#45;Dirichlet trace dof of lambda in place (leaves bit&#45;6 faces)." alt="" coords="5,5,225,45"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#aeab2259dddabfaa25bc5b668d6e7c9dd" title=" " alt="" coords="273,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,23,260,23,260,28,225,28"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="LocalSolver::DiffusionTensor::Operator::along" name="LocalSolver::DiffusionTensor::Operator::along">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,211,75"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#abcba0d1b75496e0804e1684f4822def0" title=" " alt="" coords="259,5,464,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,40,245,36,245,41,211,45"/>
+<area shape="rect" id="Node000003" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a7b45c7ddfebd3a72f1e6d3a3c47c7b72" title=" " alt="" coords="512,35,717,75"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="211,54,259,55,464,55,498,54,498,60,464,60,259,60,211,59"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,35,499,39,498,44,464,40"/>
+</map>

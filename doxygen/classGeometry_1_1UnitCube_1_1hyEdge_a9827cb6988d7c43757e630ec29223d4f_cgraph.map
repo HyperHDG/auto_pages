@@ -1,0 +1,5 @@
+<map id="Geometry::UnitCube::hyEdge::congruence_class" name="Geometry::UnitCube::hyEdge::congruence_class">
+<area shape="rect" id="Node000001" title="The congruence class of this hyperedge, in 0, ..., n_congruence_classes() &#45; 1: the rank of the set of..." alt="" coords="5,5,207,45"/>
+<area shape="rect" id="Node000002" href="$classGeometry_1_1UnitCube.html#a81b62a76c722285922960821eec138be" title="Binomial coefficient n over k (0 if k &gt; n)." alt="" coords="255,5,409,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="GlobalLoop::Generic::local_dof_indices" name="GlobalLoop::Generic::local_dof_indices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,159,77"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="215,5,386,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,44,201,37,202,42,159,49"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="207,69,395,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,66,193,71,193,76,158,71"/>
+</map>

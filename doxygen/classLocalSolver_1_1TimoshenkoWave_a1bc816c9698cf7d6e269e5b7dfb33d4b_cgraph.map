@@ -1,0 +1,7 @@
+<map id="LocalSolver::TimoshenkoWave::finalize_step" name="LocalSolver::TimoshenkoWave::finalize_step">
+<area shape="rect" id="Node000001" title="Gauss protocol: combine the stashed stage solutions into the new state." alt="" coords="5,5,225,45"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#a477197d75cb682ff594e2e5f19dc3c41" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="273,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,23,260,23,260,28,225,28"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="541,13,668,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,23,527,23,527,28,493,28"/>
+</map>

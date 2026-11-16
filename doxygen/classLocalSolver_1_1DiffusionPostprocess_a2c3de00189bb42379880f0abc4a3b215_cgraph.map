@@ -1,0 +1,7 @@
+<map id="LocalSolver::DiffusionPostprocess::flux_from_coeffs" name="LocalSolver::DiffusionPostprocess::flux_from_coeffs">
+<area shape="rect" id="Node000001" title="Evaluate trace_to_flux for given solution of the local problem." alt="" coords="5,37,247,77"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionPostprocess.html#afe45d937f4a0fa2200297362f1d98296" title="Evaluate dual variable at boundary." alt="" coords="295,5,536,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,41,281,38,281,43,247,47"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionPostprocess.html#ae37733a3fec2ea5f6341b93d6b5d9cca" title="Evaluate primal variable at boundary." alt="" coords="295,69,536,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,68,281,72,281,77,247,73"/>
+</map>

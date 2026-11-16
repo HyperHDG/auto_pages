@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::GaussLegendre::cosine" name="TPP::Quadrature::GaussLegendre::cosine">
+<area shape="rect" id="Node000001" title="Cosine by its Taylor series, usable in constant expressions; only for the initial guesses of the poin..." alt="" coords="5,5,240,45"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#a078cb74610ca42c68d6dbd7054f13dde" title="Absolute value, usable in constant expressions for any floating point type." alt="" coords="288,5,523,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,23,274,23,274,28,240,28"/>
+</map>

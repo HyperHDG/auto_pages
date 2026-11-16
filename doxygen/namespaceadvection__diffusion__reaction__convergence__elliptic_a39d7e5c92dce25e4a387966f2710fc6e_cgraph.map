@@ -1,0 +1,15 @@
+<map id="advection_diffusion_reaction_convergence_elliptic.main" name="advection_diffusion_reaction_convergence_elliptic.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,177,100"/>
+<area shape="rect" id="Node000002" href="$namespaceadvection__diffusion__reaction__convergence__elliptic.html#a5615cfc3d088903d96ac4ff281aa9720" title=" " alt="" coords="225,13,417,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,58,211,53,212,59,178,63"/>
+<area shape="rect" id="Node000003" href="$examples_2diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="294,92,349,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,82,281,96,280,102,178,87"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="499,5,605,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,98,381,90,416,77,440,59,464,41,485,32,487,37,467,46,443,64,419,82,383,95,350,103"/>
+<area shape="rect" id="Node000005" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="465,55,639,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="348,99,451,85,452,91,349,104"/>
+<area shape="rect" id="Node000006" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="481,120,623,145"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="349,105,468,120,467,125,348,111"/>
+<area shape="rect" id="Node000007" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="478,169,626,195"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="350,112,466,154,493,163,492,168,464,159,348,117"/>
+</map>

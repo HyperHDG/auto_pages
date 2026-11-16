@@ -1,0 +1,5 @@
+<map id="NodeDescriptor::File::get_hyEdge" name="NodeDescriptor::File::get_hyEdge">
+<area shape="rect" id="Node000001" title="Return hyperedge of given index." alt="" coords="5,5,160,45"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="208,13,369,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,23,195,23,195,28,160,28"/>
+</map>

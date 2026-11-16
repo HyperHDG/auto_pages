@@ -1,0 +1,5 @@
+<map id="GlobalLoop::Elliptic&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;" name="GlobalLoop::Elliptic&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;">
+<area shape="rect" id="Node000001" title="Combine local solver and global information for elliptic problems." alt="" coords="285,13,516,82"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1CondensedOperator.html" title="Assembly of the condensed matrix of a global loop." alt="" coords="5,5,237,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,45,285,45,285,50,251,50"/>
+</map>

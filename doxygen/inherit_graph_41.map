@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classGlobalLoop_1_1CondensedOperator.html" title="Assembly of the condensed matrix of a global loop." alt="" coords="5,178,237,262"/>
+<area shape="rect" id="Node000001" href="$classGlobalLoop_1_1Elliptic.html" title="Combine local solver and global information for elliptic problems." alt="" coords="317,5,548,75"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="173,167,225,123,284,84,316,69,318,74,287,89,228,128,177,171"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1Hyperbolic.html" title="Combine local solver and global information for hyperbolic problems." alt="" coords="317,99,548,168"/>
+<area shape="poly" id="edge7_Node000000_Node000002" title=" " alt="" coords="250,182,317,163,318,168,251,187"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1MassApproxEigenvalue.html" title="Combine local solver and global information for eigenvalue problems with mass matrix approximation." alt="" coords="285,193,580,247"/>
+<area shape="poly" id="edge8_Node000000_Node000003" title=" " alt="" coords="251,217,285,217,285,223,251,223"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Parabolic.html" title="Combine local solver and global information for parabolic problems." alt="" coords="317,272,548,341"/>
+<area shape="poly" id="edge9_Node000000_Node000004" title=" " alt="" coords="251,253,318,272,317,277,250,258"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1ShiftedInverseEigenvalue.html" title="Combine local solver and global information for eigenvalue problems with shifted inverse approach." alt="" coords="323,366,543,450"/>
+<area shape="poly" id="edge10_Node000000_Node000005" title=" " alt="" coords="178,269,229,312,287,351,324,370,321,374,284,356,226,316,174,273"/>
+</map>

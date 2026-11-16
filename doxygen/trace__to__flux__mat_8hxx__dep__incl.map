@@ -1,0 +1,15 @@
+<map id="include/HyperHDG/local_solver/trace_to_flux_mat.hxx" name="include/HyperHDG/local_solver/trace_to_flux_mat.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="567,5,744,60"/>
+<area shape="rect" id="Node000002" href="$bilaplacian__ldgh_8hxx.html" title=" " alt="" coords="5,115,212,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="554,53,224,111,189,118,188,113,223,105,553,47"/>
+<area shape="rect" id="Node000003" href="$bilaplacian__parab__ldgh_8hxx.html" title=" " alt="" coords="236,108,424,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="558,67,416,110,414,105,557,62"/>
+<area shape="rect" id="Node000004" href="$diffusion__advection__reaction__ldg_8hxx.html" title=" " alt="" coords="449,108,649,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="619,72,578,110,575,106,616,68"/>
+<area shape="rect" id="Node000005" href="$diffusion__ip_8hxx.html" title=" " alt="" coords="673,115,851,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="695,68,743,113,740,117,691,71"/>
+<area shape="rect" id="Node000006" href="$diffusion__ldgh__pp_8hxx.html" title=" " alt="" coords="875,108,1052,163"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="749,62,884,105,882,110,748,67"/>
+<area shape="rect" id="Node000007" href="$diffusion__parab__ldgh_8hxx.html" title=" " alt="" coords="1076,108,1253,163"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="758,48,904,73,1065,105,1076,108,1075,113,1064,111,903,78,757,53"/>
+</map>

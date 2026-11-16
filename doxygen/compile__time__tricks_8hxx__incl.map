@@ -1,0 +1,9 @@
+<map id="include/HyperHDG/compile_time_tricks.hxx" name="include/HyperHDG/compile_time_tricks.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="35,5,234,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,64,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,48,62,87,59,82,109,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,93,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,46,137,79,132,79,132,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="205,93,265,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,43,210,82,207,87,157,48"/>
+</map>

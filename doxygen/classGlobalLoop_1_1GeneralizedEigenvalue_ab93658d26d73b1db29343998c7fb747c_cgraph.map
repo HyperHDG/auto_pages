@@ -1,0 +1,5 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::n_skeleton_dofs" name="GlobalLoop::GeneralizedEigenvalue::n_skeleton_dofs">
+<area shape="rect" id="Node000001" title="Number of skeletal unknowns (including the Dirichlet unknowns)." alt="" coords="5,5,259,45"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="307,13,535,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,23,293,23,293,28,259,28"/>
+</map>

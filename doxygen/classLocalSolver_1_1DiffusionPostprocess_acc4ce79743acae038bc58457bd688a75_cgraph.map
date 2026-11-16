@@ -1,0 +1,21 @@
+<map id="LocalSolver::DiffusionPostprocess::trace_to_flux" name="LocalSolver::DiffusionPostprocess::trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate local contribution to matrix–vector multiplication." alt="" coords="5,132,247,172"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2c3de00189bb42379880f0abc4a3b215" title="Evaluate trace_to_flux for given solution of the local problem." alt="" coords="295,68,536,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,129,310,108,312,114,218,135"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1DiffusionPostprocess.html#a2a71645a8388444d672865e266978465" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="295,132,536,172"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="247,149,281,149,281,155,247,155"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1DiffusionPostprocess.html#a6643be4745d32c7a53eac7b923b1780e" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="295,221,536,261"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="192,170,337,215,336,220,191,175"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionPostprocess.html#afe45d937f4a0fa2200297362f1d98296" title="Evaluate dual variable at boundary." alt="" coords="584,5,825,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,65,598,46,599,51,509,71"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionPostprocess.html#ae37733a3fec2ea5f6341b93d6b5d9cca" title="Evaluate primal variable at boundary." alt="" coords="584,69,825,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="536,86,570,86,570,91,536,91"/>
+<area shape="rect" id="Node000006" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="641,137,768,162"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="536,148,628,147,628,153,536,154"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1DiffusionPostprocess.html#add772626f9a0945b088fb5912d1385a4" title="Assemble local matrix for the local solver." alt="" coords="584,187,825,227"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="536,224,570,220,571,225,536,230"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1DiffusionPostprocess.html#ac3549488ae9e817648cd8c8b4c4c44d4" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="584,251,825,291"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="536,251,571,254,570,260,536,256"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1DiffusionPostprocess.html#acceb0cd7b099a083346b4421779bb86c" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="584,315,825,355"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="469,259,585,300,613,308,611,314,583,305,467,264"/>
+</map>

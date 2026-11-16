@@ -1,0 +1,8 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::plot_option" name="GlobalLoop::GeneralizedEigenvalue::plot_option">
+<area shape="rect" id="Node000001" title="Set plot option and return old plot option." alt="" coords="5,22,259,62"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#a999ac0ed32f7cd586c09bf0a7ff2f2e3" title="Set a plot option and return the new value of this option as std::string." alt="" coords="307,29,429,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,39,293,39,293,45,259,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="339,31,333,21,336,11,348,5,368,3,392,6,402,15,399,19,390,11,368,8,349,10,340,15,338,20,343,28"/>
+<area shape="rect" id="Node000003" href="$plot_8hxx.html#abb4e64241c325d5e6174244cff4b38c8" title="Turn fileType enum into string." alt="" coords="477,29,613,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,39,464,39,464,45,429,45"/>
+</map>

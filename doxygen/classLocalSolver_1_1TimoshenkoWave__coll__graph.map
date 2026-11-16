@@ -1,0 +1,5 @@
+<map id="LocalSolver::TimoshenkoWave&lt; hyEdge_dimT, space_dim, poly_deg, quad_deg, parametersT, lSol_float_t, n_stages &gt;" name="LocalSolver::TimoshenkoWave&lt; hyEdge_dimT, space_dim, poly_deg, quad_deg, parametersT, lSol_float_t, n_stages &gt;">
+<area shape="rect" id="Node000001" title="Local solver for the Timoshenko beam&#45;network wave equation (dual&#45;mixed HDG)." alt="" coords="379,5,629,75"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1TimoshenkoWave_1_1stage__data__t.html" title="Gauss tableau data in the eigenbasis of the Butcher matrix (doc/hdg_gauss.pdf)." alt="" coords="5,5,276,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,37,378,37,378,43,290,43"/>
+</map>

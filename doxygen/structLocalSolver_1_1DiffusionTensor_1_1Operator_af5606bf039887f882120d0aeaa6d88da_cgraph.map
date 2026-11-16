@@ -1,0 +1,14 @@
+<map id="LocalSolver::DiffusionTensor::Operator::solve" name="LocalSolver::DiffusionTensor::Operator::solve">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,211,103"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a94cc67f85915e0e32e83ed75f6463441" title=" " alt="" coords="259,63,464,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,80,245,80,245,85,211,85"/>
+<area shape="rect" id="Node000003" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#abcba0d1b75496e0804e1684f4822def0" title=" " alt="" coords="512,5,717,45"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="192,60,258,48,382,35,498,27,498,32,382,40,259,53,193,65"/>
+<area shape="rect" id="Node000005" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a6aad54ab623b4c7e5189db964efa8eca" title=" " alt="" coords="512,120,717,160"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="193,100,259,112,382,126,498,133,498,139,382,131,258,117,192,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="450,60,512,46,513,51,451,65"/>
+<area shape="rect" id="Node000004" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a7b45c7ddfebd3a72f1e6d3a3c47c7b72" title=" " alt="" coords="765,63,971,103"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="464,80,751,80,751,85,464,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="704,43,766,57,765,62,703,48"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="703,117,765,103,766,108,704,123"/>
+</map>

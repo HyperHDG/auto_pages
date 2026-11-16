@@ -1,0 +1,15 @@
+<map id="LocalSolver::TimoshenkoWave::make_stage_data" name="LocalSolver::TimoshenkoWave::make_stage_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,102,225,142"/>
+<area shape="rect" id="Node000002" href="$namespaceGauss.html#afed0642fa7defb59bb161a2ff02fed06" title="Build the tableau; see the file header. All dense work is on tiny s x s systems." alt="" coords="304,80,463,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,107,290,100,291,105,226,113"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoWave.html#a447e8cbbe35ce88f46ee9b97e3d1a6d3" title="Convert a tableau entry to the stage scalar (checks realness at s = 1)." alt="" coords="273,130,493,170"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="226,131,260,134,259,140,225,136"/>
+<area shape="rect" id="Node000003" href="$namespaceGauss.html#ac12d2aa71d15f4aa5cdb9fa70ed6e098" title="Gauss&#45;Legendre nodes c (mapped to [0,1]) and weights b (sum to 1)." alt="" coords="551,5,723,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,77,541,39,569,32,571,37,542,45,423,82"/>
+<area shape="rect" id="Node000004" href="$namespaceWrapper.html#a3342f96d2ec017d4ccee22bd89c049eb" title="Right eigendecomposition of a dense complex matrix (zgeev)." alt="" coords="560,55,715,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,82,546,74,546,79,463,87"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a0c482c741d6aa77caaffb42b87b517fd" title="LU factorization of dense square matrix — DO NOT USE." alt="" coords="541,104,733,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="463,97,528,104,527,109,463,103"/>
+<area shape="rect" id="Node000006" href="$namespaceWrapper.html#a820e16abba806e7903ac5cf790754b1b" title="Solve using LU factors produced by lapack_factorize — DO NOT USE." alt="" coords="552,154,723,194"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,103,494,116,542,138,564,147,562,152,540,143,492,120,449,108"/>
+</map>

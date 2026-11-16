@@ -1,0 +1,8 @@
+<map id="GlobalLoop::Hyperbolic::plot_option" name="GlobalLoop::Hyperbolic::plot_option">
+<area shape="rect" id="Node000001" title="Set plot option and return old plot option." alt="" coords="5,22,179,62"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#a999ac0ed32f7cd586c09bf0a7ff2f2e3" title="Set a plot option and return the new value of this option as std::string." alt="" coords="227,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,39,213,39,213,45,179,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="259,31,253,21,256,11,268,5,288,3,312,6,322,15,319,19,310,11,288,8,269,10,260,15,258,20,263,28"/>
+<area shape="rect" id="Node000003" href="$plot_8hxx.html#abb4e64241c325d5e6174244cff4b38c8" title="Turn fileType enum into string." alt="" coords="397,29,533,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,39,384,39,384,45,349,45"/>
+</map>

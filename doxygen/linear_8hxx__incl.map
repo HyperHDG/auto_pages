@@ -1,0 +1,30 @@
+<map id="include/HyperHDG/mapping/linear.hxx" name="include/HyperHDG/mapping/linear.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,5,383,45"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html" title=" " alt="" coords="338,93,519,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,43,396,84,394,89,316,48"/>
+<area shape="rect" id="Node000003" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="42,167,229,192"/>
+<area shape="poly" id="edge15_Node000001_Node000003" title=" " alt="" coords="265,48,158,158,154,155,262,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,121,197,166,195,161,381,116"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="475,240,531,265"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="376,121,338,133,306,149,295,158,288,168,288,179,293,190,304,200,320,208,364,223,462,243,461,248,363,228,318,213,301,204,289,194,282,180,283,166,291,155,303,144,336,128,374,116"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="304,167,367,192"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="415,121,363,160,360,156,412,117"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="391,167,467,192"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="431,119,431,153,426,153,426,119"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="491,167,551,192"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="445,117,497,156,493,160,442,121"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="575,167,637,192"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="458,116,566,159,564,164,456,121"/>
+<area shape="rect" id="Node000012" href="$lapack_8hxx.html" title="This file provides the function lapack_solve." alt="" coords="661,167,884,192"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="478,116,697,161,696,167,477,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,240,71,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,194,67,234,64,229,118,190"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="95,240,175,265"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="138,192,138,226,133,226,133,192"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="199,240,274,265"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="153,190,210,230,207,234,150,194"/>
+<area shape="poly" id="edge14_Node000012_Node000002" title=" " alt="" coords="723,169,504,124,505,119,724,164"/>
+<area shape="poly" id="edge12_Node000012_Node000007" title=" " alt="" coords="730,195,545,243,544,238,729,189"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="733,240,812,265"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="775,192,775,226,770,226,770,192"/>
+</map>

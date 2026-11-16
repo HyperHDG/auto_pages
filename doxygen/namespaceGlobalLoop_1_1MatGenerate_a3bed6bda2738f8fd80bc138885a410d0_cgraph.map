@@ -1,0 +1,11 @@
+<map id="GlobalLoop::MatGenerate::for_each_local_matrix" name="GlobalLoop::MatGenerate::for_each_local_matrix">
+<area shape="rect" id="Node000001" title="Compute the local condensed matrix of every hyperedge and hand it to sink." alt="" coords="5,69,193,109"/>
+<area shape="rect" id="Node000002" href="$namespaceGlobalLoop_1_1MatGenerate.html#af489f01fc67f470bf10023e3de433b65" title="Throw if a local matrix differs from the local matrix reused by factorize_once." alt="" coords="263,5,470,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,67,269,46,270,51,184,72"/>
+<area shape="rect" id="Node000003" href="$namespaceGlobalLoop_1_1MatGenerate.html#ae6c59a22a117a817167597b7adce6347" title="Local condensed matrix of a hyperedge, i.e., the matrix representation of trace_to_flux." alt="" coords="273,69,461,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,87,259,87,259,92,194,92"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1ParallelExceptions.html#a6d4c5a1172178c9e244355125ac7c483" title="Execute body unless an exception has been thrown before, and catch exceptions." alt="" coords="241,134,492,159"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,107,242,119,289,129,288,134,241,124,187,112"/>
+<area shape="rect" id="Node000004" href="$compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="540,77,631,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,87,526,87,526,92,461,92"/>
+</map>

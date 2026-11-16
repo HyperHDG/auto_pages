@@ -1,0 +1,37 @@
+<map id="include/HyperHDG/topology/cubic.hxx" name="include/HyperHDG/topology/cubic.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,5,345,45"/>
+<area shape="rect" id="Node000002" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="42,240,229,265"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,48,162,67,138,95,126,128,123,163,125,197,131,226,126,227,120,198,117,163,121,127,133,92,158,63,190,43"/>
+<area shape="rect" id="Node000006" href="$hypercube_8hxx.html" title=" " alt="" coords="148,93,339,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="246,46,246,79,241,79,241,46"/>
+<area shape="rect" id="Node000007" href="$tpcc_8hxx.html" title="This file provides the functions of the submodule TPCC." alt="" coords="363,93,569,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="298,43,421,86,419,91,296,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,313,71,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,268,67,307,64,303,118,263"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,313,175,339"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="138,266,138,300,133,300,133,266"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,313,274,339"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="153,263,210,303,207,307,150,268"/>
+<area shape="poly" id="edge19_Node000007_Node000002" title=" " alt="" coords="363,120,288,138,250,152,215,169,180,198,153,230,149,226,176,194,213,164,248,147,286,133,362,115"/>
+<area shape="rect" id="Node000008" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpcc.tag$lexicographic_8h.html" title=" " alt="" coords="226,167,378,192"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="441,121,342,164,340,159,439,116"/>
+<area shape="rect" id="Node000009" href="$dense__la_8hxx.html" title=" " alt="" coords="402,167,583,192"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="473,118,486,153,481,155,468,120"/>
+<area shape="poly" id="edge9_Node000009_Node000002" title=" " alt="" coords="436,195,207,240,206,235,435,189"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="475,313,531,339"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="424,195,345,214,313,227,293,242,289,253,294,264,304,273,320,282,364,297,462,316,461,322,363,302,318,286,301,277,289,267,284,253,289,238,310,223,343,209,423,189"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="304,240,367,265"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="468,194,374,237,372,232,466,190"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="391,240,467,265"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="484,194,450,232,446,228,480,191"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="491,240,551,265"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="500,191,514,226,509,228,495,193"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="575,240,637,265"/>
+<area shape="poly" id="edge14_Node000009_Node000014" title=" " alt="" coords="512,190,578,230,575,235,509,194"/>
+<area shape="rect" id="Node000015" href="$lapack_8hxx.html" title="This file provides the function lapack_solve." alt="" coords="661,240,884,265"/>
+<area shape="poly" id="edge15_Node000009_Node000015" title=" " alt="" coords="531,189,708,234,707,239,530,195"/>
+<area shape="poly" id="edge18_Node000015_Node000009" title=" " alt="" coords="734,242,557,198,558,193,735,237"/>
+<area shape="poly" id="edge16_Node000015_Node000010" title=" " alt="" coords="730,268,545,316,544,311,729,263"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="733,313,812,339"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="775,266,775,300,770,300,770,266"/>
+</map>

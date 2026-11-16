@@ -1,0 +1,20 @@
+<map id="measure" name="measure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,84,210"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="132,133,328,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,186,132,174,133,179,85,191"/>
+<area shape="rect" id="Node000009" href="$namespaceankerl_1_1nanobench.html#afae575ef6845f3cd10a30c17a4a5fd7e" title="Makes sure none of the given arguments are optimized away by the compiler." alt="" coords="152,221,308,261"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="85,204,139,217,138,222,84,209"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="376,133,529,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,151,362,151,362,156,328,156"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="615,5,768,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,131,518,93,576,55,600,44,602,49,579,60,521,97,476,135"/>
+<area shape="rect" id="Node000005" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="606,69,777,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="527,131,602,110,604,115,529,136"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="597,133,785,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="530,151,584,151,584,156,530,156"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="577,198,805,223"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="530,171,578,183,619,192,617,197,577,188,529,176"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="587,247,795,273"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="480,171,524,203,578,232,603,241,601,246,576,237,522,207,477,176"/>
+<area shape="poly" id="edge9_Node000009_Node000009" title=" " alt="" coords="195,222,193,212,199,203,211,197,230,195,252,198,264,205,261,209,250,203,230,200,213,202,202,207,198,213,200,220"/>
+</map>

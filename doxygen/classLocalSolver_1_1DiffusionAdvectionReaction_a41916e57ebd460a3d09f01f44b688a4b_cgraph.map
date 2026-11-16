@@ -1,0 +1,15 @@
+<map id="LocalSolver::DiffusionAdvectionReaction::errors" name="LocalSolver::DiffusionAdvectionReaction::errors">
+<area shape="rect" id="Node000001" title="Calculate squared local contribution of L2 error." alt="" coords="5,63,233,103"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#aea491711380b2e5e5102d34e2c41c7a4" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="281,15,513,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,61,267,55,268,60,234,66"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a748ae35e269b1ac1d7a930c0dd5fb4c1" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="283,95,511,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,94,270,98,269,103,233,99"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="633,5,760,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="513,26,620,20,620,25,514,31"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a37fe1d1bc1b36e6f2b4f16fd71693fc0" title="Assemble local matrix for the local solver." alt="" coords="583,55,811,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="511,97,569,90,569,95,512,103"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a7e296f5002c59c949eda5cb8e0196252" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="583,120,811,175"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="512,125,569,131,569,136,511,130"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1DiffusionAdvectionReaction.html#a5c7d97eeb660b33fa584b7ae5f2e4291" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="561,199,832,239"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="440,133,497,159,562,185,589,193,587,198,560,190,495,164,438,138"/>
+</map>

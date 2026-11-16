@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['beam_5fnetwork_5fnb_5fjit_2epy_0',['beam_network_nb_jit.py',['../beam__network__nb__jit_8py.html',1,'']]],
+  ['benchmark_2ehxx_1',['benchmark.hxx',['../benchmark_8hxx.html',1,'']]],
+  ['bilaplacian_2ehxx_2',['bilaplacian.hxx',['../bilaplacian_8hxx.html',1,'']]],
+  ['bilaplacian_5fconvergence_5feigenvalue_5fapprox_2epy_3',['bilaplacian_convergence_eigenvalue_approx.py',['../bilaplacian__convergence__eigenvalue__approx_8py.html',1,'']]],
+  ['bilaplacian_5fconvergence_5feigenvalue_5fcomb_2epy_4',['bilaplacian_convergence_eigenvalue_comb.py',['../bilaplacian__convergence__eigenvalue__comb_8py.html',1,'']]],
+  ['bilaplacian_5fconvergence_5feigenvalue_5fnewt_2epy_5',['bilaplacian_convergence_eigenvalue_newt.py',['../bilaplacian__convergence__eigenvalue__newt_8py.html',1,'']]],
+  ['bilaplacian_5fconvergence_5feigenvalue_5fshifted_5finverse_2epy_6',['bilaplacian_convergence_eigenvalue_shifted_inverse.py',['../bilaplacian__convergence__eigenvalue__shifted__inverse_8py.html',1,'']]],
+  ['bilaplacian_5fconvergence_5felliptic_2epy_7',['bilaplacian_convergence_elliptic.py',['../bilaplacian__convergence__elliptic_8py.html',1,'']]],
+  ['bilaplacian_5fconvergence_5fparabolic_2epy_8',['bilaplacian_convergence_parabolic.py',['../bilaplacian__convergence__parabolic_8py.html',1,'']]],
+  ['bilaplacian_5feigs_5fldgh_2ehxx_9',['bilaplacian_eigs_ldgh.hxx',['../bilaplacian__eigs__ldgh_8hxx.html',1,'']]],
+  ['bilaplacian_5fhypergraph_5fconvergence_5feigenvalue_5fapprox_2epy_10',['bilaplacian_hypergraph_convergence_eigenvalue_approx.py',['../bilaplacian__hypergraph__convergence__eigenvalue__approx_8py.html',1,'']]],
+  ['bilaplacian_5fhypergraph_5fconvergence_5feigenvalue_5fcomb_2epy_11',['bilaplacian_hypergraph_convergence_eigenvalue_comb.py',['../bilaplacian__hypergraph__convergence__eigenvalue__comb_8py.html',1,'']]],
+  ['bilaplacian_5fhypergraph_5fconvergence_5feigenvalue_5fnewt_2epy_12',['bilaplacian_hypergraph_convergence_eigenvalue_newt.py',['../bilaplacian__hypergraph__convergence__eigenvalue__newt_8py.html',1,'']]],
+  ['bilaplacian_5fhypergraph_5fconvergence_5feigenvalue_5fshifted_5finverse_2epy_13',['bilaplacian_hypergraph_convergence_eigenvalue_shifted_inverse.py',['../bilaplacian__hypergraph__convergence__eigenvalue__shifted__inverse_8py.html',1,'']]],
+  ['bilaplacian_5fhypergraph_5fconvergence_5felliptic_2epy_14',['bilaplacian_hypergraph_convergence_elliptic.py',['../bilaplacian__hypergraph__convergence__elliptic_8py.html',1,'']]],
+  ['bilaplacian_5fldgh_2ehxx_15',['bilaplacian_ldgh.hxx',['../bilaplacian__ldgh_8hxx.html',1,'']]],
+  ['bilaplacian_5fparab_5fldgh_2ehxx_16',['bilaplacian_parab_ldgh.hxx',['../bilaplacian__parab__ldgh_8hxx.html',1,'']]],
+  ['bilaplacian_5funiform_5fldgh_2ehxx_17',['bilaplacian_uniform_ldgh.hxx',['../bilaplacian__uniform__ldgh_8hxx.html',1,'']]],
+  ['bind_5fpython_2ehxx_18',['bind_python.hxx',['../bind__python_8hxx.html',1,'']]],
+  ['bindings_2epy_19',['bindings.py',['../bindings_8py.html',1,'']]],
+  ['bindings_5fmodule_2ecxx_20',['bindings_module.cxx',['../bindings__module_8cxx.html',1,'']]]
+];

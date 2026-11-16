@@ -1,0 +1,7 @@
+<map id="Topology::Cubic::set_refinement" name="Topology::Cubic::set_refinement">
+<area shape="rect" id="Node000001" title="Set the refinement level (equal to number of subintervals)." alt="" coords="5,23,156,63"/>
+<area shape="rect" id="Node000002" href="$namespaceWrapper.html#a75eadc56821db2b649eb55aeab02f53d" title="Return the element of given index the TPCC." alt="" coords="204,5,365,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,31,190,27,191,32,157,37"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="221,55,348,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,50,208,56,208,61,156,55"/>
+</map>

@@ -1,0 +1,37 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,319,60,345"/>
+<area shape="rect" id="Node000002" href="$classankerl_1_1nanobench_1_1Bench.html#a68dc68dfad568ca7bf820139dca9c968" title="Sets the batch size." alt="" coords="131,69,281,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="32,319,37,280,48,227,70,170,86,143,106,119,118,110,121,114,110,123,91,146,75,172,53,229,42,281,37,319"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="108,133,304,173"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="34,318,57,254,78,216,106,183,113,178,116,183,110,187,82,219,61,256,39,320"/>
+<area shape="rect" id="Node000010" href="$parameters_8cxx.html#a985711452504a223cb794c943e624ee7" title=" " alt="" coords="165,198,247,223"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="38,318,64,276,83,253,107,234,128,223,150,216,152,221,130,228,109,238,87,257,68,280,43,321"/>
+<area shape="rect" id="Node000011" href="$classankerl_1_1nanobench_1_1Bench.html#a5795648d6235b578ca71ce38b787ec81" title="Controls number of epochs, the number of measurements to perform." alt="" coords="131,248,281,288"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="59,318,107,298,128,290,130,295,109,302,61,322"/>
+<area shape="rect" id="Node000012" href="$classankerl_1_1nanobench_1_1Bench.html#afccbfce7dfbf7506410392f5ad096597" title="Marks the next run as the baseline." alt="" coords="131,312,281,352"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="60,329,117,329,117,335,60,335"/>
+<area shape="rect" id="Node000013" href="$namespacetests_1_1performance.html#a722bbad6633f372cf5ab6e19d93c1680" title="Write the results of a benchmark as JSON to output/performance/&lt;name&gt;.json." alt="" coords="133,376,279,416"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="61,342,109,362,130,369,128,374,107,366,59,346"/>
+<area shape="rect" id="Node000016" href="$classankerl_1_1nanobench_1_1Bench.html#afcfcd633d537e11bc1874f8f3c8b0fd3" title="Title of the benchmark, will be shown in the table header. Changing the title will start a new markdo..." alt="" coords="131,440,281,480"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="43,344,69,384,88,407,110,426,121,433,118,437,106,430,84,410,65,388,39,347"/>
+<area shape="rect" id="Node000017" href="$classankerl_1_1nanobench_1_1Bench.html#a7ac122273f2f626b8e95a9b8cb2544c6" title="Sets the operation unit." alt="" coords="131,504,281,544"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="39,344,46,374,60,413,80,454,110,490,121,498,118,503,106,494,76,457,55,415,41,376,34,345"/>
+<area shape="rect" id="Node000018" href="$classankerl_1_1nanobench_1_1Bench.html#a09d1947386503bddf1d34fe7d0338e98" title="Sets a number of iterations that are initially performed without any measurements." alt="" coords="131,568,281,608"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="37,345,41,385,52,441,74,502,90,530,110,554,121,563,118,568,106,558,85,533,69,504,47,443,36,386,32,345"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="352,133,505,173"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="304,151,338,151,338,156,304,156"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="591,5,744,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="449,131,494,93,552,55,576,44,578,49,555,60,497,97,452,135"/>
+<area shape="rect" id="Node000006" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="582,69,753,109"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="503,131,578,110,580,115,505,136"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="573,133,761,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="506,151,560,151,560,156,506,156"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="553,198,781,223"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="506,171,554,183,595,192,593,197,553,188,505,176"/>
+<area shape="rect" id="Node000009" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="563,247,771,273"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="456,171,500,203,554,232,579,241,577,246,552,237,498,207,453,176"/>
+<area shape="rect" id="Node000014" href="$namespaceankerl_1_1nanobench_1_1templates.html#a2a1d7bc4f6bcb1b398cbaabcd158b054" title="Template to generate JSON data." alt="" coords="354,344,503,384"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="278,383,340,374,341,379,279,388"/>
+<area shape="rect" id="Node000015" href="$namespaceankerl_1_1nanobench.html#a23321de52edde793127736a4bf9abe50" title="Renders output from a mustache&#45;like template and benchmark results." alt="" coords="354,408,503,448"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="279,404,341,413,340,418,278,409"/>
+</map>

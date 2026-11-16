@@ -1,0 +1,9 @@
+<map id="LocalSolver::DiffusionPostprocess::solve_local_problem" name="LocalSolver::DiffusionPostprocess::solve_local_problem">
+<area shape="rect" id="Node000001" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,69,247,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionPostprocess.html#add772626f9a0945b088fb5912d1385a4" title="Assemble local matrix for the local solver." alt="" coords="295,5,536,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,67,310,46,312,51,218,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionPostprocess.html#ac3549488ae9e817648cd8c8b4c4c44d4" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="295,69,536,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,87,281,87,281,92,247,92"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionPostprocess.html#acceb0cd7b099a083346b4421779bb86c" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="295,133,536,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="218,107,312,128,310,133,217,112"/>
+</map>

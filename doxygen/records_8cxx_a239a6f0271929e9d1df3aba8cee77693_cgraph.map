@@ -1,0 +1,29 @@
+<map id="compare" name="compare">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,84,156"/>
+<area shape="rect" id="Node000002" href="$namespacetests.html#a446ff647c5ced5e41491101f24b72854" title="Compare printed record lines with the text of an expected file (rules: see the top)." alt="" coords="132,131,251,156"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,141,118,141,118,146,84,146"/>
+<area shape="rect" id="Node000003" href="$namespacetests_1_1detail.html#aeb4bf9b4a3196d8544fff2e61b7a1f5d" title=" " alt="" coords="299,55,477,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,128,298,97,337,82,339,87,300,102,223,133"/>
+<area shape="rect" id="Node000004" href="$namespacetests_1_1detail.html#ab0532c5a94dbbff23dab4bc8a9fc7442" title=" " alt="" coords="543,104,674,129"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="251,137,529,119,530,124,251,142"/>
+<area shape="rect" id="Node000005" href="$namespacetests.html#aebbc27d80dd4951a7923eb3b19fe0a86" title="Print a record line (printf format) and keep it for check." alt="" coords="756,180,859,205"/>
+<area shape="poly" id="edge14_Node000002_Node000005" title=" " alt="" coords="203,155,241,200,268,223,300,241,362,259,427,267,492,267,556,261,618,250,673,236,761,208,763,213,675,241,619,255,557,266,492,272,426,273,361,264,298,246,265,228,237,204,199,158"/>
+<area shape="rect" id="Node000007" href="$namespacetests_1_1detail.html#a561cc2d14c75914e027c01fedb3afc42" title=" " alt="" coords="525,5,692,31"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="199,129,238,83,266,59,298,40,351,21,406,11,461,7,511,7,511,12,461,12,407,16,352,27,300,44,269,63,241,87,203,132"/>
+<area shape="rect" id="Node000010" href="$namespacetests.html#a9ef9b557841a5cccb24ee0252e472db9" title="The record of a line &#45; {key: value, ...}, or false if the line is none." alt="" coords="315,156,461,181"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="251,148,301,155,301,160,251,154"/>
+<area shape="rect" id="Node000011" href="$namespacetests.html#a6b57b1eaf5247c29f973b4e027cb5488" title="The line of a record, as the test printed it (for messages and the expected file)." alt="" coords="329,205,447,231"/>
+<area shape="poly" id="edge15_Node000002_Node000011" title=" " alt="" coords="218,154,300,190,325,199,323,204,298,195,216,158"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="446,77,538,98,537,104,445,83"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="445,52,537,31,538,36,446,57"/>
+<area shape="rect" id="Node000009" href="$namespacetests_1_1detail.html#aca8da22bdb277b0974fb36e4eb25dcd4" title=" " alt="" coords="537,55,680,80"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="477,65,523,65,523,70,477,70"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="644,127,761,173,760,178,642,132"/>
+<area shape="rect" id="Node000006" href="$namespacetests_1_1detail.html#a6fd34848ac3eff4b2f43fb7036da25c8" title=" " alt="" coords="923,173,1076,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="859,190,909,190,909,195,859,195"/>
+<area shape="rect" id="Node000008" href="$namespacetests_1_1detail.html#a781c6898bbf892243780f621e8b2c7e0" title=" " alt="" coords="740,31,875,56"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="693,26,727,30,726,36,692,31"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="680,56,726,50,726,56,681,61"/>
+<area shape="poly" id="edge13_Node000010_Node000005" title=" " alt="" coords="462,170,742,186,742,192,461,175"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="448,212,742,194,743,199,448,217"/>
+</map>

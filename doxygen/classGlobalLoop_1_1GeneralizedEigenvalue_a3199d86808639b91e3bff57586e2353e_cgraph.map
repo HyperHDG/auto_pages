@@ -1,0 +1,10 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::dirichlet_indices" name="GlobalLoop::GeneralizedEigenvalue::dirichlet_indices">
+<area shape="rect" id="Node000001" title="Return indices of the (skeletal) Dirichlet unknowns." alt="" coords="5,69,259,109"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="81,70,78,60,86,50,104,45,132,43,164,45,182,53,180,58,163,51,132,48,105,50,89,55,83,61,86,68"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="325,5,496,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="219,67,311,45,312,51,221,72"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="317,69,505,109"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="259,87,303,87,303,92,259,92"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="307,134,515,159"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="230,107,335,129,334,134,229,112"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="LocalOperator::Factored::Operator&lt; BlocksT &gt;" name="LocalOperator::Factored::Operator&lt; BlocksT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="536,167,712,207"/>
+<area shape="rect" id="Node000002" href="$structLocalOperator_1_1detail_1_1Factors.html" title=" " alt="" coords="277,71,436,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,114,568,165,566,170,425,119"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html" title=" " alt="" coords="19,5,173,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,31,251,55,295,69,293,74,250,61,161,37"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html" title=" " alt="" coords="5,55,187,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="201,74,277,81,277,87,200,80"/>
+<area shape="rect" id="Node000005" href="$classSmallMat.html" title=" " alt="" coords="5,104,187,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="200,104,250,99,277,97,277,102,251,105,201,110"/>
+<area shape="rect" id="Node000006" href="$classSmallMat.html" title=" " alt="" coords="21,153,171,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="162,147,250,123,296,109,298,114,251,129,163,153"/>
+<area shape="rect" id="Node000007" href="$classSmallMat.html" title=" " alt="" coords="281,135,432,175"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="446,163,536,174,536,179,445,169"/>
+<area shape="rect" id="Node000008" href="$classSmallMat.html" title=" " alt="" coords="282,199,431,239"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="445,206,535,195,536,201,445,211"/>
+<area shape="rect" id="Node000009" href="$classSmallMat.html" title=" " alt="" coords="275,264,439,289"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="411,257,438,249,566,205,567,210,440,254,413,262"/>
+</map>

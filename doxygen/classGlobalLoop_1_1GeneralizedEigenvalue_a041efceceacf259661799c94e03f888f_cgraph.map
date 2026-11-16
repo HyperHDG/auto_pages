@@ -1,0 +1,11 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::size_of_system" name="GlobalLoop::GeneralizedEigenvalue::size_of_system">
+<area shape="rect" id="Node000001" title="Number of all unknowns, i.e., size of the matrices (including Dirichlet unknowns)." alt="" coords="5,37,259,77"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#a2f21dcb73f728d2310a1e8720744c131" title="Number of hyperedges." alt="" coords="307,5,560,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,41,293,38,293,43,259,47"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#ab93658d26d73b1db29343998c7fb747c" title="Number of skeletal unknowns (including the Dirichlet unknowns)." alt="" coords="307,69,560,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="259,68,293,72,293,77,258,73"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="618,13,826,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,23,604,23,604,28,560,28"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="608,77,836,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="560,87,595,87,595,92,560,92"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::mass_mat" name="GlobalLoop::GeneralizedEigenvalue::mass_mat">
+<area shape="rect" id="Node000001" title="Mass matrix in coordinate format." alt="" coords="5,99,259,139"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#a36aa3bde8cd93f04233b3c6117d5a1d7" title="Assemble a global matrix from the local matrices returned by a member function." alt="" coords="307,99,560,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,116,293,116,293,121,259,121"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#ad76bbef7500df682880d6733a5f3cfd2" title="Global indices of the local unknowns of a hyperedge." alt="" coords="608,69,861,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="560,104,594,100,595,106,560,109"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="631,134,839,159"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="560,128,617,133,617,138,560,133"/>
+<area shape="rect" id="Node000004" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="951,5,1121,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="829,67,936,44,938,49,830,72"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="942,69,1130,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="861,87,929,87,929,92,861,92"/>
+<area shape="rect" id="Node000006" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#ab93658d26d73b1db29343998c7fb747c" title="Number of skeletal unknowns (including the Dirichlet unknowns)." alt="" coords="909,133,1163,173"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="830,107,929,128,928,133,829,112"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="1211,141,1439,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1163,151,1197,151,1197,156,1163,156"/>
+</map>

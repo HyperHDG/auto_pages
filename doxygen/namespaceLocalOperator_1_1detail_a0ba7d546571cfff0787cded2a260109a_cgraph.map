@@ -1,0 +1,5 @@
+<map id="LocalOperator::detail::lu_solve" name="LocalOperator::detail::lu_solve">
+<area shape="rect" id="Node000001" title="rhs = M^&#45;1 rhs (trans = &#39;N&#39;) or M^&#45;T rhs (trans = &#39;T&#39;), from LU factors of M (getrs; LAPACK or the ge..." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="212,13,333,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,23,198,23,198,28,164,28"/>
+</map>

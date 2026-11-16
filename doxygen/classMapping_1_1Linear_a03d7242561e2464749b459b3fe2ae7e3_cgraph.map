@@ -1,0 +1,12 @@
+<map id="Mapping::Linear::local_normal" name="Mapping::Linear::local_normal">
+<area shape="rect" id="Node000001" title="Return local normal of given index." alt="" coords="5,85,171,125"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#a9ea962164a90abbad312baf5715fe08b" title="Return a column of a SmallMat." alt="" coords="219,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,82,218,40,239,32,240,37,220,44,128,87"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abdb50ab244368f15f90b63a0316fc306" title="Matrix Q of Householder QR decomposition." alt="" coords="248,55,357,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,88,233,77,234,82,171,93"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="244,128,361,153"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,116,230,126,230,131,170,121"/>
+<area shape="rect" id="Node000005" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="219,177,386,203"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="130,122,220,162,244,171,242,176,218,167,128,127"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="268,130,260,120,264,110,279,104,303,101,332,105,344,114,341,118,330,110,303,107,280,109,268,114,265,119,272,126"/>
+</map>

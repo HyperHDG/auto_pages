@@ -1,0 +1,9 @@
+<map id="limit.clusters" name="limit.clusters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$namespacelimit.html#a7fb21cefc02f6dd45d0143cce2212605" title=" " alt="" coords="160,5,355,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,34,146,30,147,35,112,39"/>
+<area shape="rect" id="Node000003" href="$namespacelimit.html#a65bc2325ebe08a500855fb9b148cb827" title=" " alt="" coords="172,55,343,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,47,159,53,158,58,112,52"/>
+<area shape="rect" id="Node000004" href="$namespacelimit.html#a95c1ad18ff0a5a6ccd603d2e79b9bac1" title=" " alt="" coords="403,55,581,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,65,389,65,389,70,343,70"/>
+</map>

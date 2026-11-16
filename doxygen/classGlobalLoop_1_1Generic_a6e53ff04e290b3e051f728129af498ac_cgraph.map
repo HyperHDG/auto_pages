@@ -1,0 +1,8 @@
+<map id="GlobalLoop::Generic::plot_option" name="GlobalLoop::Generic::plot_option">
+<area shape="rect" id="Node000001" title="Set an option of the plot (cf. PlotOptions in plot.hxx, e.g. &quot;fileName&quot;, or &quot;fileEnding&quot; as &quot;vtu&quot; or ..." alt="" coords="5,22,159,62"/>
+<area shape="rect" id="Node000002" href="$plot_8hxx.html#a999ac0ed32f7cd586c09bf0a7ff2f2e3" title="Set a plot option and return the new value of this option as std::string." alt="" coords="207,29,329,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,39,193,39,193,45,159,45"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="239,31,233,21,236,11,248,5,268,3,292,6,302,15,299,19,290,11,268,8,249,10,240,15,238,20,243,28"/>
+<area shape="rect" id="Node000003" href="$plot_8hxx.html#abb4e64241c325d5e6174244cff4b38c8" title="Turn fileType enum into string." alt="" coords="377,29,513,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,39,364,39,364,45,329,45"/>
+</map>

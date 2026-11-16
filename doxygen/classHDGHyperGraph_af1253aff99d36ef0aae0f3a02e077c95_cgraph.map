@@ -1,0 +1,5 @@
+<map id="HDGHyperGraph::end" name="HDGHyperGraph::end">
+<area shape="rect" id="Node000001" title="Return iterator to the end of hyEdge list." alt="" coords="5,5,168,31"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="216,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,15,202,15,202,21,168,21"/>
+</map>

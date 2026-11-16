@@ -1,0 +1,74 @@
+<map id="common.Discretization.eigenpairs" name="common.Discretization.eigenpairs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,200,251,225"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#a7a20abe19344ba678192ffe032297a63" title="Create SmallMat that is a diagonal matrix with specified value on diagonal." alt="" coords="370,79,449,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,198,211,157,254,134,298,114,356,97,357,103,300,119,256,139,214,161,149,202"/>
+<area shape="rect" id="Node000003" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpcc.tag$structTPCC_1_1Combinations.html#abbbc4bb5244c91bd54e8d85af84ab780" title=" " alt="" coords="332,129,487,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,197,318,167,319,172,185,202"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="332,193,487,233"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,225,136,269,145,308,159,340,175,367,195,388,216,403,239,413,263,417,287,415,311,408,333,395,353,377,371,353,386,323,397,287,404,246,409,247,403,289,391,325,376,356,357,381,336,400,313,413,288,421,263,422,238,418,214,408,191,392,171,370,154,342,140,309,131,270,127,226"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="132,225,136,265,146,300,159,329,175,353,195,372,216,386,239,395,263,399,286,398,310,391,332,380,353,363,371,342,386,315,397,283,404,246,409,247,402,285,390,317,375,345,356,367,335,384,312,396,287,403,262,404,237,400,214,391,191,376,171,356,154,331,141,301,131,266,127,226"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="132,225,137,261,146,292,159,318,175,340,195,357,216,369,239,377,262,381,286,380,309,374,331,364,352,350,370,331,385,307,396,279,403,246,408,247,401,280,389,309,374,334,355,354,334,369,311,379,286,385,262,386,237,382,214,374,191,361,171,343,154,321,141,294,131,262,127,226"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="132,225,137,257,146,284,159,307,175,326,194,341,215,352,238,359,261,363,285,362,308,357,330,349,350,336,368,320,383,299,395,274,403,246,408,247,400,276,388,302,372,323,353,340,332,353,309,362,285,367,261,368,237,365,213,357,191,346,171,330,155,310,141,286,132,258,127,226"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="132,225,137,252,146,276,159,296,175,312,194,326,215,335,260,345,306,340,349,322,367,308,382,291,394,270,402,245,407,247,399,272,386,294,370,312,351,327,308,346,260,350,213,340,191,330,172,316,155,299,141,278,132,254,127,226"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="133,225,137,248,147,268,159,285,175,299,214,318,259,327,304,323,346,309,364,297,380,283,392,265,401,245,406,247,397,268,384,286,368,301,349,313,305,329,258,332,212,323,172,303,155,288,142,270,132,250,127,226"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="133,225,138,243,147,259,175,285,213,301,256,309,301,307,342,295,377,275,389,261,399,245,403,248,394,264,380,279,345,300,302,312,256,314,211,306,172,289,143,263,133,245,128,226"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="133,224,139,239,147,251,175,271,212,285,254,291,297,289,338,281,372,266,396,243,400,247,375,270,340,286,298,295,254,296,210,290,172,276,144,255,134,241,128,226"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="134,224,149,244,176,258,211,268,251,272,292,272,332,267,366,256,391,241,394,246,368,261,333,272,292,277,250,278,210,273,174,263,146,248,130,227"/>
+<area shape="poly" id="edge12_Node000001_Node000004" title=" " alt="" coords="136,223,152,236,178,245,247,254,322,252,355,246,382,237,384,242,357,251,323,257,247,260,176,250,150,240,133,228"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="144,223,183,232,238,236,297,236,352,232,352,237,297,242,237,242,182,237,143,228"/>
+<area shape="poly" id="edge14_Node000001_Node000004" title=" " alt="" coords="251,219,318,218,318,224,251,224"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="251,201,318,201,318,207,251,206"/>
+<area shape="poly" id="edge16_Node000001_Node000004" title=" " alt="" coords="143,197,182,188,237,184,297,183,352,188,352,193,297,189,238,189,183,193,144,202"/>
+<area shape="poly" id="edge17_Node000001_Node000004" title=" " alt="" coords="133,198,150,185,176,175,247,165,323,168,357,174,384,183,382,188,355,179,322,173,247,171,178,180,152,190,136,202"/>
+<area shape="poly" id="edge18_Node000001_Node000004" title=" " alt="" coords="130,198,146,178,174,162,210,152,250,147,292,148,333,153,368,164,394,180,391,184,366,169,332,158,292,153,251,153,211,157,176,167,149,182,134,201"/>
+<area shape="poly" id="edge19_Node000001_Node000004" title=" " alt="" coords="128,199,134,184,144,170,172,149,210,136,254,129,298,131,340,139,375,155,400,178,396,182,372,160,338,144,297,136,254,135,212,141,175,154,147,174,139,186,133,201"/>
+<area shape="poly" id="edge20_Node000001_Node000004" title=" " alt="" coords="128,199,133,180,143,163,172,136,211,119,256,111,302,113,345,125,380,146,394,161,403,178,399,180,389,164,377,151,342,130,301,119,256,117,213,124,175,140,147,166,138,182,133,201"/>
+<area shape="poly" id="edge21_Node000001_Node000004" title=" " alt="" coords="127,199,132,176,142,155,155,137,172,122,212,102,258,93,305,97,349,112,368,124,384,139,397,157,406,178,401,180,392,160,380,143,364,128,346,117,304,102,259,99,214,107,175,127,159,141,147,158,137,177,133,200"/>
+<area shape="poly" id="edge22_Node000001_Node000004" title=" " alt="" coords="127,199,132,172,141,147,155,126,172,109,191,95,213,85,260,75,308,80,351,98,370,113,386,131,399,153,407,178,402,180,394,155,382,134,367,117,349,103,306,85,260,81,215,90,194,100,175,113,159,130,146,150,137,173,132,200"/>
+<area shape="poly" id="edge23_Node000001_Node000004" title=" " alt="" coords="127,199,132,167,141,139,155,115,171,95,191,80,213,68,237,61,261,57,285,58,309,63,332,72,353,85,372,102,388,124,400,149,408,178,403,180,395,151,383,126,368,106,350,89,330,77,308,68,285,63,261,62,238,66,215,73,194,84,175,99,159,118,146,142,137,169,132,200"/>
+<area shape="poly" id="edge24_Node000001_Node000004" title=" " alt="" coords="127,199,131,163,141,131,154,104,171,82,191,64,214,51,237,43,262,39,286,40,311,46,334,56,355,71,374,91,389,116,401,145,408,178,403,179,396,146,385,118,370,95,352,76,331,61,309,51,286,45,262,44,239,48,216,56,195,69,175,86,159,107,146,133,137,164,132,200"/>
+<area shape="poly" id="edge25_Node000001_Node000004" title=" " alt="" coords="127,200,131,159,141,124,154,94,171,69,191,49,214,34,237,25,262,21,287,22,312,29,335,41,356,58,375,80,390,108,402,141,409,178,404,179,397,142,386,110,371,83,353,62,332,45,310,34,286,28,263,26,239,30,216,39,195,53,175,72,159,96,146,126,136,160,132,200"/>
+<area shape="poly" id="edge26_Node000001_Node000004" title=" " alt="" coords="127,200,131,155,140,116,154,83,171,55,191,34,214,18,238,7,263,3,288,5,313,12,336,26,357,45,376,70,391,100,403,137,409,179,404,179,397,138,386,102,371,72,353,48,333,30,311,17,287,10,263,8,239,12,216,22,195,38,175,59,159,85,145,118,136,156,132,200"/>
+<area shape="rect" id="Node000005" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpcc.tag$classTPCC_1_1Lexicographic.html#af057c65273dac2380364cde77e066fdf" title=" " alt="" coords="299,257,520,326"/>
+<area shape="poly" id="edge27_Node000001_Node000005" title=" " alt="" coords="133,224,146,249,168,272,198,292,234,309,271,322,309,330,344,332,373,328,374,334,344,338,308,335,270,327,232,314,196,297,165,276,141,252,129,227"/>
+<area shape="poly" id="edge28_Node000001_Node000005" title=" " alt="" coords="134,224,155,249,190,272,236,293,286,308,284,313,234,298,188,277,151,253,130,227"/>
+<area shape="poly" id="edge29_Node000001_Node000005" title=" " alt="" coords="137,223,160,241,195,259,286,290,284,295,193,264,157,246,134,228"/>
+<area shape="poly" id="edge30_Node000001_Node000005" title=" " alt="" coords="145,223,205,247,286,272,285,277,203,252,143,228"/>
+<area shape="poly" id="edge31_Node000001_Node000005" title=" " alt="" coords="175,223,286,254,284,259,174,228"/>
+<area shape="poly" id="edge32_Node000001_Node000005" title=" " alt="" coords="237,223,329,250,327,255,236,228"/>
+<area shape="poly" id="edge33_Node000001_Node000005" title=" " alt="" coords="142,197,184,196,242,206,305,225,362,248,360,253,304,230,241,211,183,201,142,203"/>
+<area shape="poly" id="edge34_Node000001_Node000005" title=" " alt="" coords="132,197,148,186,173,182,205,183,242,188,317,212,351,228,379,246,377,250,348,232,315,217,240,194,205,188,174,187,150,191,135,202"/>
+<area shape="poly" id="edge35_Node000001_Node000005" title=" " alt="" coords="129,199,135,188,144,179,171,169,206,166,245,171,286,183,326,199,362,220,390,244,386,248,359,224,324,204,285,188,244,177,205,172,172,174,147,183,139,191,134,201"/>
+<area shape="rect" id="Node000006" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpcc.tag$classTPCC_1_1Slab.html#ac99dbf689a3f2936d98727e2a9e6e48f" title=" " alt="" coords="346,351,473,376"/>
+<area shape="poly" id="edge36_Node000001_Node000006" title=" " alt="" coords="144,223,208,278,252,309,300,336,334,348,332,353,298,340,249,314,205,282,141,228"/>
+<area shape="rect" id="Node000007" href="$diffusion__embedded_8cxx.html#a2d090729bcab342a01e0387f6c740cc8" title=" " alt="" coords="381,400,438,425"/>
+<area shape="poly" id="edge37_Node000001_Node000007" title=" " alt="" coords="140,224,164,257,200,301,247,347,300,385,333,399,368,406,366,411,332,404,297,390,243,351,196,305,160,260,136,227"/>
+<area shape="rect" id="Node000008" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="714,279,821,304"/>
+<area shape="poly" id="edge38_Node000007_Node000008" title=" " alt="" coords="438,406,477,398,519,385,543,372,567,358,617,334,668,314,700,304,701,309,670,319,619,339,569,363,546,377,521,390,478,403,439,411"/>
+<area shape="rect" id="Node000009" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="681,329,854,369"/>
+<area shape="poly" id="edge39_Node000007_Node000009" title=" " alt="" coords="438,405,667,364,668,369,439,410"/>
+<area shape="rect" id="Node000010" href="$quad_8cxx.html#a79347c416cf2107d9485705f74434a94" title=" " alt="" coords="568,400,621,425"/>
+<area shape="poly" id="edge40_Node000007_Node000010" title=" " alt="" coords="438,410,554,410,554,415,438,415"/>
+<area shape="rect" id="Node000018" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="697,457,838,483"/>
+<area shape="poly" id="edge52_Node000007_Node000018" title=" " alt="" coords="439,414,683,454,683,459,438,420"/>
+<area shape="rect" id="Node000019" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="693,507,841,532"/>
+<area shape="poly" id="edge53_Node000007_Node000019" title=" " alt="" coords="439,419,540,453,670,493,700,501,698,506,669,498,539,458,437,425"/>
+<area shape="poly" id="edge41_Node000010_Node000008" title=" " alt="" coords="600,398,625,357,645,334,668,314,700,300,702,304,671,319,649,338,630,360,604,401"/>
+<area shape="poly" id="edge49_Node000010_Node000009" title=" " alt="" coords="621,398,668,378,688,371,690,376,670,383,623,403"/>
+<area shape="rect" id="Node000011" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="669,393,865,433"/>
+<area shape="poly" id="edge42_Node000010_Node000011" title=" " alt="" coords="621,410,656,410,656,415,621,415"/>
+<area shape="poly" id="edge50_Node000010_Node000018" title=" " alt="" coords="622,422,670,442,699,451,697,456,668,447,620,427"/>
+<area shape="poly" id="edge51_Node000010_Node000019" title=" " alt="" coords="606,424,632,459,650,477,671,493,682,499,680,504,668,498,647,481,628,462,602,427"/>
+<area shape="rect" id="Node000012" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="913,393,1067,433"/>
+<area shape="poly" id="edge43_Node000011_Node000012" title=" " alt="" coords="866,410,900,410,900,415,866,415"/>
+<area shape="rect" id="Node000013" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="1152,265,1305,305"/>
+<area shape="poly" id="edge44_Node000012_Node000013" title=" " alt="" coords="1010,390,1055,352,1113,314,1138,304,1140,309,1116,319,1059,356,1014,395"/>
+<area shape="rect" id="Node000014" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="1143,329,1314,369"/>
+<area shape="poly" id="edge45_Node000012_Node000014" title=" " alt="" coords="1065,390,1140,370,1141,375,1066,395"/>
+<area shape="rect" id="Node000015" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="1135,393,1323,433"/>
+<area shape="poly" id="edge46_Node000012_Node000015" title=" " alt="" coords="1067,410,1121,410,1121,415,1067,415"/>
+<area shape="rect" id="Node000016" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="1115,457,1343,483"/>
+<area shape="poly" id="edge47_Node000012_Node000016" title=" " alt="" coords="1068,430,1115,442,1156,452,1155,457,1114,447,1066,435"/>
+<area shape="rect" id="Node000017" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="1125,507,1333,532"/>
+<area shape="poly" id="edge48_Node000012_Node000017" title=" " alt="" coords="1017,431,1061,463,1116,493,1136,500,1135,505,1114,498,1058,467,1014,435"/>
+</map>

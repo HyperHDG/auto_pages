@@ -1,0 +1,7 @@
+<map id="measure" name="measure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,84,56"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="132,5,239,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,34,118,27,119,33,85,39"/>
+<area shape="rect" id="Node000003" href="$linear__solvers_8cxx.html#a39278753fe1d8655bdc4f1d7c249c033" title=" " alt="" coords="134,55,237,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="85,47,121,54,120,59,84,53"/>
+</map>

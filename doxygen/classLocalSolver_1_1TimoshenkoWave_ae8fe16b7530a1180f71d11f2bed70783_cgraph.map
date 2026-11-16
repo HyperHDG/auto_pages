@@ -1,0 +1,65 @@
+<map id="LocalSolver::TimoshenkoWave::set_data" name="LocalSolver::TimoshenkoWave::set_data">
+<area shape="rect" id="Node000001" title="Solve the stage&#45;local problem from the stage trace zeta and stash its solution." alt="" coords="5,309,225,349"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="66,309,63,299,71,290,88,284,115,282,146,285,163,292,161,297,145,290,115,287,89,289,74,294,68,300,71,307"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#a1bc816c9698cf7d6e269e5b7dfb33d4b" title="Gauss protocol: combine the stashed stage solutions into the new state." alt="" coords="273,110,493,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,306,343,156,346,160,145,311"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1TimoshenkoWave.html#a579060047d4c05055b78f7371898f0e5" title=" " alt="" coords="273,277,493,317"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,313,259,309,260,314,226,318"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoWave.html#a2c063bf5ed1d824fda8ee3a1b8f12fbd" title=" " alt="" coords="273,341,493,381"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="226,339,260,343,259,349,225,344"/>
+<area shape="rect" id="Node000025" href="$classLocalSolver_1_1TimoshenkoWave.html#af124e6ffd1132cb18699507ed278d056" title="Unpack the time argument: a Gauss::StageTime carries (time, stage index), a plain scalar means stage ..." alt="" coords="273,405,493,445"/>
+<area shape="poly" id="edge38_Node000001_Node000025" title=" " alt="" coords="163,346,274,390,297,398,296,403,272,395,161,351"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1TimoshenkoWave.html#a477197d75cb682ff594e2e5f19dc3c41" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="541,34,761,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,107,566,75,568,80,455,112"/>
+<area shape="rect" id="Node000004" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="856,5,983,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="761,37,842,26,843,31,762,42"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoWave.html#ae0070e3d0f8ae4699e96c5660bc93016" title=" " alt="" coords="541,197,761,237"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="472,338,492,327,507,309,515,291,523,272,540,253,559,241,562,245,543,257,528,275,520,293,512,312,495,331,475,343"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1TimoshenkoWave.html#afdabbb5f4723271e8af881574cc8804b" title="Gauss stage loads (doc/hdg_gauss.pdf eq 7): history enters through (y^n, z^n) only." alt="" coords="541,133,761,173"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="476,338,491,327,505,310,512,292,515,256,518,220,525,201,539,183,544,179,548,183,543,186,530,204,523,221,520,257,517,294,510,312,495,331,479,343"/>
+<area shape="rect" id="Node000015" href="$classLocalSolver_1_1TimoshenkoWave.html#ad7ec44b6eeecd2abebb58a7a43180c1e" title="Mass&#45;shift weight sigma_l = 1/(theta_l * Delta t) of the stage normalization." alt="" coords="809,247,1029,287"/>
+<area shape="poly" id="edge27_Node000006_Node000015" title=" " alt="" coords="461,338,492,326,516,311,540,297,604,280,671,269,795,261,795,266,671,274,606,285,542,302,518,315,495,331,463,343"/>
+<area shape="rect" id="Node000016" href="$classLocalSolver_1_1TimoshenkoWave.html#abd388260d1d43eb246e424d10225fe44" title="Assemble and factorize the displacement Schur systems of the four components." alt="" coords="541,311,761,351"/>
+<area shape="poly" id="edge17_Node000006_Node000016" title=" " alt="" coords="493,346,527,342,528,348,494,351"/>
+<area shape="rect" id="Node000018" href="$namespaceWrapper.html#a0c482c741d6aa77caaffb42b87b517fd" title="LU factorization of dense square matrix — DO NOT USE." alt="" coords="823,376,1015,401"/>
+<area shape="poly" id="edge24_Node000006_Node000018" title=" " alt="" coords="494,364,810,380,809,386,494,369"/>
+<area shape="rect" id="Node000019" href="$classLocalSolver_1_1TimoshenkoWave.html#a4cac95279eb05b36e332f7b40c6e6a6a" title=" " alt="" coords="809,554,1029,594"/>
+<area shape="poly" id="edge26_Node000006_Node000019" title=" " alt="" coords="480,379,495,391,514,419,521,447,520,476,516,504,513,531,514,557,523,581,543,604,580,626,620,638,663,643,708,641,751,633,793,623,863,597,865,602,794,628,752,639,708,646,663,648,619,644,578,631,540,608,518,584,509,558,508,530,511,503,515,475,516,448,509,421,491,394,477,383"/>
+<area shape="rect" id="Node000021" href="$namespaceWrapper.html#a820e16abba806e7903ac5cf790754b1b" title="Solve using LU factors produced by lapack_factorize — DO NOT USE." alt="" coords="566,554,737,594"/>
+<area shape="poly" id="edge25_Node000006_Node000021" title=" " alt="" coords="479,379,495,391,510,410,517,429,520,467,522,504,529,522,543,540,556,550,552,554,539,544,525,525,517,506,515,468,512,430,505,412,491,395,476,383"/>
+<area shape="rect" id="Node000022" href="$classLocalSolver_1_1TimoshenkoWave.html#adeb0d325bd4edaf4f20d98875d6aeb5c" title="Recover sigma, w, wdot of triplet dim from the solved displacement w and scatter." alt="" coords="541,426,761,466"/>
+<area shape="poly" id="edge28_Node000006_Node000022" title=" " alt="" coords="455,378,494,390,581,419,579,424,493,395,454,383"/>
+<area shape="rect" id="Node000024" href="$classLocalSolver_1_1TimoshenkoWave.html#ae94bbdddf5afd7e3e9a39c756496b18e" title="Reduce triplet dim to its displacement right&#45;hand side; stash mass&#45;scaled rhs." alt="" coords="541,490,761,530"/>
+<area shape="poly" id="edge33_Node000006_Node000024" title=" " alt="" coords="476,379,495,391,513,412,520,435,527,456,543,476,550,481,546,485,540,480,522,458,515,436,508,415,492,395,473,383"/>
+<area shape="rect" id="Node000009" href="$classLocalSolver_1_1TimoshenkoWave.html#af79f54095fa67ff44121c1877b070438" title="Body loads and Dirichlet data of one collocation node (real, single time)." alt="" coords="809,55,1029,95"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="721,130,835,97,837,102,722,135"/>
+<area shape="rect" id="Node000012" href="$classLocalSolver_1_1TimoshenkoWave.html#aa54a3d4d61046b151dfd86ca1c188038" title=" " alt="" coords="809,119,1029,159"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="761,145,796,143,796,148,761,150"/>
+<area shape="rect" id="Node000013" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="809,183,1029,223"/>
+<area shape="poly" id="edge13_Node000008_Node000013" title=" " alt="" coords="758,170,800,178,799,183,757,175"/>
+<area shape="poly" id="edge16_Node000008_Node000015" title=" " alt="" coords="739,170,763,182,778,195,788,208,796,221,811,233,822,239,820,244,808,238,792,225,783,212,774,199,760,187,736,175"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1TimoshenkoWave.html#a2a98847c678ce461eb758b0b623ef1e2" title=" " alt="" coords="1077,79,1352,119"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1030,82,1064,84,1063,90,1029,87"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1TimoshenkoWave.html#a8493bdbeff97b94ab214df7dd8f71e4c" title=" " alt="" coords="1077,15,1352,55"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="1029,58,1063,53,1064,58,1030,63"/>
+<area shape="rect" id="Node000014" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="1156,191,1273,216"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="1030,201,1142,201,1142,206,1030,206"/>
+<area shape="poly" id="edge15_Node000014_Node000014" title=" " alt="" coords="1168,193,1157,182,1163,172,1182,166,1215,164,1257,168,1268,173,1272,180,1267,182,1265,177,1256,173,1215,169,1183,171,1166,176,1163,182,1171,189"/>
+<area shape="poly" id="edge18_Node000016_Node000013" title=" " alt="" coords="679,309,737,271,808,233,827,225,829,230,810,238,740,276,682,314"/>
+<area shape="poly" id="edge22_Node000016_Node000015" title=" " alt="" coords="735,309,821,288,823,293,737,314"/>
+<area shape="rect" id="Node000017" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="823,311,1016,351"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="761,329,809,329,809,334,761,334"/>
+<area shape="poly" id="edge20_Node000016_Node000018" title=" " alt="" coords="746,349,846,370,845,376,745,354"/>
+<area shape="poly" id="edge21_Node000016_Node000019" title=" " alt="" coords="690,349,728,376,763,412,774,431,780,448,785,480,791,511,798,525,811,540,816,544,812,548,807,544,794,528,786,512,780,481,775,449,770,433,759,416,725,380,687,354"/>
+<area shape="rect" id="Node000020" href="$classLocalSolver_1_1TimoshenkoWave.html#ae2c7032cd36d155051ccc6d6a7fe4022" title=" " alt="" coords="809,426,1029,466"/>
+<area shape="poly" id="edge23_Node000016_Node000020" title=" " alt="" coords="689,349,745,380,810,410,834,419,832,424,808,415,743,385,686,354"/>
+<area shape="poly" id="edge30_Node000022_Node000015" title=" " alt="" coords="682,424,720,396,759,361,773,344,781,328,791,313,808,297,817,291,820,296,811,301,795,316,786,331,778,347,763,365,724,400,685,428"/>
+<area shape="poly" id="edge29_Node000022_Node000019" title=" " alt="" coords="741,464,763,476,779,492,788,509,796,525,811,540,820,546,817,550,808,544,791,528,783,511,775,495,760,480,739,468"/>
+<area shape="poly" id="edge31_Node000022_Node000020" title=" " alt="" coords="761,443,796,443,796,449,761,449"/>
+<area shape="rect" id="Node000023" href="$classLocalSolver_1_1TimoshenkoWave.html#a7a98ae3d52242a089591082593804b47" title=" " alt="" coords="809,490,1029,530"/>
+<area shape="poly" id="edge32_Node000022_Node000023" title=" " alt="" coords="737,463,823,484,821,489,735,469"/>
+<area shape="poly" id="edge35_Node000024_Node000015" title=" " alt="" coords="745,488,759,476,775,455,782,433,783,389,783,343,791,320,807,298,811,294,815,298,811,301,796,323,788,344,788,389,788,434,780,457,763,480,748,492"/>
+<area shape="poly" id="edge34_Node000024_Node000019" title=" " alt="" coords="737,527,823,548,821,553,735,533"/>
+<area shape="poly" id="edge36_Node000024_Node000020" title=" " alt="" coords="735,487,821,467,823,472,737,493"/>
+<area shape="poly" id="edge37_Node000024_Node000023" title=" " alt="" coords="761,507,796,507,796,513,761,513"/>
+</map>

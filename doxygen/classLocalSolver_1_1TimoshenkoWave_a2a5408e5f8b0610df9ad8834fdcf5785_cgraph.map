@@ -1,0 +1,24 @@
+<map id="LocalSolver::TimoshenkoWave::dual_error_sq" name="LocalSolver::TimoshenkoWave::dual_error_sq">
+<area shape="rect" id="Node000001" title="Local squared L2 error of the dual pair (n, m), or the squared norm of its analytic solution (use_dis..." alt="" coords="5,156,225,196"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#a5039d918c8e5e1b70250c40966520158" title="Dirichlet boundary data of the static problem, added to a local right&#45;hand side." alt="" coords="273,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,154,195,105,232,78,272,55,288,48,290,53,275,60,235,83,198,109,139,158"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1TimoshenkoWave.html#ae0070e3d0f8ae4699e96c5660bc93016" title=" " alt="" coords="273,69,493,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,153,307,111,308,116,179,158"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1TimoshenkoWave.html#aa54a3d4d61046b151dfd86ca1c188038" title=" " alt="" coords="569,95,789,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,161,554,125,555,131,226,167"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoWave.html#aacec5956ac7e92d704522d8bd73db221" title="Recover the algebraic dual (n, m) from the stored (u, r) and static boundary data." alt="" coords="273,184,493,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="226,185,260,188,259,194,225,190"/>
+<area shape="rect" id="Node000008" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="864,227,981,253"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="162,194,215,215,274,233,424,271,485,282,543,290,601,293,663,291,815,272,877,255,879,260,817,277,664,296,601,298,543,295,484,288,423,276,273,239,213,220,160,199"/>
+<area shape="rect" id="Node000010" href="$classLocalSolver_1_1TimoshenkoWave.html#a579060047d4c05055b78f7371898f0e5" title=" " alt="" coords="273,337,493,377"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="136,194,194,254,233,287,275,316,301,330,299,334,272,321,229,291,190,258,132,198"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1TimoshenkoWave.html#a2a98847c678ce461eb758b0b623ef1e2" title=" " alt="" coords="541,5,816,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,23,528,23,528,28,494,28"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="441,181,492,163,540,144,571,136,572,141,542,149,494,168,443,186"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="569,159,789,199"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="493,192,554,187,555,192,494,197"/>
+<area shape="rect" id="Node000009" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="582,223,775,263"/>
+<area shape="poly" id="edge10_Node000006_Node000009" title=" " alt="" coords="494,216,569,226,568,231,493,221"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="768,196,817,208,865,221,863,226,815,213,767,201"/>
+<area shape="poly" id="edge9_Node000008_Node000008" title=" " alt="" coords="883,229,875,219,879,209,896,203,923,201,957,205,967,209,970,215,966,218,963,213,956,210,923,206,897,208,883,213,880,218,887,225"/>
+</map>

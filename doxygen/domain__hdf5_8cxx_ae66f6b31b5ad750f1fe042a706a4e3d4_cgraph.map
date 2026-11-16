@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,60,56"/>
+<area shape="rect" id="Node000002" href="$domain__hdf5_8cxx.html#a38b615f0cdf613666ae74176b23dfbee" title=" " alt="" coords="116,5,225,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,36,102,28,103,33,61,41"/>
+<area shape="rect" id="Node000003" href="$read__domain__hdf5_8hxx.html#aea0ece727b6b67160ea2a0c6fb118248" title="Whether filename names a .geo.h5 domain file (an HDF5 file with a group /domain)." alt="" coords="108,55,233,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="61,45,95,51,94,57,60,51"/>
+</map>

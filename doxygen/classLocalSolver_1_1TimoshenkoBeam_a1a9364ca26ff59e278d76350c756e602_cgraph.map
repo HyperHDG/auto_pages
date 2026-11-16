@@ -1,0 +1,41 @@
+<map id="LocalSolver::TimoshenkoBeam::errors" name="LocalSolver::TimoshenkoBeam::errors">
+<area shape="rect" id="Node000001" title="Local squared contribution to the L2 error." alt="" coords="5,381,228,421"/>
+<area shape="rect" id="Node000002" href="$quad_8cxx.html#a79347c416cf2107d9485705f74434a94" title=" " alt="" coords="361,234,414,259"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,379,351,264,353,269,154,383"/>
+<area shape="rect" id="Node000014" href="$classLocalSolver_1_1TimoshenkoBeam.html#a93a50974d2c53f39871ce678f5ae59d4" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="276,349,499,389"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="228,386,262,381,263,387,228,391"/>
+<area shape="rect" id="Node000016" href="$classLocalSolver_1_1TimoshenkoBeam.html#a69ba8a964b2a623c2f0aa328a4d3de6f" title=" " alt="" coords="276,413,499,453"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="228,412,263,416,262,421,228,417"/>
+<area shape="rect" id="Node000017" href="$classLocalSolver_1_1TimoshenkoBeam.html#a101191368b18dd4ff52780e2f97588a1" title=" " alt="" coords="276,477,499,517"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="165,419,277,463,301,471,299,476,275,468,163,424"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="609,83,716,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,232,458,177,500,145,546,119,595,103,596,108,548,124,503,150,462,181,403,236"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="565,133,761,173"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="413,233,546,183,571,175,573,180,548,188,415,238"/>
+<area shape="rect" id="Node000011" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="576,197,749,237"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="414,241,562,225,563,231,415,247"/>
+<area shape="rect" id="Node000012" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="592,262,733,287"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="415,247,578,263,578,269,414,252"/>
+<area shape="rect" id="Node000013" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="589,311,737,337"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="415,253,547,296,586,306,585,311,546,301,413,258"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="827,133,980,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="761,151,813,151,813,156,761,156"/>
+<area shape="rect" id="Node000006" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="1065,5,1219,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="923,131,969,93,1027,55,1051,44,1053,49,1029,60,972,97,927,135"/>
+<area shape="rect" id="Node000007" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="1057,69,1227,109"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="978,131,1053,110,1055,115,979,136"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="1048,133,1236,173"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="981,151,1034,151,1034,156,981,156"/>
+<area shape="rect" id="Node000009" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="1028,198,1256,223"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="981,171,1029,183,1069,192,1068,197,1027,188,980,176"/>
+<area shape="rect" id="Node000010" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="1038,247,1246,273"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="931,171,975,203,1029,232,1054,241,1052,246,1027,237,972,207,928,176"/>
+<area shape="rect" id="Node000015" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="599,361,726,386"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="499,368,585,370,585,375,499,374"/>
+<area shape="rect" id="Node000018" href="$classLocalSolver_1_1TimoshenkoBeam.html#ad12bf734ced70e6b2fe7a7f23ee6842f" title=" " alt="" coords="551,413,774,453"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="474,475,562,454,564,459,475,480"/>
+<area shape="rect" id="Node000019" href="$classLocalSolver_1_1TimoshenkoBeam.html#afa838445cac6567ad09d5599176ada53" title=" " alt="" coords="547,477,779,517"/>
+<area shape="poly" id="edge18_Node000017_Node000019" title=" " alt="" coords="499,495,533,495,533,500,499,500"/>
+<area shape="rect" id="Node000020" href="$classLocalSolver_1_1TimoshenkoBeam.html#a225c64c95818e4abc31e042ccfb95fb5" title=" " alt="" coords="551,541,774,581"/>
+<area shape="poly" id="edge19_Node000017_Node000020" title=" " alt="" coords="475,515,564,536,562,541,474,520"/>
+</map>

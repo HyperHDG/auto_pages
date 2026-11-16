@@ -1,0 +1,9 @@
+<map id="SmallMat::operator()" name="SmallMat::operator()">
+<area shape="rect" id="Node000001" title="Return reference to single entry of a SmallMat." alt="" coords="5,42,163,67"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html#ae553cc539369dc08e36ff3797aaab911" title="Translate row and column indices to local index of entry in matrix&#39; array entries_." alt="" coords="211,5,372,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,41,197,36,197,41,163,46"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html#a82bea3f43ee90c949839aa97317164d7" title="Return single entry of a constant SmallMat." alt="" coords="213,70,370,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,63,199,68,199,73,162,68"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#ad1cdb32c14fc82dfc9a81627e5d64b8a" title="Return size a SmallMat." alt="" coords="420,70,539,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="370,80,406,80,406,85,370,85"/>
+</map>

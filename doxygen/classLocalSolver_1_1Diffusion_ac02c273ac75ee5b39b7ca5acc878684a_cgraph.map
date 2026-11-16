@@ -1,0 +1,5 @@
+<map id="LocalSolver::Diffusion::local_operator" name="LocalSolver::Diffusion::local_operator">
+<area shape="rect" id="Node000001" title="The operator the loop stores for one hyperedge, as the layout makes it of the blocks." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#a49bbc097e58ea1bf6b1b2ce60aeb27cc" title="Build an operator; a failed factorization reports as in the methods above." alt="" coords="216,5,379,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,202,23,202,28,168,28"/>
+</map>

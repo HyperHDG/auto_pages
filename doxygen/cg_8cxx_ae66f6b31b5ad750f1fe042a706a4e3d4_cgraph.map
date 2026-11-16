@@ -1,0 +1,15 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,91,60,117"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="311,38,417,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="39,89,65,52,84,33,107,19,134,9,163,5,221,6,276,16,321,30,320,35,274,21,221,11,163,10,136,15,109,24,87,37,69,56,43,92"/>
+<area shape="rect" id="Node000003" href="$cg_8cxx.html#a6b4344586d4066e5e1f82f4985038e3d" title=" " alt="" coords="155,34,215,59"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="59,89,107,69,142,57,143,62,109,74,61,94"/>
+<area shape="rect" id="Node000004" href="$namespaceSparseLA.html#a26d566fc52e9d2b724dae03bf7c3f971" title="Execute conjugate gradient algorithm to find solution to system of equations (legacy)." alt="" coords="108,84,263,124"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,101,94,101,94,107,60,107"/>
+<area shape="rect" id="Node000005" href="$cg_8cxx.html#a07284abbdcf1d269f25b3486c225e7b7" title=" " alt="" coords="323,174,405,199"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="61,114,109,133,216,160,310,177,310,182,215,165,107,138,59,119"/>
+<area shape="rect" id="Node000006" href="$cg_8cxx.html#a2edd4b954684f817c2466af6b0bdfa80" title=" " alt="" coords="128,199,243,225"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="46,115,73,146,110,178,134,191,132,196,106,182,69,150,42,118"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="252,81,307,65,309,70,253,86"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="242,201,309,191,310,197,243,206"/>
+</map>

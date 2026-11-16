@@ -1,0 +1,80 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,747,60,773"/>
+<area shape="rect" id="Node000002" href="$namespacetests.html#af0059d16f1d6a6d2511cb4126ab9022f" title="Check the kept records against RECORDS_FILE, or write it with HYPERHDG_RECORD=1; returns failures plu..." alt="" coords="145,171,245,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="34,747,61,622,105,442,146,310,181,209,186,211,151,312,111,443,66,623,39,748"/>
+<area shape="rect" id="Node000006" href="$namespacetests.html#aebbc27d80dd4951a7923eb3b19fe0a86" title="Print a record line (printf format) and keep it for check." alt="" coords="1092,145,1195,170"/>
+<area shape="poly" id="edge39_Node000001_Node000006" title=" " alt="" coords="31,747,33,636,42,461,51,368,64,281,82,208,93,180,106,157,139,114,172,79,206,52,241,32,280,18,323,9,426,3,664,3,769,4,852,11,931,31,1029,70,1080,100,1121,133,1117,137,1077,104,1027,74,930,36,851,17,769,9,664,8,426,8,323,14,281,23,244,37,209,56,176,83,144,117,110,160,98,182,87,210,69,282,56,368,47,461,38,636,37,747"/>
+<area shape="rect" id="Node000013" href="$quad_8cxx.html#a79347c416cf2107d9485705f74434a94" title=" " alt="" coords="168,653,221,678"/>
+<area shape="poly" id="edge22_Node000001_Node000013" title=" " alt="" coords="54,745,159,683,161,687,57,750"/>
+<area shape="rect" id="Node000025" href="$classGlobalLoop_1_1Hyperbolic.html#a3386812ca21d7bc36f295f11eb94dbe3" title="Calculate L2 error." alt="" coords="108,804,281,844"/>
+<area shape="poly" id="edge34_Node000001_Node000025" title=" " alt="" coords="61,769,109,790,127,797,125,802,107,794,59,774"/>
+<area shape="rect" id="Node000026" href="$timowave_8cxx.html#a602c8998d32eb5395d57f5acf3bd1f2b" title=" " alt="" coords="155,869,234,894"/>
+<area shape="poly" id="edge35_Node000001_Node000026" title=" " alt="" coords="43,772,69,813,87,835,109,854,143,869,141,874,107,858,84,839,64,816,38,775"/>
+<area shape="rect" id="Node000028" href="$namespaceWrapper.html#a820e16abba806e7903ac5cf790754b1b" title="Solve using LU factors produced by lapack_factorize — DO NOT USE." alt="" coords="109,919,280,959"/>
+<area shape="poly" id="edge37_Node000001_Node000028" title=" " alt="" coords="40,772,62,835,82,872,110,905,115,909,112,913,106,909,78,875,57,837,35,774"/>
+<area shape="rect" id="Node000029" href="$classGlobalLoop_1_1Hyperbolic.html#a1000dda7a7b407ed8286c0a4af2150f1" title=" " alt="" coords="108,983,281,1023"/>
+<area shape="poly" id="edge38_Node000001_Node000029" title=" " alt="" coords="37,773,42,810,54,863,75,919,91,946,110,969,114,972,110,976,106,972,87,949,71,922,49,864,37,811,32,773"/>
+<area shape="rect" id="Node000030" href="$classGlobalLoop_1_1Generic.html#ae7b8b114d828e1121ef297152e3ec4f3" title=" " alt="" coords="118,740,271,780"/>
+<area shape="poly" id="edge40_Node000001_Node000030" title=" " alt="" coords="60,757,104,757,104,763,60,763"/>
+<area shape="rect" id="Node000033" href="$classGlobalLoop_1_1Hyperbolic.html#a77f94ecdc5aa3a84f1ef5606f0aa6a1d" title="Returns vector of appropriate size for the predefined problem." alt="" coords="576,623,749,663"/>
+<area shape="poly" id="edge44_Node000001_Node000033" title=" " alt="" coords="37,746,64,696,83,666,106,638,159,583,205,542,257,511,328,484,384,467,430,457,453,457,476,461,500,470,527,484,540,495,548,506,555,530,561,555,575,581,613,613,610,617,571,584,556,557,550,531,543,508,536,498,524,489,498,475,474,466,452,462,431,462,385,472,330,489,259,516,208,546,163,586,110,642,87,669,68,699,42,749"/>
+<area shape="rect" id="Node000003" href="$namespacetests.html#a446ff647c5ced5e41491101f24b72854" title="Compare printed record lines with the text of an expected file (rules: see the top)." alt="" coords="368,197,487,222"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,187,355,199,354,204,244,192"/>
+<area shape="poly" id="edge20_Node000002_Node000006" title=" " alt="" coords="216,169,266,143,328,117,396,99,449,90,573,80,702,71,803,69,903,79,1029,107,1070,120,1107,136,1105,141,1068,125,1027,112,902,85,803,74,702,76,574,85,450,95,397,104,330,123,269,147,219,174"/>
+<area shape="rect" id="Node000007" href="$namespacetests_1_1detail.html#a6fd34848ac3eff4b2f43fb7036da25c8" title=" " alt="" coords="1259,264,1412,304"/>
+<area shape="poly" id="edge19_Node000002_Node000007" title=" " alt="" coords="212,195,277,248,326,283,383,319,447,353,516,381,588,401,661,408,915,408,1000,406,1066,400,1130,384,1210,356,1254,335,1294,310,1297,315,1257,340,1212,361,1131,389,1067,405,1000,412,915,413,661,413,587,406,515,387,445,358,381,324,323,288,274,253,208,199"/>
+<area shape="rect" id="Node000011" href="$namespacetests.html#a9ef9b557841a5cccb24ee0252e472db9" title="The record of a line &#45; {key: value, ...}, or false if the line is none." alt="" coords="589,145,736,170"/>
+<area shape="poly" id="edge18_Node000002_Node000011" title=" " alt="" coords="245,179,575,160,575,165,245,184"/>
+<area shape="rect" id="Node000012" href="$namespacetests.html#a6b57b1eaf5247c29f973b4e027cb5488" title="The line of a record, as the test printed it (for messages and the expected file)." alt="" coords="603,95,722,121"/>
+<area shape="poly" id="edge21_Node000002_Node000012" title=" " alt="" coords="243,169,329,149,467,128,589,113,590,118,468,133,330,155,244,174"/>
+<area shape="rect" id="Node000004" href="$namespacetests_1_1detail.html#aeb4bf9b4a3196d8544fff2e61b7a1f5d" title=" " alt="" coords="573,297,752,322"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="455,220,574,275,612,290,610,294,572,280,453,224"/>
+<area shape="rect" id="Node000005" href="$namespacetests_1_1detail.html#ab0532c5a94dbbff23dab4bc8a9fc7442" title=" " alt="" coords="849,246,979,271"/>
+<area shape="poly" id="edge11_Node000003_Node000005" title=" " alt="" coords="487,214,574,224,835,249,835,255,573,229,486,219"/>
+<area shape="poly" id="edge15_Node000003_Node000006" title=" " alt="" coords="487,202,1078,159,1078,165,487,208"/>
+<area shape="rect" id="Node000008" href="$namespacetests_1_1detail.html#a561cc2d14c75914e027c01fedb3afc42" title=" " alt="" coords="831,346,997,371"/>
+<area shape="poly" id="edge12_Node000003_Node000008" title=" " alt="" coords="441,220,493,276,531,307,574,331,635,350,698,361,760,365,817,364,817,370,760,370,698,366,634,355,572,336,528,311,490,280,437,224"/>
+<area shape="poly" id="edge13_Node000003_Node000011" title=" " alt="" coords="485,194,591,170,592,176,486,199"/>
+<area shape="poly" id="edge16_Node000003_Node000012" title=" " alt="" coords="448,194,503,163,572,130,593,122,595,127,574,134,505,167,450,199"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="726,294,837,271,838,277,727,299"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="729,319,836,341,835,346,728,325"/>
+<area shape="rect" id="Node000010" href="$namespacetests_1_1detail.html#aca8da22bdb277b0974fb36e4eb25dcd4" title=" " alt="" coords="843,297,985,322"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="752,307,829,307,829,312,752,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="971,243,1027,224,1072,201,1111,176,1114,180,1075,205,1029,229,972,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1165,168,1294,254,1291,259,1162,172"/>
+<area shape="rect" id="Node000009" href="$namespacetests_1_1detail.html#a781c6898bbf892243780f621e8b2c7e0" title=" " alt="" coords="1076,322,1211,347"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="998,347,1062,340,1063,346,998,353"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="986,315,1063,323,1062,328,986,320"/>
+<area shape="poly" id="edge14_Node000011_Node000006" title=" " alt="" coords="736,155,1078,155,1078,160,736,160"/>
+<area shape="poly" id="edge17_Node000012_Node000006" title=" " alt="" coords="722,109,862,119,1028,136,1079,143,1078,149,1028,141,861,124,722,114"/>
+<area shape="rect" id="Node000014" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="374,677,481,702"/>
+<area shape="poly" id="edge23_Node000013_Node000014" title=" " alt="" coords="222,665,361,680,360,685,221,671"/>
+<area shape="rect" id="Node000015" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="329,499,525,539"/>
+<area shape="poly" id="edge24_Node000013_Node000015" title=" " alt="" coords="206,651,256,602,290,573,328,548,341,542,343,547,331,553,294,578,259,606,209,654"/>
+<area shape="rect" id="Node000022" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="341,563,514,603"/>
+<area shape="poly" id="edge31_Node000013_Node000022" title=" " alt="" coords="220,653,328,612,350,605,352,610,330,617,222,658"/>
+<area shape="rect" id="Node000023" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="357,627,498,653"/>
+<area shape="poly" id="edge32_Node000013_Node000023" title=" " alt="" coords="221,660,342,647,343,652,222,665"/>
+<area shape="rect" id="Node000024" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="353,726,501,751"/>
+<area shape="poly" id="edge33_Node000013_Node000024" title=" " alt="" coords="223,673,330,711,362,720,360,725,329,716,221,678"/>
+<area shape="rect" id="Node000016" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="586,531,739,571"/>
+<area shape="poly" id="edge25_Node000015_Node000016" title=" " alt="" coords="526,529,573,536,572,541,525,535"/>
+<area shape="rect" id="Node000017" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="837,499,991,539"/>
+<area shape="poly" id="edge26_Node000016_Node000017" title=" " alt="" coords="739,538,823,527,824,533,740,544"/>
+<area shape="rect" id="Node000018" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="829,563,999,603"/>
+<area shape="poly" id="edge27_Node000016_Node000018" title=" " alt="" coords="740,558,815,567,815,573,739,563"/>
+<area shape="rect" id="Node000019" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="820,627,1008,667"/>
+<area shape="poly" id="edge28_Node000016_Node000019" title=" " alt="" coords="704,568,801,612,824,620,822,625,799,617,701,573"/>
+<area shape="rect" id="Node000020" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="800,691,1028,717"/>
+<area shape="poly" id="edge29_Node000016_Node000020" title=" " alt="" coords="701,569,728,587,754,609,769,628,777,645,785,661,802,677,814,683,811,688,798,681,781,665,772,648,764,631,750,613,725,591,698,573"/>
+<area shape="rect" id="Node000021" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="810,449,1018,474"/>
+<area shape="poly" id="edge30_Node000016_Node000021" title=" " alt="" coords="700,528,747,505,799,484,831,475,832,480,801,489,749,510,702,533"/>
+<area shape="rect" id="Node000027" href="$namespaceWrapper.html#a0c482c741d6aa77caaffb42b87b517fd" title="LU factorization of dense square matrix — DO NOT USE." alt="" coords="331,955,523,981"/>
+<area shape="poly" id="edge36_Node000026_Node000027" title=" " alt="" coords="235,888,282,904,307,919,331,934,368,949,366,953,328,938,304,923,280,909,233,893"/>
+<area shape="poly" id="edge41_Node000030_Node000020" title=" " alt="" coords="266,778,283,790,294,803,301,817,306,844,312,869,319,880,331,890,357,904,380,912,402,915,423,914,469,904,525,889,578,875,632,855,733,809,819,761,881,722,884,727,822,766,735,814,634,860,580,880,526,895,470,909,423,919,401,920,378,917,354,909,328,894,315,883,307,871,301,845,296,819,290,806,280,794,263,782"/>
+<area shape="rect" id="Node000031" href="$classGlobalLoop_1_1Generic.html#abdbc6f146a79312a83e9776792095313" title="Drop the stored operators of a kind, or of all kinds." alt="" coords="351,776,504,816"/>
+<area shape="poly" id="edge42_Node000030_Node000031" title=" " alt="" coords="272,769,338,779,337,785,272,775"/>
+<area shape="rect" id="Node000032" href="$classHDGHyperGraph.html#af261857624880d358fac6b954beb622c" title="Set the refinement level of the hypergraph." alt="" coords="348,840,507,880"/>
+<area shape="poly" id="edge43_Node000030_Node000032" title=" " alt="" coords="257,778,283,790,307,808,331,826,345,832,343,837,328,830,304,812,280,794,255,783"/>
+<area shape="poly" id="edge45_Node000033_Node000020" title=" " alt="" coords="738,660,801,676,841,686,840,691,799,681,737,665"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="LocalSolver::DiffusionTensor::local_operator" name="LocalSolver::DiffusionTensor::local_operator">
+<area shape="rect" id="Node000001" title="Set up the one&#45;dimensional matrices and the eigendecompositions of one hyperedge." alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#ae3242ed32b76cb1d3eb0ea6bb44d038a" title=" " alt="" coords="259,5,452,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+</map>

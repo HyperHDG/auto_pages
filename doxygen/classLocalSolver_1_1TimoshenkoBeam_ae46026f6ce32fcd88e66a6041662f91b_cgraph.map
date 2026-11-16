@@ -1,0 +1,6 @@
+<map id="LocalSolver::TimoshenkoBeam::beam_coefficients" name="LocalSolver::TimoshenkoBeam::beam_coefficients">
+<area shape="rect" id="Node000001" title="The six stiffness coefficients of a beam in its frame (EA, the two shear stiffnesses,..." alt="" coords="5,22,228,62"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="276,29,393,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,39,262,39,262,45,228,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="299,31,292,21,296,11,310,5,335,3,365,6,377,15,373,20,363,11,335,8,312,10,299,15,297,20,303,28"/>
+</map>

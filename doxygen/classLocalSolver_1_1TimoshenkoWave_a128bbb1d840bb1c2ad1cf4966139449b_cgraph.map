@@ -1,0 +1,14 @@
+<map id="LocalSolver::TimoshenkoWave::recover_dual" name="LocalSolver::TimoshenkoWave::recover_dual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,225,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#aacec5956ac7e92d704522d8bd73db221" title="Recover the algebraic dual (n, m) from the stored (u, r) and static boundary data." alt="" coords="273,69,493,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,87,260,87,260,92,225,92"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1TimoshenkoWave.html#aa54a3d4d61046b151dfd86ca1c188038" title=" " alt="" coords="541,5,761,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,67,553,46,555,51,469,72"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="541,69,761,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="493,87,528,87,528,92,493,92"/>
+<area shape="rect" id="Node000006" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="555,133,748,173"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="469,107,555,128,553,133,467,112"/>
+<area shape="rect" id="Node000005" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="809,77,927,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="762,87,795,87,795,92,762,92"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="833,78,825,68,829,58,844,52,868,50,898,54,910,63,907,67,896,59,868,55,845,57,833,62,830,68,837,75"/>
+</map>

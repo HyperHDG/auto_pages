@@ -1,0 +1,9 @@
+<map id="test_qr_single_column" name="test_qr_single_column">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,173,56"/>
+<area shape="rect" id="Node000002" href="$parameters_8cxx.html#a985711452504a223cb794c943e624ee7" title=" " alt="" coords="227,5,310,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,29,214,23,214,28,174,34"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#af58fbbde4904a8235723b72b4d99ef36" title="Normalized QR decomposition." alt="" coords="221,55,316,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,52,208,57,207,62,173,57"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#acced4b1953b13be8f35d6423fec10b49" title="Return data array that allows to manipulate the SmallMat." alt="" coords="364,55,485,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,65,350,65,350,70,316,70"/>
+</map>

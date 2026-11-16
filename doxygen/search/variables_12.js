@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['r_0',['r',['../structResults.html#ae4c9a19dc490b87acb81a5f5475877e6',1,'Results::r'],['../classplates_1_1PlateEvaluation.html#ab83fca36007688c14cd5b883230647f4',1,'plates.PlateEvaluation.r'],['../namespacebindings.html#a29c48d6154c186a1ee5b7dd1979026ab',1,'bindings.r']]],
+  ['rate_1',['rate',['../namespacegeneralized__eigenvalue.html#a14b7f82ff689f2245222c6d9d5f92441',1,'generalized_eigenvalue']]],
+  ['reader_2',['reader',['../namespacecheck__plots.html#ad74a4704c87573f60e5644fbbe5d4485',1,'check_plots']]],
+  ['reason_3',['reason',['../structSparseLA_1_1SolverResult.html#ad135c82320760bb0118f734e333b7ace',1,'SparseLA::SolverResult']]],
+  ['reference_4',['reference',['../namespacegeneralized__eigenvalue.html#a8c8dcc5fd273e1b6e0c8e07d231efae4',1,'generalized_eigenvalue.reference'],['../namespacerun__experiments.html#a48a4564b5a642b4ac7cbd92b8d246805',1,'run_experiments.REFERENCE']]],
+  ['refinement_5',['refinement',['../performance_2timoshenko__layouts_8cxx.html#a50d4aef4205392f9201ab731e3b1eea7',1,'timoshenko_layouts.cxx']]],
+  ['reflect_6',['reflect',['../classthin_1_1ThinAveraging.html#a880eeb32a2b7a4102cda7c63122ee3ea',1,'thin::ThinAveraging']]],
+  ['region_7',['region',['../classthin_1_1ThinAveraging.html#a13509a96d72a438af878b9d0b395b22c',1,'thin::ThinAveraging']]],
+  ['repo_8',['REPO',['../namespacetimowave.html#a2ce446cf798640e7ee37cf017482188d',1,'timowave']]],
+  ['res_9',['res',['../namespaceplates.html#a4bc857fa664389ab7fc9e4c372caecbb',1,'plates.res'],['../namespacethin.html#a9b92f9e3f0349afb431d7f2d4669d337',1,'thin.res']]],
+  ['residual_5fnorm_10',['residual_norm',['../structSparseLA_1_1SolverResult.html#aa08af3183d0499edfd658535ee60268d',1,'SparseLA::SolverResult']]],
+  ['residuals_11',['residuals',['../classcommon_1_1Discretization.html#a6c26ad899ae6a5fa1ef66b37493fbf6e',1,'common::Discretization']]],
+  ['reverse_12',['reverse',['tpcc/classTPCC_1_1Slab.html#a41dd519a9fe97a665ff213065c65a926',1,'TPCC::Slab']]],
+  ['rhs_13',['rhs',['../namespacebeam__network__nb__jit.html#aed719f3a014439f375ec7986db300fdc',1,'beam_network_nb_jit.rhs'],['../namespacediffusion__elliptic__nb__jit.html#a6dfae475a83e6dfc021f3146758d058c',1,'diffusion_elliptic_nb_jit.rhs'],['../namespacediffusion__elliptic__nb__precompiled.html#a8a3917748cb794069be940d86089f275',1,'diffusion_elliptic_nb_precompiled.rhs']]],
+  ['rhs_5fnorm_14',['rhs_norm',['../structSparseLA_1_1SolverResult.html#a44b70a7c38fc1ad236bcf16d0750e480',1,'SparseLA::SolverResult']]],
+  ['right_15',['right',['../namespacegeneralized__eigenvalue.html#afd879e86188c5c1014ebb68d96ac20b4',1,'generalized_eigenvalue']]],
+  ['root_16',['ROOT',['../namespacecommon.html#ad2d58449df843d691ecd3139603946f3',1,'common']]],
+  ['row_5fvec_17',['row_vec',['../structsparse__mat.html#a8302acf3402f49a8de533a4db6a1025f',1,'sparse_mat']]],
+  ['rows_18',['rows',['../namespacebeam__network__nb__jit.html#a42658c37c7dfb22157c2c696ac8ff77a',1,'beam_network_nb_jit.rows'],['../namespacediffusion__elliptic__nb__jit.html#a283f5cc3a42a6fc623386f2ee3acbf92',1,'diffusion_elliptic_nb_jit.rows'],['../namespacediffusion__elliptic__nb__precompiled.html#a4c45e74fb097bf12f67e0a46b1f39ee1',1,'diffusion_elliptic_nb_precompiled.rows'],['../namespacebindings.html#a3b3edab070bea45aaaea2a4417d54c5a',1,'bindings.rows'],['../linear__solvers_8cxx.html#acd2e13f379e81882a23a56adb16473a6',1,'rows:&#160;linear_solvers.cxx'],['../namespacegeneralized__eigenvalue.html#a828ca9072bd33d5f252cd9abf33c47f2',1,'generalized_eigenvalue.rows']]],
+  ['rtol_19',['rtol',['../structSparseLA_1_1SolverOptions.html#aa2847a9c94523d9a80875097c731193a',1,'SparseLA::SolverOptions']]]
+];

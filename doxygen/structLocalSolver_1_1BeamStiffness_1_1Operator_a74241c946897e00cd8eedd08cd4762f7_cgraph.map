@@ -1,0 +1,13 @@
+<map id="LocalSolver::BeamStiffness::Operator::residual" name="LocalSolver::BeamStiffness::Operator::residual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,204,141"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1BeamStiffness_1_1Operator.html#a8753cd86d842eb4663b8232b2a531999" title=" " alt="" coords="252,5,451,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,99,251,55,272,47,274,52,253,60,150,104"/>
+<area shape="rect" id="Node000004" href="$structLocalSolver_1_1BeamStiffness_1_1Operator.html#a74275f09abde37ef08a75d4b639be796" title=" " alt="" coords="252,69,451,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="204,106,238,101,239,107,205,111"/>
+<area shape="rect" id="Node000005" href="$structLocalSolver_1_1BeamStiffness_1_1Operator.html#a9ec36dd31d7e1584b418d7b776ccd198" title=" " alt="" coords="252,133,451,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,132,239,136,238,141,204,137"/>
+<area shape="rect" id="Node000006" href="$structLocalSolver_1_1BeamStiffness_1_1Operator.html#a752729aaf643fef87df8dbf160e2a501" title=" " alt="" coords="252,197,451,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,139,253,183,274,190,272,195,251,188,148,144"/>
+<area shape="rect" id="Node000003" href="$structLocalSolver_1_1BeamStiffness_1_1Operator.html#adcfa163a14c31312a655335e6c52edbe" title=" " alt="" coords="499,5,697,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,23,485,23,485,28,451,28"/>
+</map>

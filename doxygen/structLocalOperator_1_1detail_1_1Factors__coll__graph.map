@@ -1,0 +1,11 @@
+<map id="LocalOperator::detail::Factors&lt; n, n_eliminate, T &gt;" name="LocalOperator::detail::Factors&lt; n, n_eliminate, T &gt;">
+<area shape="rect" id="Node000001" title="Factors of the local matrix A, with the diagonal block of the leading n_eliminate unknowns eliminated..." alt="" coords="275,73,489,113"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="19,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,32,251,55,306,70,305,75,250,61,159,37"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html" title=" " alt="" coords="5,55,187,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,74,274,80,274,86,200,79"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html" title=" " alt="" coords="5,104,187,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,112,250,109,274,106,275,112,251,114,201,117"/>
+<area shape="rect" id="Node000005" href="$classSmallMat.html" title=" " alt="" coords="21,153,171,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="178,148,250,131,321,110,323,115,251,137,180,153"/>
+</map>

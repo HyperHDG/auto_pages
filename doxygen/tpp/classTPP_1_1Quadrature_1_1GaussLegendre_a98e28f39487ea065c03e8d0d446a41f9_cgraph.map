@@ -1,0 +1,11 @@
+<map id="TPP::Quadrature::GaussLegendre::transform_points" name="TPP::Quadrature::GaussLegendre::transform_points">
+<area shape="rect" id="Node000001" title="Transform array of quadrature points in interval &#160;to ." alt="" coords="5,37,240,77"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#af94ca02db39f182a9dcfb5fca018caa8" title="Calculate the amount of quadrature points at compile time." alt="" coords="288,5,523,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,41,274,38,275,43,241,47"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#a2bac39f03f07aff61f6157e31da617d1" title="Gauss–Legendre quadrature points on one&#45;dimensional unit interval." alt="" coords="288,69,523,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,68,275,72,274,77,240,73"/>
+<area shape="rect" id="Node000004" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#ad6c3010eaa0bd5cebbaa42a81926f8a8" title="Cosine by its Taylor series, usable in constant expressions; only for the initial guesses of the poin..." alt="" coords="571,69,805,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,87,557,87,557,92,523,92"/>
+<area shape="rect" id="Node000005" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#a078cb74610ca42c68d6dbd7054f13dde" title="Absolute value, usable in constant expressions for any floating point type." alt="" coords="853,69,1088,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="806,87,839,87,839,92,806,92"/>
+</map>

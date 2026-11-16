@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,60,117"/>
+<area shape="rect" id="Node000002" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="141,5,248,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="45,90,72,65,107,41,127,32,129,37,109,46,75,69,48,94"/>
+<area shape="rect" id="Node000003" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="108,55,281,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="60,97,94,91,95,96,61,102"/>
+<area shape="rect" id="Node000004" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="124,120,265,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="61,107,111,115,110,121,60,112"/>
+<area shape="rect" id="Node000005" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="121,169,269,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="51,115,77,135,109,154,129,162,126,167,107,159,74,140,47,120"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="LocalSolver::TimoshenkoWave::energy" name="LocalSolver::TimoshenkoWave::energy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,225,141"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#aa54a3d4d61046b151dfd86ca1c188038" title=" " alt="" coords="273,5,493,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,99,272,55,296,47,297,52,274,60,163,104"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="273,69,493,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,106,259,101,260,107,226,111"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1TimoshenkoWave.html#ad6d36bab53f43b668447adf14866094b" title=" " alt="" coords="273,133,493,173"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="226,132,260,136,259,141,225,137"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoWave.html#a579060047d4c05055b78f7371898f0e5" title=" " alt="" coords="273,197,493,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="163,139,274,183,297,191,296,196,272,188,161,144"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="541,77,659,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="494,87,527,87,527,92,494,92"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="565,78,557,68,561,58,576,52,600,50,630,54,642,63,639,67,628,59,600,55,577,57,565,62,562,68,569,75"/>
+</map>

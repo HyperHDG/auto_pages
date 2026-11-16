@@ -1,0 +1,8 @@
+<map id="LocalOperator::Condensed::make" name="LocalOperator::Condensed::make">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,199,87"/>
+<area shape="rect" id="Node000002" href="$structLocalOperator_1_1detail_1_1Factors.html#ab302b3e3ee26d05320ec35930afed4f8" title=" " alt="" coords="247,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,46,232,40,233,45,200,51"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#a647ab0f880a48457539b4a39ecdf54c2" title="Transpose given matrix." alt="" coords="279,94,373,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,81,266,93,265,99,199,87"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="289,96,282,86,286,76,301,70,326,67,358,71,370,81,366,85,356,76,326,73,302,75,289,80,287,85,294,92"/>
+</map>

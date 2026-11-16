@@ -1,0 +1,15 @@
+<map id="GlobalLoop::Hyperbolic::trace_to_flux" name="GlobalLoop::Hyperbolic::trace_to_flux">
+<area shape="rect" id="Node000001" title="Evaluate condensed matrix&#45;vector product." alt="" coords="5,112,179,152"/>
+<area shape="rect" id="Node000002" href="$classHyperNodeFactory.html#a9e7dd233775f4b69a52c1a5aa95033bf" title="Add different values to values of degrees of freedom related to a hypernode." alt="" coords="234,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,110,171,82,226,55,243,48,245,53,228,60,174,87,127,114"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html#afc0f44c2bb15a922773fb021f8da1e49" title="Return iterator to first hyEdge of HDGHyperGraph." alt="" coords="233,70,408,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,111,247,96,248,101,179,116"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#af1253aff99d36ef0aae0f3a02e077c95" title="Return iterator to the end of hyEdge list." alt="" coords="239,119,402,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,129,226,129,226,135,179,135"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="227,169,415,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="173,149,228,163,227,169,172,155"/>
+<area shape="rect" id="Node000007" href="$compile__time__tricks_8hxx.html#aedcf921408eb7526f8d23ae728da9948" title="declval&#45;style helper: yields a prvalue copy of its argument (unevaluated contexts only)." alt="" coords="275,234,366,259"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="119,150,168,185,228,219,263,232,261,237,226,224,165,189,116,154"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="463,119,671,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="402,129,448,129,448,135,402,135"/>
+</map>

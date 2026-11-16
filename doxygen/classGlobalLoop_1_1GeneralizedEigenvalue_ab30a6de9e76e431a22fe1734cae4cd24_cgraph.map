@@ -1,0 +1,9 @@
+<map id="GlobalLoop::GeneralizedEigenvalue::face_points" name="GlobalLoop::GeneralizedEigenvalue::face_points">
+<area shape="rect" id="Node000001" title="Physical coordinates of the tensorial points used in face_values." alt="" coords="5,69,259,109"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#a8a565d013dbed10af88824b9e8a1af42" title="Reference point of a face&#39;s tensorial point." alt="" coords="307,5,560,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,67,325,46,326,51,228,72"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1GeneralizedEigenvalue.html#aebf224db170ee0cf139d12fbe3ac40f5" title="Integer power." alt="" coords="307,69,560,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,87,293,87,293,92,259,92"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="329,134,537,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,107,353,129,352,134,237,112"/>
+</map>

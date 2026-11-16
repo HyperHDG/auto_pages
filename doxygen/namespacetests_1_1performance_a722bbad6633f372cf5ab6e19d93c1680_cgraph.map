@@ -1,0 +1,7 @@
+<map id="tests::performance::save" name="tests::performance::save">
+<area shape="rect" id="Node000001" title="Write the results of a benchmark as JSON to output/performance/&lt;name&gt;.json." alt="" coords="5,37,151,77"/>
+<area shape="rect" id="Node000002" href="$namespaceankerl_1_1nanobench_1_1templates.html#a2a1d7bc4f6bcb1b398cbaabcd158b054" title="Template to generate JSON data." alt="" coords="199,5,348,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,43,185,37,185,42,152,48"/>
+<area shape="rect" id="Node000003" href="$namespaceankerl_1_1nanobench.html#a23321de52edde793127736a4bf9abe50" title="Renders output from a mustache&#45;like template and benchmark results." alt="" coords="199,69,348,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="152,67,185,72,185,78,151,72"/>
+</map>

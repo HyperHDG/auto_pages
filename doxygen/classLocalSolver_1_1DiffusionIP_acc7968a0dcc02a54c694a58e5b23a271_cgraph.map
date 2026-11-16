@@ -1,0 +1,9 @@
+<map id="LocalSolver::DiffusionIP::solve_local_problem" name="LocalSolver::DiffusionIP::solve_local_problem">
+<area shape="rect" id="Node000001" title="Solve local problem (with right&#45;hand side from skeletal)." alt="" coords="5,69,180,109"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionIP.html#a4a5ab58e79ba41f468ccfa01ee0720c4" title="Assemble local matrix for the local solver." alt="" coords="257,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,67,251,46,253,51,173,72"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionIP.html#a742efd77f4022205601a58f08b38609b" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="228,69,460,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,87,214,87,214,92,180,92"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionIP.html#ab330adb644f4743a68dbfbed92ba5815" title="Assemble local right&#45;hand for the local solver (from skeletal)." alt="" coords="237,133,451,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,107,253,127,251,133,171,112"/>
+</map>

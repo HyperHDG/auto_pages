@@ -1,0 +1,9 @@
+<map id="GlobalLoop::Generic::set_refinement" name="GlobalLoop::Generic::set_refinement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,159,95"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="207,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,53,206,41,247,31,248,36,207,46,160,58"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Generic.html#abdbc6f146a79312a83e9776792095313" title="Drop the stored operators of a kind, or of all kinds." alt="" coords="244,55,397,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,73,230,73,230,78,159,78"/>
+<area shape="rect" id="Node000004" href="$classHDGHyperGraph.html#af261857624880d358fac6b954beb622c" title="Set the refinement level of the hypergraph." alt="" coords="241,119,400,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,93,233,113,232,118,157,98"/>
+</map>

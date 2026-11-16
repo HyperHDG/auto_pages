@@ -1,0 +1,5 @@
+<map id="ankerl::nanobench::Bench" name="ankerl::nanobench::Bench">
+<area shape="rect" id="Node000001" title="Main entry point to nanobench&#39;s benchmarking facility." alt="" coords="5,108,155,148"/>
+<area shape="rect" id="Node000002" href="$structankerl_1_1nanobench_1_1Config.html" title=" " alt="" coords="5,5,155,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,59,83,108,77,108,77,59"/>
+</map>

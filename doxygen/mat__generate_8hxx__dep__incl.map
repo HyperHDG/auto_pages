@@ -1,0 +1,27 @@
+<map id="include/HyperHDG/global_loop/mat_generate.hxx" name="include/HyperHDG/global_loop/mat_generate.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="664,5,851,45"/>
+<area shape="rect" id="Node000002" href="$condensed__operator_8hxx.html" title=" " alt="" coords="647,93,867,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,59,760,93,755,93,755,59"/>
+<area shape="rect" id="Node000003" href="$elliptic_8hxx.html" title=" " alt="" coords="173,189,360,229"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="694,53,319,191,317,186,693,48"/>
+<area shape="rect" id="Node000009" href="$mass__approx__eigenvalue_8hxx.html" title=" " alt="" coords="385,189,639,229"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="706,54,636,96,577,145,531,190,528,187,573,141,633,91,703,49"/>
+<area shape="rect" id="Node000010" href="$parabolic_8hxx.html" title=" " alt="" coords="875,189,1061,229"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="815,49,848,68,880,91,926,141,959,187,954,190,922,144,877,95,845,73,812,54"/>
+<area shape="rect" id="Node000011" href="$shifted__inverse__eigenvalue_8hxx.html" title=" " alt="" coords="1085,181,1272,236"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="817,48,918,91,1121,179,1119,184,916,96,814,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="634,136,373,184,340,191,339,186,371,179,633,131"/>
+<area shape="rect" id="Node000007" href="$hyperbolic_8hxx.html" title=" " alt="" coords="664,189,851,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="760,147,760,189,755,189,755,147"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="696,141,563,191,561,186,694,136"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="814,136,927,186,924,191,811,141"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="864,133,1074,179,1086,181,1084,187,1073,184,863,139"/>
+<area shape="rect" id="Node000004" href="$diffusion__plotting_8cxx.html" title=" " alt="" coords="5,284,173,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="220,237,126,286,124,282,217,233"/>
+<area shape="rect" id="Node000005" href="$plot__exact_8cxx.html" title=" " alt="" coords="198,284,335,324"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="269,242,269,284,264,284,264,242"/>
+<area shape="rect" id="Node000006" href="$plot__vtkhdf_8cxx.html" title=" " alt="" coords="359,284,497,324"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="312,233,397,282,394,286,310,238"/>
+<area shape="rect" id="Node000008" href="$timowave_8cxx.html" title=" " alt="" coords="682,291,833,317"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="760,243,760,291,755,291,755,243"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="TPP::Quadrature::Tensorial::integrate_bdr_phiphiphi" name="TPP::Quadrature::Tensorial::integrate_bdr_phiphiphi">
+<area shape="rect" id="Node000001" title="Integrate triple product of shape functions over boundary face." alt="" coords="5,27,199,67"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="247,5,473,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,34,234,30,235,35,199,39"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1Tensorial.html#a22eefa7840ab19735a6adfb24090049c" title="Integrate triple product of one&#45;dimensional shape functions." alt="" coords="263,55,457,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,55,250,61,249,66,198,60"/>
+</map>

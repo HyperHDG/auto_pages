@@ -1,0 +1,11 @@
+<map id="GlobalLoop::Generic::assemble" name="GlobalLoop::Generic::assemble">
+<area shape="rect" id="Node000001" title="Triplets of J into caller&#45;provided arrays of size n_triplets(identity_rows)." alt="" coords="5,23,159,63"/>
+<area shape="rect" id="Node000002" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="408,31,616,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,21,206,9,283,3,360,9,450,25,449,30,360,14,283,8,207,14,149,26"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Generic.html#a36510fd2f746a1243fd6833970f7ed23" title="Number of triplets assemble() writes: one block per hyperedge plus the identity rows." alt="" coords="207,23,360,63"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,41,193,41,193,46,159,46"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Generic.html#a376f1a61af3e8e4da04b4ab1ceda61ed" title="Run body(e, edge, operator, dofs) over all hyperedges; the operator comes from the store or is built ..." alt="" coords="207,87,360,127"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="146,61,208,81,206,86,145,66"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="361,41,394,41,394,46,361,46"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="355,85,452,57,453,62,356,90"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="LocalSolver::TimoshenkoBeam::beam_problem" name="LocalSolver::TimoshenkoBeam::beam_problem">
+<area shape="rect" id="Node000001" title="Set up and factorize the four parts of the local problem of a beam (the entries are those of assemble..." alt="" coords="5,54,228,94"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoBeam.html#ae46026f6ce32fcd88e66a6041662f91b" title="The six stiffness coefficients of a beam in its frame (EA, the two shear stiffnesses,..." alt="" coords="276,22,499,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,58,262,54,263,59,228,63"/>
+<area shape="rect" id="Node000004" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="291,86,484,126"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="228,85,277,90,277,96,228,90"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="547,29,664,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,39,533,39,533,45,499,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="570,31,562,21,566,11,581,5,605,3,635,6,647,15,644,20,633,11,605,8,582,10,570,15,568,20,574,28"/>
+</map>

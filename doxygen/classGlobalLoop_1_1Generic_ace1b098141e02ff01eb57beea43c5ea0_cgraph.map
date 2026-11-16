@@ -1,0 +1,5 @@
+<map id="GlobalLoop::Generic::dispatch" name="GlobalLoop::Generic::dispatch">
+<area shape="rect" id="Node000001" title="Call f with std::true_type / std::false_type telling whether the store is used. The runtime decision ..." alt="" coords="5,5,159,45"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1Generic.html#ae51e077ce0f2fb759647fcd71de408a0" title=" " alt="" coords="207,5,360,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,23,193,23,193,28,159,28"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="include/HyperHDG/global_loop/generic.hxx" name="include/HyperHDG/global_loop/generic.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1215,5,1401,45"/>
+<area shape="rect" id="Node000002" href="$examples_2diffusion__elliptic_8cxx.html" title=" " alt="" coords="5,93,152,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1201,30,1006,34,748,44,457,64,309,78,164,96,152,98,152,93,164,91,309,73,457,59,748,39,1006,29,1201,25"/>
+<area shape="rect" id="Node000003" href="$diffusion__elliptic__nb__module_8cxx.html" title=" " alt="" coords="176,93,355,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1201,33,831,53,600,71,367,96,355,98,354,92,366,91,599,66,831,47,1201,28"/>
+<area shape="rect" id="Node000004" href="$bindings__module_8cxx.html" title=" " alt="" coords="379,101,575,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1201,37,923,60,588,96,540,103,539,98,588,91,923,54,1201,31"/>
+<area shape="rect" id="Node000005" href="$tests_2diffusion__elliptic_8cxx.html" title=" " alt="" coords="600,101,792,126"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1201,42,804,96,760,103,759,98,804,91,1201,37"/>
+<area shape="rect" id="Node000006" href="$diffusion__embedded_8cxx.html" title=" " alt="" coords="817,101,1034,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1211,51,977,103,976,98,1210,46"/>
+<area shape="rect" id="Node000007" href="$generic_8cxx.html" title=" " alt="" coords="1059,101,1192,126"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1257,54,1151,103,1149,98,1254,49"/>
+<area shape="rect" id="Node000008" href="$linear__solvers_8cxx.html" title=" " alt="" coords="1217,93,1399,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1311,59,1311,93,1305,93,1305,59"/>
+<area shape="rect" id="Node000009" href="$local__operators_8cxx.html" title=" " alt="" coords="1424,93,1600,133"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1366,48,1468,91,1466,96,1364,53"/>
+<area shape="rect" id="Node000010" href="$parameters_8cxx.html" title=" " alt="" coords="1625,101,1871,126"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1416,45,1690,98,1689,103,1415,50"/>
+<area shape="rect" id="Node000011" href="$performance_2timoshenko__layouts_8cxx.html" title=" " alt="" coords="1896,93,2117,133"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1415,35,1884,91,1896,92,1895,98,1884,96,1414,41"/>
+<area shape="rect" id="Node000012" href="$quad_8cxx.html" title=" " alt="" coords="2141,101,2259,126"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1415,27,1558,33,1736,44,1933,63,2130,91,2162,98,2161,103,2129,96,1932,68,1736,50,1557,38,1415,32"/>
+<area shape="rect" id="Node000013" href="$timoshenko_8cxx.html" title=" " alt="" coords="2282,101,2443,126"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1415,27,1794,45,2032,64,2271,91,2313,98,2312,103,2270,96,2031,69,1794,51,1415,32"/>
+<area shape="rect" id="Node000014" href="$timoshenko__layouts_8cxx.html" title=" " alt="" coords="2468,101,2684,126"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1415,27,1869,46,2161,64,2456,91,2510,98,2510,103,2456,96,2161,70,1869,51,1415,32"/>
+</map>

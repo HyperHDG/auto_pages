@@ -1,0 +1,22 @@
+<map id="tests/performance/benchmark.hxx" name="tests/performance/benchmark.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="402,5,649,31"/>
+<area shape="rect" id="Node000002" href="$nanobench_8h.html" title=" " alt="" coords="285,79,390,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,33,382,76,380,71,494,28"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="511,152,569,177"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="523,32,512,64,510,84,512,103,527,139,522,141,507,105,505,84,507,63,517,30"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="521,79,612,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="534,30,555,65,551,68,530,32"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="637,79,710,104"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="550,28,638,70,636,75,548,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,72,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,107,86,154,85,149,287,101"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="96,152,163,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="305,107,177,150,175,145,303,101"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="187,152,251,177"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="320,106,251,147,249,142,317,102"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="371,102,498,146,497,151,369,107"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="275,152,399,177"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="340,104,340,138,335,138,335,104"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="423,152,486,177"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="358,102,425,142,422,147,355,106"/>
+</map>

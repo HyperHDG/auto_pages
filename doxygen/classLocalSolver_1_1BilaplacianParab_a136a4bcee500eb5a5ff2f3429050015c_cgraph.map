@@ -1,0 +1,7 @@
+<map id="LocalSolver::BilaplacianParab::flux_from_coeffs" name="LocalSolver::BilaplacianParab::flux_from_coeffs">
+<area shape="rect" id="Node000001" title="Evaluate trace_to_flux for given solution of the local problem." alt="" coords="5,37,183,77"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1BilaplacianParab.html#aed4f1401d8e8d3e51d45207107f8ca29" title="Evaluate dual variable at boundary." alt="" coords="237,5,420,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,43,223,37,224,42,183,48"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1BilaplacianParab.html#ab1e43735bf14be1e51e3457f65f0a258" title="Evaluate primal variable at boundary." alt="" coords="231,69,427,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,67,218,71,217,77,183,72"/>
+</map>

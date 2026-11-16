@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::Tensorial::integrate_vol_square_discana_func" name="TPP::Quadrature::Tensorial::integrate_vol_square_discana_func">
+<area shape="rect" id="Node000001" title="Squared integral of a discrete function times an analytical function." alt="" coords="5,5,264,45"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="312,13,539,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,23,298,23,298,28,264,28"/>
+</map>

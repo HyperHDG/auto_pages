@@ -1,0 +1,5 @@
+<map id="TPP::Quadrature::Tensorial::integrate_volUni_phivecfunc" name="TPP::Quadrature::Tensorial::integrate_volUni_phivecfunc">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,221,45"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1Tensorial.html#ae9dc3a39f8994a35581644bfa3fc112f" title="The dimension of the Lebesque measure with respect to which we integrate." alt="" coords="269,13,496,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,23,256,23,256,28,222,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="tests::to_string" name="tests::to_string">
+<area shape="rect" id="Node000001" title="The line of a record, as the test printed it (for messages and the expected file)." alt="" coords="5,13,124,38"/>
+<area shape="rect" id="Node000002" href="$namespacetests.html#aebbc27d80dd4951a7923eb3b19fe0a86" title="Print a record line (printf format) and keep it for check." alt="" coords="172,13,275,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,23,158,23,158,28,124,28"/>
+<area shape="rect" id="Node000003" href="$namespacetests_1_1detail.html#a6fd34848ac3eff4b2f43fb7036da25c8" title=" " alt="" coords="323,5,476,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="275,23,309,23,309,28,275,28"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="LeVeque::dirichlet_value" name="LeVeque::dirichlet_value">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,144,62"/>
+<area shape="rect" id="Node000002" href="$structLeVeque.html#a75d23e80432b8b72f18f28b5c5a30acf" title=" " alt="" coords="192,29,373,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,39,178,39,178,45,144,45"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#af5f1f5f464ae8788d6d70c8ed7b68242" title="Euclidean norm of a small/dense vector." alt="" coords="421,29,492,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,39,408,39,408,45,374,45"/>
+<area shape="rect" id="Node000004" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="540,29,657,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,39,526,39,526,45,492,45"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="575,30,570,21,572,11,582,5,599,3,618,6,627,15,623,18,616,11,599,8,584,10,577,15,575,20,579,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="LocalSolver::DiffusionTensor::local_load" name="LocalSolver::DiffusionTensor::local_load">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#ae21dff235582faa4c491cbc5e45dd24a" title="Local right&#45;hand side: volume source and Dirichlet data." alt="" coords="259,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1Diffusion.html#a46ca7df27ba215ab924e5a16bfffdf51" title="Assemble local right&#45;hand for the local solver (from global right&#45;hand side)." alt="" coords="469,5,701,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,23,456,23,456,28,421,28"/>
+</map>

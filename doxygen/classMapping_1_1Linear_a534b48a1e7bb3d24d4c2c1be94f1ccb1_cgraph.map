@@ -1,0 +1,9 @@
+<map id="Mapping::Linear::functional_determinant_hyNode" name="Mapping::Linear::functional_determinant_hyNode">
+<area shape="rect" id="Node000001" title="The functional determinant of the affine&#45;linear mapping of a hypernode." alt="" coords="5,47,204,87"/>
+<area shape="rect" id="Node000002" href="$dense__la_8hxx.html#a3837ed6c2c4059ebb640b063e5128269" title="Determinant of a rectangular system." alt="" coords="285,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,45,270,29,271,34,200,50"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html#a9ea962164a90abbad312baf5715fe08b" title="Return a column of a SmallMat." alt="" coords="252,55,420,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,65,238,65,238,70,204,70"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html#ac985edcfb357c0a4bc6424757fef34b5" title="Set column of a SmallMat." alt="" coords="253,104,419,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,85,263,98,262,104,198,90"/>
+</map>

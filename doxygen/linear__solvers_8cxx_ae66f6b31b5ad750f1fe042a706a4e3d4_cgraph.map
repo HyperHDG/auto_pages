@@ -1,0 +1,19 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,60,198"/>
+<area shape="rect" id="Node000002" href="$classankerl_1_1nanobench_1_1Bench.html#afb83c3694a8f494c19d3114162fc9ebb" title=" " alt="" coords="108,5,279,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="36,171,60,116,80,84,106,55,113,50,116,55,110,59,84,87,64,119,41,174"/>
+<area shape="rect" id="Node000003" href="$classankerl_1_1nanobench_1_1Bench.html#a5795648d6235b578ca71ce38b787ec81" title="Controls number of epochs, the number of measurements to perform." alt="" coords="119,69,268,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="44,171,71,145,107,119,118,113,121,117,109,124,75,149,48,174"/>
+<area shape="rect" id="Node000004" href="$namespacetests_1_1performance.html#a722bbad6633f372cf5ab6e19d93c1680" title="Write the results of a benchmark as JSON to output/performance/&lt;name&gt;.json." alt="" coords="121,133,266,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,177,107,168,108,173,61,183"/>
+<area shape="rect" id="Node000007" href="$classankerl_1_1nanobench_1_1Bench.html#afcfcd633d537e11bc1874f8f3c8b0fd3" title="Title of the benchmark, will be shown in the table header. Changing the title will start a new markdo..." alt="" coords="119,197,268,237"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="61,188,106,197,105,202,60,193"/>
+<area shape="rect" id="Node000008" href="$classankerl_1_1nanobench_1_1Bench.html#a7ac122273f2f626b8e95a9b8cb2544c6" title="Sets the operation unit." alt="" coords="119,261,268,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="48,196,75,222,109,247,121,253,118,258,107,252,71,226,44,200"/>
+<area shape="rect" id="Node000009" href="$classankerl_1_1nanobench_1_1Bench.html#a09d1947386503bddf1d34fe7d0338e98" title="Sets a number of iterations that are initially performed without any measurements." alt="" coords="119,325,268,365"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="41,197,64,252,84,284,110,311,116,316,113,320,106,315,80,287,60,254,36,199"/>
+<area shape="rect" id="Node000005" href="$namespaceankerl_1_1nanobench_1_1templates.html#a2a1d7bc4f6bcb1b398cbaabcd158b054" title="Template to generate JSON data." alt="" coords="327,101,476,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="266,140,313,132,313,138,267,145"/>
+<area shape="rect" id="Node000006" href="$namespaceankerl_1_1nanobench.html#a23321de52edde793127736a4bf9abe50" title="Renders output from a mustache&#45;like template and benchmark results." alt="" coords="327,165,476,205"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="267,162,313,169,313,174,266,167"/>
+</map>

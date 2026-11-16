@@ -1,0 +1,13 @@
+<map id="bilaplacian_hypergraph_convergence_eigenvalue_approx.main" name="bilaplacian_hypergraph_convergence_eigenvalue_approx.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,196,132"/>
+<area shape="rect" id="Node000002" href="$examples_2diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="244,92,299,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,102,231,102,231,107,196,107"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="380,5,487,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="283,90,310,65,345,41,366,32,368,37,348,46,314,69,287,94"/>
+<area shape="rect" id="Node000004" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="347,55,520,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="298,97,333,91,334,96,299,102"/>
+<area shape="rect" id="Node000005" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="363,120,504,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="299,107,350,115,349,121,299,112"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="359,169,507,195"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="289,115,316,135,348,154,367,162,365,167,345,159,313,140,286,120"/>
+</map>

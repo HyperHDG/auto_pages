@@ -1,0 +1,7 @@
+<map id="LocalSolver::DiffusionTensor::n_glob_dofs_per_node" name="LocalSolver::DiffusionTensor::n_glob_dofs_per_node">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,211,45"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html#ab24d039e0a028654bbe7a7af1caa3e20" title="Evaluate amount of global degrees of freedom per hypernode." alt="" coords="259,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+<area shape="rect" id="Node000003" href="$structHypercube.html#a48116719a56284dc6aa3da6e41503bbf" title="Return n to the power dim." alt="" coords="481,13,608,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="434,23,467,23,467,28,434,28"/>
+</map>

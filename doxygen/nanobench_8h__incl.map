@@ -1,0 +1,15 @@
+<map id="tests/performance/extern/nanobench.h" name="tests/performance/extern/nanobench.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="168,5,355,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,72,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,48,85,91,84,86,207,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,93,163,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,48,162,88,160,84,228,43"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="187,93,251,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,47,234,83,229,80,249,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="275,93,333,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,44,294,80,289,83,269,47"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="358,93,482,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="301,43,386,85,383,90,298,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="506,93,569,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="328,43,494,90,492,95,327,48"/>
+</map>

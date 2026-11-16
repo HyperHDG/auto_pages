@@ -1,0 +1,13 @@
+<map id="diffusion_convergence_eigenvalue_cross.main" name="diffusion_convergence_eigenvalue_cross.main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,184,125"/>
+<area shape="rect" id="Node000002" href="$examples_2diffusion__elliptic_8cxx.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="232,92,287,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,102,218,102,218,107,184,107"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="368,5,475,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,90,298,65,333,41,354,32,356,37,336,46,302,69,275,94"/>
+<area shape="rect" id="Node000004" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="335,55,508,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="286,97,321,91,322,96,287,102"/>
+<area shape="rect" id="Node000005" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="351,120,492,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="287,107,338,115,337,121,287,112"/>
+<area shape="rect" id="Node000006" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="347,169,495,195"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="277,115,304,135,336,154,355,162,353,167,333,159,301,140,274,120"/>
+</map>

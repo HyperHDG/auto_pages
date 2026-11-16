@@ -1,0 +1,42 @@
+<map id="LocalSolver::DiffusionTensor::Operator::apply" name="LocalSolver::DiffusionTensor::Operator::apply">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,211,109"/>
+<area shape="rect" id="Node000002" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#aa6b2e6e6f101fb8f9751255894dd9f99" title=" " alt="" coords="259,69,464,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,87,245,87,245,92,211,92"/>
+<area shape="rect" id="Node000003" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#abcba0d1b75496e0804e1684f4822def0" title=" " alt="" coords="512,69,717,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="464,87,498,87,498,92,464,92"/>
+<area shape="rect" id="Node000005" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a6aad54ab623b4c7e5189db964efa8eca" title=" " alt="" coords="512,5,717,45"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="441,67,521,46,522,51,442,72"/>
+<area shape="rect" id="Node000006" href="$diffusion__embedded_8cxx.html#a2d090729bcab342a01e0387f6c740cc8" title=" " alt="" coords="586,153,643,178"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="430,107,574,150,572,156,428,112"/>
+<area shape="rect" id="Node000004" href="$structLocalSolver_1_1DiffusionTensor_1_1Operator.html#a7b45c7ddfebd3a72f1e6d3a3c47c7b72" title=" " alt="" coords="765,5,971,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="694,67,774,46,776,51,695,72"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="718,23,751,23,751,28,718,28"/>
+<area shape="rect" id="Node000007" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="1063,278,1170,303"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="638,176,695,207,766,236,841,255,917,269,1050,284,1049,290,916,275,840,261,764,241,692,211,636,181"/>
+<area shape="rect" id="Node000008" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="1030,49,1203,89"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="643,155,765,124,896,99,1016,80,1017,86,897,105,766,129,644,160"/>
+<area shape="rect" id="Node000009" href="$quad_8cxx.html#a79347c416cf2107d9485705f74434a94" title=" " alt="" coords="841,171,895,197"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="644,165,828,178,827,184,644,170"/>
+<area shape="rect" id="Node000017" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="1046,114,1187,139"/>
+<area shape="poly" id="edge21_Node000006_Node000017" title=" " alt="" coords="643,161,1032,130,1033,136,644,166"/>
+<area shape="rect" id="Node000018" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="1043,229,1191,254"/>
+<area shape="poly" id="edge22_Node000006_Node000018" title=" " alt="" coords="644,173,700,190,766,207,904,226,1029,235,1029,241,904,231,765,212,699,196,643,178"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="890,194,947,229,1020,264,1051,274,1049,279,1018,269,944,233,887,199"/>
+<area shape="poly" id="edge18_Node000009_Node000008" title=" " alt="" coords="888,169,945,135,1018,99,1036,92,1038,97,1020,104,948,140,891,174"/>
+<area shape="rect" id="Node000010" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="1019,164,1215,204"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="895,181,1005,181,1005,187,895,187"/>
+<area shape="poly" id="edge19_Node000009_Node000017" title=" " alt="" coords="894,175,1047,140,1048,145,895,181"/>
+<area shape="poly" id="edge20_Node000009_Node000018" title=" " alt="" coords="895,187,1048,223,1047,228,894,193"/>
+<area shape="rect" id="Node000011" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="1263,164,1416,204"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1215,181,1249,181,1249,187,1215,187"/>
+<area shape="rect" id="Node000012" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="1501,36,1655,76"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="1359,162,1405,123,1463,86,1487,75,1489,80,1465,90,1408,128,1363,166"/>
+<area shape="rect" id="Node000013" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="1493,100,1663,140"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="1414,161,1489,141,1491,146,1415,166"/>
+<area shape="rect" id="Node000014" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="1484,164,1672,204"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="1417,181,1470,181,1470,187,1417,187"/>
+<area shape="rect" id="Node000015" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="1464,229,1692,254"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="1417,201,1465,213,1505,223,1504,228,1463,219,1416,207"/>
+<area shape="rect" id="Node000016" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="1474,278,1682,303"/>
+<area shape="poly" id="edge17_Node000011_Node000016" title=" " alt="" coords="1366,202,1411,234,1465,264,1486,272,1484,277,1463,269,1408,239,1363,206"/>
+</map>

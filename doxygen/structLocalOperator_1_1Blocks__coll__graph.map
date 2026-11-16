@@ -1,0 +1,11 @@
+<map id="LocalOperator::Blocks&lt; n_ldofsT, n_locT, T, n_eliminateT &gt;" name="LocalOperator::Blocks&lt; n_ldofsT, n_locT, T, n_eliminateT &gt;">
+<area shape="rect" id="Node000001" title="The blocks of a condensed local problem, A x = B lambda + l, flux = C x + D lambda." alt="" coords="245,80,409,135"/>
+<area shape="rect" id="Node000002" href="$classSmallMat.html" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,32,184,41,271,78,269,82,182,46,156,37"/>
+<area shape="rect" id="Node000003" href="$classSmallMat.html" title=" " alt="" coords="19,55,169,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,85,245,93,245,99,182,90"/>
+<area shape="rect" id="Node000004" href="$classSmallMat.html" title=" " alt="" coords="19,119,169,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,125,245,116,245,121,183,130"/>
+<area shape="rect" id="Node000005" href="$classSmallMat.html" title=" " alt="" coords="12,184,176,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,178,182,169,269,132,271,137,184,174,157,183"/>
+</map>

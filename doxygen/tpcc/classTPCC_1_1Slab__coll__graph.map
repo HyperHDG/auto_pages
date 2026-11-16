@@ -1,0 +1,7 @@
+<map id="TPCC::Slab&lt; n, k, Bint, Sint, Tint &gt;" name="TPCC::Slab&lt; n, k, Bint, Sint, Tint &gt;">
+<area shape="rect" id="Node000001" title="A slab of thickness one cell cut out of a tensor product chain complex." alt="" coords="85,137,254,177"/>
+<area shape="rect" id="Node000002" href="$classTPCC_1_1Lexicographic.html" title=" " alt="" coords="5,5,195,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,85,160,135,155,138,125,88"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="219,27,258,53"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,67,212,115,192,139,188,136,207,112,229,64"/>
+</map>

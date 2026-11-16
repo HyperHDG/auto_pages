@@ -1,0 +1,5 @@
+<map id="LocalSolver::DiffusionTensor&lt; hyEdge_dimT, poly_deg, quad_deg, parametersT, lSol_float_t &gt;" name="LocalSolver::DiffusionTensor&lt; hyEdge_dimT, poly_deg, quad_deg, parametersT, lSol_float_t &gt;">
+<area shape="rect" id="Node000001" title="LDG&#45;H diffusion with a sum&#45;factorized, matrix&#45;free local operator (fast diagonalization)." alt="" coords="292,5,504,75"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1Diffusion.html" title="Local solver diffusion equation on hypergraph." alt="" coords="5,5,201,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,37,292,37,292,43,215,43"/>
+</map>

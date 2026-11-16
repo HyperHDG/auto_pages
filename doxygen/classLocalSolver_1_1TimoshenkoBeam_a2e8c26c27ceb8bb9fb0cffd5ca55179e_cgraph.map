@@ -1,0 +1,29 @@
+<map id="LocalSolver::TimoshenkoBeam::error_sq" name="LocalSolver::TimoshenkoBeam::error_sq">
+<area shape="rect" id="Node000001" title="Squared L2 error of the displacement on one beam, as errors() computes it." alt="" coords="5,227,228,267"/>
+<area shape="rect" id="Node000002" href="$quad_8cxx.html#a79347c416cf2107d9485705f74434a94" title=" " alt="" coords="337,205,391,230"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,231,324,219,324,225,228,236"/>
+<area shape="rect" id="Node000014" href="$structLocalOperator_1_1Factored.html#a79376c3d6da244e4ece8ab9e37c5cd48" title=" " alt="" coords="276,255,452,295"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="228,257,263,261,262,266,228,262"/>
+<area shape="rect" id="Node000003" href="$namespaceSparseLA.html#a5eab112f166bd555ede77ea26bd2ed64" title="Conjugate gradients for A x = b with A symmetric and definite (either sign)." alt="" coords="545,83,651,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,202,429,162,463,139,499,119,530,107,532,112,501,124,466,143,432,166,381,207"/>
+<area shape="rect" id="Node000004" href="$classGlobalLoop_1_1Generic.html#a00a6fdc23989fd6d40c8d58cacdf137e" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="500,133,696,173"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="390,208,510,174,512,180,392,213"/>
+<area shape="rect" id="Node000011" href="$structSparseLA_1_1SolverResult.html#a14503b0cc3dd9e4431d401f35f446d89" title=" " alt="" coords="511,197,685,237"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="391,215,498,215,498,220,391,220"/>
+<area shape="rect" id="Node000012" href="$namespaceGlobalLoop.html#a6ec33e43f0f094a071e64f8511a43c73" title="Errors of a solution: the sum of the local solver&#39;s error_sq(edge, operator, lambda,..." alt="" coords="527,262,669,287"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="392,221,532,256,531,261,390,226"/>
+<area shape="rect" id="Node000013" href="$namespaceSparseLA.html#afcee26b4b7b4ee711b7bdacc8e2ffe4c" title="The name of a StopReason, e.g. for log output." alt="" coords="524,311,672,337"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="392,218,422,226,453,240,469,255,478,269,487,283,502,296,516,304,513,309,498,301,483,287,474,272,465,258,451,245,420,231,390,223"/>
+<area shape="rect" id="Node000005" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="744,133,897,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="696,151,730,151,730,156,696,156"/>
+<area shape="rect" id="Node000006" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="983,5,1136,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="841,131,886,93,944,55,968,44,970,49,947,60,889,97,844,135"/>
+<area shape="rect" id="Node000007" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="974,69,1145,109"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="895,131,970,110,972,115,897,136"/>
+<area shape="rect" id="Node000008" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="965,133,1153,173"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="898,151,952,151,952,156,898,156"/>
+<area shape="rect" id="Node000009" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="945,198,1173,223"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="898,171,946,183,987,192,985,197,945,188,897,176"/>
+<area shape="rect" id="Node000010" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="955,247,1163,273"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="848,171,892,203,946,232,971,241,969,246,944,237,890,207,845,176"/>
+</map>

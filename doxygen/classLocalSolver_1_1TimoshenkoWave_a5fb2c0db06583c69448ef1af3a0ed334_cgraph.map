@@ -1,0 +1,26 @@
+<map id="LocalSolver::TimoshenkoWave::norms" name="LocalSolver::TimoshenkoWave::norms">
+<area shape="rect" id="Node000001" title="Local squared contribution to the L2 norm of the analytic solution." alt="" coords="5,156,225,196"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#a2a5408e5f8b0610df9ad8834fdcf5785" title="Local squared L2 error of the dual pair (n, m), or the squared norm of its analytic solution (use_dis..." alt="" coords="273,156,493,196"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,173,260,173,260,179,225,179"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1TimoshenkoWave.html#a5039d918c8e5e1b70250c40966520158" title="Dirichlet boundary data of the static problem, added to a local right&#45;hand side." alt="" coords="541,5,761,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,154,463,105,500,78,540,55,556,48,558,53,543,60,503,83,466,109,407,158"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1TimoshenkoWave.html#ae0070e3d0f8ae4699e96c5660bc93016" title=" " alt="" coords="541,69,761,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="445,153,575,111,576,116,447,158"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoWave.html#aa54a3d4d61046b151dfd86ca1c188038" title=" " alt="" coords="837,95,1057,135"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="493,161,822,125,823,131,494,167"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoWave.html#aacec5956ac7e92d704522d8bd73db221" title="Recover the algebraic dual (n, m) from the stored (u, r) and static boundary data." alt="" coords="541,184,761,224"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="494,185,528,188,527,194,493,190"/>
+<area shape="rect" id="Node000009" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="1132,227,1249,253"/>
+<area shape="poly" id="edge13_Node000002_Node000009" title=" " alt="" coords="430,194,483,215,542,233,692,271,753,282,811,290,869,293,931,291,1083,272,1145,255,1147,260,1085,277,932,296,869,298,811,295,752,288,691,276,541,239,481,220,428,199"/>
+<area shape="rect" id="Node000011" href="$classLocalSolver_1_1TimoshenkoWave.html#a579060047d4c05055b78f7371898f0e5" title=" " alt="" coords="541,337,761,377"/>
+<area shape="poly" id="edge12_Node000002_Node000011" title=" " alt="" coords="404,194,462,254,501,287,543,316,569,330,567,334,540,321,497,291,458,258,400,198"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1TimoshenkoWave.html#a2a98847c678ce461eb758b0b623ef1e2" title=" " alt="" coords="809,5,1084,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="762,23,796,23,796,28,762,28"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="709,181,760,163,808,144,839,136,840,141,810,149,762,168,711,186"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="837,159,1057,199"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="761,192,822,187,823,192,762,197"/>
+<area shape="rect" id="Node000010" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="850,223,1043,263"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="762,216,837,226,836,231,761,221"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="1036,196,1085,208,1133,221,1131,226,1083,213,1035,201"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="1151,229,1143,219,1147,209,1164,203,1191,201,1225,205,1235,209,1238,215,1234,218,1231,213,1224,210,1191,206,1165,208,1151,213,1148,218,1155,225"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="GlobalLoop::Generic::constrain_dirichlet_nodes" name="GlobalLoop::Generic::constrain_dirichlet_nodes">
+<area shape="rect" id="Node000001" title="Constrain the Dirichlet nodes as the local solver&#39;s parameters define them." alt="" coords="5,133,201,173"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1Generic.html#af42739e8e45e79c3e52ea7265e248740" title="Constrain every dof of every hypernode whose node type satisfies pred." alt="" coords="249,133,403,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,151,236,151,236,156,202,156"/>
+<area shape="rect" id="Node000003" href="$classGlobalLoop_1_1Generic.html#a3f4917caadb152b57a408b12cd355329" title=" " alt="" coords="488,5,641,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,131,391,93,449,55,474,44,476,49,452,60,395,97,350,135"/>
+<area shape="rect" id="Node000004" href="$classHyperNodeFactory.html#a6c4e89249df35502187ffbef4351e922" title="Calculate global indices of degrees of freedom related to a hypernode." alt="" coords="479,69,650,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="401,131,476,110,477,115,402,136"/>
+<area shape="rect" id="Node000005" href="$classHDGHyperGraph.html#a488a60192fddfddf798b6aa97452acaf" title="Return const reference to HyperNodeFactory." alt="" coords="471,133,659,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="403,151,457,151,457,156,403,156"/>
+<area shape="rect" id="Node000006" href="$classHDGHyperGraph.html#acadcb8ec7985c662ce56165ee3b99ea0" title="Returns the total amount of degrees of freedom in the considered hypergraph." alt="" coords="451,198,679,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="404,171,451,183,492,192,491,197,450,188,402,176"/>
+<area shape="rect" id="Node000007" href="$classHDGHyperGraph.html#a86d3cd4640e9fd52c6512caa34e3e730" title="Return the number of hyperedges making up the hypergraph." alt="" coords="461,247,669,273"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="353,171,398,203,452,232,476,241,475,246,450,237,395,207,350,176"/>
+</map>

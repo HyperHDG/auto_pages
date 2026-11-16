@@ -1,0 +1,13 @@
+<map id="GlobalLoop::ShiftedInverseEigenvalue&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;" name="GlobalLoop::ShiftedInverseEigenvalue&lt; TopologyT, GeometryT, NodeDescriptorT, LocalSolverT, LargeVecT, dof_index_t &gt;">
+<area shape="rect" id="Node000001" title="Combine local solver and global information for eigenvalue problems with shifted inverse approach." alt="" coords="776,113,996,197"/>
+<area shape="rect" id="Node000002" href="$classGlobalLoop_1_1CondensedOperator.html" title="Assembly of the condensed matrix of a global loop." alt="" coords="403,5,635,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,83,777,121,775,126,647,88"/>
+<area shape="rect" id="Node000003" href="$classHDGHyperGraph.html" title=" " alt="" coords="409,113,629,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="643,153,776,153,776,158,643,158"/>
+<area shape="rect" id="Node000004" href="$classHyperNodeFactory.html" title=" " alt="" coords="5,103,240,143"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="255,131,409,144,408,149,254,137"/>
+<area shape="rect" id="Node000005" href="$classHyDataContainer.html" title=" " alt="" coords="15,167,230,207"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,175,408,162,409,167,244,180"/>
+<area shape="rect" id="Node000006" href="$structPlotOptions.html" title="A class storing options for plotting." alt="" coords="470,221,567,247"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="580,219,634,207,775,177,776,182,635,213,582,224"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="LocalSolver::DiffusionEigsWeighted::bulk_values" name="LocalSolver::DiffusionEigsWeighted::bulk_values">
+<area shape="rect" id="Node000001" title="Evaluate the local reconstruction of an eigenfunction at tensorial abscissas." alt="" coords="5,127,196,167"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a2aba73bf5f58110459ccbcf721d365d6" title="Evaluate a bulk function (given by its coefficients) at a reference point." alt="" coords="247,5,437,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,124,180,90,243,55,259,48,261,53,245,60,183,94,131,129"/>
+<area shape="rect" id="Node000003" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#aae78876867f3fbbf01975b48619d4455" title="Coefficients &#160;of a hyperedge, cf. class description." alt="" coords="495,127,685,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,144,481,144,481,149,196,149"/>
+<area shape="rect" id="Node000004" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#abac5cd5f92b90c03296f0105773a735c" title="Assemble the matrices that define the local flux reconstruction." alt="" coords="495,241,685,281"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,165,179,202,211,219,245,233,304,249,365,258,481,264,481,269,365,263,303,254,243,239,209,224,176,206,124,169"/>
+<area shape="rect" id="Node000005" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a2890532195808171ce9be34a4ee5bb70" title="Local matrix of the bilinear form &#160;(mass matrix)." alt="" coords="247,69,437,109"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,124,243,110,245,115,186,129"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1DiffusionEigsWeighted.html#a6904b4f06a090b482caf550bfff7acf1" title="Local matrix of the bilinear form &#160;(stiffness matrix)." alt="" coords="244,184,440,224"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="186,164,245,178,243,183,185,169"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="430,107,490,121,489,126,429,112"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="429,181,489,167,490,172,430,187"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="430,221,490,236,489,241,429,227"/>
+<area shape="rect" id="Node000007" href="$dense__la_8hxx.html#a6ba00db644b240460921f312acc856bb" title="Transpose first small/dense matrix and multiply it with second." alt="" coords="488,191,692,217"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="440,201,475,201,475,207,440,207"/>
+</map>

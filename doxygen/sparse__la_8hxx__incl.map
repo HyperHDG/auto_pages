@@ -1,0 +1,27 @@
+<map id="include/HyperHDG/sparse_la.hxx" name="include/HyperHDG/sparse_la.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="493,5,682,45"/>
+<area shape="rect" id="Node000002" href="$hy__assert_8hxx.html" title="This file provides the function hy_assert." alt="" coords="42,93,229,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,46,215,94,214,88,492,40"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="253,93,338,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="518,48,352,92,351,87,517,43"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="363,93,425,119"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="542,48,436,91,434,86,540,43"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="449,93,520,119"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="564,48,512,87,509,83,561,43"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="544,93,631,119"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="590,46,590,79,585,79,585,46"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="655,93,741,119"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="616,43,672,83,669,87,613,48"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="766,93,825,119"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="638,43,754,86,752,91,636,48"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="849,93,941,119"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="662,43,838,87,836,92,660,48"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="965,93,1028,119"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="683,39,807,61,952,90,951,96,806,66,682,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,167,71,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,121,67,160,64,156,118,117"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,167,175,192"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="138,119,138,153,133,153,133,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="199,167,274,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="153,116,210,156,207,161,150,121"/>
+</map>

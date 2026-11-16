@@ -1,0 +1,11 @@
+<map id="TPP::Quadrature::GaussLegendre::rule" name="TPP::Quadrature::GaussLegendre::rule">
+<area shape="rect" id="Node000001" title="Points (ascending, in [&#45;1,1]) and weights of the Gauss–Legendre rule, in return_t." alt="" coords="5,33,240,73"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="71,34,68,24,76,14,94,9,123,7,155,9,173,17,171,22,154,15,123,12,95,14,79,19,73,25,76,32"/>
+<area shape="rect" id="Node000002" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#a078cb74610ca42c68d6dbd7054f13dde" title="Absolute value, usable in constant expressions for any floating point type." alt="" coords="571,5,805,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,31,288,19,426,12,557,14,557,20,427,17,288,24,211,36"/>
+<area shape="rect" id="Node000003" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#ad6c3010eaa0bd5cebbaa42a81926f8a8" title="Cosine by its Taylor series, usable in constant expressions; only for the initial guesses of the poin..." alt="" coords="288,33,523,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="240,51,274,51,274,56,240,56"/>
+<area shape="rect" id="Node000004" href="$classTPP_1_1Quadrature_1_1GaussLegendre.html#af94ca02db39f182a9dcfb5fca018caa8" title="Calculate the amount of quadrature points at compile time." alt="" coords="288,97,523,137"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="212,71,304,92,303,97,211,76"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="523,39,556,36,557,41,523,44"/>
+</map>

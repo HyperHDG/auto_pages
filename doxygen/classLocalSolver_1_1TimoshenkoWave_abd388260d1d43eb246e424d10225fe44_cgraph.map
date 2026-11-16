@@ -1,0 +1,18 @@
+<map id="LocalSolver::TimoshenkoWave::assemble_schur" name="LocalSolver::TimoshenkoWave::assemble_schur">
+<area shape="rect" id="Node000001" title="Assemble and factorize the displacement Schur systems of the four components." alt="" coords="5,173,225,213"/>
+<area shape="rect" id="Node000002" href="$classLocalSolver_1_1TimoshenkoWave.html#a573219325b639413e9e498d26d9662f6" title=" " alt="" coords="273,22,493,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,171,195,121,232,95,272,72,288,64,290,69,275,76,235,99,198,126,139,175"/>
+<area shape="rect" id="Node000004" href="/home/runner/work/HyperHDG/HyperHDG/build/doxygen/tpp.tag$classTPP_1_1Quadrature_1_1Tensorial.html#adbc1c97bc065c15fcf9b874654642774" title=" " alt="" coords="287,86,480,126"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="171,170,273,135,298,128,299,133,274,141,173,175"/>
+<area shape="rect" id="Node000005" href="$namespaceWrapper.html#a0c482c741d6aa77caaffb42b87b517fd" title="LU factorization of dense square matrix — DO NOT USE." alt="" coords="287,151,479,176"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="225,178,273,173,274,178,226,183"/>
+<area shape="rect" id="Node000006" href="$classLocalSolver_1_1TimoshenkoWave.html#a4cac95279eb05b36e332f7b40c6e6a6a" title=" " alt="" coords="273,201,493,241"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="226,201,260,205,259,210,225,207"/>
+<area shape="rect" id="Node000007" href="$classLocalSolver_1_1TimoshenkoWave.html#ad7ec44b6eeecd2abebb58a7a43180c1e" title="Mass&#45;shift weight sigma_l = 1/(theta_l * Delta t) of the stage normalization." alt="" coords="273,265,493,305"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="167,210,274,250,299,258,297,263,272,255,165,215"/>
+<area shape="rect" id="Node000008" href="$classLocalSolver_1_1TimoshenkoWave.html#ae2c7032cd36d155051ccc6d6a7fe4022" title=" " alt="" coords="273,329,493,369"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="138,211,197,262,234,290,275,314,290,321,288,326,272,319,231,295,193,266,135,215"/>
+<area shape="rect" id="Node000003" href="$dense__la_8hxx.html#abee73d7b27f96bde5747e593ab5bbd44" title="Euclidean scalar product of two SmallVecs / Frobenius scalar product for two SmallMats." alt="" coords="541,29,659,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,39,527,39,527,45,494,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="565,31,557,21,561,11,576,5,600,3,630,6,642,15,639,20,628,11,600,8,577,10,565,15,562,20,569,28"/>
+</map>
